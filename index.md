@@ -4,4 +4,6 @@
 
 - [Adolfo Neto's page at UTFPR](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo)
 
+= [About](about.html)
+
 - [Research](research.html)
