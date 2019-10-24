@@ -6,4 +6,4 @@ relative_links:
 include:
   - research.md
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
