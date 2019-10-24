@@ -4,6 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - RESEARCH.md
+  - research.md
 
 theme: jekyll-theme-minimal
