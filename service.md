@@ -23,5 +23,5 @@ Tech Day [SBSI](http://www2.sbc.org.br/ce-si/sbsi.html) 2022 - Local Chair
 
 
 
-[Back]({{ site.url }}/)
+[Back to main page]({{ site.url }}/)
 
