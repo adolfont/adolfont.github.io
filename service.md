@@ -1,11 +1,7 @@
 # Service 
 
 
-## Research
 
-[TPC member of EduComp 2022 - Trilha 2 - Relatos de Experiencia](https://www.educompbrasil.org/simposio/2022/)
-
-Tech Day [SBSI](http://www2.sbc.org.br/ce-si/sbsi.html) 2022 - Local Chair
 
 
 ## BEAM (Erlang, Elixir) Community
@@ -19,3 +15,9 @@ I give talks on Elixir whenever asked (and it fits my schedule).
 I have a YouTube channel called [Elixir, Erlang and the BEAM with Adolfo Neto](https://www.youtube.com/c/ElixirErlangandtheBEAMwithAdolfoNeto).
 
 I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anchor.fm/elixiremfoco/) - in Portuguese.
+
+## Research-related
+
+[TPC member of EduComp 2022 - Trilha 2 - Relatos de Experiencia](https://www.educompbrasil.org/simposio/2022/)
+
+Tech Day [SBSI](http://www2.sbc.org.br/ce-si/sbsi.html) 2022 - Local Chair
