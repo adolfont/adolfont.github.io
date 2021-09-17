@@ -4,3 +4,6 @@
 - Agile Methods
 - Research Methods
 - Introduction to Functional Programming
+
+
+[Back to main page]({{ site.url }}/)
