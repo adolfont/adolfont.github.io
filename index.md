@@ -6,6 +6,8 @@ I am an Associate Professor at the [Federal University of Technology, Paraná](h
 
 - [Research](research.md)
 
+- [Teaching](teaching.md)
+
 - [Advising](advising.md)
 
 - [Podcasts](podcasts.md)
