@@ -4,6 +4,7 @@
 ## Research
 
 - [TPC member of EduComp 2022 - Trilha 2 - Relatos de Experiencia](https://www.educompbrasil.org/simposio/2022/)
+- Tech Day SBSI 2022 - Local Chair
 
 
 ## BEAM (Erlang, Elixir) Community
