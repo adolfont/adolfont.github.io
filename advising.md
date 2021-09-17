@@ -5,6 +5,15 @@
 
 ### Masters
 
+#### Main advisor
+
+- Gustavo
+- Marlon
+
+#### Co-advisor
+
+- Doglas
+
 ### Undergraduate Dissertation
 
 ### Internship
