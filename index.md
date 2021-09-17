@@ -9,3 +9,5 @@
 - [Research](research.html)
 
 - [Advising](advising.md)
+
+- [Podcasts](podcasts.md)
