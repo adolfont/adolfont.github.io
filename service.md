@@ -11,3 +11,5 @@
 I am a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
 
 I have created the [Elixir World](http://t.ne/elixir_world) group on Telegram.
+
+I give talks on Elixir whenever asked (and it fits my schedule).
