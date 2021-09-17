@@ -2,9 +2,9 @@ I am an Associate Professor at the [Federal University of Technology, Paraná](h
 
 - [Adolfo Neto's page at UTFPR](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo)
 
-- [About](about.html)
+- [About](about.md)
 
-- [Research](research.html)
+- [Research](research.md)
 
 - [Advising](advising.md)
 
