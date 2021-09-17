@@ -1,6 +1,7 @@
 # Adolfo Neto
 
-- Associate Professor at the Federal University of Technology, Paraná
+
+I am an Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english) since 2008.
 
 - [Adolfo Neto's page at UTFPR](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo)
 
