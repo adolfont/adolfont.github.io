@@ -7,3 +7,5 @@
 - [About](about.html)
 
 - [Research](research.html)
+
+- [Advising](advising.md)
