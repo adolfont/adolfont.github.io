@@ -11,3 +11,7 @@ He received a D.Sc. degree in Computer Science from University of São Paulo, Br
 He has served as a member of technical committee and reviewer for some conferences and journals. 
 
 His research interests include knowlegde sharing in software engineering, agile software development and logic for computer science.
+
+
+[Back to main page]({{ site.url }}/)
+
