@@ -8,4 +8,4 @@ relative_links:
 include:
   - research.md
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-dinky
