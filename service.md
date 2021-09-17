@@ -1,3 +1,13 @@
 # Service 
 
+
+## Research
+
 - [TPC member of EduComp 2022 - Trilha 2 - Relatos de Experiencia](https://www.educompbrasil.org/simposio/2022/)
+
+
+## BEAM (Erlang, Elixir) Community
+
+I am a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
+
+I have created the [Elixir World](http://t.ne/elixir_world) group on Telegram.
