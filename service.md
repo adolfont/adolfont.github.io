@@ -14,3 +14,5 @@ I am a member of the [Education, Training, & Adoption Working Group](https://erl
 I have created the [Elixir World](http://t.ne/elixir_world) group on Telegram.
 
 I give talks on Elixir whenever asked (and it fits my schedule).
+
+I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anchor.fm/elixiremfoco/) - in Portuguese.
