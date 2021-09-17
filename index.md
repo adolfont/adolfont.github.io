@@ -1,5 +1,5 @@
 
-![Picture of Adolfo Neto](/AdolfoNeto.jpg =600x "Adolfo Neto" )
+![Picture of Adolfo Neto](/AdolfoNeto.jpg =600x)
 
 ### I am an Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english) since 2008.
 
