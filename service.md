@@ -20,3 +20,8 @@ I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anc
 [TPC member of EduComp 2022 - Trilha 2 - Relatos de Experiencia](https://www.educompbrasil.org/simposio/2022/)
 
 Tech Day [SBSI](http://www2.sbc.org.br/ce-si/sbsi.html) 2022 - Local Chair
+
+
+
+[Back]({{ site.url }}/)
+
