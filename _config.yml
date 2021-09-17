@@ -1,5 +1,7 @@
 title: Adolfo Neto
 description: Elixir and Erlang enthusiast. Associate Professor at UTFPR
+avatar: "/AdolfoNeto.jpg"
+
 plugins:
   - jekyll-relative-links
 relative_links:
