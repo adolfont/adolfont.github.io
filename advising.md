@@ -7,12 +7,16 @@
 
 #### Main advisor
 
-- Gustavo
-- Marlon
+- Gustavo Cunha Teles	- since 12/02/2019
+- Marlon Jhonathan Pinheiro	- since  15/02/2019
+- Emileide De Lima	- since 10/02/2020
+- Michel Peter Silvano Jorge - since 05/02/2021
 
 #### Co-advisor
 
-- Doglas
+- Doglas Andre Finco - since 13/02/2019
+- Desiree Fernanda Hoppe	- since 13/02/2019
+
 
 ### Undergraduate Dissertation
 
