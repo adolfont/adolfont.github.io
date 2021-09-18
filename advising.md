@@ -20,11 +20,15 @@
 
 ### Undergraduate Dissertation
 
+- Gabriely Simette - Information Systems
+- Thyago Stall de Araujo - Information Systems
+- Lucas Campos Tavano - Computer Engineering 
+
 ### Internship
 
 #### Optional
 
-- Camila Miranda Marani - BSI - Start: 09/09/2021 - SEI process 039545/2021-08 - **Next report: 09/03/2022**
+- Camila Miranda Marani - Information Systems - Start: 09/09/2021 - SEI process 039545/2021-08 - **Next report: 09/03/2022**
 
 
 [Back to main page]({{ site.url }}/)
