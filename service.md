@@ -15,6 +15,15 @@ I have a YouTube channel called [Elixir, Erlang and the BEAM with Adolfo Neto](h
 
 I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anchor.fm/elixiremfoco/) - in Portuguese.
 
+
+🔊 In 2019, I was a guest of the Elixir Mix podcast: [EMx 057: The Elixir Community with Adolfo Neto](https://dev.to/elixirmix/emx-057-the-elixir-community-with-adolfo-neto).
+
+🔊 In 2020, I was again a guest of the Elixir Mix podcast: [EMx 106: Elixir Education with Adolfo Neto](https://devchat.tv/uncategorized/emx-106-elixir-education-with-adolfo-neto/).
+
+🔊 If you can understand Portuguese, I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto
+](https://www.rubensalomao.me/2020/07/rs-entrevista-professor-adolfo-neto.html).
+ 
+
 ## Research-related
 
 [TPC member of EduComp 2022 - Trilha 2 - Relatos de Experiencia](https://www.educompbrasil.org/simposio/2022/)
@@ -23,5 +32,5 @@ Tech Day [SBSI](http://www2.sbc.org.br/ce-si/sbsi.html) 2022 - Local Chair
 
 
 
-[Back to main page]({{ site.url }}/)
+#### [Back to main page]({{ site.url }}/)
 
