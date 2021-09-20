@@ -1,6 +1,6 @@
 # Service 
 
-
+[Past and Future Talks and Courses](service/talks.md)
 
 
 ## BEAM (Erlang, Elixir) Community
