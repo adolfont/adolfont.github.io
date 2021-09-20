@@ -11,7 +11,7 @@ I have created the [Elixir World](http://t.me/elixir_world) group on Telegram.
 
 I give talks on Elixir whenever asked (and it fits my schedule).
 
-I have a YouTube channel called [Elixir, Erlang and the BEAM with Adolfo Neto](https://www.youtube.com/c/ElixirErlangandtheBEAMwithAdolfoNeto).
+I have a YouTube channel called [Elixir, Erlang and the BEAM with Adolfo Neto](https://www.youtube.com/c/ElixirErlangandtheBEAMwithAdolfoNeto). I also have [a more generic chanel in Portuguese where some of the videos are about Elixir and Erlang](https://www.youtube.com/c/AdolfoNeto). For instance, there is this playlist where I am covering [Fred Hebert's Learn You Some Erlang for Great Good!: A Beginner's Guide book](https://www.youtube.com/playlist?list=PLF5ttO8F-IsTided30sMhUx-5Rfyeur65).
 
 I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anchor.fm/elixiremfoco/) - in Portuguese.
 
