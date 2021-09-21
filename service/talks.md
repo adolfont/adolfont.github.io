@@ -2,7 +2,7 @@
 
 ## Future
 
-= 24-Sep-2021 - [Learning Functional Programming with #Elixir](https://twitter.com/ElixirConfAfric/status/1440211538292269062/photo/1) - Elixir Kenya.
+24-Sep-2021 - [Learning Functional Programming with #Elixir](https://twitter.com/ElixirConfAfric/status/1440211538292269062/photo/1) - Elixir Kenya.
 
 ## Past
 
