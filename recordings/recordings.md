@@ -1,6 +1,6 @@
 # Recordings
 
-//From 20/09/2021 on//
+*From 20/09/2021 on*
 
 - 24/09/2021 - Mauricio Aniche - Machine Learning in Software Engineering
 - 24/09/2021 - [Função Anônima(?) Recursiva em Elixir](https://www.youtube.com/watch?v=_epRA4bxI8Q)
