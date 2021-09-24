@@ -2,7 +2,9 @@
 
 *From 20/09/2021 on*
 
+
 - 24/09/2021 - Mauricio Aniche - Machine Learning in Software Engineering
+- 24/09/2021 - [Teste de input no Livebook](https://twitter.com/elixir_utfpr/status/1441428108389720064?s=20)
 - 24/09/2021 - [Função Anônima(?) Recursiva em Elixir](https://www.youtube.com/watch?v=_epRA4bxI8Q)
 - 23/09/2021 - [Argumentos válidos e argumentos corretos](https://youtu.be/UA3uBqeGA-k)
 - 23/09/2021 - [Argumento complexo, premissa não-básica e conclusão intermediária](https://youtu.be/QkH_YSxLbec)
