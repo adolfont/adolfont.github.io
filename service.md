@@ -32,7 +32,7 @@ I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anc
 
 Tech Day [SBSI](http://www2.sbc.org.br/ce-si/sbsi.html) 2022 - Local Chair
 
-[Program Comitte menmber](http://www.agilebrazil.com/2021/comite) of the  [11º Workshop Brasileiro de Métodos Ágeis - WBMA](http://www.agilebrazil.com/2021/wbma)  [Archived copy](https://archive.is/OCP3x)
+[Program Comitte menmber](http://www.agilebrazil.com/2021/comite) of the  [11º Workshop Brasileiro de Métodos Ágeis - WBMA](http://www.agilebrazil.com/2021/wbma)  - [Archived copy](https://archive.is/OCP3x)
 
 
 #### [Back to main page]({{ site.url }}/)
