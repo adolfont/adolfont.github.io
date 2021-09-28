@@ -9,7 +9,7 @@
 
 ### 2021
 
-24-Sep-2021 - [Learning Functional Programming with #Elixir](https://youtu.be/dgZZmzzZlf4) - Elixir Kenya. https://twitter.com/ElixirConfAfric/status/1440211538292269062/photo/1
+24-Sep-2021 - [Learning Functional Programming with #Elixir](https://youtu.be/dgZZmzzZlf4) - Elixir Kenya. [Tweet about the talk](https://twitter.com/ElixirConfAfric/status/1440211538292269062/photo/1)
 
 [Encontro sobre Pesquisa Acadêmica e Pós-graduação em TI](https://youtu.be/sHQertlDluY)
 
