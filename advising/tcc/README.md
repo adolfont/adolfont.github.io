@@ -8,3 +8,6 @@
 - Programação Funcional
 - Como desenvolvedores de software se mantém atualizados
 - Métodos e Práticas Ágeis no Desenvolvimento de Software
+
+[Back to main page]({{ site.url }}/)
+
