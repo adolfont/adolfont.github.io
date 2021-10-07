@@ -6,3 +6,4 @@
 - DevRel e Elixir
 - Contribuindo com Elixir
 - A comunidade de Elixir é a melhor do mundo?
+- Elixir em produção: apredizados do Elixir em Foco https://anchor.fm/elixiremfoco/
