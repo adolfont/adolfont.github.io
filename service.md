@@ -26,6 +26,8 @@ I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anc
 
 ## Research-related
 
+TPC member of EduComp 2022 - WTD-EduComp
+
 [Program Commitee of ForPPCC-PR 2021 (Fórum dos Programas de Pós-Graduação em Computação do Paraná 2021)](https://easychair.org/my/conference?conf=forppccpr2021#)
 
 [TPC member of EduComp 2022 - Trilha 2 - Relatos de Experiencia](https://www.educompbrasil.org/simposio/2022/)
