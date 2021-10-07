@@ -2,7 +2,7 @@
 
 *From 20/09/2021 on*
 
-
+- 05/10/2021 - [IA - Inteligência Artificial ou Imbecilidade Automática? , com Valdemar W. Setzer](https://www.youtube.com/watch?v=-eofjKL-N1Y). Also as a [podcast episode](https://anchor.fm/adolfont/episodes/Valdemar-W--Setzer-em-IA---Inteligncia-Artificial-ou-Imbecilidade-Automtica--Mquinas-pode-pensar-e-sentir-e18ek6p)
 - 24/09/2021 - Mauricio Aniche - Machine Learning in Software Engineering
 - 24/09/2021 - [Teste de input no Livebook](https://twitter.com/elixir_utfpr/status/1441428108389720064?s=20)
 - 24/09/2021 - [Função Anônima(?) Recursiva em Elixir](https://www.youtube.com/watch?v=_epRA4bxI8Q)
