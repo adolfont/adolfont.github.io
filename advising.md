@@ -28,8 +28,8 @@
 
 #### Optional
 
-- Camila Miranda Marani - Information Systems - Start: 09/09/2021 - SEI process 039545/2021-08 - **Next report: 09/03/2022**
-
+- Camila Miranda Marani - Information Systems - Start: 09/09/2021 - SEI process 23064.039545/2021-08 - **Next report: 09/03/2022**
+- Gabriel Conte Colet - Computer Ebgineering  - Start: 25/10/2021 - SEI process 23064.047770/2021-18 - **Next report: ???**
 
 [Back to main page]({{ site.url }}/)
 
