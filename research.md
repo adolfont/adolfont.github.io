@@ -15,6 +15,7 @@ My [Google Scholar profile](https://scholar.google.com.br/citations?user=R7hC3-w
 ## Organizing Committees
 
 - [ESEM 2022 conference, the 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Social Media and Publicity Co-Chair in Organizing Committee](https://conf.researchr.org/home/esem-2022)
+- [SBSI 2022](https://sbsi2022.ct.utfpr.edu.br/curitiba/index.html) - Tech Day
 
 
 ## Participation
