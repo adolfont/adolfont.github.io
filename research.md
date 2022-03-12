@@ -10,7 +10,9 @@ My [Google Scholar profile](https://scholar.google.com.br/citations?user=R7hC3-w
 
 
 - [21st ACM SIGPLAN International Workshop on Erlang (Erlang'22) - PC Member](https://icfp20.sigplan.org/home/erlang-2022)
+- [ThEdu'22 - 11th International Workshop on Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu/ThEdu22/pc2022)
 - [19th ACM SIGPLAN International Workshop on Erlang (Erlang'20) - PC Member](https://icfp20.sigplan.org/home/erlang-2020)
+- [ThEdu'21 - 10th International Workshop on Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu/ThEdu21/pc2021)
 
 ## Organizing Committees
 
