@@ -4,17 +4,11 @@
 
 Fiquei sabendo da existência de Gilson Volpato através de uma mensagem na lista da SBC de Alejandro Frery, professor da UFAL. Desde então, comprei e li vários de seus livros, tive a oportunidade de fazer um curso presencial (na FEAS Curitiba) e acredito que seja a melhor pessoa a escrever sobre metodologia de pesquisa em portugêus.
 
-### IGVEC  (cursos)
+- [IGVEC  (cursos)](https://www.igvec.com/
+- [Livros na Editora Best Writing](https://www.facebook.com/livrariabestwriting/)
+- [Livros na Amazon](https://www.amazon.com.br/s?k=gilson+volpato&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss)
+- [Canal no YouTube de Gilson Volpato](https://www.youtube.com/channel/UCK8qlYg46RAp92HYsU3-cFQ)
 
- https://www.igvec.com/
- 
-### Livros
-
-Editora Best Writing https://www.facebook.com/livrariabestwriting/
-
-### Canal no YouTube de Gilson Volpato
-
-https://www.youtube.com/channel/UCK8qlYg46RAp92HYsU3-cFQ
 
 
 ## Apresentações de artigos
