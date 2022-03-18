@@ -17,6 +17,12 @@ Editora Best Writing https://www.facebook.com/livrariabestwriting/
 https://www.youtube.com/channel/UCK8qlYg46RAp92HYsU3-cFQ
 
 
+## Apresentações de artigos
+
+### Apresentações de artigos em português
+
+- [Lives do Fronteiras da Engenharia de Software/Emílias/PPGCA](https://www.youtube.com/playlist?list=PLqYFZmKhrqupT8uSnbL8kpmJhq4f5DQoY)
+
 ## Pesquisa Qualitativa
 
 ### Em Engenharia de Software
