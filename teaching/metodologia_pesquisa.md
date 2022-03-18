@@ -26,3 +26,9 @@ https://www.youtube.com/channel/UCK8qlYg46RAp92HYsU3-cFQ
 - An empirical study of software developers' management of dependencies and changes https://dl.acm.org/doi/10.1145/1368088.1368122
 - How Do Professional Developers Comprehend Software? https://memphis-cs.github.io/comp-7085-8085-2012-fall/papers/Roehm2012ICSE.pdf
 - On the Comprehension of Program Comprehension https://dl.acm.org/doi/10.1145/2622669 (versão extendida de  How Do Professional Developers Comprehend Software?)
+
+
+## Como encontrar índices?
+
+- Como encontrar o fator de impacto de um periódico usando o site Periódicos Capes e o Acesso CAFe https://www.youtube.com/watch?v=ikLsARmf0UM
+
