@@ -4,7 +4,7 @@ Estes são alguns links relacioados a Metodologia de Pesquisa que compartilho co
 
 ## Gilson Volpato
 
-Fiquei sabendo da existência de Gilson Volpato através de uma mensagem na lista da SBC de Alejandro Frery, professor da UFAL. Desde então, comprei e li vários de seus livros, tive a oportunidade de fazer um curso presencial (na FEAS Curitiba) e acredito que seja a melhor pessoa a escrever sobre metodologia de pesquisa em portugêus.
+Fiquei sabendo da existência de Gilson Volpato através de uma mensagem na lista da SBC de Alejandro Frery, professor da UFAL. Desde então, comprei e li vários de seus livros, tive a oportunidade de fazer um curso presencial (na FEAS Curitiba) e acredito que seja a melhor pessoa a escrever sobre metodologia de pesquisa em português.
 
 - [IGVEC  (cursos)](https://www.igvec.com/)
 - [Livros na Editora Best Writing](https://www.facebook.com/livrariabestwriting/)
