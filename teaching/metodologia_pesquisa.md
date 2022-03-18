@@ -1,3 +1,7 @@
+<style type="text/css">
+  h2 { margin-left: 10px; }
+  h3 { margin-left: 20px; }
+</style>
 # Metodologia de Pesquisa
 
 ## Gilson Volpato
