@@ -1,6 +1,6 @@
 # Metodologia de Pesquisa
 
-Estes são alguns links relacioados a Metodologia de Pesquisa que compartilho com estudantes do curso de Metodologia da Pesquisa do [Programa de Pós-Graduação em Computação Aplicada da UTFPR Curitiba](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/ppgmodelo) e/ou com as pessoas que oriento.
+Estes são alguns links relacionados a Metodologia de Pesquisa que compartilho com estudantes do curso de Metodologia da Pesquisa do [Programa de Pós-Graduação em Computação Aplicada da UTFPR Curitiba](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/ppgmodelo) e/ou com as pessoas que oriento.
 
 ## Gilson Volpato
 
