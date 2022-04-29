@@ -1,7 +1,7 @@
 # Public Todo
 
 - [ ] 03/05 Edicao Episódio Maio ELIXIR_EM_FOCO
-- [ ] 05/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL)
+- [ ] 05/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
 - [ ] 20/05 Sucupira  PPGCA
 - [ ] Finalizar curso Elixir EXTENSAO
 - [ ] Edital de bolsas PPGCA
