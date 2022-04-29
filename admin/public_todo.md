@@ -1,13 +1,23 @@
 # Public Todo
 
+
+## More important
+
 - [ ] 03/05 Edicao Episódio Maio ELIXIR_EM_FOCO
 - [ ] 05/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
+- [ ] 19/05 [Code BEAM talk](https://codesync.global/conferences/code-beam-sto-2022/)
 - [ ] 20/05 Sucupira  PPGCA
+- [ ] 08/06 [Palestra Code BEAM](https://codebeam-corunha.vercel.app/en)
 - [ ] Finalizar curso Elixir EXTENSAO
 - [ ] Edital de bolsas PPGCA
 - [ ] Editar IA ADOLFONTPOD
 - [ ] Edital de extensão (todos os podcasts)? 
 - [ ] Aprendizagem de lógica com Lean4
+
+
+## Less important
+
+- Codeserver https://github.com/coder/code-server
 
 
 ## Ongoing projects (alphabetical order)
