@@ -1,3 +1,4 @@
 # Public Todo
 
-- [ ]  Finalizar curso Elixir
+- [ ] Revisões WEI
+- [ ] Finalizar curso Elixir
