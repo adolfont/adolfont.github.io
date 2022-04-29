@@ -7,14 +7,21 @@
 - [ ] Edital de bolsas PPGCA
 - [ ] Editar IA ADOLFONTPOD
 - [ ] Edital de extensão (todos os podcasts)? 
-
+- [ ] Aprendizagem de lógica com Lean4
 
 
 ## Ongoing projects (alphabetical order)
 
-- Elixir em Foco
-- Fronteiras da Engenharia de Software
-- Emílias Podcast
+- Elixir em Foco https://www.elixiremfoco.com/
+- Fronteiras da Engenharia de Software https://fronteirases.github.io/
+- Emílias Podcast https://anchor.fm/emilias-podcast
+- Professor Adolfo Neto https://anchor.fm/adolfont
+- Hello, Erlang! (on hold) http://helloerlang.github.io
+- Canal Adolfo Neto
+   - https://youtube.com/c/AdolfoNeto
+   - https://odysee.com/@adolfont:4
+- Canal Elixir, Erlang and the BEAM  https://www.youtube.com/c/ElixirErlangandtheBEAMwithAdolfoNeto
+- Canal PPGCA
 - ESEM Social 
 - SBSI Tech Day
 
