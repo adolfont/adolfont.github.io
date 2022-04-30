@@ -1,5 +1,6 @@
 # Public Todo
 
+This week: 02, 03, 04, 05, 06
 
 ## More important
 
