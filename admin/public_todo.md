@@ -4,17 +4,17 @@ This week: 02, 03, 04, 05, 06
 
 ## More important
 
+- [ ] 03/05 Bidding [SBES](./help/sbes) 
 - [ ] 05/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
 - [ ] 19/05 [Code BEAM talk](https://codesync.global/conferences/code-beam-sto-2022/)
 - [ ] 20/05 Sucupira  PPGCA
 - [ ] 24/05 10 years of Elixir
 - [ ] 08/06 [Palestra Code BEAM](https://codebeam-corunha.vercel.app/en)
 - [ ] Finalizar curso Elixir EXTENSAO
-- [ ] Edital de bolsas PPGCA
+- [ ] (reunião quarta 04/05 16h00) Edital de bolsas PPGCA
 - [ ] Editar IA ADOLFONTPOD
 - [ ] Edital de extensão (todos os podcasts)? 
 - [ ] Aprendizagem de lógica com Lean4
-
 
 ## Lower priority
 
