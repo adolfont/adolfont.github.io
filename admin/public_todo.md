@@ -4,7 +4,6 @@ This week: 02, 03, 04, 05, 06
 
 ## More important
 
-- [ ] 03/05 Edicao Episódio Maio ELIXIR_EM_FOCO
 - [ ] 05/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
 - [ ] 19/05 [Code BEAM talk](https://codesync.global/conferences/code-beam-sto-2022/)
 - [ ] 20/05 Sucupira  PPGCA
@@ -21,6 +20,7 @@ This week: 02, 03, 04, 05, 06
 
 - Podcast backuper https://github.com/adolfont/podcast_backuper
 - ELX PRO
+- Media Kit for podcasts
 
 
 ## Ongoing projects (alphabetical order)
@@ -70,10 +70,6 @@ This week: 02, 03, 04, 05, 06
 - Zulip
 - Telegram
 
-## Done
-
-- [X] Revisões WEI PESQUISA
-- Codeserver https://github.com/coder/code-server
 
 
 ## Resources for doing
