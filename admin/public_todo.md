@@ -5,9 +5,10 @@ This week: 02, 03, 04, 05, 06
 ## More important
 
 - [ ] 03/05 Bidding [SBES](./help/sbes) 
-- [ ] 05/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
+- [ ] 04/05 [Patrocínio SBSI](https://mail.google.com/mail/u/0/#inbox/FMfcgzGpFgqmzbQDxThtvqbjCcDdbQzr)
+- [ ] 04/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
 - [ ] 19/05 [Code BEAM talk](https://codesync.global/conferences/code-beam-sto-2022/)
-- [ ] 20/05 Sucupira  PPGCA
+- [ ] 20/05 [Sucupira  PPGCA](https://mail.google.com/mail/u/0/#inbox/QgrcJHsBvDwlVwmxMNXDrsFbWMjqMFcWZhq)
 - [ ] 24/05 10 years of Elixir
 - [ ] 08/06 [Palestra Code BEAM](https://codebeam-corunha.vercel.app/en)
 - [ ] Finalizar curso Elixir EXTENSAO

@@ -15,3 +15,4 @@
 ### Discord
 
 - [General](https://discord.com/app)
+- [Tools](https://discord.com/channels/692501884426125443/888503995994345492)
