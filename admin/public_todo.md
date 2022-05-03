@@ -6,10 +6,11 @@ This week: 02, 03, 04, 05, 06
 
 - [ ] 03/05 Bidding [SBES](./help/sbes) 
 - [ ] 04/05 [Patrocínio SBSI](https://mail.google.com/mail/u/0/#inbox/FMfcgzGpFgqmzbQDxThtvqbjCcDdbQzr)
-- [ ] 04/05 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
+- [ ] 04/05 [Bolsa PPGCA](https://mail.google.com/mail/u/0/#search/bolsa/KtbxLxgZXvXjPlZgfGgmgbjWPRCrNbhZSq)
 - [ ] 19/05 [Code BEAM talk](https://codesync.global/conferences/code-beam-sto-2022/)
 - [ ] 20/05 [Sucupira  PPGCA](https://mail.google.com/mail/u/0/#inbox/QgrcJHsBvDwlVwmxMNXDrsFbWMjqMFcWZhq)
 - [ ] 24/05 10 years of Elixir
+- [ ] 01/06 [Edital PROREC/PROGRAD 2022](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvpJTqmXRfzDDVnmdjGLvfbCL) - Todos os podcasts?
 - [ ] 08/06 [Palestra Code BEAM](https://codebeam-corunha.vercel.app/en)
 - [ ] Finalizar curso Elixir EXTENSAO
 - [ ] (reunião quarta 04/05 16h00) Edital de bolsas PPGCA
