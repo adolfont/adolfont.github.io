@@ -2,6 +2,26 @@
 
 This week: 02, 03, 04, 05, 06
 
+## Today
+
+- [X] Food
+- [30] Duo 
+- [ ] Calisthenics
+
+- [ ] Pagar coisas
+- [ ] Pagar ação (QUANDO TERMINA?)
+- [X] Pagar Hiper (parcial)
+
+- [ ] [Code BEAM](https://docs.google.com/presentation/d/16WHS0Ox2oNijJlehgFefT7O2JQ4hLO9CZxYgZZuWnXk/edit#slide=id.p)
+- [X] [Carlo PT](https://www.erlang-solutions.com/blog/understanding-processes-for-elixir-developers/)
+- [X] [Roteiro Emílias](https://docs.google.com/document/u/5/d/1yVX5-uEzmv3FuL9teTw6G0a4e4o0XX6-vzH__AzUBPs/edit)
+- [ ] revisão TCC [LT](https://mail.google.com/mail/u/0/#inbox/FMfcgzGpFgnSMzkHZzrZgXTmNjhGdzMR)
+- [ ] email Antonio Fabio
+- [ ] Sucupira
+   - [DAV/Capes PROF_Ofício-circular nº 9/2022 - Calendário e Inovação no Coleta, ano-base 2021](https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvnzRnlQPBtfzWnkpfmLJBsNs)
+- [S] Bolsa
+- [X] Hellen
+
 ## More important
 
 - [ ] 03/05 Bidding [SBES](./help/sbes) 
