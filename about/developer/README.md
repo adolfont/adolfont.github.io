@@ -1,6 +1,6 @@
 # Who am I?
 
-![A photo of Adolfo Neto](../../images/AdolfoNeto_240x2040.jpg)
+![A photo of Adolfo Neto](~/images/AdolfoNeto_240x2040.jpg)
 
 My name is Adolfo Neto, I am an Elixir and Erlang developer in my spare time.
 
