@@ -1,7 +1,7 @@
 # Who am I?
 
 
-<img src="https://user-images.githubusercontent.com/79562/168625679-aa5519bb-3895-46a9-ba26-08dfeead713b.jpg" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/79562/168625679-aa5519bb-3895-46a9-ba26-08dfeead713b.jpg" width="50%">
 
 My name is Adolfo Neto, I am an Elixir and Erlang developer in my spare time.
 
