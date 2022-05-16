@@ -1,6 +1,6 @@
 # Who am I?
 
-![A picture of Adolfo Neto](https://user-images.githubusercontent.com/79562/168625679-aa5519bb-3895-46a9-ba26-08dfeead713b.jpg)
+![A picture of Adolfo Neto](https://user-images.githubusercontent.com/79562/168625679-aa5519bb-3895-46a9-ba26-08dfeead713b.jpg "A picture of Adolfo Neto" | width=80 )
 
 
 My name is Adolfo Neto, I am an Elixir and Erlang developer in my spare time.
