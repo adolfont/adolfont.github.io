@@ -4,7 +4,7 @@ This event celebrates the tenth anniversary of the Elixir programming language.
 
 - When? May 24th, 2022 13:00 UTC-3
 - Where? 
-   -  [ELX PRO's YouTube](https://www.youtube.com/watch?v=xqT7vjw-3bg)
+   -  [ELXPRO's YouTube channel](https://www.youtube.com/watch?v=xqT7vjw-3bg)
    -  [Adolfo Neto's Twitch](https://www.twitch.tv/adolfont)
    -  [Gustavo Oliveira's Linkedin page](https://www.linkedin.com/video/event/urn:li:ugcPost:6932777994209869824/)
    
