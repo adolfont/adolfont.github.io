@@ -3,6 +3,8 @@
 
 ### I am an Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english) since 2008.
 
+- [10 Years of Elixir](https://adolfont.github.io/service/events/10YearsOfElixir/)
+
 - [Adolfo Neto's page at UTFPR](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo)
 
 - [About](about.md)
