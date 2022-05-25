@@ -5,6 +5,9 @@
 - [Elixir em Foco](https://discord.com/channels/811620243528744984/811620243528744987)
 - [Fronteiras](https://discord.com/channels/705550536887369738/728004321123237949)
 - [Emílias](https://discord.com/channels/852660535924752425/852902131879116830)
+  - [Banners Redes Sociais](https://drive.google.com/drive/u/6/folders/1q5UMBN3AVyquItto3uVxuOfCajc7Gei8)
+  - [Thumbnails do YouTube](https://drive.google.com/drive/u/6/folders/1QY12vTbFiT8i9zVs10OWU4JcMAw9mTQ2)
+  - [Documentos de Perguntas](https://drive.google.com/drive/u/6/folders/1dX7qRYy1pVVd6ws7tYxPdOFXO_Cbkv_Z)
 - [Emílias geral](https://discord.com/channels/832616903029424128/832616904292040726)
 
 ### Other podcasts
