@@ -8,6 +8,7 @@
   - [Banners Redes Sociais](https://drive.google.com/drive/u/6/folders/1q5UMBN3AVyquItto3uVxuOfCajc7Gei8)
   - [Thumbnails do YouTube](https://drive.google.com/drive/u/6/folders/1QY12vTbFiT8i9zVs10OWU4JcMAw9mTQ2)
   - [Documentos de Perguntas](https://drive.google.com/drive/u/6/folders/1dX7qRYy1pVVd6ws7tYxPdOFXO_Cbkv_Z)
+  - [Agenda de entrevistas](https://docs.google.com/spreadsheets/d/1iYv-0VCS6rsKSQvPiyvZCD-WuyWhMp1PiidlLnyUe7E/edit?usp=sharing)
 - [Emílias geral](https://discord.com/channels/832616903029424128/832616904292040726)
 
 ### Other podcasts
