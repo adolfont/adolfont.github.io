@@ -39,3 +39,4 @@
 - [UBL]()
 - [Async English](https://discord.com/channels/954741375725883432/954741378015957035)
 - [tech-br](https://discord.com/channels/936020733027577966/946945891812655134)
+- [Programando na Gringa](https://discord.com/channels/946963262640103494/946964780114116638)
