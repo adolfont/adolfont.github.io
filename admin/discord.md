@@ -26,7 +26,12 @@
 
 - [ELX PRO](https://discord.com/channels/790531089885691944/853933895934017546)
 - [Groxio](https://discord.com/channels/761652621173325824/761652621173325830)
+- [Programação Funcional (UFABC)](https://discord.com/channels/613778911100403713/613778911683280967)
 
 ## Communities
 
 - [Elixir](https://discord.com/channels/269508806759809042/269932047202648064)
+- [Fission](https://discord.com/channels/478735028319158273/489681919815057408)
+- [UBL]()
+- [Async English](https://discord.com/channels/954741375725883432/954741378015957035)
+- [tech-br](https://discord.com/channels/936020733027577966/946945891812655134)
