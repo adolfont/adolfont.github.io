@@ -16,6 +16,7 @@
   - [Documentos de Perguntas](https://drive.google.com/drive/u/6/folders/1dX7qRYy1pVVd6ws7tYxPdOFXO_Cbkv_Z)
   - [Agenda de entrevistas](https://docs.google.com/spreadsheets/d/1iYv-0VCS6rsKSQvPiyvZCD-WuyWhMp1PiidlLnyUe7E/edit?usp=sharing)
 - [Emílias geral](https://discord.com/channels/832616903029424128/832616904292040726)
+- [Hello, Erlang!](https://app.slack.com/client/T055DJ9UH/C030FM2VA8N?selected_team_id=TETFVSQ69)
 
 ### Other podcasts
 
@@ -46,3 +47,6 @@
 - [Async English](https://discord.com/channels/954741375725883432/954741378015957035)
 - [tech-br](https://discord.com/channels/936020733027577966/946945891812655134)
 - [Programando na Gringa](https://discord.com/channels/946963262640103494/946964780114116638)
+
+
+[EDIT THIS PAGE](https://github.com/adolfont/adolfont.github.io/blob/master/admin/discord.md)
