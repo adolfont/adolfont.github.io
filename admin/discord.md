@@ -1,4 +1,10 @@
-# Discord Servers
+# Discord/Slack Servers e outros
+
+[TODO](https://docs.google.com/document/d/1sF30vWSuwBxolGvtAv-Mhatv9sUIYCmd2WKxWd_Dzak/edit)
+
+## Organizations
+
+- [EEF WG EDU](https://app.slack.com/client/TETFVSQ69/G01Q7KGPZEJ?selected_team_id=TETFVSQ69)
 
 ## My podcasts
 
@@ -17,8 +23,8 @@
 
 ## Teaching
 
-- [MA](https://discord.com/channels/947507512385634314/947507512385634316)
-- [ILC](https://discord.com/channels/949342565008801822/949342565474385982)
+- [Métodos Ágeis](https://discord.com/channels/947507512385634314/947507512385634316)
+- [Introduçãó à Lógica para a Computação](https://discord.com/channels/949342565008801822/949342565474385982)
 - [Curso de Elixir](https://discord.com/channels/949287259767709737/949287260518481952)
 
 ## Admin
