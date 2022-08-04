@@ -28,6 +28,7 @@
 
 #### Optional
 
+- Leandro Vogt Macuco - Processo SEI: 23064.037906/2022-54 - Euax-Artia
 - Miguel Bordignon Almudi -  Computer Engineering -   Start: 03/04/2021 and 27/10/2021 - SEI process 23064.015065/2021-43
 - Camila Miranda Marani - Information Systems - Start: 09/09/2021 - SEI process 23064.039545/2021-08 - **Next report: 09/03/2022**
 - Gabriel Conte Colet - Computer Engineering  - Start: 25/10/2021 - SEI process 23064.047770/2021-18 - **Next report: ???**
