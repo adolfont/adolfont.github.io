@@ -19,7 +19,15 @@ no portal em http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/c
 
 Já os relatórios parciais são modelos institucionais, estão disponíveis no portal http://portal.utfpr.edu.br/estagios em modelos de documentos."
 
-# Aluno: Gabriel Conte Colet
+# Leandro Vogt Macuco
+
+- Engenharia de Computação
+- Empresa: Euax-Artia Desenvolvimento de Sistemas
+- Início do Estágio: 22/08/2022
+- Término do Estágio: 21/08/2024
+- Processo SEI: 23064.037906/2022-54 (info para o orientador)
+
+# Gabriel Conte Colet
 
 
 - Engenharia de Computação
@@ -27,5 +35,5 @@ Já os relatórios parciais são modelos institucionais, estão disponíveis no 
 - Início do Estágio: 07/02/2022
 - Término do Estágio: 06/02/2024
 - Processo SEI: 23064.001482/2022-90
-
 - Relatório Parcial 1 entregue
+
