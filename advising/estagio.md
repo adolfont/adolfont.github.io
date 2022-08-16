@@ -21,7 +21,11 @@ Já os relatórios parciais são modelos institucionais, estão disponíveis no 
 
 # Aluno: Gabriel Conte Colet
 
+
+- Engenharia de Computação
 - Empresa: CI&T SOFTWARE S.A.
 - Início do Estágio: 07/02/2022
 - Término do Estágio: 06/02/2024
 - Processo SEI: 23064.001482/2022-90
+
+- Relatório Parcial 1 entregue
