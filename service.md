@@ -15,6 +15,8 @@ I have a YouTube channel called [Elixir, Erlang and the BEAM with Adolfo Neto](h
 
 I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anchor.fm/elixiremfoco/) - in Portuguese.
 
+I co-organized the [10 Years of Elixir](https://adolfont.github.io/service/events/10YearsOfElixir/) event.
+
 
 🔊 In 2019, I was a guest of the Elixir Mix podcast: [EMx 057: The Elixir Community with Adolfo Neto](https://dev.to/elixirmix/emx-057-the-elixir-community-with-adolfo-neto).
 
@@ -23,6 +25,8 @@ I am co-creator and one of the hosts of the [Elixir em Foco podcast](https://anc
 🔊 If you can understand Portuguese, I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto
 ](https://www.rubensalomao.me/2020/07/rs-entrevista-professor-adolfo-neto.html).
  
+ 
+
 
 ## Research-related
 
