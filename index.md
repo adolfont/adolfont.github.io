@@ -13,7 +13,6 @@
 </p>
 
 
-- [10 Years of Elixir](https://adolfont.github.io/service/events/10YearsOfElixir/)
 
 - [Adolfo Neto's page at UTFPR](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo)
 
