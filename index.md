@@ -1,9 +1,9 @@
 
 ![Picture of Adolfo Neto](/images/AdolfoNeto_240x240.jpg "Adolfo Neto")
 
-### - Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english).
-### - Co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), [Elixir em Foco podcast](https://anchor.fm/elixiremfoco/) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese.
-### - Member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
+- Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english).
+- Co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), [Elixir em Foco podcast](https://anchor.fm/elixiremfoco/) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese.
+- Member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
 
 <p align="center">
 	<a href="https://twitter.com/adolfont">
