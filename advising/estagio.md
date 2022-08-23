@@ -19,6 +19,15 @@ no portal em http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/c
 
 Já os relatórios parciais são modelos institucionais, estão disponíveis no portal http://portal.utfpr.edu.br/estagios em modelos de documentos."
 
+# Guilherme Liberio de Souza e Silva
+
+- Engenharia de Computação
+- Empresa: CI&T Software
+- Início do Estágio: 29/08/2022 (antes era 07/02/2022)
+- Término do Estágio: 06/02/2024
+- Processo SEI: 23064.037906/2022-54 (info para o orientador)
+- Processo SEI:  23064.002349/2022-51
+
 # Leandro Vogt Macuco
 
 - Engenharia de Computação
