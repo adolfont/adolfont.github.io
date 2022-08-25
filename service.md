@@ -30,6 +30,9 @@ I co-organized the [10 Years of Elixir](https://adolfont.github.io/service/event
 
 ## Research-related
 
+[CIbSE 2023](https://easychair.org/cfp/cibse_2023) Publicity Co-Chair
+
+
 TPC member of EduComp 2022 - WTD-EduComp
 
 [Program Commitee of ForPPCC-PR 2021 (Fórum dos Programas de Pós-Graduação em Computação do Paraná 2021)](https://easychair.org/my/conference?conf=forppccpr2021#)
