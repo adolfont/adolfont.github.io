@@ -1,7 +1,8 @@
 # Recordings
 
 *From 20/09/2021 on*
-
+- [Seminário de 28/7/22 - A experiência do podcast Fronteiras da Engenharia de Software (Adolfo Neto)](https://www.youtube.com/watch?v=-OCBrquMp3Q)
+- ...
 - 07/10/2021 - [Learning F# and Functional Programming for Fun, Pietro Loffredi](https://youtu.be/SYbAoDyBaCA)
 - 07/10/2021 - [Haskell: A piece of purity!, Matheus Pessanha](https://www.youtube.com/watch?v=cQvMRO1yN2E)
 - 06/10/2021 - Fronteiras
