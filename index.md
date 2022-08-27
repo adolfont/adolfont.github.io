@@ -5,7 +5,9 @@ Associate Professor at the [Federal University of Technology, Paraná](http://ww
 
 Co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese.
 
-Member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
+Member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).🆕
+
+🆕 I will be speaking at [Code BEAM America 2022](https://codebeamamerica.com/).
 
 <p align="center">
 	<a href="https://twitter.com/adolfont">
