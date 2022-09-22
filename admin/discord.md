@@ -23,9 +23,10 @@
 - [Elixir Wizards](https://discord.com/channels/775455703770988585/775455703770988588)
 
 ## Teaching
-
+- [CAES005 Introduction to Funcional Programming](https://discord.com/channels/1017402912684638329/1017402913213128726)
 - [Métodos Ágeis](https://discord.com/channels/947507512385634314/947507512385634316)
-- [Introdução à Lógica para a Computação](https://discord.com/channels/949342565008801822/949342565474385982)
+- [Introdução à Lógica para a Computação 2022/2](https://discord.com/channels/1004412820697382942/1004412822740021321)
+- [Introdução à Lógica para a Computação 2022/1](https://discord.com/channels/949342565008801822/949342565474385982)
 - [Curso de Elixir](https://discord.com/channels/949287259767709737/949287260518481952)
 
 ## Admin
