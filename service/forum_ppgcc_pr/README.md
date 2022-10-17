@@ -9,6 +9,8 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 # Roteiro
 
 - Quem sou eu?
+  - Como iniciei na computação?
+  - Qual foi a minha formação?
 - O que entendo por divulgação científica?
 - O que é o Fronteiras da Engenharia de Software?
 
@@ -21,7 +23,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 - Hobbies
 
 
-# Como iniciei na computação?
+## Como iniciei na computação?
   - [O primeiro videogame que vi e joguei](https://pt.wikipedia.org/wiki/Telejogo)
   - [O segundo videogame que vi e joguei](https://pt.wikipedia.org/wiki/Atari_2600)
   - [O primeiro videogame que tive](https://bojoga.com.br/artigos/dossie-retro/dactar-o-clone-e-seus-clones/)
@@ -34,7 +36,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - [Meu terceiro computador](https://www.hardware.com.br/guias/historia-processadores/286.html)
     - [Minha terceira linguagem de programação](https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o))   
 
-# Qual foi a minha formação?
+## Qual foi a minha formação?
 
 - Minha formação
   - "Cursinho" de programação BASIC
@@ -42,6 +44,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Mestrado em Ciência da Computação UFPE 1994-1997
   - ...
   - Doutorado em Ciência da Computação USP 2003-2007
+  - Ano sabático na North Carolina State University 2014-2015
 
 # Qual é minha atuação hoje em dia?
 
