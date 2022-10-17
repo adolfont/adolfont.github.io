@@ -127,6 +127,16 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 
 ![image](https://user-images.githubusercontent.com/79562/196234480-ddab3e28-1659-491b-9d5b-3c587631e594.png)
 
+Estados
+![image](https://user-images.githubusercontent.com/79562/196240674-30c832a5-9749-4029-9aaf-b01b62af7c61.png)
+
+Regiões 
+![image](https://user-images.githubusercontent.com/79562/196240834-2c120f0f-d27f-4c2b-a819-10f0bc525eec.png)
+
+Países
+![image](https://user-images.githubusercontent.com/79562/196240933-97bd8035-71fa-49a1-9b7b-2e7a88c3b65f.png)
+
+
 # Convidar
 
 E-mail, WhatsApp, Twitter
