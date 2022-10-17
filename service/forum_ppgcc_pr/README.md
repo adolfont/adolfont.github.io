@@ -13,6 +13,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Qual foi a minha formação?
 - O que entendo por divulgação científica?
 - O que é o Fronteiras da Engenharia de Software?
+- O processo do Fronteiras (de qualquer podcast de entrevistas?)
 
 
 # Quem sou eu?
@@ -101,12 +102,39 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Edição
   - Roteiro
 
+
+# O processo do Fronteiras (de qualquer podcast de entrevistas?):
+
+- Escolher
+- Convidar
+- Agendar
+- Roteirizar
+- Gravar
+- Editar
+- Publicar
+- Divulgar
+- Acompanhar
+
+
 # Projetos Paralelos
 
 - [Fronteiras Live (Palestras do Fronteiras)](https://www.youtube.com/playlist?list=PLqYFZmKhrqupT8uSnbL8kpmJhq4f5DQoY)
   - 7 até agora
+  - Palestras de pesquisadores (em geral mais “Júnior”) que publicaram em eventos ou revistas da área
+  - Ainda faz sentido?
+
+
 - Episódio narrativo (será que sai um dia?)
   - Episódio sobre a história da Refatoração
+
+
+# Podcast
+
+- Entrevistas mensais com pesquisadores (em geral de nível “Pleno”/”Senior”)  da área com foco em um tema.
+
+- Objetivo - levar o conhecimento científico para:
+  - outros cientistas
+  - profissionais da área
 
 
 # Pequisa com/sobre podcasts
