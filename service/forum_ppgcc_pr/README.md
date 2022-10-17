@@ -175,6 +175,10 @@ Dois exemplos de roteiros públicos:
 
 ![Números do Fronteiras em 17/10/2022](https://user-images.githubusercontent.com/79562/196235159-f1fb197c-ed0c-429a-856d-07cad7d7801d.png)
 
+Números, Métricas:
+- https://anchor.fm/dashboard/analytics  
+- https://anchor.fm/dashboard/analytics/audience 
+- https://www.youtube.com/c/FronteirasdaEngenhariadeSoftware/videos  
 
 # Desafios
 
@@ -184,6 +188,21 @@ Dois exemplos de roteiros públicos:
 - edição / financiamento
 - roteiro
 - divulgação
+
+# Planos para o Futuro
+
+
+- Continuar!
+
+- Pesquisa: a pergunta final
+
+# Quem você quer ver/ouvir no Fronteiras?
+
+# Quer nos ajudar?
+
+- Transcrição
+- Divulgação
+- Cortes
 
 
 # Projetos Paralelos
@@ -198,6 +217,7 @@ Dois exemplos de roteiros públicos:
   - Episódio sobre a história da Refatoração
 
 
+# Meus outros podcasts
 
 
 # Pequisa com/sobre podcasts
