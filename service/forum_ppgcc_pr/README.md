@@ -67,6 +67,38 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
     - Membro do [WG de Educação da Erlang Ecosystem Foundation](https://erlef.org/wg/education)
     - Eventos (revisor, organizador, etc.)
 
+#  O que entendo por divulgação científica?
+
+ 
+- [“Trazer a sociedade para perto da universidade” “Por exemplo, as pessoas vão saber por que que é importante tomar uma vacina”  23 de out. de 2019](https://www.youtube.com/watch?v=WNgwRFaewT8)
+- [“Apresentar a Ciência numa linguagem mais simples, mais acessível”](https://www.youtube.com/watch?v=7mYlHTnm11g)
+
+
+# O que é o Fronteiras da Engenharia de Software?
+
+- Criado em 2020 (pandemia)
+- Está na terceira temporada
+- Objetivo: ser um podcast para refletir sobre o presente e o futuro da engenharia de software. 
+- Entrevistamos pesquisadores da área e estes episódios são publicados mensalmente entre os dias **10** e 20 de cada mês. 
+- Apresentar a pesquisa feita por pesquisadores de nosso país tanto ao público acadêmico quanto ao público da indústria/mercado. 
+- Equipe hoje e ao longo do tempo
+
+## Um pouco da história da criação do podcast
+
+- Conversa no Twitter
+  - Adolfo, Fabio, Leonardo, Gustavo, Marco Tulio
+- Inspirações:
+  - Vídeos da Microsoft Research 
+  - https://www.ufrgs.br/luminapodcasts/site/index/fronteiras-da-ciencia 
+  - Software Engineering Radio podcast  https://www.se-radio.net/ 
+    - Entrevista pessoas do mercado
+  - Minhas entrevistas no podcast Professor Adolfo Neto e no Emílias Podcast
+  - Elixir podcasts https://elixirschool.com/en/podcasts 
+  - Podcasts para devs: Hipsters, Lambda3, Dev Sem Fronteiras e etc.
+
+
+
+
 # Links
 
 - [Cerimônia de Abertura do CBSOFT 2022](https://youtu.be/cJTak2vWZWY)
