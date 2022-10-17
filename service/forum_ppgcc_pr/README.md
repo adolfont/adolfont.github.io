@@ -136,6 +136,11 @@ Regiões
 Países
 ![image](https://user-images.githubusercontent.com/79562/196240933-97bd8035-71fa-49a1-9b7b-2e7a88c3b65f.png)
 
+# 
+![image](https://user-images.githubusercontent.com/79562/196242147-bda87421-b996-4d8d-bb86-cc75c6ed5079.png)
+
+# ![image](https://user-images.githubusercontent.com/79562/196242251-ab49048d-dc26-4655-9ac6-c50ab8bf6949.png)
+
 
 # Convidar
 
@@ -156,6 +161,9 @@ Dois exemplos de roteiros públicos:
 
 
 # Gravar
+
+- Zoom
+- 
 
 # Editar
 
