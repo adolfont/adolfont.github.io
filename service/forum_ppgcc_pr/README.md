@@ -85,6 +85,12 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 - Apresentar a pesquisa feita por pesquisadores de nosso país tanto ao público acadêmico quanto ao **público da indústria/mercado**. 
 - Equipe hoje e ao longo do tempo
 
+## Equipe
+
+Equipe 
+![Equipe](https://user-images.githubusercontent.com/79562/196235567-bdc99a53-739a-415e-bbe4-8c7633481b1c.png)
+
+
 ## Um pouco da história da criação do podcast
 
 - Conversa no Twitter
