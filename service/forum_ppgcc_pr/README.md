@@ -17,15 +17,17 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 
 - Onde nasci?
 - Como iniciei na computação?
-  - O primeiro videogame que vi e joguei
-  - O segundo videogame que vi e joguei
-  - O primeiro videogame que tive
-  - O primeiro computador que vi
+  - [O primeiro videogame que vi e joguei](https://pt.wikipedia.org/wiki/Telejogo)
+  - [O segundo videogame que vi e joguei](https://pt.wikipedia.org/wiki/Atari_2600)
+  - [O primeiro videogame que tive](https://bojoga.com.br/artigos/dossie-retro/dactar-o-clone-e-seus-clones/)
+  - [O primeiro computador que vi](https://pt.wikipedia.org/wiki/TK82C)
   - [Meu primeiro computador](https://pt.wikipedia.org/wiki/Ringo_R-470)
      - [Minha primeira linguagem de programação](https://pt.wikipedia.org/wiki/BASIC)
-  - Meu segundo computador
-     - Minha segunda linguagem de programação
-  - Meu terceiro computador   
+  - [Meu segundo computador](https://pt.wikipedia.org/wiki/TK2000)
+     - [Minha segunda linguagem de programação?](https://codeburst.io/an-introduction-to-6502-assembly-and-low-level-programming-7c11fa6b9cb9)
+  - [Algoritmos Estruturados](https://www.amazon.com.br/Algoritmos-Estruturados-Harry-Farrer/dp/8521611803)
+  - [Meu terceiro computador](https://www.hardware.com.br/guias/historia-processadores/286.html)
+    - [Minha terceira linguagem de programação](https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o))   
 
 # Links
 
