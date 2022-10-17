@@ -69,6 +69,19 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
     - Membro do [WG de Educação da Erlang Ecosystem Foundation](https://erlef.org/wg/education)
     - Eventos (revisor, organizador, etc.)
 
+# Minha pesquisa
+
+- Compartilhamento de conhecimento
+    - Coding Dojos
+    - Datathons
+    - Comunidade Elixir, Erlang, BEAM
+
+- Métodos Ágeis
+    - TDD
+    - ...
+
+
+
 #  O que entendo por divulgação científica?
 
  
@@ -223,6 +236,8 @@ Números, Métricas:
 # Pequisa com/sobre podcasts
   - Coleta informal de ouvintes
   - Servidor no Discord
+
+ 
 
 # Contato
 
