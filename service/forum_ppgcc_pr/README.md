@@ -49,15 +49,21 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 # Qual é minha atuação hoje em dia?
 
 - Professor da UTFPR Curitiba desde 2008
-  - Bacharelado em Sistemas de Informação
-  - Engenharia de Computação
-  - Mestrado Profissional em Computação Aplicada
+  - Ensino:
+    - Bacharelado em Sistemas de Informação
+    - Engenharia de Computação
+    - [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
+  - Pesquisa:
+    - [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
   - Extensão
     - Emílias - Armação em Bits
       - [Emílias Podcast: Mulheres na Computação](https://anchor.fm/emilias-podcast)
     - [Professor Adolfo Neto](https://anchor.fm/emilias-podcast)
     - Fronteiras da Engenharia de Software
-    - [Elixir em Foco](https://www.elixiremfoco.com/) 
+    - [Elixir em Foco](https://www.elixiremfoco.com/)
+  - Serviço
+    - Coordenador do  [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
+    - Membro do [WG de Educação da Erlang Ecosystem Foundation](https://erlef.org/wg/education)
 
 # Links
 
