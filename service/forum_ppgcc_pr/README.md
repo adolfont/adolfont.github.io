@@ -6,7 +6,7 @@
 
 [Transmissão desta palestra no YouTube](https://youtu.be/BMpvytzaXxo)
 
-Link para a divulgação desta palestra: https://bit.ly/3D0T3IQ
+Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly/3D0T3IQ)
 
 # Roteiro
 
