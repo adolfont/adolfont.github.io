@@ -109,6 +109,15 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Edição
   - Roteiro
 
+# Podcast
+
+- Entrevistas mensais com pesquisadores (em geral de nível “Pleno”/”Senior”)  da área com foco em um tema.
+
+- Objetivo - levar o conhecimento científico para:
+  - outros cientistas
+  - profissionais da área
+
+
 
 # O processo do Fronteiras (de qualquer podcast de entrevistas?):
 
@@ -160,20 +169,21 @@ Dois exemplos de roteiros públicos:
 
 
 
-# Gravar
 
-- Zoom
-- 
-
-# Editar
-
-# Publicar
-
-# Divulgar
 
 # Acompanhar
 
 ![Números do Fronteiras em 17/10/2022](https://user-images.githubusercontent.com/79562/196235159-f1fb197c-ed0c-429a-856d-07cad7d7801d.png)
+
+
+# Desafios
+
+
+- qualidade de gravação
+- qualidade da internet
+- edição / financiamento
+- roteiro
+- divulgação
 
 
 # Projetos Paralelos
@@ -188,13 +198,6 @@ Dois exemplos de roteiros públicos:
   - Episódio sobre a história da Refatoração
 
 
-# Podcast
-
-- Entrevistas mensais com pesquisadores (em geral de nível “Pleno”/”Senior”)  da área com foco em um tema.
-
-- Objetivo - levar o conhecimento científico para:
-  - outros cientistas
-  - profissionais da área
 
 
 # Pequisa com/sobre podcasts
