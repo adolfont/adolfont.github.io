@@ -110,7 +110,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Adolfo, Fabio, Leonardo, Gustavo, Marco Tulio
 - Inspirações:
   - Vídeos da Microsoft Research 
-  - https://www.ufrgs.br/luminapodcasts/site/index/fronteiras-da-ciencia 
+  - <https://www.ufrgs.br/luminapodcasts/site/index/fronteiras-da-ciencia> 
   - Software Engineering Radio podcast  https://www.se-radio.net/ 
     - Entrevista pessoas do mercado
   - Minhas entrevistas no podcast Professor Adolfo Neto e no Emílias Podcast
