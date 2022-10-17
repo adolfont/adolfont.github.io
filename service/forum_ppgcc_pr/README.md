@@ -122,6 +122,11 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 ![image](https://user-images.githubusercontent.com/79562/196234480-ddab3e28-1659-491b-9d5b-3c587631e594.png)
 
 
+# Acompanhar
+
+![Números do Fronteiras em 17/10/2022](https://user-images.githubusercontent.com/79562/196235159-f1fb197c-ed0c-429a-856d-07cad7d7801d.png)
+
+
 # Projetos Paralelos
 
 - [Fronteiras Live (Palestras do Fronteiras)](https://www.youtube.com/playlist?list=PLqYFZmKhrqupT8uSnbL8kpmJhq4f5DQoY)
