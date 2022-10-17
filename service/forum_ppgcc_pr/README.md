@@ -113,6 +113,11 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Coleta informal de ouvintes
   - Servidor no Discord
 
+# Contato
+
+- adolfo @ utfpr.edu.br
+- Twitter: @adolfont
+
 # Links
 
 - [Cerimônia de Abertura do CBSOFT 2022](https://youtu.be/cJTak2vWZWY)
