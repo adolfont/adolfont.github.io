@@ -56,6 +56,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
     - [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
   - Pesquisa:
     - [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
+    - TCCs
   - Extensão:
     - Emílias - Armação em Bits
       - [Emílias Podcast: Mulheres na Computação](https://anchor.fm/emilias-podcast)
@@ -81,7 +82,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 - Está na terceira temporada
 - Objetivo: ser um podcast para refletir sobre o presente e o futuro da engenharia de software. 
 - Entrevistamos pesquisadores da área e estes episódios são publicados mensalmente entre os dias **10** e 20 de cada mês. 
-- Apresentar a pesquisa feita por pesquisadores de nosso país tanto ao público acadêmico quanto ao público da indústria/mercado. 
+- Apresentar a pesquisa feita por pesquisadores de nosso país tanto ao público acadêmico quanto ao **público da indústria/mercado**. 
 - Equipe hoje e ao longo do tempo
 
 ## Um pouco da história da criação do podcast
@@ -114,6 +115,11 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 - Publicar
 - Divulgar
 - Acompanhar
+
+
+# Ecolher
+
+![image](https://user-images.githubusercontent.com/79562/196234480-ddab3e28-1659-491b-9d5b-3c587631e594.png)
 
 
 # Projetos Paralelos
