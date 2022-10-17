@@ -55,15 +55,17 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
     - [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
   - Pesquisa:
     - [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
-  - Extensão
+  - Extensão:
     - Emílias - Armação em Bits
       - [Emílias Podcast: Mulheres na Computação](https://anchor.fm/emilias-podcast)
     - [Professor Adolfo Neto](https://anchor.fm/emilias-podcast)
     - Fronteiras da Engenharia de Software
     - [Elixir em Foco](https://www.elixiremfoco.com/)
-  - Serviço
+    - YouTube, blogs, Twitter, Linkedin
+  - Serviço:
     - Coordenador do  [Mestrado Profissional em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/)
     - Membro do [WG de Educação da Erlang Ecosystem Foundation](https://erlef.org/wg/education)
+    - Eventos (revisor, organizador, etc.)
 
 # Links
 
