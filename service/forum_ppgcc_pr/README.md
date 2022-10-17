@@ -111,10 +111,10 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 - Inspirações:
   - Vídeos da Microsoft Research 
   - <https://www.ufrgs.br/luminapodcasts/site/index/fronteiras-da-ciencia> 
-  - Software Engineering Radio podcast  https://www.se-radio.net/ 
+  - Software Engineering Radio podcast  <https://www.se-radio.net/> 
     - Entrevista pessoas do mercado
   - Minhas entrevistas no podcast Professor Adolfo Neto e no Emílias Podcast
-  - Elixir podcasts https://elixirschool.com/en/podcasts 
+  - Elixir podcasts <https://elixirschool.com/en/podcasts> 
   - Podcasts para devs: Hipsters, Lambda3, Dev Sem Fronteiras e etc.
 
 - Desafios ao iniciar o projeto
@@ -177,8 +177,8 @@ E-mail, WhatsApp, Twitter
 
 Dois exemplos de roteiros públicos: 
 
-- Márcio Ribeiro (com anotações do entrevistado) https://bit.ly/RoteiroMarcioRibeiro
-- Igor Steinmacher  https://bit.ly/3QHoxaG.
+- Márcio Ribeiro (com anotações do entrevistado) <https://bit.ly/RoteiroMarcioRibeiro>
+- Igor Steinmacher  <https://bit.ly/3QHoxaG>.
 
 
 
@@ -189,9 +189,9 @@ Dois exemplos de roteiros públicos:
 ![Números do Fronteiras em 17/10/2022](https://user-images.githubusercontent.com/79562/196235159-f1fb197c-ed0c-429a-856d-07cad7d7801d.png)
 
 Números, Métricas:
-- https://anchor.fm/dashboard/analytics  
-- https://anchor.fm/dashboard/analytics/audience 
-- https://www.youtube.com/c/FronteirasdaEngenhariadeSoftware/videos  
+- <https://anchor.fm/dashboard/analytics>  
+- <https://anchor.fm/dashboard/analytics/audience> 
+- <https://www.youtube.com/c/FronteirasdaEngenhariadeSoftware/videos>  
 
 # Desafios
 
@@ -232,6 +232,10 @@ Números, Métricas:
 
 # Meus outros podcasts
 
+- [Emílias Podcast: Mulheres na Computação](https://anchor.fm/emilias-podcast)
+- [Elixir em Foco](elixiremfoco.com)
+- [Professor Adolfo Neto](elixiremfoco.com)
+- [Hello, Erlang!](https://helloerlang.github.io/)
 
 # Pequisa com/sobre podcasts
   - Coleta informal de ouvintes
@@ -242,9 +246,9 @@ Números, Métricas:
 # Contato
 
 - adolfo @ utfpr.edu.br
-- Twitter: @adolfont
+- Twitter: [@adolfont](http://twitter.com/adolfont)
 
-# Links
+# Links extras
 
 - [Cerimônia de Abertura do CBSOFT 2022](https://youtu.be/cJTak2vWZWY)
 - [Happy Hour da CEES/CBSOFT 2022](https://www.youtube.com/z-t41CCwggY)
