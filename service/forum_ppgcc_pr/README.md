@@ -17,8 +17,12 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 
 - Onde nasci?
 - Como iniciei na computação?
-  - Meu primeiro computador
-     - Minha primeira linguagem de programação
+  - O primeiro videogame que vi e joguei
+  - O segundo videogame que vi e joguei
+  - O primeiro videogame que tive
+  - O primeiro computador que vi
+  - [Meu primeiro computador](https://pt.wikipedia.org/wiki/Ringo_R-470)
+     - [Minha primeira linguagem de programação](https://pt.wikipedia.org/wiki/BASIC)
   - Meu segundo computador
      - Minha segunda linguagem de programação
   - Meu terceiro computador   
