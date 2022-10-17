@@ -96,8 +96,22 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Elixir podcasts https://elixirschool.com/en/podcasts 
   - Podcasts para devs: Hipsters, Lambda3, Dev Sem Fronteiras e etc.
 
+- Desafios ao iniciar o projeto
+  - Equipamento
+  - Edição
+  - Roteiro
+
+# Projetos Paralelos
+
+- [Fronteiras Live (Palestras do Fronteiras)](https://www.youtube.com/playlist?list=PLqYFZmKhrqupT8uSnbL8kpmJhq4f5DQoY)
+  - 7 até agora
+- Episódio narrativo (será que sai um dia?)
+  - Episódio sobre a história da Refatoração
 
 
+# Pequisa com/sobre podcasts
+  - Coleta informal de ouvintes
+  - Servidor no Discord
 
 # Links
 
