@@ -44,7 +44,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Mestrado em Ciência da Computação UFPE 1994-1997
   - ...
   - Doutorado em Ciência da Computação USP 2003-2007
-  - Ano sabático na North Carolina State University 2014-2015
+  - Ano sabático na North Carolina State University 2014-2015 (não foi pós-doutorado!)
 
 # Qual é minha atuação hoje em dia?
 
