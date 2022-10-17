@@ -87,7 +87,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 
 ## Equipe
 
-Equipe 
+
 ![Equipe](https://user-images.githubusercontent.com/79562/196235567-bdc99a53-739a-415e-bbe4-8c7633481b1c.png)
 
 
@@ -123,10 +123,35 @@ Equipe
 - Acompanhar
 
 
-# Ecolher
+# Escolher
 
 ![image](https://user-images.githubusercontent.com/79562/196234480-ddab3e28-1659-491b-9d5b-3c587631e594.png)
 
+# Convidar
+
+E-mail, WhatsApp, Twitter
+
+
+# Agendar
+
+- Doodle
+
+# Roteirizar
+
+Dois exemplos de roteiros públicos: 
+
+- Márcio Ribeiro (com anotações do entrevistado) https://bit.ly/RoteiroMarcioRibeiro
+- Igor Steinmacher  https://bit.ly/3QHoxaG.
+
+
+
+# Gravar
+
+# Editar
+
+# Publicar
+
+# Divulgar
 
 # Acompanhar
 
