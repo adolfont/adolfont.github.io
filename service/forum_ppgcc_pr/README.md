@@ -11,3 +11,9 @@ Link para a divulgação desta palestra: https://bit.ly/3D0T3IQ
 - Quem sou eu?
 - O que entendo por divulgação científica?
 - O que é o Fronteiras da Engenharia de Software?
+
+
+# Links
+
+- [Cerimônia de Abertura do CBSOFT 2022](https://youtu.be/cJTak2vWZWY)
+- [Happy Hour da CEES/CBSOFT 2022](https://www.youtube.com/z-t41CCwggY)
