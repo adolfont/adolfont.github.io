@@ -15,8 +15,13 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 
 # Quem sou eu?
 
-- Onde nasci?
-- Como iniciei na computação?
+- Onde nasci e cresci?
+- Onde morei?
+- Onde moro?
+- Hobbies
+
+
+# Como iniciei na computação?
   - [O primeiro videogame que vi e joguei](https://pt.wikipedia.org/wiki/Telejogo)
   - [O segundo videogame que vi e joguei](https://pt.wikipedia.org/wiki/Atari_2600)
   - [O primeiro videogame que tive](https://bojoga.com.br/artigos/dossie-retro/dactar-o-clone-e-seus-clones/)
@@ -28,6 +33,17 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - [Algoritmos Estruturados](https://www.amazon.com.br/Algoritmos-Estruturados-Harry-Farrer/dp/8521611803)
   - [Meu terceiro computador](https://www.hardware.com.br/guias/historia-processadores/286.html)
     - [Minha terceira linguagem de programação](https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o))   
+
+# Qual foi a minha formação?
+
+- Minha formação
+  - "Cursinho" de programação BASIC
+  - Bacharelado em Ciência da Computação UFAL 1990-1993
+  - Mestrado em Ciência da Computação UFPE 1994-1997
+  - ...
+  - Doutorado em Ciência da Computação USP 2003-2007
+
+# Qual é minha atuação hoje em dia?
 
 # Links
 
