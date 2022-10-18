@@ -13,9 +13,19 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 - Quem sou eu?
   - Como iniciei na computação?
   - Qual foi a minha formação?
+  - Qual é minha atuação hoje em dia?
+  - Minha pesquisa
 - O que entendo por divulgação científica?
 - O que é o Fronteiras da Engenharia de Software?
 - O processo do Fronteiras (de qualquer podcast de entrevistas?)
+- Desafios
+- Planos para o Futuro
+- Quem você quer ver/ouvir no Fronteiras?
+- Quer nos ajudar?
+- Projetos Paralelos
+- Meus outros podcasts
+- Pequisa com/sobre podcasts
+- Conclusão
 
 
 # Quem sou eu?
@@ -84,7 +94,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 
 
 
-#  O que entendo por divulgação científica?
+# O que entendo por divulgação científica?
 
  
 - [“Trazer a sociedade para perto da universidade” “Por exemplo, as pessoas vão saber por que que é importante tomar uma vacina”  23 de out. de 2019](https://www.youtube.com/watch?v=WNgwRFaewT8)
@@ -245,7 +255,12 @@ Números, Métricas:
   - Coleta informal de ouvintes
   - Servidor no Discord
 
- 
+# Conclusão
+
+- Fazer divulgação científica dá muito trabalho
+- Mas é bastante recompensador
+- Provavelmente seria bem melhor se tivéssemos profissionais da área de comunicação nos ajudando.
+
 
 # Contato
 
