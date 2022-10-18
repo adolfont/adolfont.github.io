@@ -1,11 +1,3 @@
----
-theme: gaia
-_class: lead
-paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
----
-
 # Divulgação Científica: a experiência do podcast Fronteiras da Engenharia de Software
 
 Adolfo Neto (UTFPR Curitiba) [https://linktr.ee/adolfont](https://linktr.ee/adolfont)
@@ -14,7 +6,7 @@ Adolfo Neto (UTFPR Curitiba) [https://linktr.ee/adolfont](https://linktr.ee/adol
 
 Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly/3D0T3IQ)
 
----
+
 
 # Roteiro
 
