@@ -137,7 +137,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 
 - Entrevistas mensais com pesquisadores (em geral de nível “Pleno”/”Senior”)  da área com foco em um tema.
 
-- Objetivo - levar o conhecimento científico para:
+- Objetivo: levar o conhecimento científico para:
   - outros cientistas
   - profissionais da área
 
@@ -268,5 +268,6 @@ Números, Métricas:
 
 # Links extras
 
+- [Interesse em receber e-mail sobre o Fronteiras da Engenharia de Software](https://docs.google.com/forms/d/e/1FAIpQLScQTDogeqModeizfaQZAYVwZ0q7jZ2BXXw96kfe-K4aJd1gng/viewform?usp=sf_link)
 - [Cerimônia de Abertura do CBSOFT 2022](https://youtu.be/cJTak2vWZWY)
 - [Happy Hour da CEES/CBSOFT 2022](https://www.youtube.com/z-t41CCwggY)
