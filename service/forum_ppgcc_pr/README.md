@@ -31,7 +31,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
 # Quem sou eu?
 
 - [Onde nasci e cresci?](https://www.google.com/search?q=maceio&sxsrf=ALiCzsYK6EhrkzGbBHj30b3YEfQ-qWhpXA:1666107523710&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjCt-6Yjur6AhVtl5UCHdGTBo4Q_AUoAnoECAEQBA&biw=1920&bih=899&dpr=1)
-- [Ond/moroe morei?](https://felt.com/map/Onde-morei-HrWbuuNlSUKvWq2NAH7OLD)
+- [Onde moro/morei?](https://felt.com/map/Onde-morei-HrWbuuNlSUKvWq2NAH7OLD)
 - [Hobbies](http://professoradolfo.blogspot.com/2015/10/barefoot-runners-from-brazil-corredores.html)
 
 
@@ -71,7 +71,7 @@ Link para a divulgação desta palestra: [https://bit.ly/3D0T3IQ](https://bit.ly
   - Extensão:
     - Emílias - Armação em Bits
       - [Emílias Podcast: Mulheres na Computação](https://anchor.fm/emilias-podcast)
-    - [Professor Adolfo Neto](https://anchor.fm/emilias-podcast)
+    - [Professor Adolfo Neto](https://anchor.fm/adolfont)
     - Fronteiras da Engenharia de Software
     - [Elixir em Foco](https://www.elixiremfoco.com/)
     - YouTube, blogs, Twitter, Linkedin
