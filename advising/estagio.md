@@ -19,6 +19,16 @@ no portal em http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/c
 
 Já os relatórios parciais são modelos institucionais, estão disponíveis no portal http://portal.utfpr.edu.br/estagios em modelos de documentos."
 
+# João Mathias Ravazzi Martins
+
+
+- Engenharia de Computação
+- Empresa: Data Driva
+- Início do Estágio: 10/11/2022
+- Término do Estágio: 10/05/2023
+- Processo SEI: 23064.021617/2022-33
+
+
 # Guilherme Liberio de Souza e Silva
 
 - Engenharia de Computação
