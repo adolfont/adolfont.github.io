@@ -1,0 +1,2 @@
+- 14/11/2022 [Banca Qualificação Adalberto Neris](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/adalberto/FMfcgzGqRGbwZWxFwzDZKFBmQbGvBxnF)
+- 11/2022 Code BEAM America 2022 - participação e palestra
