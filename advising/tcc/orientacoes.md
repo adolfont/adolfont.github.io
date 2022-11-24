@@ -1,5 +1,11 @@
 # Orientandos e orientandas
 
+## Trabalho de Graduação (TCC)
+
+- Lucas Tavano (defesa agendada)
+
+- [MATHEUS VINICIUS BARCARO TURATTI - EC](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRPzgJLhVBZjXNgvGRpgLBlSL)
+
 - Guilherme Feier Huff - Ciência da Computação - Campus Santa Helena - coorientação de "SCRUM: UM ESTUDO DE CASO APLICADO AO
 DESENVOLVIMENTO DA FERRAMENTA L-STYLE"
   - Orientadora: Profa. Dra. Giani Carla Ito
@@ -8,4 +14,3 @@ DESENVOLVIMENTO DA FERRAMENTA L-STYLE"
 
 ## Status 14-11-2022
 
-- [MATHEUS VINICIUS BARCARO TURATTI - EC](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRPzgJLhVBZjXNgvGRpgLBlSL)
