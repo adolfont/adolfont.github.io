@@ -13,7 +13,14 @@
 
 - 25 - 29/09 - Campo Grande-MS [CBSOFT 2023](https://twitter.com/FronteirasES/status/1578323530563080192?s=20&t=zltAnTb3XazIj9TPszX7Iw)
 
+## 2024
 
+## 2025
+
+## 2026
+
+
+- [ICSE 2026: Apr 2026, Rio de Janeiro, Brazil](http://www.icse-conferences.org/)
 
 ### Links
 - [Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/events/index.md)
