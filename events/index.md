@@ -14,7 +14,7 @@
 
 - 25 - 29/09 - Campo Grande-MS [CBSOFT 2023](https://twitter.com/FronteirasES/status/1578323530563080192?s=20&t=zltAnTb3XazIj9TPszX7Iw)
 
-- 19 - 20 Oct 2023 - Berlin, Germany [Code BEAM Europe 2023](https://www.eventbrite.co.uk/e/code-beam-europe-2023-in-person-tickets-416802205617)
+- 19 - 20 Oct - Berlin, Germany [Code BEAM Europe 2023](https://www.eventbrite.co.uk/e/code-beam-europe-2023-in-person-tickets-416802205617)
 
 
 ## 2024
