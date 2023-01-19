@@ -25,5 +25,8 @@
 - [ICSE 2026: Apr 2026, Rio de Janeiro, Brazil](http://www.icse-conferences.org/)
 
 ### Links
-- [Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/events/index.md)
+
+
+<!-- - [Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/events/index.md) -->
+
 - [Back to main page](https://adolfont.github.io/)
