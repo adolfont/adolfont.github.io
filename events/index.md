@@ -15,6 +15,8 @@
 
 ## 2024
 
+- [CBSOFT 2024, Curitiba, Brazil](https://twitter.com/adolfont/status/1578322538442391552)
+
 ## 2025
 
 ## 2026
