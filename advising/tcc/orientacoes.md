@@ -2,7 +2,7 @@
 
 ## Trabalho de Graduação (TCC)
 
-- Lucas Tavano (defesa agendada)
+- Lucas Tavano (finalizado em 2022)
 
 - [MATHEUS VINICIUS BARCARO TURATTI - EC](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRPzgJLhVBZjXNgvGRpgLBlSL)
 
