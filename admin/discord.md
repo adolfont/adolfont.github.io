@@ -6,6 +6,13 @@
 
 - [EEF WG EDU](https://app.slack.com/client/TETFVSQ69/G01Q7KGPZEJ?selected_team_id=TETFVSQ69)
 
+## E-mail
+ - [](http://gmail.com)
+   - adolfo.ut
+   - adolfo.us
+   - adolfont3 (newsletters)
+ - http://mail.yahoo.com 
+
 ## My podcasts
 
 - [Elixir em Foco](https://discord.com/channels/811620243528744984/811620243528744987)
