@@ -30,6 +30,9 @@ I co-organized the [10 Years of Elixir](https://adolfont.github.io/service/event
 
 ## Research-related
 
+[SQBS 2023](http://sbqs.sbc.org.br/2023/index.php/pt/comissao-organizadora) Publicity chair
+
+
 [CIbSE 2023](https://easychair.org/cfp/cibse_2023) Publicity Co-Chair
 
 
