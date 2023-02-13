@@ -14,6 +14,8 @@
 
 -  20 a 23 de setembro de 2023 https://sbmfc.org.br/17cbmfc/
 
+- 27 a 30 de setembro - FORPGC-PR em conjunto com o Workshop de Pesquisa em Computação dos Campos Gerais (http://www.wpccg.pro.br).
+
 - 25 - 29/09 - Campo Grande-MS [CBSOFT 2023](https://twitter.com/FronteirasES/status/1578323530563080192?s=20&t=zltAnTb3XazIj9TPszX7Iw)
 
 - 19 - 20 Oct - Berlin, Germany [Code BEAM Europe 2023](https://www.eventbrite.co.uk/e/code-beam-europe-2023-in-person-tickets-416802205617)
