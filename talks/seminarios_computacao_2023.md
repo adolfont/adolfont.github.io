@@ -1,3 +1,10 @@
 # Seminários em Computação 2023
 
-Adolfo
+
+## Quem sou eu
+
+## Formação
+
+## Pesquisas em Andamento
+
+## Iniciativas em Andamento
