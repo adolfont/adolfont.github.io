@@ -1,3 +1,3 @@
-# Seminários em Computaçã 2023
+# Seminários em Computação 2023
 
 Adolfo
