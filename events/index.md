@@ -12,13 +12,15 @@
   - [WASHES](https://sites.google.com/view/washes2023/chamada-de-trabalhos?pli=1) [2](https://www.instagram.com/p/CnkwxMNL-0R/) and [WIT](https://csbc.sbc.org.br/2023/wit-women-in-information-technology/)  
 - Aug/Sep [Elixir Conf 2023](https://elixirconf.com/) 
 
--  20 a 23 de setembro de 2023 https://sbmfc.org.br/17cbmfc/
+-  20 a 23 de setembro de 2023 [CBMFC](https://sbmfc.org.br/17cbmfc/)
 
-- 27 a 30 de setembro - FORPGC-PR em conjunto com o Workshop de Pesquisa em Computação dos Campos Gerais (http://www.wpccg.pro.br).
+- 27 a 30 de setembro - [FORPGC-PR em conjunto com o Workshop de Pesquisa em Computação dos Campos Gerais](http://www.wpccg.pro.br).
 
 - 25 - 29/09 - Campo Grande-MS [CBSOFT 2023](https://twitter.com/FronteirasES/status/1578323530563080192?s=20&t=zltAnTb3XazIj9TPszX7Iw)
 
 - 19 - 20 Oct - Berlin, Germany [Code BEAM Europe 2023](https://www.eventbrite.co.uk/e/code-beam-europe-2023-in-person-tickets-416802205617)
+
+- 7 a 10/11 - Brasília-DF Brazil [SQBS 2023](http://sbqs.sbc.org.br/2023/)
 
 
 ## 2024
