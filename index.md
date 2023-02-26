@@ -9,6 +9,8 @@ I am a member of the [Education, Training, & Adoption Working Group](https://erl
 
 I went to [Code BEAM America 2022](https://codebeamamerica.com/). 
 
+I gave a talk at [Code BEAM Lite A Coruña 2022](https://www.codebeamcorunha.es/en): [Aprendendo Erlang e Elixir através do Exercism e do Advent of Code](https://youtu.be/8GUbbFRwAxM).
+
 I gave a talk at [Code BEAM Europe 2022](https://www.eventbrite.com/cc/code-beam-europe-2022-90289?gclid=Cj0KCQiA37KbBhDgARIsAIzce17KNEGnfed-c8h8JiV8xiBVH4kiOtgPSHc8jyHTUAtDqwwzFTMGzj8aApWFEALw_wcB): [Learning Erlang and Elixir through Exercism and Advent of Code](https://www.youtube.com/watch?v=VGn2lmS1wbw).
 
 I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfoneto@bertha.social (Portuguese)</a> and
