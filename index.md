@@ -14,7 +14,7 @@ I gave a talk at [Code BEAM Lite A Coruña 2022](https://www.codebeamcorunha.es/
 I gave a talk at [Code BEAM Europe 2022](https://www.eventbrite.com/cc/code-beam-europe-2022-90289?gclid=Cj0KCQiA37KbBhDgARIsAIzce17KNEGnfed-c8h8JiV8xiBVH4kiOtgPSHc8jyHTUAtDqwwzFTMGzj8aApWFEALw_wcB): [Learning Erlang and Elixir through Exercism and Advent of Code](https://www.youtube.com/watch?v=VGn2lmS1wbw).
 
 I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfoneto@bertha.social (Portuguese)</a> and
-<a rel="me" href="https://genserver.social/@adolfont">@adolfont@genserver.social (English).</a>
+<a rel="me" href="https://genserver.social/adolfont">@adolfont@genserver.social (English).</a>
 
 
 <p align="center">
