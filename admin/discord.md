@@ -1,5 +1,6 @@
 # Discord/Slack Servers e outros
 
+- [Adobe Mic Check](https://podcast.adobe.com/miccheck)
 - [TODO](https://docs.google.com/document/d/1sF30vWSuwBxolGvtAv-Mhatv9sUIYCmd2WKxWd_Dzak/edit)
 
 ## Organizations
