@@ -2,7 +2,7 @@
 
 🇧🇷 🇵🇹 Neste podcast, eu entrevisto profissionais da área da computação e de áreas próximas. Meu objetivo é entender melhor como eles se interessaram pela sua atual profissão, como é seu dia-a-dia e quais são suas motivações, dificuldades e desafios.
 
-🇺🇸 🇬🇧 In this podcast, I interview professionals from the computing field and related areas. My goal is to better understand how they became interested in their current profession, what their daily routine is like, and what their motivations, difficulties, and challenges are.
+🇺🇸 🇬🇧 In this podcast (mostly in Portuguese), I interview professionals from the computing field and related areas. My goal is to better understand how they became interested in their current profession, what their daily routine is like, and what their motivations, difficulties, and challenges are.
 
 ## 🇧🇷 🇵🇹 Onde escutar / 🇺🇸 🇬🇧 Where to listen
 
