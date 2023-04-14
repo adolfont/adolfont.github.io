@@ -40,6 +40,8 @@ I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfone
 
 - [Podcasts](podcasts.md)
 
+- [Blogs](https://adolfont.github.io/extension/blogs/blogs)
+
 - [Service](service.md)
 
 Mailing address: Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901, Brazil.
