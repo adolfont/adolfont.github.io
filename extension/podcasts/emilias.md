@@ -17,5 +17,5 @@
 - [Pocket Casts](https://pca.st/xeh9ilis)
 - [RadioPublic](https://radiopublic.com/emlias-podcast-GyVZv4)
 - [Stitcher](https://www.stitcher.com/show/emilias-podcast)
-- [RSS](hhttps://anchor.fm/s/820ceb8/podcast/rss)
+- [RSS](https://anchor.fm/s/820ceb8/podcast/rss)
 - [YouTube](http://youtube.com/c/EmiliasArmacaoEmBits)
