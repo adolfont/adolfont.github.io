@@ -19,3 +19,13 @@
 - [Stitcher](https://www.stitcher.com/show/emilias-podcast)
 - [RSS](https://anchor.fm/s/820ceb8/podcast/rss)
 - [YouTube](http://youtube.com/c/EmiliasArmacaoEmBits)
+
+
+## 🇧🇷 🇵🇹 Alguns links antigos / 🇺🇸 🇬🇧 Some old links
+
+- [Lista completa de episódios do Emílias Podcast](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2020:lista_completa_de_episodios_do_emilias_podcast)
+- [Estatísticas Públicas dos Meus Podcasts (Emílias Podcast e Podcast do Professor Adolfo Neto](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2020:estatisticas_publicas_dos_meus_podcasts_emilias_podcast_e_podcast_do_professor_adolfo_neto)
+- [Detalhes do projeto Emílias Podcast](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2019:detalhes_do_projeto_emilias_podcast)
+- [Detalhes do projeto Emílias Programando](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2019:detalhes_do_projeto_emilias_programando)
+- [Emílias Podcast](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2019:emilias_podcast)
+- [Emílias Programando](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2019:emilias_programando)
