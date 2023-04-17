@@ -19,6 +19,7 @@
 - [Stitcher](https://www.stitcher.com/show/emilias-podcast)
 - [RSS](https://anchor.fm/s/820ceb8/podcast/rss)
 - [YouTube](http://youtube.com/c/EmiliasArmacaoEmBits)
+- [Webpage](https://utfpr.curitiba.br/emilias/projetos/podcast/)
 
 
 ## 🇧🇷 🇵🇹 Alguns links antigos / 🇺🇸 🇬🇧 Some old links
