@@ -2,13 +2,15 @@
 
 ## As main advisor
 
-### Lazaro de Almeida
+### Lazaro Benicio de Almeida
 
-- https://www.linkedin.com/in/lazarodealmeida/
-- Modelo de Contratação Ágil do Tribunal de Contas da União: Um Estudo de Caso Etnográfico
+- Lattes: http://lattes.cnpq.br/5319174043605154
+- Likedin: https://www.linkedin.com/in/lazarodealmeida/
+- Project: Modelo de Contratação Ágil do Tribunal de Contas da União: Um Estudo de Caso Etnográfico
 
 ## As co-advisor
 
-## Vladimir
+## Vladimir Belinski
 
-- ADoTe: Abordagem para o ensino e aprendizagem de critérios de teste da técnica funcional 
+- Main advidor: Maria Claudia Emer
+- Project: ADoTe: Abordagem para o ensino e aprendizagem de critérios de teste da técnica funcional 
