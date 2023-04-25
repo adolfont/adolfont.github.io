@@ -1,7 +1,8 @@
 # Master's students
 
-## Lazaro
+## Lazaro de Almeida
 
+- https://www.linkedin.com/in/lazarodealmeida/
 - Modelo de Contratação Ágil do Tribunal de Contas da União: Um Estudo de Caso Etnográfico
 
 ## Vladimir
