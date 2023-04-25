@@ -5,6 +5,8 @@ I do research on Knowledge Sharing between Software Engineers.
 
 My [Google Scholar profile](https://scholar.google.com.br/citations?user=R7hC3-wAAAAJ) show my most recent papers.
 
+[Empirical Software Engineering research group (in Portuguese)](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/area-academica/grupos-de-pesquisa-do-ppgca-ct/engenharia-de-software-empirica)
+
 
 ## Program Committes
 
