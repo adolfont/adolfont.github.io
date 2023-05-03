@@ -1,6 +1,6 @@
 # Podcasts e Vídeos de Extensão e Divulgação Científica em Engenharia de Software e Programação
 
-_Projeto submetido à UTFPR Curitiba e aprovado em abril de 2023._
+_Projeto submetido à UTFPR Curitiba e homologado em 2 de maio de 2023._
 
 O objetivo geral da atividade "Podcasts e Vídeos de Extensão e Divulgação Científica em Engenharia de Software e Programação" é promover a disseminação do conhecimento científico e tecnológico na área de Engenharia de Software e Programação por meio de conteúdos em áudio e/ou vídeo.
 
