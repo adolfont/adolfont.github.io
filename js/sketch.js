@@ -1,4 +1,3 @@
-var myCanvas = createCanvas(400, 400);
 
 function setup() {
   createCanvas(400, 400);
@@ -12,3 +11,6 @@ function draw() {
   }
   ellipse(mouseX, mouseY, 80, 80);
 }
+
+const canvas = createCanvasElement();
+document.body.appendChild(canvas);
