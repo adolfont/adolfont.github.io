@@ -1,7 +1,6 @@
 
 function setup() {
-  alert("oi");
-  createCanvas(800, 800);
+  createCanvas(400, 400);
 }
 
 function draw() {
