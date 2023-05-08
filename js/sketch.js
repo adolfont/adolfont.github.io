@@ -1,5 +1,6 @@
 
 function setup() {
+  alert("oi");
   createCanvas(800, 800);
 }
 
@@ -13,4 +14,4 @@ function draw() {
 }
 
 // const canvas = createCanvasElement();
-document.body.appendChild(canvas);
+// document.body.appendChild(canvas);
