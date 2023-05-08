@@ -12,5 +12,5 @@ function draw() {
   ellipse(mouseX, mouseY, 80, 80);
 }
 
-const canvas = createCanvasElement();
+// const canvas = createCanvasElement();
 document.body.appendChild(canvas);
