@@ -1,1 +1,2 @@
 - https://filegpt.app/
+- http://chatpdf.com
