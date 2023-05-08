@@ -1,7 +1,7 @@
 const ripples = [];
   
       function setup() {
-        createCanvas(windowWidth, windowWidth);
+        createCanvas(windowWidth, windowHeight);
         stroke(255);
         noFill();
         for (let i = 0; i < 10; i++) {
