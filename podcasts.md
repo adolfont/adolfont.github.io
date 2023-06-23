@@ -1,8 +1,9 @@
 # Podcasts
 
 <p align="center">
-  <img src="/images/fes.png" width="20%" title="hover text">
-  <img src="/images/fes.png" width="30%" alt="accessibility text">
+  <img src="/images/fes.png" width="20%" title="Fronteiras da Engenharia de Software" alt="Fronteiras da Engenharia de Software">
+  <img src="/images/emilias.png" width="20%" title="Emílias Podcast"  alt="Emílias Podcast">
+  <img src="/images/elixir.png" width="20%" title="Elixir em Foco" alt="Elixir em Foco">
 </p>
 
 
