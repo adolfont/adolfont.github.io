@@ -1,7 +1,7 @@
 # Podcasts
 
 
-<img src="/images/fes.png" alt= “Logo for the 'Fronteiras da Engenharia de Software' podcast.” width="200" height="200">
+<img src="/images/fes.png" alt= “Logo for the 'Fronteiras da Engenharia de Software' podcast.” width="30%" height="30%" />
 
 
 I have my own podcast ([Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)) and I am part of the team of three other podcasts:
