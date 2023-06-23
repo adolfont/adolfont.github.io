@@ -1,6 +1,6 @@
 # Podcasts
 
-![Logo for the "Fronteiras da Engenharia de Software" podcast](/image/fes.png "Logo for the 'Fronteiras da Engenharia de Software' podcast.").
+![Logo for the "Fronteiras da Engenharia de Software" podcast](./image/fes.png "Logo for the 'Fronteiras da Engenharia de Software' podcast.").
 
 I have my own podcast ([Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)) and I am part of the team of three other podcasts:
 - [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast)
