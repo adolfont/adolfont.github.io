@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://fronteirases.github.io/"><img src="/images/fes.png" width="20%" title="Fronteiras da Engenharia de Software" alt="Fronteiras da Engenharia de Software"></a>
-  <img src="/images/elixiremfoco.jpg" width="20%" title="Elixir em Foco" alt="Elixir em Foco">
+  <a href="https://www.elixiremfoco.com/"><img src="/images/elixiremfoco.jpg" width="20%" title="Elixir em Foco" alt="Elixir em Foco"></a>
   <img src="/images/emilias.jpg" width="20%" title="Emílias Podcast"  alt="Emílias Podcast">
 </p>
 
