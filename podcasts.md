@@ -1,5 +1,9 @@
 # Podcasts
 
+<p align="center">
+  <img src="/images/fes.png" width="350" title="hover text">
+  <img src="/images/fes.png" width="350" alt="accessibility text">
+</p>
 
 <img src="/images/fes.png" alt= “Logo for the 'Fronteiras da Engenharia de Software' podcast.” width="30%" height="30%" />
 
