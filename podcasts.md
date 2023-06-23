@@ -1,11 +1,10 @@
 # Podcasts
 
 <p align="center">
-  <img src="/images/fes.png" width="350" title="hover text">
-  <img src="/images/fes.png" width="350" alt="accessibility text">
+  <img src="/images/fes.png" width="20%" title="hover text">
+  <img src="/images/fes.png" width="30%" alt="accessibility text">
 </p>
 
-<img src="/images/fes.png" alt= “Logo for the 'Fronteiras da Engenharia de Software' podcast.” width="30%" height="30%" />
 
 
 I have my own podcast ([Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)) and I am part of the team of three other podcasts:
