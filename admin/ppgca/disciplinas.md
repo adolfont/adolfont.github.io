@@ -15,3 +15,8 @@ As ofertas de disciplinas do PPGCA estão em:
 ### Ofertas dos programas parceiros
 
 - [PPGI UTFPR Cornélio Procópio (disciplinas em geral são online)](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgi-cp) - [Segundo semestre de 2023](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgi-cp/destaques/inscricoes-para-alunos-externos-no-1o-semestre-de-2023-ppgi)
+
+
+### Disciplinas Tranversais da UFPR
+
+- [Segundo semestre de 2023](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/destaques/fase-1-de-2023-do-ppgca-ct)
