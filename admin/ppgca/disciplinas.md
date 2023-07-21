@@ -22,4 +22,4 @@ As ofertas de disciplinas do PPGCA estão em:
 
 ### Disciplinas Tranversais da UFPR
 
-- [Segundo semestre de 2023](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/destaques/fase-1-de-2023-do-ppgca-ct)
+- [Segundo semestre de 2023](http://www.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/proppg/stricto-sensu/disciplinas-institucionais/transversais_ufpr)
