@@ -33,6 +33,7 @@ I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfone
 - [About](about.md)
 
 - [Research](research.md)
+  - [My Lattes CV (in Portuguese)](https://bit.ly/3Q8VS1n) 
 
 - [Teaching](teaching.md)
 
