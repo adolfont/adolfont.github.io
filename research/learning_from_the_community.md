@@ -14,6 +14,11 @@
 - On Twitter (or X), use the following hashtags:
   - #MyElixirStatus
   - #WeBEAMtogether
-  - #ElixirLang 
+  - #ElixirLang
+ 
+
+### Mastodon
+
+- [Genserver Social](https://genserver.social/) - "GenServer Social: A place for Erlang / Elixir folks to hangout in the Fedi but all are welcome."
 
 
