@@ -19,6 +19,6 @@
 
 ### Mastodon
 
-- [Genserver Social](https://genserver.social/) - "GenServer Social: A place for Erlang / Elixir folks to hangout in the Fedi but all are welcome."
+- [Genserver Social](https://genserver.social/) - "A place for Erlang / Elixir folks to hangout in the Fedi but all are welcome."
 
 
