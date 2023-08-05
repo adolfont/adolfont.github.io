@@ -11,11 +11,15 @@
 
 ## Social Networks
 
+
+### Twitter (X)
+
 - On Twitter (or X), use the following hashtags:
   - #MyElixirStatus
   - #WeBEAMtogether
   - #ElixirLang
- 
+
+- José Valim has a Twitter profile but he announced he ["will try to stay on the sky app"](https://archive.is/7mOZa).
 
 ### Mastodon
 
