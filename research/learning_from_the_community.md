@@ -1,4 +1,5 @@
-# Here
+# Learning Elixir with the help of the community
 
 
-- https://www.youtube.com/watch?v=04WxqkCJ5ko
+
+- [Live with Adolfo Neto and Gustavo Oliveira](https://www.youtube.com/watch?v=04WxqkCJ5ko)
