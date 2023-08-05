@@ -5,7 +5,9 @@ I am an Associate Professor at the [Federal University of Technology, Paraná](h
 
 I am co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast.
 
-I am a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).🆕
+I am a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
+
+🆕 I am organizing [Elixir Fortaleza Conf 2023](https://elixiremfoco.github.io/elixirfortaleza/index_en).
 
 I went to [Code BEAM America 2022](https://codebeamamerica.com/). 
 
