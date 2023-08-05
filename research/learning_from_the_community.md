@@ -22,3 +22,13 @@
 - [Genserver Social](https://genserver.social/) - "A place for Erlang / Elixir folks to hangout in the Fedi but all are welcome."
 
 
+## Communication Apps
+
+### Discord
+
+![Elixir Language Discord Server](https://github.com/adolfont/adolfont.github.io/assets/79562/26a08ebf-29c0-4f3e-9413-f24024eeb70f)
+
+
+- [Elixir Language Discord Server](https://discord.gg/elixir)
+
+
