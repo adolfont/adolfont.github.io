@@ -4,7 +4,8 @@
   - If you want to join to elxpro: [https://go.hotmart.com/F73840549I](https://go.hotmart.com/F73840549I)
  
 ## What's new!
-
+- [Elixir Fortaleza Conf 2023](https://elixiremfoco.github.io/elixirfortaleza/index_en)
+- [Code BEAM Europe 2023](https://codebeameurope.com/)
 - CODE BEAM AMERICA RETURNS MARCH 2024! [https://codebeamamerica.com/](https://codebeamamerica.com/)
 - [Elixir Safari (Elixir Conf Africa) (q9th June - 23rd June 2024)](https://elixirconf.africa/)
 
