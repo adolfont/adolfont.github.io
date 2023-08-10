@@ -20,6 +20,7 @@ He is at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfon
 
 He is at BlueSky as @adolfont.bsky.social.
 
+His emails are adolfo AT utfpr.edu.br and adolfo.utfpr AT gmail.com.
 
 <p align="center">
 	<a href="https://twitter.com/adolfont">
