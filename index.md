@@ -9,7 +9,9 @@ He is a member of the [Education, Training, & Adoption Working Group](https://er
 
 🆕 He is organizing [Elixir Fortaleza Conf 2023](https://elixiremfoco.github.io/elixirfortaleza/index_en).
 
-He went to [Code BEAM America 2022](https://codebeamamerica.com/). 
+[Projetos de Adolfo Neto: his Substack blog in Portuguese](https://adolfon.substack.com/)
+
+He gave a talk at [Code BEAM America 2022](https://codebeamamerica.com/). 
 
 He gave a talk at [Code BEAM Lite A Coruña 2022](https://www.codebeamcorunha.es/en): [Aprendendo Erlang e Elixir através do Exercism e do Advent of Code](https://youtu.be/8GUbbFRwAxM).
 
