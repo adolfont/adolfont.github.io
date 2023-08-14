@@ -11,7 +11,7 @@
 - Programação:
   - Palestra 1 (a confirmar)
   - _Lightning talks_ (quem estiver presente poderá falar por 5 minutos)
-- Quer participar? [Responda este formulário!](https://docs.google.com/forms/d/e/1FAIpQLSdGd1Q74FspR1HFCDbVOn2WxRjsA48wpV2SN6tu8OyQjHBFjw/viewform?usp=sf_link)
+- Quer participar? [Responda a este formulário!](https://docs.google.com/forms/d/e/1FAIpQLSdGd1Q74FspR1HFCDbVOn2WxRjsA48wpV2SN6tu8OyQjHBFjw/viewform?usp=sf_link)
 
 
 ## Apoio
