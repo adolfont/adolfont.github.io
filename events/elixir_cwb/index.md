@@ -1,6 +1,6 @@
 # Elixir CWB 
 
-
+- Junte-se a nós no Telegram: [https://t.me/elixir_cwb](https://t.me/elixir_cwb)
 
 ## Histórico
 
