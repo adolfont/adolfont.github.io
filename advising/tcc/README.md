@@ -7,13 +7,16 @@
 - Avaliar o impacto de Coding Dojos, Hackathons na aprendizagem de linguagens de programação e práticas ágeis.
   - Aqui um [trabalho recente de um aluno de mestrado sobre o uso de Coding Dojos no ensino](http://riut.utfpr.edu.br/jspui/handle/1/4486). 
 - Avaliar o impacto de podcasts na inclusão de mulheres e minorias na Computação
-  - Este trabalho já tem uma dupla fazendo, mas podemos explorar outros aspectos. 
+  - Este trabalho já tem uma dupla fazendo, mas podemos explorar outros aspectos. Esta pesquisa não envolve escrever programas.
 - Lógica e Aprendizagem de Lógica
   - Um exemplo de trabalho nesta linha: [ANITA, a Assistente de Provas para Tablôs Analíticos](https://www.youtube.com/watch?v=CbjYClMLiFI). Será que dá pra fazer melhor? Será que dá pra fazer uma interface gráfica que entenda uma demonstração em tablôs analíticos? Este trabalho envolve lógica e programação.
 - Programação Funcional
-- 
+  - Não tenho nada muito claro aqui, mas estou aberto a ideias que envolvam o paradigma de programação funcional. 
 - Como desenvolvedores de software se mantém atualizados
+  - Todo mundo sabe que o que se aprende na graduação não vai ser o suficiente para o resto da sua carreira. Como as pessoas que estão no mercado fazem? Como elas se atualizam? Esta pesquisa não envolve escrever programas.
 - Métodos e Práticas Ágeis no Desenvolvimento de Software
+  - Existem vários métodos (Scrum, Extreme Programming) e práticas (TDD, Refatoração, Programação Pareada) que já foram e continuam sendo estudadas por pessoas pesquisadoras das mais diversas formas. Um exemplo é este artigo: [The effects of test driven development on internal quality, external quality and productivity: A systematic review](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=hnQ42HEAAAAJ&citation_for_view=hnQ42HEAAAAJ:d1gkVwhDpl0C), escrito por 
+Wilson Bissi (hoje diretor do EBANX), eu e a pŕofessora Maria Claudia Emer. O artigo foi publicado numa revista internacional (Information and Software Technology) e já tem mais de 90 citações. Este tipo de pesquisa geralmente não envolve programação.
 
 ## Trabalhos de Conclusão de Curso já orientados por mim 
 
