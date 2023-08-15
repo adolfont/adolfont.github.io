@@ -17,6 +17,9 @@
 - **Métodos e Práticas Ágeis** no Desenvolvimento de Software
   - Existem vários métodos (Scrum, Extreme Programming) e práticas (TDD, Refatoração, Programação Pareada) que já foram e continuam sendo estudadas por pessoas pesquisadoras das mais diversas formas. Um exemplo é este artigo: [The effects of test driven development on internal quality, external quality and productivity: A systematic review](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=hnQ42HEAAAAJ&citation_for_view=hnQ42HEAAAAJ:d1gkVwhDpl0C), escrito por 
 Wilson Bissi (hoje diretor do EBANX), eu e a pŕofessora Maria Claudia Emer. O artigo foi publicado numa revista internacional (Information and Software Technology) e já tem mais de 90 citações. Este tipo de pesquisa geralmente não envolve programação.
+- **Inclusão de Mulheres na Computação**. Tenho trabalhado com o Programa de Extensão [Emílias Armação em Bits](https://emiliasutfpr.github.io/) desde 2019. Um artigo recente publicado por nós foi [Despertando o Interesse de Mulheres para os Cursos em STEM](https://arxiv.org/abs/2305.18600). Há muita literatura sobre esforços de inclusão de mulheres e minorias na computação. Uma das atividades que faço é o Emílias Podcast - Mulheres na Computação, em [áudio](https://podcasters.spotify.com/pod/show/emilias-podcast) e [vídeo](https://www.youtube.com/@EmiliasArmacaoEmBits). É uma linha de pesquisa com muitas possibilidades e que não envolve programação. 
+
+
 
 ## Trabalhos de Conclusão de Curso já orientados por mim 
 
