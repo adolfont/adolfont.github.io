@@ -18,6 +18,7 @@ Elixir \|> CWB é o grupo de pessoas interessadas em Elixir, Erlang e linguagens
     - Palestrante: [Elias Dal Ben Arruda](https://github.com/eliasdarruda). Um dev entusiasta em programação distribuida e que gosta de sofrer com problemas não convencionais.
     - Saiba mais sobre o projeto Spawn em [Projeto Spawn e comunidade eigr com Adriano Santos](https://podcasters.spotify.com/pod/show/elixiremfoco/episodes/22--Projeto-Spawn-e-comunidade-eigr-com-Adriano-Santos-e1ss450/a-a7j9ovj)
   - _Lightning talks_ (quem estiver presente poderá falar por 5 minutos)
+    - Diogo Dourado: [Dependency inversion on Elixir using Ports and Adapters design pattern](https://dev.to/dcdourado/dependency-inversion-on-elixir-using-ports-and-adapters-design-pattern-4k3f)
 - Quer participar? [Responda a este formulário!](https://docs.google.com/forms/d/e/1FAIpQLSdGd1Q74FspR1HFCDbVOn2WxRjsA48wpV2SN6tu8OyQjHBFjw/viewform?usp=sf_link)
 - Há uma possibilidade de que haja transmissão ao vivo do evento. Se isto acontecer, será em [https://www.youtube.com/watch?v=yE_uWbPEWnI](https://www.youtube.com/watch?v=yE_uWbPEWnI).
 - Em caso de dúvida, envie um e-mail para adolfo AT utfpr.edu.br.
