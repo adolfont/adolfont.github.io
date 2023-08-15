@@ -4,6 +4,11 @@ Elixir \|> CWB é o grupo de pessoas interessadas em Elixir, Erlang e linguagens
 
 ## Encontro de 23/08/2023
 
+<figure>
+  <img src="events/elixir_cwb/img/20230823.jpg" alt="Elixir |\> CWB 23/08/2023">
+  <figcaption>Elixir |\> CWB 23/08/2023</figcaption>
+</figure>
+
 - Dia: 23/08/2023
 - Horário: das 19h00 às 21h00
 - Local: sala CA-001 da Sede Centro da [UTFPR Curitiba](https://utfpr.edu.br/curitiba). Endereço: [Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901](https://www.google.com/maps/place/Universidade+Tecnol%C3%B3gica+Federal+do+Paran%C3%A1+%7C+Curitiba+Campus+-+Sede+Centro/@-25.4392702,-49.2713997,17z/data=!3m1!4b1!4m6!3m5!1s0x94dce465f9b0c855:0xda22d429219f2f12!8m2!3d-25.4392751!4d-49.2688248!16s%2Fm%2F0ct2ky6?entry=ttu)
