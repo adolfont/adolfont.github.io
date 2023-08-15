@@ -5,7 +5,7 @@ Elixir \|> CWB é o grupo de pessoas interessadas em Elixir, Erlang e linguagens
 ## Encontro de 23/08/2023
 
 <figure>
-  <img src="img/20230823.png" alt="Elixir |\> CWB 23/08/2023">
+  <img src="img/20230823.png" alt="Poster Elixir |\> CWB 23/08/2023" width="50%" >
 </figure>
 
 - Dia: 23/08/2023
