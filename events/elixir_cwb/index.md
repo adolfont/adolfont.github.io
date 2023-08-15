@@ -15,6 +15,7 @@ Elixir \|> CWB é o grupo de pessoas interessadas em Elixir, Erlang e linguagens
     - Saiba mais sobre o projeto Spawn em [Projeto Spawn e comunidade eigr com Adriano Santos](https://podcasters.spotify.com/pod/show/elixiremfoco/episodes/22--Projeto-Spawn-e-comunidade-eigr-com-Adriano-Santos-e1ss450/a-a7j9ovj)
   - _Lightning talks_ (quem estiver presente poderá falar por 5 minutos)
 - Quer participar? [Responda a este formulário!](https://docs.google.com/forms/d/e/1FAIpQLSdGd1Q74FspR1HFCDbVOn2WxRjsA48wpV2SN6tu8OyQjHBFjw/viewform?usp=sf_link)
+- Em caso de dúvida, envie um e-mail para adolfo AT utfpr.edu.br.
 
 
 ## Apoio
