@@ -1,6 +1,6 @@
 # Elixir \|> CWB 
 
-- Junte-se a nós no Telegram: [https://t.me/elixir_cwb](https://t.me/elixir_cwb)
+Elixir \|> CWB é o grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) de Curitiba e região. Junte-se a nós no Telegram: [https://t.me/elixir_cwb](https://t.me/elixir_cwb)
 
 ## Encontro de 23/08/2023
 
