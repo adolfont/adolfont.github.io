@@ -15,11 +15,15 @@
 - Como desenvolvedores de software se mantém atualizados
 - Métodos e Práticas Ágeis no Desenvolvimento de Software
 
-## Trabalhos já orientados 
+## Trabalhos de Conclusão de Curso já orientados por mim 
 
 - [Comparando Elixir e Python ao trabalhar com redes neurais simples, Lucas Tavano (Engenharia de Computação)](https://youtu.be/g5XK6ePQzNo) - Este trabalho foi apresentado em evento internacional ([Code BEAM America 2022](https://dev.to/adolfont/comparing-elixir-and-python-when-working-with-simple-neural-networks-37d7) e foi também tema de um episódio de podcast: [Elixir em Foco 29. Redes Neurais com Nx em Elixir, com Lucas Tavano (SWAP)
 ](https://www.youtube.com/watch?v=BgpaTZXDKrY).
+- [Otimização de métodos de prova em tablôs KE através da aplicação de uma heurística baseada em algoritmos genéticos](http://riut.utfpr.edu.br/jspui/handle/1/9277)
 
+## Meus e-mails para contato
+
+Além de adolfo AT utfpr.edu.br, vocês podem tentar o adolfo.utfpr AT gmail.com caso o da UTFPR não funcione.
 
 [Back to main page]({{ site.url }}/)
 
