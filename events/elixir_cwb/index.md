@@ -9,7 +9,9 @@
 - Local: sala CA-001 da Sede Centro da [UTFPR Curitiba](https://utfpr.edu.br/curitiba). Endereço: [Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901](https://www.google.com/maps/place/Universidade+Tecnol%C3%B3gica+Federal+do+Paran%C3%A1+%7C+Curitiba+Campus+-+Sede+Centro/@-25.4392702,-49.2713997,17z/data=!3m1!4b1!4m6!3m5!1s0x94dce465f9b0c855:0xda22d429219f2f12!8m2!3d-25.4392751!4d-49.2688248!16s%2Fm%2F0ct2ky6?entry=ttu)
 - Organização: Adolfo Neto
 - Programação:
-  - Palestra 1 (a confirmar)
+  - Palestra:
+    - Título: [Spawn](https://github.com/eigr/spawn) - Indo além de GenServers
+    - Palestrante: Elias Dal Ben Arruda. Um dev entusiasta em programação distribuida e que gosta de sofrer com problemas não convencionais.
   - _Lightning talks_ (quem estiver presente poderá falar por 5 minutos)
 - Quer participar? [Responda a este formulário!](https://docs.google.com/forms/d/e/1FAIpQLSdGd1Q74FspR1HFCDbVOn2WxRjsA48wpV2SN6tu8OyQjHBFjw/viewform?usp=sf_link)
 
