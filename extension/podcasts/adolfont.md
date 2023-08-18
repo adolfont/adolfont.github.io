@@ -16,3 +16,4 @@
 - [RadioPublic](https://radiopublic.com/professor-adolfo-neto-8Xg12e)
 - [RSS](https://anchor.fm/s/10f2ba74/podcast/rss)
 - [YouTube - alguns episódios, com vídeos das entrevistas](https://www.youtube.com/playlist?list=PLF5ttO8F-IsSl1zRpP521vBVWGsCeRbEy)
+- [Headliner](https://play.headliner.app/podcast/14766)
