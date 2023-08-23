@@ -2,8 +2,8 @@
 
 Ao longo dos anos tenho ministrado palestras e cursos de Introdução a Elixir e Erlang.
 
-Se vocẽ entende inglês, pode fazer aulas ao vivo e online comigo. Instruções em [CAES005 - Introduction to Functional Programming
-]([https://github.com/adolfont/caes005-introduction-to-functional-programming](https://bit.ly/45lIvzN)).
+Se voc^ entende inglês, pode fazer aulas ao vivo e online comigo. Instruções em [CAES005 - Introduction to Functional Programming
+](https://bit.ly/45lIvzN).
 
 Se você prefere aulas gravadas e um curso completo, eu tenho parceria com o [ELX Pro (link de afiliado - se você se inscrever por ele eu ganho uma comissão)](https://go.hotmart.com/F73840549I?dp=1), do Gustavo Oliveira.
 
