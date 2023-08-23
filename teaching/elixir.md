@@ -1,4 +1,4 @@
-# Ensino de Elixir
+# Ensino de Elixir (e Erlang)
 
 Ao longo dos anos tenho ministrado palestras e cursos de Introdução a Elixir.
 
