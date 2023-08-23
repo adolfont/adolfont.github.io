@@ -1,6 +1,6 @@
 # Ensino de Elixir (e Erlang)
 
-Ao longo dos anos tenho ministrado palestras e cursos de Introdução a Elixir e Erlang.
+Ao longo dos anos tenho ministrado palestras e cursos de introdução a Elixir e Erlang.
 
 Se você entende inglês, pode fazer aulas ao vivo e online comigo. Instruções em [CAES005 - Introduction to Functional Programming
 ](https://bit.ly/45lIvzN).
