@@ -1,6 +1,8 @@
-# Elixir \|> CWB 
+# Meetup Elixir \|> CWB 
 
 Elixir \|> CWB é o grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) de Curitiba e região. Junte-se a nós no Telegram: [https://t.me/elixir_cwb](https://t.me/elixir_cwb)
+
+PS: Antigamente tínhamos um grupo em meetup.com, mas este teve que ser fechado por conta dos custos de manutenção da conta. Todo o histórico foi perdido.
 
 ## Encontro de 23/08/2023
 
