@@ -22,4 +22,11 @@ São 10 minutos para explicar por que aprender, não para aprender.
 {% include youtube.html id="cPyW7uXNEPY" %}
 
 
+## Use o Exercism!
+
+Recomendo fortemente que você use o Exercism no seu processo de aprendizado de Elixir.
+
+{% include youtube.html id="6tJMP5UobqU" %}
+
+
 
