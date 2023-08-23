@@ -28,5 +28,23 @@ Recomendo fortemente que você use o Exercism no seu processo de aprendizado de 
 
 {% include youtube.html id="6tJMP5UobqU" %}
 
+## Curso de Elixir (Emílias Programando)
+
+Vídeos curtos de 2020. Alguns podem estar desatualizados.
+
+{% include youtube.html id="gJ-1xUlD8sY" %}
+
+{% include youtube.html id="jqj0b75UDI" %}
+
+
+{% include youtube.html id="jf4xvVjZ_VU" %}
+
+{% include youtube.html id="Jk7uatUvg5c" %}
+
+
+### Live de 2020
+
+{% include youtube.html id="wJoo7Yicu5g" %}
+
 
 
