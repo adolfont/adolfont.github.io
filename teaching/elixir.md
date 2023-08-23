@@ -42,6 +42,21 @@ Vídeos curtos de 2020. Alguns podem estar desatualizados.
 {% include youtube.html id="Jk7uatUvg5c" %}
 
 
+## Aprenda um pouco de Erlang
+
+### Primeira aula
+
+{% include youtube.html id="pSlcmfQS4EU" %}
+
+
+### Playlist 
+
+
+[Eternamente em construção](https://youtube.com/playlist?list=PLF5ttO8F-IsTided30sMhUx-5Rfyeur65)
+
+
+
+
 ### Live de 2020
 
 {% include youtube.html id="wJoo7Yicu5g" %}
