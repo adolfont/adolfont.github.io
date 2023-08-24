@@ -5,6 +5,14 @@ Ao longo dos anos tenho ministrado palestras e cursos de introdução a Elixir e
 Se você entende inglês, pode fazer aulas ao vivo e online comigo. Instruções em [CAES005 - Introduction to Functional Programming
 ](https://bit.ly/45lIvzN).
 
+[Clique aqui e assine meu canal em português no YouTube.](https://www.youtube.com/@AdolfoNeto?sub_confirmation=1)
+
+[Clique aqui e assine o canal do podcast Elixir em Foco.](https://www.youtube.com/@elixiremfoco?sub_confirmation=1)
+
+[Clique aqui e assine meu canal em inglês no YouTube.](https://www.youtube.com/@ElixirAdolfont?sub_confirmation=1)
+
+
+
 Se você prefere aulas gravadas e um curso completo, eu tenho parceria com o [ELX Pro (link de afiliado - se você se inscrever por ele eu ganho uma comissão)](https://go.hotmart.com/F73840549I?dp=1), do Gustavo Oliveira.
 
 
