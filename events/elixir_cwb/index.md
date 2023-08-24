@@ -30,6 +30,11 @@ PS: Antigamente tínhamos um grupo em meetup.com, mas este teve que ser fechado 
 - Quer participar? [Responda a este formulário!](https://docs.google.com/forms/d/e/1FAIpQLSdGd1Q74FspR1HFCDbVOn2WxRjsA48wpV2SN6tu8OyQjHBFjw/viewform?usp=sf_link). _14 pessoas inscritas até 22/08/2023 13:47._
 - Em caso de dúvida, envie um e-mail para adolfo AT utfpr.edu.br.
 
+### O meme de Ruby + Erlang = Elixir
+
+![Elixir](https://github.com/adolfont/adolfont.github.io/assets/79562/7c759edd-cbd6-405e-b8d0-ad73718ba78d)
+
+
 
 ## Apoio
 
