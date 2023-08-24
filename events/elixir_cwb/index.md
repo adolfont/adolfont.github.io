@@ -10,6 +10,10 @@ PS: Antigamente tínhamos um grupo em meetup.com, mas este teve que ser fechado 
   <img src="img/20230823.png" alt="Poster Elixir |\> CWB 23/08/2023" width="50%" >
 </figure>
 
+- Novo! [Fotos do evento](https://photos.app.goo.gl/NT2qqwyedTZ48cRx5)
+- Gravação do evento, que foi transmitido ao vivo em [https://www.youtube.com/watch?v=yE_uWbPEWnI](https://www.youtube.com/watch?v=yE_uWbPEWnI). Houve um problema com o áudio no começo, mas logo foi resolvido.
+- Quantidade de participantes: aproximadamente 30.
+
 - Dia: 23/08/2023
 - Horário: das 19h00 às 21h00
 - Local: sala CA-001 da Sede Centro da [UTFPR Curitiba](https://utfpr.edu.br/curitiba). Endereço: [Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901](https://www.google.com/maps/place/Universidade+Tecnol%C3%B3gica+Federal+do+Paran%C3%A1+%7C+Curitiba+Campus+-+Sede+Centro/@-25.4392702,-49.2713997,17z/data=!3m1!4b1!4m6!3m5!1s0x94dce465f9b0c855:0xda22d429219f2f12!8m2!3d-25.4392751!4d-49.2688248!16s%2Fm%2F0ct2ky6?entry=ttu)
@@ -20,9 +24,10 @@ PS: Antigamente tínhamos um grupo em meetup.com, mas este teve que ser fechado 
     - Palestrante: [Elias Dal Ben Arruda](https://github.com/eliasdarruda). Um dev entusiasta em programação distribuida e que gosta de sofrer com problemas não convencionais.
     - Saiba mais sobre o projeto Spawn em [Projeto Spawn e comunidade eigr com Adriano Santos](https://podcasters.spotify.com/pod/show/elixiremfoco/episodes/22--Projeto-Spawn-e-comunidade-eigr-com-Adriano-Santos-e1ss450/a-a7j9ovj)
   - _Lightning talks_ (quem estiver presente poderá falar por 5 minutos)
+    - Adolfo Neto: [Ensinando Elixir e Erlang](https://adolfont.github.io/teaching/elixir) 
     - Diogo Dourado: [Dependency inversion on Elixir using Ports and Adapters design pattern](https://dev.to/dcdourado/dependency-inversion-on-elixir-using-ports-and-adapters-design-pattern-4k3f)
+
 - Quer participar? [Responda a este formulário!](https://docs.google.com/forms/d/e/1FAIpQLSdGd1Q74FspR1HFCDbVOn2WxRjsA48wpV2SN6tu8OyQjHBFjw/viewform?usp=sf_link). _14 pessoas inscritas até 22/08/2023 13:47._
-- Há uma possibilidade de que haja transmissão ao vivo do evento. Se isto acontecer, será em [https://www.youtube.com/watch?v=yE_uWbPEWnI](https://www.youtube.com/watch?v=yE_uWbPEWnI).
 - Em caso de dúvida, envie um e-mail para adolfo AT utfpr.edu.br.
 
 
