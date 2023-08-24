@@ -42,6 +42,7 @@ PS: Antigamente tínhamos um grupo em meetup.com, mas este teve que ser fechado 
 - [Mestrado Profissional do Programa de Pós-Graduação em Computação Aplicada](https://ppgca.ct.utfpr.edu.br/) -- Mestrado profissional público e gratuito da Universidade Tecnológica Federal do paraná (UTFPR).
 - [Podcast Fronteiras da Engenharia de Sofwtare](https://fronteirases.github.io/) -- Um podcast para refletir sobre o presente e o futuro da engenharia de software que entrevista pessoas pesquisadoras da área.
 - [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias)
+- [Erlang Ecosystem Foundation](https://erlef.org/)
 
 ## Histórico
 
