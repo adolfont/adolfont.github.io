@@ -11,6 +11,8 @@ He is a member of the [Education, Training, & Adoption Working Group](https://er
 
 [Projetos de Adolfo Neto: his Substack blog in Portuguese](https://adolfon.substack.com/)
 
+[Ensino de Elixir e Erlang - page in Portuguese about my teaching initiatives on Elixir and Erlang](https://bit.ly/3YWTXQ0)
+
 He gave a talk at [Code BEAM America 2022](https://codebeamamerica.com/). 
 
 He gave a talk at [Code BEAM Lite A Coruña 2022](https://www.codebeamcorunha.es/en): [Aprendendo Erlang e Elixir através do Exercism e do Advent of Code](https://youtu.be/8GUbbFRwAxM).
