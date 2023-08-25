@@ -3,7 +3,7 @@
 
 Adolfo Neto is an Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english). His research interests are software development communities and agile methods. His latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao).
 
-He is co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. He is also co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast.
+He is co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. He is also co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast (now on pause).
 
 He is a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
 
