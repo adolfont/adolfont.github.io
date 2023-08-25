@@ -1,4 +1,4 @@
-# Pessoas produzindo conteúdo sobre IA em português
+# Conteúdo sobre IA em português
 
 - [Coluna de Marcelo Finger sobre Inteligência Artificial na Rádio Eldorado](https://adolfon.substack.com/p/coluna-de-marcelo-finger-sobre-inteligencia)
 - [Blog de Gustavo Pinto sobre Aprendizagem de Máquina para Engenharia de Software](https://ml4se.substack.com/)
