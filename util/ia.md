@@ -8,3 +8,4 @@
 - Episódios "Hipsters Fora de Controle" do podcast [Hipsters.Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf)
 - [Podcast Vida com IA](https://open.spotify.com/show/3yeqOp2pZKdqX5Qa3jY6Jz)
 - [Podcast The Shift](https://theshift.info/podcasts/)
+- [Inteligência Artificial Aplicada no Programação Dinâmica](https://youtube.com/playlist?list=PL5TJqBvpXQv6EuU821pKje6q-yfPMO8re&si=Qk8FW60IE3mLbS7m)
