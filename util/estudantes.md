@@ -4,6 +4,8 @@ _Adaptei. Tirei o bom. Propositalmente misturei os gêneros._
 
 _Em alguns lugares troquei "bons alunos" por "estudantes que se empenham mais", para que a frase fizesse sentido._
 
+Postado em https://bertha.social/@adolfoneto/110964052180950922
+
 Estudantes são pessoas muito chatas. Eles e elas são arrogantes, pretensiosas, vem nos incomodar nas nossas salas,  fazem perguntas que não sabemos responder, 
 são exigentes e, em última análise, ameaçam nossas posições  acadêmicas e nossas convicções democráticas e igualitárias.  Depois de muitos anos de experiências acumuladas por mim e por meus e minhas colegas,  resolvi elaborar este decálogo, que espero contribua para eliminar tão perniciosa casta de nossa Universidade.
 
