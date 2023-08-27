@@ -1,5 +1,9 @@
 # Como desestimular estudantes
 
+Adaptei. Tirei o bom. Propositalmente misturei os gêneros.
+
+Em alguns lugares troquei "bons alunos" por "estudantes que se empenham mais", para que a frase fizesse sentido.
+
 Estudantes são pessoas muito chatas. Eles e elas são arrogantes, pretensiosas, vem nos incomodar nas nossas salas,  fazem perguntas que não sabemos responder, 
 são exigentes e, em última análise, ameaçam nossas posições  acadêmicas e nossas convicções democráticas e igualitárias.  Depois de muitos anos de experiências acumuladas por mim e por meus e minhas colegas,  resolvi elaborar este decálogo, que espero contribua para eliminar tão perniciosa casta de nossa Universidade.
 
@@ -11,43 +15,46 @@ são exigentes e, em última análise, ameaçam nossas posições  acadêmicas e
 
 2. Comece suas aulas às 8 horas e termine às 10 horas, sem intervalo, e 
 queixe-se de que não dá tempo de dar tudo o que voce sabe. Não dê tempo aos
- bons alunos para refletir ou questionar. Lembre sempre que o objetivo de 
+ estudantes para refletir ou questionar. Lembre sempre que o objetivo de 
 sua aula é mostrar que voce sabe muito mais que eles. Não vacile: humilhe 
-os bons, para que aprendam.
+os(as) estudantes, para que aprendam.
  
 3. Suas provas devem ser metade muito fáceis e metade muito difíceis. O 
-objetivo é que, na medida do possível, todos os alunos tirem nota 5, o que 
-contentará os medíocres e diminuirá a vaidade dos bons. Se algum aluno bom,
- motivado pelo desafio, faz as questões difíceis e não tem tempo para as fáceis,
+objetivo é que, na medida do possível, todas as estudantes tirem nota 5, o que 
+contentará os medíocres e diminuirá a vaidade das estudantes. Se alguma estudante,
+ motivada pelo desafio, faz as questões difíceis e não tem tempo para as fáceis,
  seja inflexível: dê nota 5 para ele.
- 
+
+
+ // ATÉ AQUI
+
 4. Suas provas devem ser longas, porque a velocidade é democrática. Aplique 
 provas longas que possam ser resolvidas decorando 13 fórmulas adequadas às 
-palavras chave das perguntas. Alunos bons podem pretender deduzir as fórmulas, 
-mas não terão tempo. Zero neles. 
+palavras chave das perguntas. Estudantes podem pretender deduzir as fórmulas, 
+mas não terão tempo. Zero nelas. 
  
 5. Aplique provas onde a segunda questão dependa da conta feita na primeira, 
 a terceira da conta da segunda, e assim por diante. Ficam muito elegantes, e 
-mostram sua imaginação e compreensão global do tema. A vantagem é que um aluno
- bom pode errar na primeira conta e tirar zero em conseqüência, o que aumentará
- muito sua reputação de professor rigoroso.
+mostram sua imaginação e compreensão global do tema. A vantagem é que uma estudante
+pode errar na primeira conta e tirar zero em conseqüência, o que aumentará
+ muito sua reputação de professora rigorosa.
  
-6. Jamais devolva as provas corrigidas para seus alunos. Os alunos bons podem 
+6. Jamais devolva as provas corrigidas para seus estudantes. Os estudantes podem 
 pretender estudar erros e aprender com eles no dia seguinte. Quem sabe até 
 encontram um erro seu. A justificativa para esta atitude é simples: um 
 estudante da Universidade de Utrecht, em 1734, reclamou da nota que tinha 
 tirado na prova de Anatomia 23 anos antes e, como 
 o professor não guardava a cópia, a Universidade foi obrigada a trocar sua 
-nota, de 5 para 6. Não há registros do nome desse estudante, mas todos sabem 
+nota, de 5 para 6. Não há registros do nome dessa estudante, mas todos sabem 
 que foi assim mesmo.
  
-7. Como você não devolve as provas, será fácil abaixar alguns pontos na nota dos alunos bons, por motivos fúteis. Faça com que o processo de revisão seja  o mais constrangedor possível, para que o aluno se envergonhe de pretender saber por que tirou 9 e não 10, e aceite o desconto nivelador. Marque uma reunião na sua sala para todas as revisões, chegue atrasado, e garanta uma boa fila: o aluno se sentirá mal de se queixar do 9 quando seus colegas estão se queixando do 3.
+7. Como você não devolve as provas, será fácil abaixar alguns pontos na nota dos estudantes, por motivos fúteis. Faça com que o processo de revisão seja  o mais constrangedor possível, para que a estudante se envergonhe de pretender saber por que tirou 9 e não 10, e aceite o desconto nivelador. Marque uma reunião na sua sala para todas as revisões, chegue atrasado, e garanta uma boa fila: o estudante se sentirá mal de se queixar do 9 quando seus colegas estão se queixando do 3.
  
-8. Os trabalhos em grupo são uma boa oportunidade de infernizar a vida dos  alunos bons. Nunca coloque os alunos bons no mesmo grupo: eles podem se  potencializar e ficar melhores ainda. Coloque o aluno bom com colegas bem fraquinhos e chatinhos, de maneira que ele tenha que fazer tudo e sofra. 
+8. Os trabalhos em grupo são uma boa oportunidade de infernizar a vida das estudantes. Nunca coloque as estudantes que se empenham mais no mesmo grupo: eles podem se  potencializar e ficar melhores ainda. Coloque a estudante que se empenha mais com estudante que se empenham menos, de maneira que ele tenha que fazer tudo e sofra. 
  
-9. Os painéis nos congressos de iniciação científica também são uma excelente  oportunidade de desestimular alunos bons. Passeie entre os painéis admirando aqueles posters que incluem texturas coloridas, relevos, e os mais avançados  meios de apresentação computacional e posterológica. Despreze posters apressados e manuscritos. Não deixe de enfatizar que, nesta etapa da vida, é mais importante a forma que o conteúdo. 
+9. Os painéis nos congressos de iniciação científica também são uma excelente  oportunidade de desestimular estudantes que se empenham mais. Passeie entre os painéis admirando aqueles posters que incluem texturas coloridas, relevos, e os mais avançados  meios de apresentação computacional e posterológica. Despreze pôsteres apressados e manuscritos. Não deixe de enfatizar que, nesta etapa da vida, é mais importante a forma que o conteúdo. 
  
-10. Nas reuniões de departamento, defenda sempre as propostas mais burocráticas e  formais. Pré-requisitos, horários rígidos, barreiras para trancamento e mudança  de turma. Proponha, sempre, incluir mais disciplinas no seu curso. É  necessário ter os alunos bons bastante ocupados com bobagens formais, para que não perguntem.
+10. Nas reuniões de departamento, defenda sempre as propostas mais burocráticas e  formais. Pré-requisitos, horários rígidos, barreiras para trancamento e mudança  de turma. Proponha, sempre, incluir mais disciplinas no seu curso. É  necessário ter os estudantes que se empenham mais bastante ocupados com bobagens formais, para que não perguntem.
  
 
 
