@@ -23,9 +23,6 @@ contentará os medíocres e diminuirá a vaidade das estudantes. Se alguma estud
  motivada pelo desafio, faz as questões difíceis e não tem tempo para as fáceis,
  seja inflexível: dê nota 5 para ele.
 
-
- // ATÉ AQUI
-
 4. Suas provas devem ser longas, porque a velocidade é democrática. Aplique 
 provas longas que possam ser resolvidas decorando 13 fórmulas adequadas às 
 palavras chave das perguntas. Estudantes podem pretender deduzir as fórmulas, 
