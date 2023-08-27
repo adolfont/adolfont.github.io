@@ -11,8 +11,6 @@ são exigentes e, em última análise, ameaçam nossas posições  acadêmicas e
 1. Mostre-se sempre infeliz. Esteja triste e desanimado. Diga, nas suas aulas, que a carreira acadêmica não vale a pena, e que as perspectivas de emprego sao remotas. Insista em que a Universidade está sucateada ou que está dominada por caciques impenetráveis, segundo sua preferência. Insinue sempre que eles escolheram de maneira errada sua profissão e que aquele seu colega de escola que era bem burrinho e vagabundo ganha muito mais que você. Fomente a ideia de que, no mercado de trabalho, o que mais importa é saber inglês e se dar bem na entrevista. Jamais deixe escapar que o conhecimento e a pesquisa fornecem momentos de autêntica alegria.
 
 
- // ATÉ AQUI
-
 2. Comece suas aulas às 8 horas e termine às 10 horas, sem intervalo, e 
 queixe-se de que não dá tempo de dar tudo o que voce sabe. Não dê tempo aos
  estudantes para refletir ou questionar. Lembre sempre que o objetivo de 
