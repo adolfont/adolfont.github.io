@@ -1,11 +1,7 @@
 # Como desestimular estudantes
 
-Estudantes são muito chatos. Eles e elas são arrogantes, pretensiosas,  
-vem nos incomodar nas nossas salas, 
-fazem perguntas que não sabemos  responder, 
-são exigentes e, em última análise, ameaçam nossas posições  acadêmicas e nossas convicções democráticas e igualitárias. 
-Depois de muitos anos de experiências acumuladas por mim e por meus colegas, 
-resolvi elaborar este decálogo, que espero contribua para eliminar tão perniciosa casta de nossa Universidade.
+Estudantes são pessoas muito chatas. Eles e elas são arrogantes, pretensiosas, vem nos incomodar nas nossas salas,  fazem perguntas que não sabemos responder, 
+são exigentes e, em última análise, ameaçam nossas posições  acadêmicas e nossas convicções democráticas e igualitárias.  Depois de muitos anos de experiências acumuladas por mim e por meus colegas,  resolvi elaborar este decálogo, que espero contribua para eliminar tão perniciosa casta de nossa Universidade.
 
 // ATÉ AQUI
  
