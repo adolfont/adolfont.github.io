@@ -36,6 +36,14 @@ Wilson Bissi (hoje diretor do EBANX), eu e a pŕofessora Maria Claudia Emer. O a
 - [Ferramenta para o apoio ensino-aprendizagem do modelo orientado a objetos durante a construção do diagrama de classes, Claudio Felisbino](http://repositorio.utfpr.edu.br/jspui/handle/1/3933)
 - [Priorização de testes de sistema automatizados por meio de grafos de chamadas, Jader Meros](http://repositorio.utfpr.edu.br/jspui/handle/1/1849)
 - [WS-TDD: uma abordagem ágil para o desenvolvimento de serviços WEB, Wilson Bissi](http://repositorio.utfpr.edu.br/jspui/handle/1/1829)
+- [Teste baseado em defeitos para ambientes de data warehouse, Itelvina Silva de Oliveira](http://repositorio.utfpr.edu.br/jspui/handle/1/1413)
+- [Abordagem para a elicitação de requisitos de software baseada em modelo de processo de negócio, Marcos Chiarello](http://repositorio.utfpr.edu.br/jspui/handle/1/882)
+- [Programação em par: investigando sua eficácia perante tarefas de modelagem e construção de software, Vagner Lima](http://repositorio.utfpr.edu.br/jspui/handle/1/736)
+- [A influência do dojo de programação no ensino de práticas ágeis, Ramiro Batista da Luz](http://repositorio.utfpr.edu.br/jspui/handle/1/735)
+
+
+
+
 
 
 
