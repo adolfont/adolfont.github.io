@@ -1,4 +1,4 @@
-# Sugestões de temas para orientação de TCC
+# Sugestões de temas para orientação de TCC e/ou Mestrado/Doutorado
 
 - Avaliação das bibliotecas de **Aprendizagem de Máquina** ([Nx](https://github.com/elixir-nx/nx) e outras) em Elixir
   - O desenvolvimento de bibliotecas de Machine Learning em Elixir está bastante ativo. São muitas as possibilidade de trabalho. Entre em contato caso queira conciliar um tema da moda (Aprendizagem de Máquina) com desenvolvimento na linguagem [Elixir](https://elixir-lang.org/), criada pelo brasileiro José Valim ([uma das linguagens mais amadas e que melhor pagam no mundo](https://elixirforum.com/t/stack-overflow-developer-survey-2023/55803/24)). Esta pesquisa envolve programar bastante.
