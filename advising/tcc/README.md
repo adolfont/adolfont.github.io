@@ -34,6 +34,10 @@ Wilson Bissi (hoje diretor do EBANX), eu e a pŕofessora Maria Claudia Emer. O a
 - [Short Datathon para o desenvolvimento interdisciplinar de habilidades de análise e visualização de dados, Myrian Salinas](http://repositorio.utfpr.edu.br/jspui/handle/1/4318)
 - [Jogo sério para ensino e prática de detecção de outliers](http://repositorio.utfpr.edu.br/jspui/handle/1/3933)
 - [Ferramenta para o apoio ensino-aprendizagem do modelo orientado a objetos durante a construção do diagrama de classes, Claudio Felisbino](http://repositorio.utfpr.edu.br/jspui/handle/1/3933)
+- [Priorização de testes de sistema automatizados por meio de grafos de chamadas, Jader Meros](http://repositorio.utfpr.edu.br/jspui/handle/1/1849)
+- [WS-TDD: uma abordagem ágil para o desenvolvimento de serviços WEB, Wilson Bissi](http://repositorio.utfpr.edu.br/jspui/handle/1/1829)
+
+
 
 
 ## Meus e-mails para contato
