@@ -32,6 +32,7 @@ Wilson Bissi (hoje diretor do EBANX), eu e a pŕofessora Maria Claudia Emer. O a
 - [Combinando Planning Poker e aprendizado de máquina para estimar esforço de software, Doglas Finco](http://repositorio.utfpr.edu.br/jspui/handle/1/27930)
 - [DAPROG: dojo de aprendizagem de programação de computadores, Paulo Cezar de Oliveira](http://repositorio.utfpr.edu.br/jspui/handle/1/4486)
 - [Short Datathon para o desenvolvimento interdisciplinar de habilidades de análise e visualização de dados, Myrian Salinas](http://repositorio.utfpr.edu.br/jspui/handle/1/4318)
+- [Jogo sério para ensino e prática de detecção de outliers](http://repositorio.utfpr.edu.br/jspui/handle/1/3933)
 
 
 ## Meus e-mails para contato
