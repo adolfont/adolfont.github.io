@@ -27,6 +27,13 @@ Wilson Bissi (hoje diretor do EBANX), eu e a pŕofessora Maria Claudia Emer. O a
 ](https://www.youtube.com/watch?v=BgpaTZXDKrY).
 - [Otimização de métodos de prova em tablôs KE através da aplicação de uma heurística baseada em algoritmos genéticos](http://riut.utfpr.edu.br/jspui/handle/1/9277)
 
+## Trabalhos de Mestrado já orientados ou coorientados por mim 
+
+- [Combinando Planning Poker e aprendizado de máquina para estimar esforço de software, Doglas Finco](http://repositorio.utfpr.edu.br/jspui/handle/1/27930)
+- [DAPROG: dojo de aprendizagem de programação de computadores, Paulo Cezar de Oliveira](http://repositorio.utfpr.edu.br/jspui/handle/1/4486)
+- [Short Datathon para o desenvolvimento interdisciplinar de habilidades de análise e visualização de dados, Myrian Salinas](http://repositorio.utfpr.edu.br/jspui/handle/1/4318)
+
+
 ## Meus e-mails para contato
 
 Além de adolfo AT utfpr.edu.br, vocês podem tentar o adolfo.utfpr AT gmail.com caso o da UTFPR não funcione.
