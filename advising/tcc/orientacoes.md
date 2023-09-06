@@ -3,6 +3,7 @@
 
 ## 2023-09-06
 
+- Gabriely Simette: [Métodos Ágeis E Questões De Gênero: Percepções De Mulheres Inseridas Em Times Ágeis De Tecnologia](https://drive.google.com/file/d/1nnVHf4s_O7SKojZCa-EHHGDbmhfd5p3l/view)
 - Renan Nunes Avila: [O Impacto Dos Podcasts De Tecnologia No Desenvolvimento Profissional De Programadores: Uma Análise Exploratória](https://mail.google.com/mail/u/0/#inbox/FMfcgzGtwzkltfDBRHkCBpLgsqgzCqbX)
 
 ## (ANTIGO) Trabalho de Graduação (TCC)
