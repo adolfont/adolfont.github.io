@@ -12,3 +12,11 @@ Link: [https://curiosum.com/meetups/elixir](https://curiosum.com/meetups/elixir)
 [Linkedin](https://www.linkedin.com/in/adolfont/)
 
 [Webpage](http://adolfont.github.io/)
+
+## The course
+
+## The syllabus
+
+## The target audience
+
+## The goals
