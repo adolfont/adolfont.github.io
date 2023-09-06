@@ -1,6 +1,6 @@
 # TEACHING FUNCTIONAL PROGRAMMING WITH ELIXIR
 
-- 13.09.2023
+- September 13th, 2023
 - 18:00 (CET)
 
 Adolfo Neto is an Associate Professor at the Federal University of Technology, Paraná. His research interests are software development communities and agile methods. He is co-creator and co-host of the Fronteiras da Engenharia de Software podcast, the Elixir em Foco podcast, and Emílias Podcast - Women in Computing, all in Portuguese. He is also co-creator and co-host of the Hello, Erlang! podcast (now on pause). He has been studying Elixir since 2018.
