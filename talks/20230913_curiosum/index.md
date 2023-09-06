@@ -1,3 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Awesome Presentation</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
 # TEACHING FUNCTIONAL PROGRAMMING WITH ELIXIR
 
 - September 13th, 2023
@@ -13,17 +36,25 @@ Link: [https://curiosum.com/meetups/elixir](https://curiosum.com/meetups/elixir)
 
 [Webpage](http://adolfont.github.io/)
 
+
+---
+
 ## The course
 
 
 [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming)
 
+---
 
 ## The syllabus
 
 Functional Programming: concepts and main Languages. Functions: functions as first class citizens, named functions and anonymous functions, currying, modules. Pattern Matching. Data structures and immutability. Recursion. Collection processing. Lazy evaluation. Control flow. Project implementation involving a functional language. Overview of functional languages for concurrency.
 
+---
+
 ## The target audience
+
+---
 
 ## Learning Objectives
 
@@ -33,3 +64,8 @@ At the end of this course, you will be able to:
 - describe and discuss the main functional programming concepts 
 - apply the main functional programming concepts in your programs
 - describe the main features of a concurrent functional programming language
+
+
+---
+
+# The end
