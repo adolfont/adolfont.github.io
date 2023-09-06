@@ -21,7 +21,7 @@
 
 class: center, middle
 
-<!-- HELP https://github.com/githubtraining/slideshow-on-pages/blob/master/index.html -->
+<!-- HELP https://github.com/githubtraining/slideshow-on-pages https://github.com/githubtraining/slideshow-on-pages/blob/master/index.html -->
 
 # TEACHING FUNCTIONAL PROGRAMMING WITH ELIXIR
 
