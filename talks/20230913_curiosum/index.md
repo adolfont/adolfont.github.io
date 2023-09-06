@@ -8,3 +8,7 @@ Adolfo Neto is an Associate Professor at the Federal University of Technology, P
 About the presentation: Software developers are invited to contribute to the development of a course on functional programming that uses Elixir as its main language. This talk explores the use of Elixir as a functional programming language, discussing its benefits and drawbacks for teaching. Your insights and experiences will be crucial in shaping a curriculum that imparts functional programming concepts effectively, using Elixir as a tool to enhance understanding. Your participation will help ensure the course aligns with the needs and expectations of fellow developers in the field.
 
 Link: [https://curiosum.com/meetups/elixir](https://curiosum.com/meetups/elixir)
+
+[Linkedin](https://www.linkedin.com/in/adolfont/)
+
+[Webpage](http://adolfont.github.io/)
