@@ -1,6 +1,11 @@
 # Orientandos e orientandas
 
-## Trabalho de Graduação (TCC)
+
+## 2023-09-06
+
+- Renan Nunes Avila: [O Impacto Dos Podcasts De Tecnologia No Desenvolvimento Profissional De Programadores: Uma Análise Exploratória](https://mail.google.com/mail/u/0/#inbox/FMfcgzGtwzkltfDBRHkCBpLgsqgzCqbX)
+
+## (ANTIGO) Trabalho de Graduação (TCC)
 
 - [Aplicação web para ministrar aulas a professores de línguas estrangeiras](https://mail.google.com/mail/u/0/#inbox/FMfcgzGrbHxvZhSLDFRdflnwxXMqpWpq)
 
