@@ -21,6 +21,8 @@
 
 class: center, middle
 
+<!-- HELP https://github.com/githubtraining/slideshow-on-pages/blob/master/index.html -->
+
 # TEACHING FUNCTIONAL PROGRAMMING WITH ELIXIR
 
 - September 13th, 2023
