@@ -15,8 +15,21 @@ Link: [https://curiosum.com/meetups/elixir](https://curiosum.com/meetups/elixir)
 
 ## The course
 
+
+[Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming)
+
+
 ## The syllabus
+
+Functional Programming: concepts and main Languages. Functions: functions as first class citizens, named functions and anonymous functions, currying, modules. Pattern Matching. Data structures and immutability. Recursion. Collection processing. Lazy evaluation. Control flow. Project implementation involving a functional language. Overview of functional languages for concurrency.
 
 ## The target audience
 
-## The goals
+## Learning Objectives
+
+
+At the end of this course, you will be able to:
+- solve problems using a functional programming language of your choice
+- describe and discuss the main functional programming concepts 
+- apply the main functional programming concepts in your programs
+- describe the main features of a concurrent functional programming language
