@@ -25,8 +25,7 @@ class: center, middle
 
 # TEACHING FUNCTIONAL PROGRAMMING WITH ELIXIR
 
-- September 13th, 2023
-- 18:00 (CET)
+September 13th, 2023, 18:00 (CET)
 
 Link: [https://curiosum.com/meetups/elixir](https://curiosum.com/meetups/elixir)
 
