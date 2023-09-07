@@ -16,3 +16,6 @@
 - Presenter, producer, ... at Emílias Podcast
 
 ## Administrator
+
+- Vice coordinator
+- President of two commissions
