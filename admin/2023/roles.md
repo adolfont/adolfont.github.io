@@ -11,4 +11,8 @@
 
 ## Extensionist
 
+- Presenter, producer, ... at Fronteiras
+- Presenter, producer, ... at Elixir em Foco
+- Presenter, producer, ... at Emílias Podcast
+
 ## Administrator
