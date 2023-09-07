@@ -15,6 +15,11 @@
 - Presenter, producer, ... at Elixir em Foco
 - Presenter, producer, ... at Emílias Podcast
 
+## Orgs
+
+- Elixir CWB
+- EEF
+
 ## Administrator
 
 - Vice coordinator
