@@ -42,7 +42,7 @@ His emails are adolfo AT utfpr.edu.br and adolfo.utfpr AT gmail.com.
 
 
 ***
-
+## Links
 
 - [Adolfo Neto's page at UTFPR](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo)
 
