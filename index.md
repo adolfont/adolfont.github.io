@@ -35,6 +35,13 @@ His emails are adolfo AT utfpr.edu.br and adolfo.utfpr AT gmail.com.
   </a>
 </p>
 
+***
+## Events
+
+- [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://bit.ly/48x2e1b) - Mon 6 - Fri 10 May 2024 Curitiba, Brazil. [I am one of the EIbAIS Chairs](https://bit.ly/458bsOH)
+
+
+***
 
 
 - [Adolfo Neto's page at UTFPR](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo)
