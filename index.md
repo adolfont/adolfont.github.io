@@ -61,4 +61,4 @@ His emails are adolfo AT utfpr.edu.br and adolfo.utfpr AT gmail.com.
 
 - [Service](service.md)
 
-Mailing address: Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901, Brazil.
+Mailing address: Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901, Brazil. (DAINF, Bloco B, sala CB101bi)
