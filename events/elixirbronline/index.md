@@ -1,3 +1,12 @@
+<HEAD>
+  <meta property=’og:title’ content='Meetup Elixir Brasil Online '/>
+<meta property=’og:image’ content='https://adolfont.github.io/events/elixirbronline/img/18102023.png’/>
+<meta property=’og:description’ content='O meetup Elixir Brasil Online é um grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). '/>
+<meta property=’og:url’ content='[URL OF YOUR WEBSITE](https://adolfont.github.io/events/elixirbronline/)'/>
+<meta property='og:image:width' content='393' />
+<meta property='og:image:height' content='393' />
+</HEAD>
+
 # Meetup Elixir Brasil Online 
 
 O meetup Elixir Brasil Online é um grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). 
