@@ -1,16 +1,9 @@
 ---
-layout:       page
 title:        Meetup Elixir Brasil Online 
-date:         2018-11-11 17:48:01 +0200
-lang:         pt
-categories:   events
-tags:
-  - Elixir
-  - Erlang
 image:
     path: img/18102023.png
-    width: 400
-    height: 400
+    width: 397
+    height: 397
 ---
 # Meetup Elixir Brasil Online 
 
