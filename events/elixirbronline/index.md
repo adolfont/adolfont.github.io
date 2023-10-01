@@ -8,7 +8,7 @@ tags:
   - Elixir
   - Erlang
 image:
-    path: events/elixirbronline/img/18102023.png
+    path: img/18102023.png
     width: 400
     height: 400
 ---
