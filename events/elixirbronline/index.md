@@ -1,6 +1,6 @@
 # Meetup Elixir Brasil Online 
 
-Elixir Brasil Online é o grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). 
+O meetup Elixir Brasil Online é um grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). 
 
 Estamos começando as atividades em 2023. Durante a pandemia, aconteceram eventos online (Elixir Brasil e  Code BEAM Brasil) e o meetup do [Elug CE](https://elug-ce.github.io/). A ideia deste meetup é ser um evento online regular que permita a participação de pessoas que estão em todas as cidades do Brasil e também no exterior.
 
@@ -9,12 +9,11 @@ Junte-se à comunidade Elixir Brasil no Telegram: [https://t.me/elixirbr](https:
 
 ## Encontro de 18/10/2023
 
-<!-- 
+
 <figure>
-  <img src="img/20230823.png" alt="Poster Elixir |\> CWB 23/08/2023" width="50%" >
+  <img src="img/18102023.png" alt="Poster Elixir Brasil Online 18/10/2023" width="50%" >
 </figure>
 
--->
 
 - Dia: 18/10/2023
 - Horário: das 19h00 às 21h00
