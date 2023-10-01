@@ -20,7 +20,8 @@ Junte-se à comunidade Elixir Brasil no Telegram: [https://t.me/elixirbr](https:
 - Horário: das 19h00 às 21h00
 - Link: (em breve - envie email para elixiremfoco AT gmail.com para ser avisado/a) 
 - Organização: Adolfo Neto
-- Programação (em construção):
+
+### Programação (em construção):
 
 - 19h00-19h10 Abertura e avisos
 
