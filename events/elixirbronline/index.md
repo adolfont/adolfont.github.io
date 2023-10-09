@@ -24,7 +24,7 @@ Junte-se à comunidade Elixir Brasil no Telegram: [https://t.me/elixirbr](https:
 
 - Dia: 18/10/2023
 - Horário: das 19h00 às 21h00
-- Link: (em breve - envie email para elixiremfoco AT gmail.com para ser avisado/a) 
+- Você tem interesse em participar do meetup Elixir Brasil Online? Se sim, preencha [este formulário](https://docs.google.com/forms/d/e/1FAIpQLSfLkQ6HEijaYb5TjtJgPKyvBvM-SWEAyF-NT2LzQCLqWWaSSg/viewform?usp=sf_link) para receber o link.
 - Organização: Adolfo Neto
 
 ### Programação (em construção):
