@@ -1,13 +1,13 @@
 ---
-title:        Meetup Elixir Brasil Online 
+title:        Meetup Online Elixir Brasil 
 image:
     path: img/18102023.png
     width: 397
     height: 397
 ---
-# Meetup Elixir Brasil Online 
+# Meetup Online Elixir Brasil 
 
-O meetup Elixir Brasil Online é um grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). 
+O Meetup Online Elixir Brasil é um grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). 
 
 Estamos começando as atividades em 2023. Durante a pandemia, aconteceram eventos online (Elixir Brasil e  Code BEAM Brasil) e o meetup do [Elug CE](https://elug-ce.github.io/). A ideia deste meetup é ser um evento online regular que permita a participação de pessoas que estão em todas as cidades do Brasil e também no exterior.
 
