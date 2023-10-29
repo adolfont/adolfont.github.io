@@ -16,3 +16,5 @@ ffmpeg -f concat -i mylist.txt -c copy output.mp4
 ```
 
 https://stackoverflow.com/questions/7333232/how-to-concatenate-two-mp4-files-using-ffmpeg
+
+Ii didn't work!
