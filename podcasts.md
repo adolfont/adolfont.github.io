@@ -13,6 +13,7 @@ I have my own podcast ([Professor Adolfo Neto](https://adolfont.github.io/extens
 - [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
 - [Elixir em Foco](http://elixiremfoco.com/)
 
+The [Hello, Erlang!](https://helloerlang.github.io/) podcast started in 2022 but is currrently on pause.
 
 I also keep [Adolfo Neto's Audio Museum](https://podcasters.spotify.com/pod/show/adolfo-neto).
 
