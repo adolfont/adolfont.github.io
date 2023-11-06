@@ -6,6 +6,9 @@ My research area is Software Engineering, and my broad research goal is to help 
 
 I am the co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also the co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast.
 
+I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/49pP4nd), [Erlang](https://bit.ly/3StIlm4), and [Lean](https://bit.ly/3FNxBYo) programming languages.
+
+
 ## Service
 
 I am a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
