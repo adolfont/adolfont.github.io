@@ -12,8 +12,9 @@ I am a member of the [Education, Training, & Adoption Working Group](https://erl
 
 I have organized [Elixir Fortaleza Conf 2023](https://elixiremfoco.github.io/elixirfortaleza/index_en).
 
-## Talks
+I am a member of the "Emílias - Armação em Bits" program, whose goal is to attract and retain women in the field of computer science. There, I coordinate the [Emílias Podcast - Women in Computing](https://adolfont.github.io/extension/podcasts/emilias).
 
+## Talks
 
 I gave a talk at [Code BEAM America 2022](https://codebeamamerica.com/). 
 
