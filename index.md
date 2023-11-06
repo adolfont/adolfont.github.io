@@ -3,7 +3,7 @@
 
 Hi, I am an Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english). My research interests are software development communities, knowledge exchange in software enginering and agile methods. 
 
-I am co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast (now on pause).
+I am co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast.
 
 He is a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
 
