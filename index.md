@@ -43,7 +43,6 @@ I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfone
 
 I am at BlueSky as @adolfont.bsky.social.
 
-My latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao).
 
 My emails are adolfo AT utfpr.edu.br and adolfo.utfpr AT gmail.com.
 
@@ -58,11 +57,15 @@ You can also send me a direct message on Twitter, Telegram or Instagram at adolf
   </a>
 </p>
 
+## Publications 
+
+My latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao).
+
 ***
 ## Events
 
-- [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://bit.ly/48x2e1b) - Mon 6 - Fri 10 May 2024 Curitiba, Brazil. [I am one of the EIbAIS Chairs](https://bit.ly/458bsOH)
 
+- [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://bit.ly/48x2e1b) - Mon 6 - Fri 10 May 2024 Curitiba, Brazil. [I am one of the EIbAIS Chairs](https://bit.ly/458bsOH)
 
 ***
 ## Links
