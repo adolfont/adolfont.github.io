@@ -1,9 +1,9 @@
 
 ![Picture of Adolfo Neto](/images/AdolfoNeto_240x240.jpg "Adolfo Neto")
 
-Adolfo Neto is an Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english). His research interests are software development communities and agile methods. His latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao).
+Hi, I am an Associate Professor at the [Federal University of Technology, Paraná](http://www.utfpr.edu.br/english). My research interests are software development communities, knowledge exchange in software enginering and agile methods. 
 
-He is co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. He is also co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast (now on pause).
+I am co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast (now on pause).
 
 He is a member of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the [Erlang Ecosystem Foundation](https://erlef.org/).
 
@@ -23,6 +23,9 @@ He is at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfon
 <a rel="me" href="https://genserver.social/adolfont">@adolfont@genserver.social (English).</a>
 
 He is at BlueSky as @adolfont.bsky.social.
+
+My latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao).
+
 
 His emails are adolfo AT utfpr.edu.br and adolfo.utfpr AT gmail.com.
 
