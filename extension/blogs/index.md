@@ -1,4 +1,4 @@
-# v1
+<!-- # v1
 <ul>
 {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -15,12 +15,14 @@
 {% endfor %}
 </ul>
 
-# v3
+# v3 -->
+
+# Adolfo Neto's blog
 <ul>
 {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }} 
-     {{ post.excerpt }}
+
   </li>
 {% endfor %}
 </ul>
