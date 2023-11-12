@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "How do you learn how to program in Lean?"
 date: 2023-11-11
 ---

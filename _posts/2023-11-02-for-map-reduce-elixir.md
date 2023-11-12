@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "For, Map and Reduce in Elixir"
 date: 2023-11-02
 ---
