@@ -12,6 +12,7 @@
 - [X](https://twitter.com/)
 - [gmail](http://gmail.com)
 - <https://genserver.social/>
+- <http://bertha.social>
 
 
 # Discord/Slack Servers e outros
