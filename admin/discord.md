@@ -1,6 +1,6 @@
 # Most important
 - [gmail](http://gmail.com)
-- [Anchor]*http://anchor.fm)
+- [Anchor](http://anchor.fm)
 - [YouTube](https://www.youtube.com/)
 - [Studio YT](https://studio.youtube.com/)
 - [(todo ver)](https://github.com/adolfont/FOLD_TODO/blob/main/01_todo.md)
