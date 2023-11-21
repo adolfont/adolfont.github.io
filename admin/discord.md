@@ -9,6 +9,7 @@
 - [Elixir World](https://web.telegram.org/k/#@elixir_world)
 - [GConf org](https://web.telegram.org/k/#-1636926064)
 - [ExBRoff](https://web.telegram.org/k/#@elixirbr_offtopic)
+- [X](https://twitter.com/)
 
 
 # Discord/Slack Servers e outros
