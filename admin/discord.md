@@ -1,8 +1,13 @@
 # Most important
 
-- [Elixir em Foco](https://discord.com/channels/811620243528744984/811620243528744987)
-- [Fronteiras](https://discord.com/channels/705550536887369738/728004321123237949)
-
+- [Elixir em Foco - random](https://discord.com/channels/811620243528744984/818451817859907635)
+- [Fronteiras](https://web.whatsapp.com/)
+- [Lean Lang BR](https://web.telegram.org/k/#@leanlangbr)
+- [Elug CE](https://web.telegram.org/k/#@elug_ce)
+- [Elixir BR](https://web.telegram.org/k/#@elixirbr)
+- [Erlang BR](https://web.telegram.org/k/#@erlangbrasil)
+- [Elixir World](https://web.telegram.org/k/#@elixir_world)
+- [GConf org](https://web.telegram.org/k/#-1636926064)
 
 
 # Discord/Slack Servers e outros
