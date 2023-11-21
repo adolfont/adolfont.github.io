@@ -2,7 +2,7 @@
 
 - [Elixir em Foco - random](https://discord.com/channels/811620243528744984/818451817859907635)
 - [Fronteiras](https://web.whatsapp.com/)
-- [Lean Lang BR](https://web.telegram.org/k/#@leanlangbr)
+- [Lean Lang BR](https://web.telegram.org/k/#@leanlangbr), [Lean Zulip](https://leanprover.zulipchat.com/)
 - [Elug CE](https://web.telegram.org/k/#@elug_ce)
 - [Elixir BR](https://web.telegram.org/k/#@elixirbr)
 - [Erlang BR](https://web.telegram.org/k/#@erlangbrasil)
