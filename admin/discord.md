@@ -11,6 +11,7 @@
 - [ExBRoff](https://web.telegram.org/k/#@elixirbr_offtopic)
 - [X](https://twitter.com/)
 - [gmail](http://gmail.com)
+- <https://genserver.social/>
 
 
 # Discord/Slack Servers e outros
