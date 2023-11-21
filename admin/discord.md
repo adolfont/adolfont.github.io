@@ -1,7 +1,7 @@
 # Most important
-- <https://github.com/adolfont/FOLD_TODO/blob/main/01_todo.md>  <https://github.dev/adolfont/FOLD_TODO/blob/main/01_todo.md>
+- [editar](https://github.com/adolfont/FOLD_TODO/blob/main/01_todo.md)  [ver](https://github.dev/adolfont/FOLD_TODO/blob/main/01_todo.md)
 
--  <https://github.com/adolfont/adolfont.github.io/blob/master/admin/discord.md>
+-  [editar esta página](https://github.com/adolfont/adolfont.github.io/blob/master/admin/discord.md>)
 
 - [Elixir em Foco - random](https://discord.com/channels/811620243528744984/818451817859907635)
 - [Fronteiras](https://web.whatsapp.com/)
