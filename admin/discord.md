@@ -10,6 +10,7 @@
 - [GConf org](https://web.telegram.org/k/#-1636926064)
 - [ExBRoff](https://web.telegram.org/k/#@elixirbr_offtopic)
 - [X](https://twitter.com/)
+- [gmail](http://gmail.com)
 
 
 # Discord/Slack Servers e outros
@@ -22,12 +23,12 @@
 - [EEF WG EDU](https://app.slack.com/client/TETFVSQ69/G01Q7KGPZEJ?selected_team_id=TETFVSQ69)
 
 ## E-mail
- - [gmail](http://gmail.com)
    - adolfo.ut
    - adolfo.us
    - adolfont3 (newsletters)
    - adolfo@professores (just in case)
- - http://mail.yahoo.com 
+   - <http://mail.yahoo.com>
+   - <http://fastmail.com>
 
 ## My podcasts
 
