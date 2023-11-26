@@ -1,8 +1,7 @@
 # Most important
 - [gmail](http://gmail.com) -- [Calendar](https://calendar.google.com/calendar/u/0/r)
 - [Anchor](http://anchor.fm) -- [YouTube](https://www.youtube.com/) -- [Studio YT](https://studio.youtube.com/)
-- [(todo ver)](https://github.com/adolfont/FOLD_TODO/blob/main/01_todo.md)
-- [(todo editar)](https://github.dev/adolfont/FOLD_TODO/blob/main/01_todo.md)
+- todo [ver](https://github.com/adolfont/FOLD_TODO/blob/main/01_todo.md) ---[editar](https://github.dev/adolfont/FOLD_TODO/blob/main/01_todo.md)
 - [editar esta página](https://github.com/adolfont/adolfont.github.io/blob/master/admin/discord.md)
 - [Elixir em Foco - random](https://discord.com/channels/811620243528744984/818451817859907635)
 - [Fronteiras](https://web.whatsapp.com/)
