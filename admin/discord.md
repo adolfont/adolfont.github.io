@@ -9,7 +9,7 @@
 - Lean: [telegram](https://web.telegram.org/k/#@leanlangbr) -- [zulip](https://leanprover.zulipchat.com/)
 - [GConf org](https://web.telegram.org/k/#-1636926064)
 - [ExBRoff](https://web.telegram.org/k/#@elixirbr_offtopic)
-- [X Twitter](https://twitter.com/) -- [Genserver Mastodon](https://genserver.social) -- [Bertha Mastodon](http://bertha.social) -- [bsky](https://bsky.app/)
+- [X](https://twitter.com/) -- [genserver](https://genserver.social) -- [bertha](http://bertha.social) -- [bsky](https://bsky.app/)
 
 
 # Discord/Slack Servers e outros
