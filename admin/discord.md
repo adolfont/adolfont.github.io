@@ -16,9 +16,7 @@
 - [Elixir World](https://web.telegram.org/k/#@elixir_world)
 - [GConf org](https://web.telegram.org/k/#-1636926064)
 - [ExBRoff](https://web.telegram.org/k/#@elixirbr_offtopic)
-- [X Twitter](https://twitter.com/)
-- [Genserver Mastodon](https://genserver.social)
-- [Bertha Mastodon](http://bertha.social)
+- [X Twitter](https://twitter.com/) -- [Genserver Mastodon](https://genserver.social) -- [Bertha Mastodon](http://bertha.social) -- [bsky](https://bsky.app/)
 
 
 # Discord/Slack Servers e outros
