@@ -5,7 +5,7 @@
 - [editar esta página](https://github.com/adolfont/adolfont.github.io/blob/master/admin/discord.md)
 - Discord: [eefoco](https://discord.com/channels/811620243528744984/818451817859907635)
 - Whats: [Fronteiras](https://web.whatsapp.com/)
-- Elixir/Erlang: forum, forums, slack  [Elug CE](https://web.telegram.org/k/#@elug_ce) -- [Elixir BR](https://web.telegram.org/k/#@elixirbr) --[Erlang BR](https://web.telegram.org/k/#@erlangbrasil) -- [Elixir World](https://web.telegram.org/k/#@elixir_world) -- [Elixir ES](https://web.telegram.org/k/#@elixirES)
+- Elixir/Erlang: [forum](https://elixirforum.com/), forums, slack  [Elug CE](https://web.telegram.org/k/#@elug_ce) -- [Elixir BR](https://web.telegram.org/k/#@elixirbr) --[Erlang BR](https://web.telegram.org/k/#@erlangbrasil) -- [Elixir World](https://web.telegram.org/k/#@elixir_world) -- [Elixir ES](https://web.telegram.org/k/#@elixirES)
 - Lean: [telegram](https://web.telegram.org/k/#@leanlangbr) -- [zulip](https://leanprover.zulipchat.com/)
 - [GConf org](https://web.telegram.org/k/#-1636926064)
 - [ExBRoff](https://web.telegram.org/k/#@elixirbr_offtopic)
