@@ -33,6 +33,8 @@ I gave a talk at [Code BEAM Europe 2022](https://www.eventbrite.com/cc/code-beam
 
 - [Ensino de Elixir e Erlang - page in Portuguese about my teaching initiatives on Elixir and Erlang](https://bit.ly/3YWTXQ0)
 
+- [My Amazon Brazil author page](https://www.amazon.com.br/stores/Adolfo%20Gustavo%20Serra%20Seca%20Neto/author/B0CCLNZG77) 
+
 
 ## Social networks and contact
 
