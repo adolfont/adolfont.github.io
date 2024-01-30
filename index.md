@@ -4,7 +4,7 @@
 I am an Associate Professor at the Federal University of Technology, Paraná.
 My research area is Software Engineering, and my broad research goal is to help developers facilitate the sharing of knowledge and the acquisition of scientific and practical expertise. I am interested in software development communities, knowledge exchange in software engineering, and agile methods. 
 
-I am the co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also the co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast.
+I am the co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also the co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast and the creator and host of the [Professor Adolfo Neto podcast](https://podcasters.spotify.com/pod/show/adolfont).
 
 I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/49pP4nd), [Erlang](https://bit.ly/3StIlm4), and [Lean](https://bit.ly/3FNxBYo) programming languages.
 
