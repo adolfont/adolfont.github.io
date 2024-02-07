@@ -1,7 +1,7 @@
 
 ![Picture of Adolfo Neto](/images/AdolfoNeto_240x240.jpg "Adolfo Neto")
 
-I am an Associate Professor at the Federal University of Technology, Paraná.
+I am an Associate Professor at the [Federal University of Technology, Paraná](https://bit.ly/49hx0Lg).
 My research area is Software Engineering, and my broad research goal is to help developers facilitate the sharing of knowledge and the acquisition of scientific and practical expertise. I am interested in software development communities, knowledge exchange in software engineering, and agile methods. 
 
 I am the co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also the co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast and the creator and host of the [Professor Adolfo Neto podcast](https://podcasters.spotify.com/pod/show/adolfont).
@@ -19,7 +19,7 @@ I am a member of the "Emílias - Armação em Bits" program, whose goal is to at
 
 ## Talks
 
-I gave a talk at [Code BEAM America 2022](https://codebeamamerica.com/). 
+I gave a talk at [Code BEAM America 2022](https://codebeamamerica.com/): [Comparing Elixir and Python when working with Simple Neural Networks - A. Neto & L. C. Tavano](https://www.youtube.com/watch?v=zvS1Uj3_UTE&list=PLvL2NEhYV4ZueYk1VvTJUpwniZ7sWn_hm&index=23&t=6s)
 
 I gave a talk at [Code BEAM Lite A Coruña 2022](https://www.codebeamcorunha.es/en): [Aprendendo Erlang e Elixir através do Exercism e do Advent of Code](https://youtu.be/8GUbbFRwAxM).
 
