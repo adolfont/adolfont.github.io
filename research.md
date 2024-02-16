@@ -10,7 +10,8 @@ My [Google Scholar profile](https://scholar.google.com.br/citations?user=R7hC3-w
 
 ## Program Committes
 
-- [TPC Member on CSBC 2024 - WIT Women in Information Technology](https://jems3.sbc.org.br/csbc2024-wit2024/)
+- [CSBC 2024 - WIT Women in Information Technology](https://jems3.sbc.org.br/csbc2024-wit2024/)
+- [CSBC 2024 - WEI 2024 - Workshop sobre Educação em Computação](https://jems3.sbc.org.br/csbc2024-wei2024)
 - [SEKE 2024 - The 36th International Conference on Software Engineering & Knowledge Engineering](https://ksiresearch.org/seke/seke24.html)
 - [Educomp 2024](https://www.educompbrasil.org/simposio/2024/)
 - ...
