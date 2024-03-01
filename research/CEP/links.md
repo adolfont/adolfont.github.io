@@ -1,3 +1,7 @@
+A SBC anuncia que temos um novo Código deConduta para Autores em Publicações da SBC, segue o link para o documento:
+https://sol.sbc.org.br/index.php/indice/conduta
+
+
 https://research.uci.edu/wp-content/uploads/IRB-EQUIP-TIPS-Do-You-Need-IRB-Review-V-4.0-August-2022-2.pdf
 
 Artigo recém publicado no JSERD: <https://sol.sbc.org.br/journals/index.php/jserd/article/view/3395>
