@@ -61,7 +61,7 @@ You can also send me a direct message on Twitter, Telegram or Instagram at adolf
 
 ## Publications 
 
-My latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao).
+My latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao) or at [Recent Publications](https://adolfont.github.io/research/publications/)
 
 ***
 ## Events
