@@ -93,3 +93,7 @@ My latest publications can be found on his [Google Scholar profile](https://scho
 
 Mailing address: Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901, Brazil. (DAINF, Bloco B, sala CB101bi)
 
+## Twitter/X 
+
+<a class="twitter-timeline" href="https://twitter.com/adolfont?ref_src=twsrc%5Etfw">Tweets by adolfont</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
