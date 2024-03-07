@@ -30,6 +30,8 @@ I co-organized the [10 Years of Elixir](https://adolfont.github.io/service/event
 
 ## Research-related
 
+[ESEIW 2024](https://conf.researchr.org/home/esem-2024) Publicity and Social Media Co-Chair
+
 [SQBS 2024](https://adolfon.substack.com/p/simposio-brasileiro-de-qualidade) Publicity chair
 
 [CIbSE 2024](https://conf.researchr.org/committee/cibse-2024/cibse-2024-eibais-eibais-chairs---coordinadores-de-eibais---coordenadores-da-eibais) EIbAIS Co-Chair
