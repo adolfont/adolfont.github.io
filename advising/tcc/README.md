@@ -1,4 +1,6 @@
 # Sugestões de temas para orientação de TCC e/ou Mestrado/Doutorado
+- Análise de conteúdo e impacto de podcasts de tecnologia
+  - Este projeto de pesquisa visa realizar uma análise de conteúdo em podcasts de tecnologia, explorando temas, formatos e estilos. Além disso, busca avaliar o impacto desses podcasts na disseminação de conhecimento e na formação de opiniões dentro da comunidade de tecnologia. A pesquisa pretende oferecer evidências sobre o grau de influência e relevância dos podcasts como meio de comunicação no contexto tecnológico contemporâneo.
 
 - Avaliação das bibliotecas de **Aprendizagem de Máquina** ([Nx](https://github.com/elixir-nx/nx) e outras) em Elixir
   - O desenvolvimento de bibliotecas de Machine Learning em Elixir está bastante ativo. São muitas as possibilidade de trabalho. Entre em contato caso queira conciliar um tema da moda (Aprendizagem de Máquina) com desenvolvimento na linguagem [Elixir](https://elixir-lang.org/), criada pelo brasileiro José Valim ([uma das linguagens mais amadas e que melhor pagam no mundo](https://elixirforum.com/t/stack-overflow-developer-survey-2023/55803/24)). Esta pesquisa envolve programar bastante.
