@@ -12,6 +12,9 @@ I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/
 
 🇧🇷 Faço parte da equipe organizadora do Elixir Days. O podcast Elixir em Foco tem um cupom que dá 15% de desconto: ELIXIREMFOCO. Site do evento: <https://www.elixirdays.com/>. Site para compra de ingressos: <https://www.ingresse.com/elixirdays/>
 
+![ElixirDays](https://github.com/adolfont/adolfont.github.io/assets/79562/9bcff2fb-b7fd-4d8e-833c-3e6465388b63)
+
+
 
 ## Service
 
