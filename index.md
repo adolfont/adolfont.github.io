@@ -8,6 +8,8 @@ I am the co-creator and co-host of the [Fronteiras da Engenharia de Software pod
 
 I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/49pP4nd), [Erlang](https://bit.ly/3StIlm4), and [Lean](https://bit.ly/3FNxBYo) programming languages.
 
+My [now](http://adolfont.github.io/now) page.
+
 ## News
 
 🇧🇷 Faço parte da equipe organizadora do Elixir Days. O podcast Elixir em Foco tem um cupom que dá 15% de desconto: ELIXIREMFOCO. Site do evento: <https://www.elixirdays.com/>. Site para compra de ingressos: <https://www.ingresse.com/elixirdays/>
