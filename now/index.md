@@ -13,6 +13,19 @@ Updated May 20th, 2024, from my home in Brazil.
 
 I am helping with the organization of [Elixir Days](https://www.elixirdays.com/), an in-person conference related to the Erlang ecosystem, which includes Elixir, Erlang, Gleam, LFE, Luerl and other programming languages.
 
+
+## I am producing and/or hosting four podcasts
+
+### One in English
+
+- [Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)
+
+### Three in Portuguese
+
+- [Fronteiras da Engenharia de Software](https://fronteirases.github.io/en/)
+- [Elixir em Foco](https://elixiremfoco.com/en)
+- [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias)
+
 ## Publicity Co-Chair of ESEM 2024
 
 - <https://conf.researchr.org/home/esem-2024>
