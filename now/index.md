@@ -9,10 +9,11 @@
 
 Updated May 20th, 2024, from my home in Brazil.
 
-## Helping organize Elixir Days
+## Elixir Days 2024 & 2025
 
-I am helping with the organization of [Elixir Days](https://www.elixirdays.com/), an in-person conference related to the Erlang ecosystem, which includes Elixir, Erlang, Gleam, LFE, Luerl and other programming languages.
+I helped with the organization of [Elixir Days](https://www.elixirdays.com/), an in-person conference related to the Erlang ecosystem, which includes Elixir, Erlang, Gleam, LFE, Luerl and other programming languages.
 
+Elixir Days 2025 will be on May 24th-25th. You can already buy tickets at <https://www.elixirdays.com/>.
 
 ## I am producing and/or hosting four podcasts
 
@@ -47,4 +48,4 @@ I am helping with the organization of [Elixir Days](https://www.elixirdays.com/)
 - <https://sbqs.sbc.org.br/2024/>
 
 
-## TO be continued...
+## To be continued...
