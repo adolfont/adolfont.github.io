@@ -32,7 +32,10 @@ Pedi ajuda no X com [este post](https://x.com/adolfont/status/180063318435636854
 O X permite que usuários ciem suas próprias listas e outros usuários podem seguir estas listas.
 
 - [ComputerScience - Computer Science departments and professors/students, de @mirwox](https://x.com/i/lists/1293287165615648768)
+- [SE Research](https://x.com/i/lists/743435617774739456)
 
 ## Linkedin
+
+- <https://www.linkedin.com/in/kalinowski/>
 
 ## Threads
