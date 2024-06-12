@@ -1,6 +1,6 @@
 # Cientistas da Computação nas Redes Sociais
 
-A ideia desta lista não é ser completa. Aqui estão apenas alguns exemplos de pessoas que são cientistas, seja em instituições de ensino, seja em empresas e organizações, que são ativas nas redes divulgando suas pesquisas e outras de suas atividades.
+A ideia desta lista não é ser completa. Aqui estão apenas alguns exemplos de pessoas que são cientistas da computação, seja em instituições de ensino, seja em empresas e organizações, que são ativas nas redes sociais divulgando suas pesquisas e outras de suas atividades.
 
 Para simplficar, adicionei uma restrição de que só vai entrar nesta lista quem já tiver terminado o Doutorado. Não estou dizendo que quem não terminou não é pesquisador, longe disso.
 
