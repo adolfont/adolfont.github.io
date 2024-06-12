@@ -65,4 +65,11 @@ Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <ht
 
 - <https://bsky.app/profile/lauramcastro.bsky.social>
 
+## Podcasts
+
+
+Não é uma rede social, mas é uma forma de divulgar pesquisas.
+
+- <https://adolfon.substack.com/p/inteligencia-artificial-com-marcelo-887>
+
 
