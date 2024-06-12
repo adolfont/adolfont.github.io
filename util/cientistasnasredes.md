@@ -2,11 +2,14 @@
 
 A ideia desta lista não é ser completa. Aqui estão apenas alguns exemplos de pessoas que são cientistas, seja em instituições de ensino, seja em empresas e organizações, que são ativas nas redes divulgando suas pesquisas e outras de suas atividades.
 
+Para simplficar, adicionei uma restrição de que só vai entrar nesta lista quem já tiver terminado o Doutorado. Não estou dizendo que quem não terminou não é pesquisador, longe disso.
+
 ## Mastodon
 
 
 ## X (antigo Twitter)
 
+- <https://x.com/avivimota>
 - <https://x.com/ahirtonlopes>
 - <https://x.com/dfaranha>
 - <https://x.com/aserebrenik>
@@ -15,8 +18,8 @@ A ideia desta lista não é ser completa. Aqui estão apenas alguns exemplos de 
 - <https://x.com/gustavopinto>
 - <https://x.com/igorsteinmacher>
 - <https://x.com/milalaranjeira>
-- <https://x.com/ninadhora>
 - <https://x.com/TayanaConte>
+- <https://x.com/ylecun>
 
 ### Listas
 
