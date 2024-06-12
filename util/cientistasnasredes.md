@@ -10,6 +10,7 @@ A ideia desta lista não é ser completa. Aqui estão apenas alguns exemplos de 
 - <https://x.com/ahirtonlopes>
 - <https://x.com/aserebrenik>
 - <https://x.com/drantunes>
+- <https://x.com/gcamara>
 - <https://x.com/milalaranjeira>
 - <https://x.com/TayanaConte>
 
