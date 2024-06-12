@@ -45,6 +45,7 @@ O X permite que usuários ciem suas próprias listas e outros usuários podem se
 - <https://www.linkedin.com/in/carla-silva-22a48113/>
 - <https://www.linkedin.com/in/giancarlo-guizzardi/>
 - <https://www.linkedin.com/in/kalinowski/>
+- <https://www.linkedin.com/in/wylliams-santos-19173817/>
 
 Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <https://www.linkedin.com/in/gilson-volpato-56a9a8114/>
 
