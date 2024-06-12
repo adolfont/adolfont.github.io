@@ -12,6 +12,7 @@ Esta página: <https://adolfont.github.io/util/cientistasnasredes>
 
 A única rede sem uma grande empresa que a controla.
 
+- <https://bertha.social/@adolfoneto>
 - <https://mas.to/@JorgeStolfi>
 
 ## X (antigo Twitter)
