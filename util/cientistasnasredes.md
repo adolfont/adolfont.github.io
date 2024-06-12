@@ -43,6 +43,7 @@ O X permite que usuários ciem suas próprias listas e outros usuários podem se
 
 - <https://www.linkedin.com/in/andreasabedrabordin/>
 - <https://www.linkedin.com/in/carla-silva-22a48113/>
+- <https://www.linkedin.com/in/fernando-osorio-usp/>
 - <https://www.linkedin.com/in/giancarlo-guizzardi/>
 - <https://www.linkedin.com/in/kalinowski/>
 - <https://www.linkedin.com/in/wylliams-santos-19173817/>
