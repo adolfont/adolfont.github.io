@@ -8,6 +8,8 @@ Uma boa pesquisadora pode não estar em nenhuma rede social. Neste caso, procure
 
 Esta página: <https://adolfont.github.io/util/cientistasnasredes>
 
+**Colabore! Faça um fork e um pull request! Só atente para os requisitos: pessoa pesquisadora com doutorado e ativa em alguma rede.**
+
 ## Mastodon
 
 A única rede sem uma grande empresa que a controla.
