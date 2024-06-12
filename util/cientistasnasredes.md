@@ -9,11 +9,12 @@ Para simplficar, adicionei uma restrição de que só vai entrar nesta lista que
 
 ## X (antigo Twitter)
 
-- <https://x.com/avivimota>
 - <https://x.com/ahirtonlopes>
-- <https://x.com/dfaranha>
 - <https://x.com/aserebrenik>
+- <https://x.com/avivimota>
+- <https://x.com/baishakhir>
 - <https://x.com/devanbu>
+- <https://x.com/dfaranha>
 - <https://x.com/drantunes>
 - <https://x.com/gcamara>
 - <https://x.com/gustavopinto>
