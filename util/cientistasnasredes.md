@@ -9,6 +9,8 @@ Para simplficar, adicionei uma restrição de que só vai entrar nesta lista que
 
 ## X (antigo Twitter)
 
+Pedi ajuda no X com [este post](https://x.com/adolfont/status/1800633184356368545).
+
 - <https://x.com/ahirtonlopes>
 - <https://x.com/aserebrenik>
 - <https://x.com/avivimota>
