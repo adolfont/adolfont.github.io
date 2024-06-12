@@ -4,6 +4,8 @@ A ideia desta lista não é ser completa. Aqui estão apenas alguns exemplos de 
 
 Para simplficar, adicionei uma restrição de que só vai entrar nesta lista quem já tiver terminado o Doutorado. Não estou dizendo que quem não terminou não é pesquisador, longe disso.
 
+Uma boa pesquisadora pode não estar em nenhuma rede social. Neste caso, procure sua publicações em <https://scholar.google.com/>  ou em <https://dblp.org/>. Normalmente em seus artigos aparece o e-mail.
+
 ## Mastodon
 
 
@@ -36,10 +38,15 @@ O X permite que usuários ciem suas próprias listas e outros usuários podem se
 
 ## Linkedin
 
+
+- <https://www.linkedin.com/in/andreasabedrabordin/>
+- <https://www.linkedin.com/in/carla-silva-22a48113/>
 - <https://www.linkedin.com/in/giancarlo-guizzardi/>
 - <https://www.linkedin.com/in/kalinowski/>
 
 Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <https://www.linkedin.com/in/gilson-volpato-56a9a8114/>
+
+## Instagran
 
 ## Threads
 
