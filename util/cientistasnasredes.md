@@ -39,3 +39,8 @@ O X permite que usuários ciem suas próprias listas e outros usuários podem se
 - <https://www.linkedin.com/in/kalinowski/>
 
 ## Threads
+
+
+## BlueSky
+
+
