@@ -40,7 +40,11 @@ O X permite que usuários ciem suas próprias listas e outros usuários podem se
 
 ## Threads
 
+- <https://www.threads.net/@akapigatto>
+
 
 ## BlueSky
+
+- <https://bsky.app/profile/lauramcastro.bsky.social>
 
 
