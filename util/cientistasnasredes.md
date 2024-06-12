@@ -13,6 +13,7 @@ Para simplficar, adicionei uma restrição de que só vai entrar nesta lista que
 - <https://x.com/ahirtonlopes>
 - <https://x.com/dfaranha>
 - <https://x.com/aserebrenik>
+- <https://x.com/devanbu>
 - <https://x.com/drantunes>
 - <https://x.com/gcamara>
 - <https://x.com/gustavopinto>
