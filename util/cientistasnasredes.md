@@ -70,6 +70,6 @@ Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <ht
 
 Não é uma rede social, mas é uma forma de divulgar pesquisas.
 
-- <https://adolfon.substack.com/p/inteligencia-artificial-com-marcelo-887>
+- [Coluna semanal de Marcelo Finger, nas sextas-feiras, chamada "Inteligência Artificial nas Ondas do Rádio"](https://open.spotify.com/show/7i87AFADvFacnXIQSvgXtT)
 
 
