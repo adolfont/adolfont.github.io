@@ -53,6 +53,7 @@ Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <ht
 
 - <https://www.instagram.com/esaufba/>
 - <https://www.instagram.com/jusaraivatechlaw/>
+- <https://www.instagram.com/prof.kalinowski/>
 
 ## Threads
 
