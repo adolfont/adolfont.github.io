@@ -6,6 +6,8 @@ Para simplficar, adicionei uma restrição de que só vai entrar nesta lista que
 
 Uma boa pesquisadora pode não estar em nenhuma rede social. Neste caso, procure sua publicações em <https://scholar.google.com/>  ou em <https://dblp.org/>. Normalmente em seus artigos aparece o e-mail.
 
+Esta página: <https://adolfont.github.io/util/cientistasnasredes>
+
 ## Mastodon
 
 
