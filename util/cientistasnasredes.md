@@ -8,7 +8,7 @@ Uma boa pesquisadora pode não estar em nenhuma rede social. Neste caso, procure
 
 Esta página: <https://adolfont.github.io/util/cientistasnasredes>
 
-**Colabore! Faça um fork e um pull request! Só atente para os requisitos: pessoa pesquisadora com doutorado e ativa em alguma rede. A pessoa não precisa ser brasileira.**
+**Colabore! Faça um fork [neste repo](https://github.com/adolfont/adolfont.github.io/) e um pull request [neste arquivo](https://github.com/adolfont/adolfont.github.io/blob/master/util/cientistasnasredes.md)! Só atente para os requisitos: pessoa pesquisadora com doutorado e ativa em alguma rede. A pessoa não precisa ser brasileira.**
 
 ## Mastodon
 
