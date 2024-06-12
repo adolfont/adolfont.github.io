@@ -47,9 +47,12 @@ O X permite que usuários ciem suas próprias listas e outros usuários podem se
 - <https://www.linkedin.com/in/kalinowski/>
 - <https://www.linkedin.com/in/wylliams-santos-19173817/>
 
-Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <https://www.linkedin.com/in/gilson-volpato-56a9a8114/>
+Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <https://www.linkedin.com/in/gilson-volpato-56a9a8114/> e o professor Miguel Nicolelis <https://www.instagram.com/mnicolelis/>.
 
 ## Instagran
+
+- <https://www.instagram.com/esaufba/>
+- <https://www.instagram.com/jusaraivatechlaw/>
 
 ## Threads
 
