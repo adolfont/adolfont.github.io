@@ -7,7 +7,11 @@ A ideia desta lista não é ser completa. Aqui estão apenas alguns exemplos de 
 
 ## X (antigo Twitter)
 
+- <https://x.com/ahirtonlopes>
+- <https://x.com/aserebrenik>
+- <https://x.com/drantunes>
 - <https://x.com/milalaranjeira>
+- <https://x.com/TayanaConte>
 
 ### Listas
 
