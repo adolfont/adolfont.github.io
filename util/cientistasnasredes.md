@@ -29,6 +29,7 @@ Pedi ajuda no X com [este post](https://x.com/adolfont/status/180063318435636854
 - <https://x.com/prof_isidro>
 - <https://x.com/TayanaConte>
 - <https://x.com/universodiscret>
+- <https://x.com/wesleyklewerton>
 - <https://x.com/ylecun>
 
 ### Listas
