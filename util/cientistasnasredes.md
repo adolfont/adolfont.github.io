@@ -18,6 +18,7 @@ Para simplficar, adicionei uma restrição de que só vai entrar nesta lista que
 - <https://x.com/gustavopinto>
 - <https://x.com/igorsteinmacher>
 - <https://x.com/TayanaConte>
+- <https://x.com/universodiscret>
 - <https://x.com/ylecun>
 
 ### Listas
