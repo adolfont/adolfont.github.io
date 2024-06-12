@@ -10,6 +10,9 @@ Esta página: <https://adolfont.github.io/util/cientistasnasredes>
 
 ## Mastodon
 
+A única rede sem uma grande empresa que a controla.
+
+- <https://mas.to/@JorgeStolfi>
 
 ## X (antigo Twitter)
 
