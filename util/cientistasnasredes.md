@@ -71,6 +71,9 @@ Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <ht
 ## BlueSky
 
 - <https://bsky.app/profile/lauramcastro.bsky.social>
+- <https://bsky.app/profile/martin.kleppmann.com>
+- <https://bsky.app/profile/xmal.bsky.social>
+- <https://bsky.app/profile/meredithmeredith.bsky.social>
 
 ## Podcasts
 
