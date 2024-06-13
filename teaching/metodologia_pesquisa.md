@@ -20,6 +20,8 @@ Fiquei sabendo da existência de Gilson Volpato através de uma mensagem na list
 - [Lives do Fronteiras da Engenharia de Software/Emílias/PPGCA](https://www.youtube.com/playlist?list=PLqYFZmKhrqupT8uSnbL8kpmJhq4f5DQoY)
 - [Lives do Fórum dos Programa de Pós-Graduação em Computação Aplicada do Paraná](https://www.youtube.com/@forppgcpr)
 - [Seminários de Pesquisa do CIn UFPE](https://www.youtube.com/@CInUFPEoficial)
+- [Palestras no Canal do DI PUC-Rio](https://www.youtube.com/@DIPUCRio)
+- [Palestras e Entrevistas de Pessoas do PPGCA](https://www.youtube.com/playlist?list=PL48C-h4_CFXalhaFFXQDjC7oQItg5HIuI)
 
 ## Pesquisa Qualitativa
 
