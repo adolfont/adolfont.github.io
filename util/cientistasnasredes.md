@@ -75,6 +75,11 @@ Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <ht
 - <https://bsky.app/profile/xmal.bsky.social>
 - <https://bsky.app/profile/meredithmeredith.bsky.social>
 
+## Blogs
+
+Gustavo Pinto <https://ml4se.substack.com/>
+
+
 ## Podcasts
 
 
