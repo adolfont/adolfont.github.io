@@ -77,7 +77,9 @@ Recomendo também o professor Gilson Volpato, que fala de ciência em geral: <ht
 
 ## Blogs
 
-Gustavo Pinto <https://ml4se.substack.com/>
+- Gustavo Pinto <https://ml4se.substack.com/>
+- <https://www.felienne.com/>
+
 
 
 ## Podcasts
