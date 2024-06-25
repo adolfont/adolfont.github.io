@@ -12,7 +12,7 @@ Updated June 25th, 2024, from my home in Brazil.
 
 ## Teaching
 
-Right now I am teaching four courses at UTFPR Curitiba:
+Right now I am teaching three courses at UTFPR Curitiba:
 - [Logic for Computer Science](https://logicaparacomputacao.github.io/), which I teach every semester.
 - [Agile Software Development](https://github.com/adolfont/caes001-agile-software-development) - every year, during the first semester
 - [Research Methods](https://adolfont.github.io/teaching/metodologia_pesquisa) - every year, phase 2
