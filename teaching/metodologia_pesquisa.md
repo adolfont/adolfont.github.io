@@ -11,7 +11,10 @@ Fiquei sabendo da existência de Gilson Volpato através de uma mensagem na list
 - [Livros na Amazon](https://www.amazon.com.br/s?k=gilson+volpato&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss)
 - [Canal no YouTube de Gilson Volpato](https://www.youtube.com/channel/UCK8qlYg46RAp92HYsU3-cFQ)
 
+## Como fazer pesquisa
 
+- The ABC of Software Engineering Research by KLAAS-JAN STOL and BRIAN FITZGERALD
+- Identifying, categorizing and mitigating threats to validity in software engineering secondary studies by Apostolos Ampatzoglou, Stamatia Bibi, Paris Avgeriou, Marijn Verbeek, Alexander Chatzigeorgiou
 
 ## Apresentações de artigos
 
@@ -32,6 +35,8 @@ Fiquei sabendo da existência de Gilson Volpato através de uma mensagem na list
 - [An empirical study of software developers' management of dependencies and changes](https://dl.acm.org/doi/10.1145/1368088.1368122)
 - [How Do Professional Developers Comprehend Software?](https://memphis-cs.github.io/comp-7085-8085-2012-fall/papers/Roehm2012ICSE.pdf)
 - [On the Comprehension of Program Comprehension](https://dl.acm.org/doi/10.1145/2622669) (versão extendida de  How Do Professional Developers Comprehend Software?)
+
+
 
 
 ## Como encontrar índices?
