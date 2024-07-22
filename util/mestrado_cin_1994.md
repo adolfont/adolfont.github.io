@@ -3,6 +3,7 @@
 1. Adolfo Gustavo Serra Seca Neto - Professsor da UTFPR - <http://adolfont.github.io> <https://www.linkedin.com/in/adolfont/>
 1. Adriano Augusto de Souza - Auditor Federal de Finanças e Controle no Ministério de Transparência, e Controladoria-Geral da União <http://lattes.cnpq.br/1224271592719990>
 10. Adriano Lorena Inácio de Oliveira - Professor da UFPE <https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=1699034>
+11. Babacar Mane <https://repositorio.ufpe.br/handle/123456789/2549>
 1. Daniela Coelho Batista Guedes Pereira - Professora da UFPB <https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2300797> <https://www.escavador.com/sobre/8283562/daniela-coelho-batista-guedes-pereira>
 2. Edilayne Meneses Salgueiro - Professora da UFS <https://www.escavador.com/sobre/7034113/edilayne-meneses-salgueiro#google_vignette>
 3. Genésio Gomes da Cruz Neto - Professor da UPE <http://linkedin.com/in/professorgenesio>
