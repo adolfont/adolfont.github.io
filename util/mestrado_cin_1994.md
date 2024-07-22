@@ -12,4 +12,5 @@
 5. Liliane Rose Benning Salgado - Professor da UFPE <https://www.escavador.com/sobre/7741407/liliane-rose-benning-salgado>
 6. Nelson Souto Rosa - Professor da UFPE <https://www.cin.ufpe.br/~nsr/>
 7. Ricardo Massa - Professor da UFPE <https://ricardomassa.cin.ufpe.br/>
-9. Ticiano Monteiro - Software Development Manager  SERPRO <https://www.linkedin.com/in/ticiano-monteiro-6163727>
+9. Thalles Cerqueira de Mello - TRE-AL <http://lattes.cnpq.br/5929598237049356>
+10. Ticiano Monteiro - Software Development Manager  SERPRO <https://www.linkedin.com/in/ticiano-monteiro-6163727>
