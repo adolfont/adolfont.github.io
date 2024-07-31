@@ -1,5 +1,10 @@
 # Uso do Stream Yard
 
+## PGP
+
+- [II Conferência Internacional de Políticas Públicas e Ciência de Dados](https://www.even3.com.br/ii-conferencia-internacional-de-politicas-publicas-e-ciencia-de-dados-385492/)
+ - <https://www.youtube.com/watch?v=tFopTOAdPBA>
+
 ## PPGCA
 
 - [Lives](https://www.youtube.com/@ppgcautfpr/streams)
