@@ -9,7 +9,7 @@
 
 I have my one podcast in English:
 
-1. ([Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont))
+1. [Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)
 
 and three podcasts in Portuguese:
 
