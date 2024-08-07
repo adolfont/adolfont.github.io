@@ -13,7 +13,6 @@
 - [Amazon Music](https://music.amazon.com.br/podcasts/2c2d166a-4f5d-4b9e-8dc7-fa8276787329/professor-adolfo-neto)
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/professor-adolfo-neto/id1490465804?uo=4)
 - [Castbox](https://castbox.fm/channel/Podcast-do-Professor-Adolfo-Neto-id2494657?country=us)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGYyYmE3NC9wb2RjYXN0L3Jzcw==)
 - [Pocket Casts](https://pca.st/y74gr6np)
 - [RadioPublic](https://radiopublic.com/professor-adolfo-neto-8Xg12e)
 - [RSS](https://anchor.fm/s/10f2ba74/podcast/rss)
