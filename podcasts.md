@@ -10,15 +10,15 @@
 
 I have one podcast in English called 
 
-1. [Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)
+1. [Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont) - No regular schedule 
 
 and I coordinate three podcasts in Portuguese, each with its own team:
 
-2. [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias)
+2. [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias) - Two episodes per month
 
-3. [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
+3. [Fronteiras da Engenharia de Software](https://fronteirases.github.io/) - One episode per month
 
-4. [Elixir em Foco](http://elixiremfoco.com/)
+4. [Elixir em Foco](http://elixiremfoco.com/) - One episode per month
 
 
 The [Hello, Erlang!](https://helloerlang.github.io/) podcast started in 2022 but is currrently on pause.
