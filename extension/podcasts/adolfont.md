@@ -14,7 +14,7 @@
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/professor-adolfo-neto/id1490465804?uo=4)
 - [Castbox](https://castbox.fm/channel/Podcast-do-Professor-Adolfo-Neto-id2494657?country=us)
 - [Pocket Casts](https://pca.st/y74gr6np)
-- [RadioPublic](https://radiopublic.com/professor-adolfo-neto-8Xg12e)
+- [Podchaser](https://www.podchaser.com/podcasts/professor-adolfo-neto-1008773?)
 - [RSS](https://anchor.fm/s/10f2ba74/podcast/rss)
 - [YouTube - alguns episódios, com vídeos das entrevistas](https://www.youtube.com/playlist?list=PLF5ttO8F-IsSl1zRpP521vBVWGsCeRbEy)
 - [Headliner](https://play.headliner.app/podcast/14766)
