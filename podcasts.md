@@ -7,15 +7,29 @@
 </p>
 
 
+I have my one podcast in English:
 
-I have my own podcast ([Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)) and I am part of the team of three other podcasts:
-- [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias)
-- [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
-- [Elixir em Foco](http://elixiremfoco.com/)
+1. ([Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont))
+
+and three podcasts in Portuguese:
+
+2. [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias)
+
+3. [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
+
+4. [Elixir em Foco](http://elixiremfoco.com/)
+
 
 The [Hello, Erlang!](https://helloerlang.github.io/) podcast started in 2022 but is currrently on pause.
 
-I also keep [Adolfo Neto's Audio Museum](https://podcasters.spotify.com/pod/show/adolfo-neto).
+I also keep [Adolfo Neto's Audio Museum](https://podcasters.spotify.com/pod/show/adolfo-neto). There, I save podcast episodes that I fear may be lost someday.
+
+
+
+
+
+
+
 
 
 [Back to main page]({{ site.url }}/)
