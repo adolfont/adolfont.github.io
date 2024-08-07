@@ -16,5 +16,5 @@
 - [Pocket Casts](https://pca.st/y74gr6np)
 - [Podchaser](https://www.podchaser.com/podcasts/professor-adolfo-neto-1008773?)
 - [RSS](https://anchor.fm/s/10f2ba74/podcast/rss)
-- [YouTube - alguns episódios, com vídeos das entrevistas](https://www.youtube.com/playlist?list=PLF5ttO8F-IsSl1zRpP521vBVWGsCeRbEy)
+- [YouTube](https://www.youtube.com/@elixiradolfont)
 - [Headliner](https://play.headliner.app/podcast/14766)
