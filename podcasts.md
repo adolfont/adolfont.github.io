@@ -7,11 +7,11 @@
 </p>
 
 
-I have my one podcast in English:
+I have one podcast in English called 
 
 1. [Professor Adolfo Neto](https://adolfont.github.io/extension/podcasts/adolfont)
 
-and three podcasts in Portuguese:
+and I coordinate three podcasts in Portuguese, each with its own team:
 
 2. [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias)
 
