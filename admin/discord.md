@@ -1,3 +1,9 @@
+# 2024
+
+
+- <https://app.simplenote.com/>
+- <https://www.mindmeister.com/app/map/3377449589?t=AZfKnCPT6S>
+
 # Most important
 - [gmail](http://gmail.com) -- [Calendar](https://calendar.google.com/calendar/u/0/r) -- [chat](https://chat.openai.com/)
 - [Anchor](http://anchor.fm) -- [YouTube](https://www.youtube.com/) -- [Studio YT](https://studio.youtube.com/)
