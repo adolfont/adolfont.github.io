@@ -14,5 +14,6 @@
 8. Luis Sergio Baptista - Diretor comercial na Gráfica JB <http://linkedin.com/in/luiz-sergio-baptista-86a7071b9/> <https://www.youtube.com/watch?v=nboLrPz8V3w> <https://www.instagram.com/graficajb/reel/C9k3P84p5hR/?__d=1>
 6. Nelson Souto Rosa - Professor da UFPE <https://www.cin.ufpe.br/~nsr/>
 7. Ricardo Massa - Professor da UFPE <https://ricardomassa.cin.ufpe.br/>
+8. Roberto Wagner https://www.gov.br/mec/pt-br/composicao/secretaria-de-articulacao-intersetorial-e-com-os-sistemas-de-ensino-sase/roberto-wagner-da-silva-rodrigues
 9. Thalles Cerqueira de Mello - TRE-AL <http://lattes.cnpq.br/5929598237049356>
 10. Ticiano de Araújo Monteiro - Software Development Manager  SERPRO <https://www.linkedin.com/in/ticiano-monteiro-6163727>
