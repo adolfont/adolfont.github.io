@@ -1,6 +1,7 @@
 # Turma de Mestrado do Departamento de Informática da Universidade Federal de Pernambuco em 1994
 
-1. Adolfo Gustavo Serra Seca Neto - Professsor da UTFPR - <http://adolfont.github.io> <https://www.linkedin.com/in/adolfont/>
+1. Adolfo Gustavo Serra Seca Neto - Professsor da UTFPR - <http://adolfont.github.io> <https://www.linkedin.com/in/adolfont/>. 
+Minha dissertação foi a [174](https://x.com/adolfont/status/1788621029406908587)
 1. Adriano Augusto de Souza - Auditor Federal de Finanças e Controle no Ministério de Transparência, e Controladoria-Geral da União <http://lattes.cnpq.br/1224271592719990>
 10. Adriano Lorena Inácio de Oliveira - Professor da UFPE <https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=1699034>
 11. Alcione Jandir Candeas Ramos https://www.escavador.com/sobre/6224952/alcione-jandir-candeas-ramos
@@ -18,3 +19,4 @@
 8. Roberto Wagner https://www.gov.br/mec/pt-br/composicao/secretaria-de-articulacao-intersetorial-e-com-os-sistemas-de-ensino-sase/roberto-wagner-da-silva-rodrigues
 9. Thalles Cerqueira de Mello - TRE-AL <http://lattes.cnpq.br/5929598237049356>
 10. Ticiano de Araújo Monteiro - Software Development Manager  SERPRO <https://www.linkedin.com/in/ticiano-monteiro-6163727>
+
