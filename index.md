@@ -77,8 +77,10 @@ My latest publications can be found on his [Google Scholar profile](https://scho
 ***
 ## Events
 
+- [Brazilian Conference on Software: Practice and Theory (CBSoft)](https://bit.ly/4fKvw0c) - September 30th to October 04th, 2024. Curitiba, Brazil.
 
-- [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://bit.ly/48x2e1b) - Mon 6 - Fri 10 May 2024 Curitiba, Brazil. [I am one of the EIbAIS Chairs](https://bit.ly/458bsOH)
+
+- [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://bit.ly/48x2e1b) - Mon 6 - Fri 10 May 2024 Curitiba, Brazil. [I was one of the EIbAIS Chairs](https://bit.ly/458bsOH)
 
 ***
 ## Links
