@@ -1,5 +1,9 @@
 # Recent Publications
 
+## 2024 
+
+- Lee Barney, Adolfo Neto.[Unsafe Impedance: Safe Languages and Safe by Design Software](https://bit.ly/3MaTBPT). Accepted for [Erlang Workshop 2024](https://icfp24.sigplan.org/home/erlang-2024)
+
 ## 2023
 
 [SANTOS, N. C.; DOMINGOS, J. G. B.; COSTA, L. G. A.; SECA NETO, ADOLFO GUSTAVO S.
