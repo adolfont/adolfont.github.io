@@ -10,3 +10,9 @@ Aqui está um pequeno exemplo:
 iex> "Elixir" |> String.graphemes() |> Enum.frequencies()
 %{"E" => 1, "i" => 2, "l" => 1, "r" => 1, "x" => 1}
 ```
+
+Consulte o nosso [Guia de Introdução (em inglês)](https://bit.ly/3WOfmtP) e a nossa [página de Aprendizagem (em inglês)](https://bit.ly/3X9J7a3) para iniciar a sua viagem com Elixir. 
+
+---
+
+Tradução parcial da página oficial da [linguagem Elixir](https://bit.ly/ELIXIR_NO_ELIXIR_EM_FOCO), criada pelo brasileiro José Valim. 
