@@ -17,4 +17,4 @@ Consulte o nosso [Guia de Introdução (em inglês)](https://bit.ly/3WOfmtP) e a
 
 Tradução parcial da página oficial da [linguagem Elixir](https://bit.ly/ELIXIR_NO_ELIXIR_EM_FOCO), criada pelo brasileiro José Valim. 
 
-Conheça o [Elixir em Foco](https://www.elixiremfoco.com/), o podcast da comunidade brasileira de Elixir.
+Conheça o [Elixir em Foco](https://www.elixiremfoco.com/), o podcast da comunidade brasileira de Elixir. Em vários episódios nossos convidados deram sugestões de como começar a aprender Elixir.
