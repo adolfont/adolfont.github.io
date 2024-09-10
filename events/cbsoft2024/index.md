@@ -1,5 +1,8 @@
 # Congresso Brasileiro de Software: Teoria e Prática (CBSoft) 2024
 
+![Logo CBSOFT 2024](https://github.com/user-attachments/assets/6877cfc7-b062-45b4-a15e-a518e67edd79)
+
+
 Site: <https://cbsoft.sbc.org.br/2024/cbsoft/>
 
 
@@ -16,4 +19,10 @@ A programação do CBSoft incluirá sessões técnicas com apresentações de ar
 
 
 ## Keynote Speakers do CBSOFT 2024
+
+
+## Nicole Novielli 
+
+{% include youtube.html id="gJPNxPh9D_Y" %}
+
 
