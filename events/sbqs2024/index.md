@@ -1,5 +1,8 @@
 # SBQS 2024
 
+![Logo SBQS](https://github.com/user-attachments/assets/c402aaa7-da9a-44b5-b8c2-40861730e0c4)
+
+
 - Simpósio Brasileiro de Qualidade de Software (SBQS), edição 2024
 - Local: Salvador/BA
 - Datas:de 05 a 08 de Novembro de 2024
