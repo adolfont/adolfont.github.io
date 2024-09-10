@@ -47,6 +47,10 @@ Saman Amarasinghe is a Professor in the Department of Electrical Engineering and
 
 Fabio Palomba is an Assistant Professor at the Software Engineering (SeSa) Lab of the University of Salerno.
 
+### Daniel Lucrédio
+
+Professor adjunto da Universidade Federal de São Carlos (UFSCar) e membro sênior do grupo RiSE - Reuse in Software Engineering.
+
 ## Tutorial Speakers
 
 ### Gabriela Moreira
