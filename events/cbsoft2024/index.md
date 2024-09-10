@@ -33,3 +33,18 @@ A programação do CBSoft incluirá sessões técnicas com apresentações de ar
 
 Foutse Khomh is a Full Professor of Software Engineering at Polytechnique Montréal.
 
+### Saman Amarasinghe
+
+Saman Amarasinghe is a Professor in the Department of Electrical Engineering and Computer Science at Massachusetts Institute of Technology (MIT).
+
+### Fabio Palomba
+
+Fabio Palomba is an Assistant Professor at the Software Engineering (SeSa) Lab of the University of Salerno.
+
+## Tutorial Speakers
+
+### Gabriela Moreira
+
+Gabriela is a research engineer at Informal Systems, acting as the main developer of Quint since the start of 2022.
+
+{% include youtube.html id="_vI8xFxn60A" %}
