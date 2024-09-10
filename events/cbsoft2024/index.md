@@ -1,5 +1,7 @@
 # Congresso Brasileiro de Software: Teoria e Prática (CBSoft) 2024
 
+Inscrições em <https://bit.ly/InscricoesCBSOFT2024>
+
 ![Logo CBSOFT 2024](https://github.com/user-attachments/assets/6877cfc7-b062-45b4-a15e-a518e67edd79)
 
 
