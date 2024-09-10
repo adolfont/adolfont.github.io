@@ -2,7 +2,7 @@
 
 Inscrições em <https://bit.ly/InscricoesCBSOFT2024>
 
-![Logo CBSOFT 2024](https://github.com/user-attachments/assets/6877cfc7-b062-45b4-a15e-a518e67edd79)
+<img src="[img_girl.jpg](https://github.com/user-attachments/assets/6877cfc7-b062-45b4-a15e-a518e67edd79)" alt="Logo CBSOFT 2024" width="20%">
 
 
 Site: <https://cbsoft.sbc.org.br/2024/cbsoft/>
