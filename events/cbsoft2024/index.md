@@ -29,3 +29,7 @@ A programação do CBSoft incluirá sessões técnicas com apresentações de ar
 
 {% include youtube.html id="WRKAJYuMqs0" %}
 
+### Foutse Khomh
+
+Foutse Khomh is a Full Professor of Software Engineering at Polytechnique Montréal.
+
