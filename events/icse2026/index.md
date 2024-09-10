@@ -1,5 +1,7 @@
 # ICSE 2026
 
+[If you can, attend ICSE 2025!](https://conf.researchr.org/home/icse-2025)
+
 ![ICSE 2026](https://github.com/user-attachments/assets/debac1ba-2425-4f2b-9b23-a450eadcec8a)
 
 
