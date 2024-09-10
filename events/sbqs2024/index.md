@@ -1,5 +1,3 @@
-# SBQS 2024
-
 ![Logo SBQS](https://github.com/user-attachments/assets/c402aaa7-da9a-44b5-b8c2-40861730e0c4)
 
 
