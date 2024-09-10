@@ -21,8 +21,11 @@ A programação do CBSoft incluirá sessões técnicas com apresentações de ar
 ## Keynote Speakers do CBSOFT 2024
 
 
-## Nicole Novielli 
+### Nicole Novielli 
 
 {% include youtube.html id="gJPNxPh9D_Y" %}
 
+### Leonardo Murta
+
+{% include youtube.html id="WRKAJYuMqs0" %}
 
