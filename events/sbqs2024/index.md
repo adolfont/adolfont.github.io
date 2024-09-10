@@ -4,7 +4,8 @@
 - Local: Salvador/BA
 - Datas:de 05 a 08 de Novembro de 2024
 - Inscrições: <https://bit.ly/InscricoesSBQS2024>
-- [Porgramação](https://bit.ly/4gjmbMY)
+- [Programação](https://bit.ly/4gjmbMY)
+- Instagram do SBQS: <https://www.instagram.com/sbqsbrasil/>
 
 ## Kenynote Speakers
 
