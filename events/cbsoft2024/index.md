@@ -13,3 +13,7 @@ Desde 2010, o CBSoft tem sido um evento agregador de simpósios brasileiros na �
 - IX Simpósio Brasileiro de Teste de Software Sistemático e Automatizado: Dedicado à sistematização e automação da atividade de teste de software.
 
 A programação do CBSoft incluirá sessões técnicas com apresentações de artigos científicos, palestras de renomados pesquisadores nacionais e internacionais, painéis de discussão, workshops e demonstrações de ferramentas. Essas atividades são de grande interesse para a comunidade de Engenharia de Software e áreas relacionadas ao desenvolvimento de sistemas de software, promovendo a difusão do conhecimento e a discussão de questões importantes relacionadas à pesquisa, desenvolvimento e inovação, tanto no Brasil quanto no mundo.
+
+
+## Keynote Speakers do CBSOFT 2024
+
