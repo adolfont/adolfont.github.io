@@ -13,3 +13,8 @@ Apr. 10 - 19, 2026
 <http://www.icse-conferences.org/>
 
 <https://conf.researchr.org/home/icse-2026> Soon
+
+
+## 
+
+[ICSE 26 - Rio de Janeiro. The 48th premier ICSE Conference will be held for the first time in Brazil in 2026, under the leadership of PUC-RS and Puc-Rio universities and the entire Brazilian software engineering community.](https://archive.is/4bfsw)
