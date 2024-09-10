@@ -2,7 +2,6 @@
 
 Site: <https://cbsoft.sbc.org.br/2024/cbsoft/>
 
-Sobre o CBSoft
 
 Como Coordenador de Publicidade, tenho o prazer de apresentar o Congresso Brasileiro de Software: Teoria e Prática (CBSoft), um evento anual promovido pela Sociedade Brasileira de Computação (SBC). Nosso objetivo é fomentar a troca de experiências entre pesquisadores e profissionais da indústria e academia, destacando as mais recentes pesquisas, tendências e inovações práticas e teóricas no campo do software.
 
