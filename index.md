@@ -14,6 +14,12 @@ My [now](http://adolfont.github.io/now) page.
 
 🇧🇷 Estou organizando a [Elixir Curitiba 2024](https://bit.ly/ElixirCuritiba).
 
+🇧🇷 Faço parte da organização do [CBSOFT 2024](https://adolfont.github.io/events/cbsoft2024/).
+
+🇧🇷 Faço parte da organização do [SBQS 2024](https://adolfont.github.io/events/sbqs2024/).
+
+
+
 🇧🇷 Fiz parte da equipe organizadora do Elixir Days 2024. Site do evento: <https://www.elixirdays.com/>. A edição 2025 já tem datas confirmadas no site.
 
 <!-- ![ElixirDays](https://github.com/adolfont/adolfont.github.io/assets/79562/9bcff2fb-b7fd-4d8e-833c-3e6465388b63) -->
