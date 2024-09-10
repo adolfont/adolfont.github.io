@@ -14,7 +14,7 @@ Simpósio Brasileiro de Qualidade de Software (SBQS), edição 2024
 {% include youtube.html id="KjWEYlLb-14" %}
 
 
-## Marcio Ribeiro 
+## Márcio Ribeiro 
 
 {% include youtube.html id="oSKRygbM3iU" %}
 
