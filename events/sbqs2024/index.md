@@ -4,7 +4,24 @@
 - Local: Salvador/BA
 - Datas:de 05 a 08 de Novembro de 2024
 - Inscrições: <https://bit.ly/InscricoesSBQS2024>
-
+- [Porgramação](https://bit.ly/4gjmbMY)
 
 ## Kenynote Speakers
+
+## Alexander Serebrenik 
+
+{% include youtube.html id="KjWEYlLb-14" %}
+
+
+## Marcio Ribeiro 
+
+{% include youtube.html id="oSKRygbM3iU" %}
+
+### Sheila Reinehr
+
+{% include youtube.html id="WpJ1skhVKkg" %}
+
+
+
+
 
