@@ -29,6 +29,12 @@ A programação do CBSoft incluirá sessões técnicas com apresentações de ar
 
 {% include youtube.html id="WRKAJYuMqs0" %}
 
+
+### Gustavo Pinto 
+
+{% include youtube.html id="RSZ35P3ya38" %}
+
+
 ### Foutse Khomh
 
 Foutse Khomh is a Full Professor of Software Engineering at Polytechnique Montréal.
