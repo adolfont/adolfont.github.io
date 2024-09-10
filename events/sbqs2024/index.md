@@ -7,14 +7,14 @@ Simpósio Brasileiro de Qualidade de Software (SBQS), edição 2024
 - [Programação](https://bit.ly/4gjmbMY)
 - Instagram do SBQS: <https://www.instagram.com/sbqsbrasil/>
 
-## Kenynote Speakers
+## Keynote Speakers
 
-## Alexander Serebrenik 
+### Alexander Serebrenik 
 
 {% include youtube.html id="KjWEYlLb-14" %}
 
 
-## Márcio Ribeiro 
+### Márcio Ribeiro 
 
 {% include youtube.html id="oSKRygbM3iU" %}
 
