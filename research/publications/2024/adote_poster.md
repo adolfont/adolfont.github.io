@@ -5,5 +5,6 @@ Poster apresentado no [TechTalks 2024 do PPGCA UTFPR](https://www.utfpr.edu.br/c
 Autores: Vladimir Belinski, Adolfo Gustavo Serra Seca Neto e Maria Claudia Figueiredo Pereira Emer
 
 
+![posterADoTe_v4_page-0001](https://github.com/user-attachments/assets/5153afeb-ff8b-4e84-a959-fa211305608b)
 
-![posterADoTe_v4_page-0001](https://gist.github.com/user-attachments/assets/8f78a8ec-7c83-4404-b15c-f26e14d18765)
+
