@@ -1,4 +1,4 @@
-# Professores e professoras doutores alagoanos(as) em instituições de ensino fora do estado
+# Professores e professoras doutores alagoanos(as), da área da Computação, em instituições de ensino fora do estado
 
 
 - Adolfo Neto - UTFPR <https://adolfont.github.io/>
