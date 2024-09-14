@@ -5,4 +5,5 @@
 - André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/>
 - Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/>
 - Delano Beder - UFSCAR <https://www.ppgpcm.ufscar.br/pt-br/programa/docentes/delano-medeiros-beder>
+- Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/>
 - Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
