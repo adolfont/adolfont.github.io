@@ -1,4 +1,4 @@
-# Professores, professoras, pesqusisadores doutores alagoanos(as), da área da Computação, que atuam em instituições de ensino fora do estado de Alagoas
+# Professores, professoras, pesquisadores doutores alagoanos(as), da área da Computação, que atuam em instituições de ensino fora do estado de Alagoas
 
 
 ## Docentes
