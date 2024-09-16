@@ -13,6 +13,7 @@ Curso: , Ciência da Computação
 - Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> Egresso Mestrado em Modelagem Computacional UFAL
 - Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
 - Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
+- Rafael Ferreira Mello - UFRPE <https://www.linkedin.com/in/rafael-ferreira-mello-989b3b37/> Egresso Ciência da Computação UFAL
 
 ## Pesquisadores
 
