@@ -9,6 +9,7 @@
 - Delano Beder - UFSCAR <https://www.ppgpcm.ufscar.br/pt-br/programa/docentes/delano-medeiros-beder> Egresso Ciência da Computação UFAL
 Curso: , Ciência da Computação
 - Gilton José Ferreira da Silva - UFS <https://www.linkedin.com/in/giltonmal/>  Mestrado em Informática UFAL, Bacharelado em Sistemas de Informação e Técnico em Informática IFAL
+- Guilherme Maia - UFMG <https://www.linkedin.com/in/guilherme-maia-0111a079/> Egresso Ciência da Computação UFAL
 - Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> Egresso Mestrado em Modelagem Computacional UFAL
 - Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
 - Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
