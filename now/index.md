@@ -12,10 +12,15 @@ Updated June 25th, 2024, from my home in Brazil.
 
 ## Teaching
 
-Right now I am teaching three courses at UTFPR Curitiba:
-- [Logic for Computer Science](https://logicaparacomputacao.github.io/), which I teach every semester.
-- [Agile Software Development](https://github.com/adolfont/caes001-agile-software-development) - every year, during the first semester
+Right now I am teaching *this course* at UTFPR Curitiba:
+<!-- - [Logic for Computer Science](https://logicaparacomputacao.github.io/), which I teach every semester.
+- [Agile Software Development](https://github.com/adolfont/caes001-agile-software-development) - every year, during the first semester   -->
+
 - [Research Methods](https://adolfont.github.io/teaching/metodologia_pesquisa) - every year, phase 2
+
+## Elixir Curitiba 2024
+
+I am organizing [Elixir Curitiba 2024](http://elixircuritiba.github.io)
 
 ## Elixir Days 2024 & 2025
 
@@ -56,4 +61,4 @@ Elixir Days 2025 will be on May 24th-25th. You can already buy tickets at <https
 - <https://sbqs.sbc.org.br/2024/>
 
 
-## To be continued...
+
