@@ -19,3 +19,13 @@ Curso: , Ciência da Computação
 ## Pesquisadores
 
 - Talita Perciano - Research Scientist at Lawrence Berkeley National Laboratory <https://www.linkedin.com/in/talita-perciano-7a58181b/> Egressa da graduação em Ciência da Computação UFAL, Técnico em Informática IFAL
+
+<!-- 
+
+Eanes Torres Pereira DSC, UFCG <http://lattes.cnpq.br/2030738304003254>
+Frederico Moreira Bublitz, Universidade Estadual da Paraíba (UEPB)
+Douglas Véras e Silva, UFRPE
+Cláudio Elízio Calazans Campelo, DSC, UFCG
+João Guilherme Maia de Menezes, DCC, UFMG
+
+-->
