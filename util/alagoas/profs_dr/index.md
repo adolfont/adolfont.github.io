@@ -4,8 +4,8 @@
 ## Docentes
 
 - Adolfo Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
-- André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/>
-- Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/>
+- André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/> Egresso Ciência da Computação UFAL, Técnico em Informática IFAL
+- Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/> Egresso Ciência da Computação e Mestrado em Modelagem Computacional de Conhecimento UFAL, Técnico em Informática IFAL
 - Delano Beder - UFSCAR <https://www.ppgpcm.ufscar.br/pt-br/programa/docentes/delano-medeiros-beder> Egresso Ciência da Computação UFAL
 - Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> Egresso Mestrado em Modelagem Computacional UFAL
 - Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
