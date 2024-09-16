@@ -12,6 +12,7 @@ Curso: , Ciência da Computação
 - Guilherme Maia - UFMG <https://www.linkedin.com/in/guilherme-maia-0111a079/> Egresso Ciência da Computação UFAL
 - Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> Egresso Mestrado em Modelagem Computacional UFAL
 - Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
+- Maria Aparecida Sibaldo, UFRPE, Garanhuns <http://lattes.cnpq.br/6462709058060681> Egressa Ciência da Computação e Mestre em Modelagem Computacional do Conhecimento UFAL
 - Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
 - Rafael Ferreira Mello - UFRPE <https://www.linkedin.com/in/rafael-ferreira-mello-989b3b37/> Egresso Ciência da Computação UFAL
 
