@@ -3,10 +3,11 @@
 
 ## Docentes
 
-- Adolfo Neto - UTFPR <https://adolfont.github.io/>
+- Adolfo Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
 - André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/>
 - Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/>
-- Delano Beder - UFSCAR <https://www.ppgpcm.ufscar.br/pt-br/programa/docentes/delano-medeiros-beder>
+- Delano Beder - UFSCAR <https://www.ppgpcm.ufscar.br/pt-br/programa/docentes/delano-medeiros-beder> Egresso Ciência da Computação UFAL
+- Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> - Egresso Mestrado em Modelagem Computacional UFAL
 - Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/>
 - Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
 
