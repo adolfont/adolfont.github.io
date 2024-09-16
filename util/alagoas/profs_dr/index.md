@@ -13,4 +13,4 @@
 
 ## Pesquisadores
 
-- Talita Perciano - Research Scientist at Lawrence Berkeley National Laboratory <https://www.linkedin.com/in/talita-perciano-7a58181b/> Egressa da graduação em Ciência da Computação UFAL
+- Talita Perciano - Research Scientist at Lawrence Berkeley National Laboratory <https://www.linkedin.com/in/talita-perciano-7a58181b/> Egressa da graduação em Ciência da Computação UFAL, Técnico em Informática IFAL
