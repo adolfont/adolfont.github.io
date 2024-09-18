@@ -3,7 +3,7 @@
 
 ## Docentes
 
-- Adolfo Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
+1. Adolfo Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
 - André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/> Egresso Ciência da Computação UFAL, Técnico em Informática IFAL
 - Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/> Egresso Ciência da Computação e Mestrado em Modelagem Computacional de Conhecimento UFAL, Técnico em Informática IFAL
 - Cláudio Elízio Calazans Campelo - UFCG <http://lattes.cnpq.br/2042247762832979>
