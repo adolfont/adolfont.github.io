@@ -3,7 +3,7 @@
 
 ## Docentes
 
-1. Adolfo Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
+1. Adolfo Gustavo Serra Seca Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
 1. André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/> Egresso Ciência da Computação UFAL, Técnico em Informática IFAL
 1. Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/> Egresso Ciência da Computação e Mestrado em Modelagem Computacional de Conhecimento UFAL, Técnico em Informática IFAL
 1. Cláudio Elízio Calazans Campelo - UFCG <http://lattes.cnpq.br/2042247762832979>
@@ -18,7 +18,7 @@
 1. Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
 1. Maria Aparecida Sibaldo, UFRPE, Garanhuns <http://lattes.cnpq.br/6462709058060681> Egressa Ciência da Computação e Mestre em Modelagem Computacional do Conhecimento UFAL
 1. Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
-1. Rafael Ferreira Mello - UFRPE <https://www.linkedin.com/in/rafael-ferreira-mello-989b3b37/> Egresso Ciência da Computação UFAL
+1. Rafael Ferreira Leite de Mello - UFRPE <https://www.linkedin.com/in/rafael-ferreira-mello-989b3b37/> Egresso Ciência da Computação UFAL
 
 ## Pesquisadores
 
