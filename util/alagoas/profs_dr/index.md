@@ -6,10 +6,13 @@
 - Adolfo Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
 - André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/> Egresso Ciência da Computação UFAL, Técnico em Informática IFAL
 - Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/> Egresso Ciência da Computação e Mestrado em Modelagem Computacional de Conhecimento UFAL, Técnico em Informática IFAL
+- Cláudio Elízio Calazans Campelo - UFCG <http://lattes.cnpq.br/2042247762832979>
 - Delano Beder - UFSCAR <https://www.ppgpcm.ufscar.br/pt-br/programa/docentes/delano-medeiros-beder> Egresso Ciência da Computação UFAL
+- Douglas Véras e Silva - UFRPE <http://lattes.cnpq.br/2969243668455081> Egresso Ciência da Computação UFAL
 - Eanes Torres Pereira - UFCG <http://lattes.cnpq.br/2030738304003254> Egresso Ciência da Computação UFAL
 - Frederico Moreira Bublitz - Universidade Estadual da Paraíba (UEPB) <http://lattes.cnpq.br/3910966211279217> Egresso Ciência da Computação UFAL
 - Gilton José Ferreira da Silva - UFS <https://www.linkedin.com/in/giltonmal/>  Mestrado em Informática UFAL, Bacharelado em Sistemas de Informação e Técnico em Informática IFAL
+- João Guilherme Maia de Menezes - UFMG <http://lattes.cnpq.br/8338908425321389> Egresso Ciência da Computação UFAL
 - Guilherme Maia - UFMG <https://www.linkedin.com/in/guilherme-maia-0111a079/> Egresso Ciência da Computação UFAL
 - Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> Egresso Mestrado em Modelagem Computacional UFAL
 - Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
@@ -23,8 +26,8 @@
 
 <!-- 
 
-Douglas Véras e Silva, UFRPE
-Cláudio Elízio Calazans Campelo, DSC, UFCG
-João Guilherme Maia de Menezes, DCC, UFMG
+
+
+
 
 -->
