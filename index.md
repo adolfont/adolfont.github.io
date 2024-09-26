@@ -8,6 +8,8 @@ I am the co-creator and co-host of the [Fronteiras da Engenharia de Software pod
 
 I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/49pP4nd), [Erlang](https://bit.ly/3StIlm4), and [Lean](https://bit.ly/3FNxBYo) programming languages.
 
+ORCID: <https://orcid.org/0000-0002-0260-5922>
+
 My [now](http://adolfont.github.io/now) page.
 
 ## News
