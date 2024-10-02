@@ -3,8 +3,10 @@
 
 ## Docentes
 
+
 1. Adolfo Gustavo Serra Seca Neto - UTFPR <https://adolfont.github.io/> Egresso Ciência da Computação UFAL
 1. André Atanásio - IFPB <https://www.linkedin.com/in/andreatanasio/> Egresso Ciência da Computação UFAL, Técnico em Informática IFAL
+1. André Hora - UFMG <https://dcc.ufmg.br/professor/andre-cavalcante-hora/>  <https://www.linkedin.com/in/andre-hora-20195414/> 
 1. Bruno Lopes - UFF <http://www2.ic.uff.br/~bruno/> Egresso Ciência da Computação e Mestrado em Modelagem Computacional de Conhecimento UFAL, Técnico em Informática IFAL
 1. Cláudio Elízio Calazans Campelo - UFCG <http://lattes.cnpq.br/2042247762832979>
 1. Delano Beder - UFSCAR <https://www.ppgpcm.ufscar.br/pt-br/programa/docentes/delano-medeiros-beder> Egresso Ciência da Computação UFAL
