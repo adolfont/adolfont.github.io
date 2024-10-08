@@ -1,4 +1,4 @@
-# Computução 1
+# Computação 1
 
 
 ## Minha área de trabalho no Replit
