@@ -25,6 +25,10 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - Linguagem C acompanhada de uma xícara de café. Manzano, José Augusto N. G. São Paulo: Erica, 2015.
 - Algoritmos e programação com exemplos em Pascal e C. Edelweiss, Nina; Livi, Maria Aparecida Castro. Série livros didáticos UFRGS.
 
+## Playlist no Youtube
+
+[Computação 1 INF71A](https://www.youtube.com/playlist?list=PLr0nplfR1PLeDraXsWjEQDbbsgKRw4leU)
+
 ## LLMs que podem auxiliar
 
 Use com moderação!
