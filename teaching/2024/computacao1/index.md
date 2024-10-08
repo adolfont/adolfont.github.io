@@ -27,6 +27,17 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - Linguagem C acompanhada de uma xícara de café. Manzano, José Augusto N. G. São Paulo: Erica, 2015.
 - Algoritmos e programação com exemplos em Pascal e C. Edelweiss, Nina; Livi, Maria Aparecida Castro. Série livros didáticos UFRGS.
 
+## Material de referência da Linguagem C
+
+(Consulte quando você quiser saber mais detalhes sobre o uso de comandos, funções, variáveis, etc.)
+
+- [cplusplus.com](https://www.cplusplus.com/reference/)  
+- [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)  
+- [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf)  
+- [Stack Overflow - dúvidas específicas (forneça palavras-chave)](https://stackoverflow.com/ "Stack Overflow - dúvidas específicas (forneça palavras-chave)")  
+- [C Tutorial](https://www.w3schools.com/c/)
+- <https://www.freecodecamp.org/portuguese/news/tag/linguagem-c/>
+
 ## Playlist no Youtube
 
 [Computação 1 INF71A](https://www.youtube.com/playlist?list=PLr0nplfR1PLeDraXsWjEQDbbsgKRw4leU)
