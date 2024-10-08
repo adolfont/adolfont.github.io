@@ -11,6 +11,10 @@
 
 Ver no [Portal do Aluno](https://www.utfpr.edu.br/alunos/portal-do-aluno).
 
+Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
+- 09/10/2024 Introdução à Linguagem C. Estruturas sequenciais. Variáveis e operadores. // Não será tudo por conta da SECAEL
+
+
 ## Minha área de trabalho no Replit
 
 <https://replit.com/@AdolfoNeto1/>
