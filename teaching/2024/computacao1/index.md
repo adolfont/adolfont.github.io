@@ -29,6 +29,8 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 
 [Computação 1 INF71A](https://www.youtube.com/playlist?list=PLr0nplfR1PLeDraXsWjEQDbbsgKRw4leU)
 
+Use [Invidiuos](https://docs.invidious.io/instances/) (no browser) ou [Newpipe](https://newpipe.net/) (em celulares Android) caso queira assistir sem propagandas.
+
 ## LLMs que podem auxiliar
 
 Use com moderação!
