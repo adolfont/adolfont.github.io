@@ -31,7 +31,7 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 
 Use [Invidiuos](https://docs.invidious.io/instances/) (no browser) ou [Newpipe](https://newpipe.net/) (em celulares Android) caso queira assistir sem propagandas.
 
-Exemplo: <https://inv.nadeko.net/watch?v=vMJq4xljgRg>
+Exemplo: <https://inv.nadeko.net/watch?v=vMJq4xljgRg>, usando <https://inv.nadeko.net/>
 
 ## LLMs que podem auxiliar
 
