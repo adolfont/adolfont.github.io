@@ -27,4 +27,7 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 
 ## LLMs que podem auxiliar
 
+Use com moderação!
+
 - [Claude](https://bit.ly/ClaudeComputacao1)
+- [Copilot](https://bit.ly/CopilotComputacao1)
