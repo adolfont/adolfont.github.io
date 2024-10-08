@@ -15,6 +15,8 @@ Ver no [Portal do Aluno](https://www.utfpr.edu.br/alunos/portal-do-aluno).
 
 <https://replit.com/@AdolfoNeto1/>
 
+Exemplo de criação de conta: <https://www.youtube.com/watch?v=w_gpH5cRibQ> ou <https://inv.nadeko.net/watch?v=w_gpH5cRibQ>
+
 
 ## Bibliografia
 
