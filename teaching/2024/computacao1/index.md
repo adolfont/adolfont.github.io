@@ -38,6 +38,11 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - [C Tutorial](https://www.w3schools.com/c/)
 - <https://www.freecodecamp.org/portuguese/news/tag/linguagem-c/>
 
+## Sites para praticar
+
+- Desafios OsProgramadores: <https://osprogramadores.com/desafios/>
+- Exercism: <https://exercism.org/tracks/c>
+
 ## Playlist no Youtube
 
 [Computação 1 INF71A](https://www.youtube.com/playlist?list=PLr0nplfR1PLeDraXsWjEQDbbsgKRw4leU)
