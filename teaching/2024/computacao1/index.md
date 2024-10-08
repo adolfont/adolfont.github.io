@@ -13,7 +13,7 @@ Ver no [Portal do Aluno](https://www.utfpr.edu.br/alunos/portal-do-aluno).
 
 ## Minha área de trabalho no Replit
 
-<https://replit.com/@adolfoneto>
+<https://replit.com/@AdolfoNeto1/>
 
 
 ## Bibliografia
