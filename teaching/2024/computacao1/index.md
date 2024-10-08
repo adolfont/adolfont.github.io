@@ -47,6 +47,13 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - Desafios OsProgramadores: <https://osprogramadores.com/desafios/>
 - Exercism: <https://exercism.org/tracks/c>
 
+## Slides
+
+
+<https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>
+
+<!-- K... Brian https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628 --> 
+
 ## Playlist no Youtube
 
 [Computação 1 INF71A](https://www.youtube.com/playlist?list=PLr0nplfR1PLeDraXsWjEQDbbsgKRw4leU)
