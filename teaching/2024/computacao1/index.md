@@ -68,3 +68,11 @@ Use com moderação!
 
 - [Claude](https://bit.ly/ClaudeComputacao1)
 - [Copilot](https://bit.ly/CopilotComputacao1)
+
+
+## C no Google Colab
+
+[Vídeo](https://www.youtube.com/watch?v=Ka-s6OGQhmc)
+
+
+[Notebook](https://colab.research.google.com/drive/1ZhnJTkDsB83Fa8ciH7AolgRN0lgHT-np?usp=sharing)
