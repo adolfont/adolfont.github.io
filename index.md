@@ -2,7 +2,12 @@
 ![Picture of Adolfo Neto](/images/AdolfoNeto_240x240.jpg "Adolfo Neto")
 
 I am an Associate Professor at the [Federal University of Technology, Paraná](https://bit.ly/49hx0Lg).
-My research area is Software Engineering, and my overarching research objective is to assist developers in facilitating the sharing of knowledge and the acquisition of both scientific and practical expertise. I am interested in software development communities, knowledge exchange in software engineering, and agile methods. 
+My research area is Software Engineering, and my overarching research objective is to assist developers in facilitating the sharing of knowledge and the acquisition of both scientific and practical expertise. 
+
+Research topics:
+- Software development communities
+- Knowledge exchange in software engineering
+- Agile methods
 
 I am the co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also the co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast and the creator and host of the [Professor Adolfo Neto podcast](https://podcasters.spotify.com/pod/show/adolfont).
 
