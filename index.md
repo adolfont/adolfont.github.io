@@ -13,7 +13,10 @@ I am the co-creator and co-host of the [Fronteiras da Engenharia de Software pod
 
 I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/49pP4nd), [Erlang](https://bit.ly/3StIlm4), and [Lean](https://bit.ly/3FNxBYo) programming languages.
 
-ORCID: <https://orcid.org/0000-0002-0260-5922>
+- ORCID: <https://orcid.org/0000-0002-0260-5922>
+- Arxiv: <https://arxiv.org/search/cs?query=Neto%2C+Adolfo&searchtype=author&abstracts=show&order=-announced_date_first&size=50>
+- Google Scholar: <https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=pt-BR&oi=ao>
+- DBLP: <https://dblp.org/pid/84/2417.html> and <https://dblp.org/pid/348/6384.html>
 
 My [now](http://adolfont.github.io/now) page.
 
