@@ -62,6 +62,10 @@ Use [Invidiuos](https://docs.invidious.io/instances/) (no browser) ou [Newpipe](
 
 Exemplo de link Invidiuos para o primeiro vídeo da playlist: <https://inv.nadeko.net/watch?v=vMJq4xljgRg>, usando <https://inv.nadeko.net/>
 
+### Outras playlists de vídeos que podem ser úteis
+
+- [Playlist da disciplina "Programação de Computadores" do ciclo básico das Engenharias da UNIVESP (Universidade Virtual do Estado de São Paulo), Luciano Digiampetri](https://youtube.com/playlist?list=PL_JAaU8k6DQW_X6yHtTTuw9F6pF_0nvfy&si=q0kxkBxKOS-Dfl_3)
+
 ## LLMs que podem auxiliar
 
 Use com moderação!
