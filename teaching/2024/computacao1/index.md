@@ -4,7 +4,7 @@
 - Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao) e de [Engenharia Elétrica](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-eletrica)
 - Sala: CB-107
 - Turma: B13
-- Quartas-feiras: 7h30-11h0
+- Quartas-feiras: 7h30-11h10
 - Início das aulas: 02/10/2024
 - Final das aulas: 26/02/2025
 
