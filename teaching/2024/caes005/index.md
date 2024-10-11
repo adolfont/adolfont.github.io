@@ -25,3 +25,4 @@ _Only registered students have access to it._
 
 - [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
 - Exercism
+- <https://elixirschool.com/pt/lessons/basics/basics>
