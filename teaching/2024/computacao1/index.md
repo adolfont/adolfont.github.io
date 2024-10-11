@@ -23,6 +23,11 @@ Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
 Exemplo de criação de conta: <https://www.youtube.com/watch?v=w_gpH5cRibQ> ou <https://inv.nadeko.net/watch?v=w_gpH5cRibQ>
 
 
+## Código no GitHub
+
+<https://github.com/adolfont/INF71A_Computacao1/>
+
+
 ## Bibliografia
 
 Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>

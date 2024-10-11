@@ -21,6 +21,12 @@ _Only registered students have access to it._
 [Sender-Receiver](./sender_receiver_example/)
 
 
+### HOF
+
+- [C Zoey}](https://gist.github.com/zoedsoupe/2dff082e6e47db962097d758662dae20)
+
+- [Agda Zoey](https://gist.github.com/zoedsoupe/0b6cb6f063f5fa37e11f7fb21c7d53bf)
+
 ## Resources
 
 - [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
