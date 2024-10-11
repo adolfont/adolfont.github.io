@@ -19,3 +19,9 @@ _Only registered students have access to it._
 [A livebook for the basics of processes in Elixir](https://dev.to/adolfont/a-livebook-for-the-basics-of-processes-in-elixir-2io9)
 
 [Sender-Receiver](./sender_receiver_example/)
+
+
+## Resources
+
+- [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
+- Exercism
