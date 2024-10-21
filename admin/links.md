@@ -9,8 +9,8 @@
 ## This week
 
 - [ESEM](https://x.com/ESEM_conf)
-- [Podcast study](https://docs.google.com/spreadsheets/d/1q-g-5vr3l47z2utlQ3MQw9U-CESyTrpC_tk_7HBPpfY/edit?gid=1251457389#gid=1251457389)
-
+- [Podcast study spreadsheet](https://docs.google.com/spreadsheets/d/1q-g-5vr3l47z2utlQ3MQw9U-CESyTrpC_tk_7HBPpfY/edit?gid=1251457389#gid=1251457389)
+  - [paper](https://www.overleaf.com/project/66e2c79cdfaca3ecc9c71dbe)
 
 # Old Links
 
