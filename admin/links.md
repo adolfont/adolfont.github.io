@@ -5,6 +5,8 @@
 - [Calendar](https://calendar.google.com/calendar/u/0/r/week?ctz=America/Sao_Paulo&hl=pt_BR&es=1)
 - [Gmail](https://mail.google.com/mail/u/0/#inbox)
 
+DUOLINGO
+
 
 ## This week
 
