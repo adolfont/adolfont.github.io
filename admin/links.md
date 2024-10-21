@@ -5,6 +5,10 @@
 - [Gmail](https://mail.google.com/mail/u/0/#inbox)
 
 
+## This week
+
+- [ESEM](https://x.com/ESEM_conf)
+
 
 # Old Links
 
