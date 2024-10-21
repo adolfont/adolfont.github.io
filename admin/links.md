@@ -1,6 +1,7 @@
 # New Links
 
 - [Research MindMeister](https://www.mindmeister.com/app/map/3481677805)
+- [Simplenote](https://app.simplenote.com/)
 - [Calendar](https://calendar.google.com/calendar/u/0/r/week?ctz=America/Sao_Paulo&hl=pt_BR&es=1)
 - [Gmail](https://mail.google.com/mail/u/0/#inbox)
 
