@@ -12,15 +12,22 @@ Updated June 25th, 2024, from my home in Brazil.
 
 ## Teaching
 
-Right now I am teaching *this course* at UTFPR Curitiba:
+Right now I am teaching *these courses* at UTFPR Curitiba:
+
+- 🇧🇷 Estou lecionando [Computação 1](https://adolfont.github.io/teaching/2024/computacao1/) no segundo semestre de 2024.
+
+- 🇧🇷 Estou lecionando [Introduction to Functional Programming](https://adolfont.github.io/teaching/2024/caes005/) na terceira fase de 2024.
+
 <!-- - [Logic for Computer Science](https://logicaparacomputacao.github.io/), which I teach every semester.
-- [Agile Software Development](https://github.com/adolfont/caes001-agile-software-development) - every year, during the first semester   -->
+- [Agile Software Development](https://github.com/adolfont/caes001-agile-software-development) - every year, during the first semester
 
 - [Research Methods](https://adolfont.github.io/teaching/metodologia_pesquisa) - every year, phase 2
 
+-->
+
 ## Elixir Curitiba 2024
 
-I am organizing [Elixir Curitiba 2024](http://elixircuritiba.github.io)
+I have organized [Elixir Curitiba 2024](http://elixircuritiba.github.io)
 
 ## Elixir Days 2024 & 2025
 
