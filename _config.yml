@@ -10,6 +10,9 @@ relative_links:
 include:
   - research.md
 
+include: [ "/.well-known" ]
+
+
 theme: jekyll-theme-dinky
 
 
