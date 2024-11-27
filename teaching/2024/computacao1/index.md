@@ -56,7 +56,7 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - Desafios OsProgramadores: <https://osprogramadores.com/desafios/>
 - Exercism: <https://exercism.org/tracks/c>
 
-## Slides
+## Slides e Listas de Exercício
 
 
 <https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>
