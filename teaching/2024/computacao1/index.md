@@ -7,6 +7,7 @@
 - Quartas-feiras: 7h30-11h10
 - Início das aulas: 02/10/2024
 - Final das aulas: 26/02/2025
+- [Planejamento](https://sistemas2.utfpr.edu.br/url/1890)
 
 ## Planejamento de Ensino
 
