@@ -4,3 +4,5 @@
 
 ## [Introduction to Functional Programming](/teaching/2024/caes005/)
 
+## [Weather Curitiba](https://vanillaweather.com/forecast/36833078-3e66-4b4a-9736-900a9f857689)
+
