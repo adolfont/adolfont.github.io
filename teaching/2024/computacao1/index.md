@@ -7,14 +7,12 @@
 - Quartas-feiras: 7h30-11h10
 - Início das aulas: 02/10/2024
 - Final das aulas: 26/02/2025
-- [Planejamento](https://sistemas2.utfpr.edu.br/url/1890)
 
 ## Planejamento de Ensino
 
 Ver no [Portal do Aluno](https://www.utfpr.edu.br/alunos/portal-do-aluno).
 
 Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
-- 09/10/2024 Introdução à Linguagem C. Estruturas sequenciais. Variáveis e operadores. // Não será tudo por conta da SECAEL
 
 ## Compilador de C online
 
