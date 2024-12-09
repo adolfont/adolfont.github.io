@@ -10,7 +10,8 @@
 
 ## [Weather Curitiba](https://vanillaweather.com/forecast/36833078-3e66-4b4a-9736-900a9f857689)
 
-### [Calendário UTFPR](https://www.utfpr.edu.br/alunos/calendario)
+### Calendários UTFPR
+  - [Calendários UTFPR Graduação 2024 e 2025]((https://www.utfpr.edu.br/alunos/calendario))
   - [Calendário UTFPR Pós 2024 (Quadrimestral)](https://drippg-utfpr-2024.tiiny.site/)
   - [Calendário UTFPR Pós 2025 (Semestral)](https://utfpr-pos-2025-semestral.tiiny.site/)
 
