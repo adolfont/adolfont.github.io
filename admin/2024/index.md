@@ -18,3 +18,10 @@
 [Edit this](https://github.com/adolfont/adolfont.github.io/blob/master/admin/2024/index.md)
 
 
+## Sites úteis
+
+- [Duolingo](https://www.duolingo.com)
+- [Duolingo Stories](https://www.duolingo.com/practice-hub/stories)
+- [Strava](https://www.strava.com/dashboard)
+
+
