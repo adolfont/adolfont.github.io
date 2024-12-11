@@ -27,3 +27,13 @@
 - [Telegram Web](https://web.telegram.org/k/)
 
 
+## Destaques de 2024
+
+- [Elixir Days](https://archive.is/Ffw30)
+- [Episódios da Rede Emílias de Podcasts](https://fronteirases.github.io/redeemilias/)
+- [Elixir Curitiba](https://elixircuritiba.github.io/)
+- CBSOFT 2024
+- SBQS 2024
+- ESEM 2024
+
+
