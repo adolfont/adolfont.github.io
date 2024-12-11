@@ -23,5 +23,7 @@
 - [Duolingo](https://www.duolingo.com)
 - [Duolingo Stories](https://www.duolingo.com/practice-hub/stories)
 - [Strava](https://www.strava.com/dashboard)
+- [WhatsApp Web](https://web.whatsapp.com/)
+- [Telegram Web](https://web.telegram.org/k/)
 
 
