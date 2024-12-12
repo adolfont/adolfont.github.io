@@ -1,5 +1,12 @@
 # 2024 + 2025
 
+## Prioridades
+
+- Sucupira Qualitativo 2021-24
+- Titular
+
+
+
 ## [Notion](https://www.notion.so/)
 
 ## [Calendar](https://calendar.google.com/calendar/u/0/r)
