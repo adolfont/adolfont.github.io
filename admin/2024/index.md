@@ -3,6 +3,7 @@
 ## Prioridades
 
 - [ ] Notas MP (faltam os vídeos)
+- [ ] Entrevistas CAES005
 - [ ] Sucupira Qualitativo 2021-24
 - [ ] Titular
 - [ ] Computer on the Beach
