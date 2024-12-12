@@ -2,7 +2,7 @@
 
 ## Prioridades
 
-- [ ] Notas MP
+[ ] Notas MP
 - [ ] Sucupira Qualitativo 2021-24
 - [ ] Titular
 - [ ] Computer on the Beach
