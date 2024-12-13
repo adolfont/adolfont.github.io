@@ -6,7 +6,8 @@
 
 ## Prioridades
 
-- [X] Notas MP e vídeos - 
+- [X] Notas MP e vídeos
+- [ ] Form para talks (CAES005 e eventos)
 - [ ] Entrevistas CAES005
 - [ ] Sucupira Qualitativo 2021-24
 - [ ] Titular
