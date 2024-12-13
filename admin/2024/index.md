@@ -1,11 +1,12 @@
 # 2024 + 2025
 
-[Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/admin/2024/index.md)
+- [Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/admin/2024/index.md)
+- [Visit the published page](https://adolfont.github.io/admin/2024/)
 
 
 ## Prioridades
 
-- [ ] Notas MP (faltam os vídeos)
+- [X] Notas MP e vídeos - 
 - [ ] Entrevistas CAES005
 - [ ] Sucupira Qualitativo 2021-24
 - [ ] Titular
