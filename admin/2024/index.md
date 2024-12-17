@@ -2,6 +2,7 @@
 
 - [Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/admin/2024/index.md)
 - [Visit the published page](https://adolfont.github.io/admin/2024/)
+- [posts](https://adolfont.github.io/extension/blogs/posts)
 
 
 ## Prioridades
