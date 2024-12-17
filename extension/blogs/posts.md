@@ -1,6 +1,6 @@
 # Latest posts
 
-## Micro frontends Anti-patterns Catalog
+## Catalog of Micro Frontend Anti-Patterns
 
 
 <https://mfe-anti-patterns.online/micro-frontends-anti-patterns/#/catalog>
