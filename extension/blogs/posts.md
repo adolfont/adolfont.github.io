@@ -1,5 +1,14 @@
 # Latest posts
 
+## Micro frontends Anti-patterns Catalog
+
+
+<https://mfe-anti-patterns.online/micro-frontends-anti-patterns/#/catalog>
+
+
+
+
+
 ## Marcelo Finger
 
 Se você quiser fazer Mestrado/Doutorado em Lógica para a Computação ou IA, na melhor universidade da América Latina (USP) eu recomendo fortemente o professor Marcelo Finger 
