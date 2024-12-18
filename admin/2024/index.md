@@ -13,8 +13,8 @@
 - [ ] Sucupira Qualitativo 2021-24
 - [ ] Titular
 - [F] Computer on the Beach
-- [ ] Correção de Provas C1
-- [ ] Último ep FES 2024
+- [X] Correção de Provas C1
+- [X] Último ep FES 2024
 
 
 
