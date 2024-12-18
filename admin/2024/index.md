@@ -7,10 +7,14 @@
 
 ## Prioridades
 
+- [ ] Reunião EEF
+- [ ] Reunião Podcasts
 - [ ] Titular
 - [ ] Episódio Janeiro Elixir em Foco
 - [ ] Episódio Nabson
 - [ ] [Demais?](https://docs.google.com/spreadsheets/d/1fdT5h1ulLvs7aKtrRwji-X_5o38Z_a9-SAUiPj7pSyg/edit?usp=sharing)
+- [ ] SEXTA PHIL WADLER
+- [ ] SEXTA GILMAR
 
 [2025](https://www.notion.so/2025-15eca1ecd1be8012a0c2e1cd30efb8e3?pvs=9)
 
