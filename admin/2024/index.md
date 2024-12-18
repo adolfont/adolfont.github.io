@@ -59,3 +59,9 @@
 - [CIbSE 2025](https://conf.researchr.org/committee/cibse-2025/cibse-2025-program-committee)
 - [SEKE 25](https://ksiresearch.org/seke/seke25.html)
 
+
+
+
+## LLMs
+
+- [Perplexity](https://www.perplexity.ai/)
