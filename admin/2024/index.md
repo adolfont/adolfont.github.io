@@ -7,10 +7,10 @@
 
 ## Prioridades
 
-- [ ] Form para talks (CAES005 e eventos)
 - [ ] Titular
 - [ ] Episódio Janeiro Elixir em Foco
 - [ ] Episódio Nabson
+- [ ] [Demais?](https://docs.google.com/spreadsheets/d/1fdT5h1ulLvs7aKtrRwji-X_5o38Z_a9-SAUiPj7pSyg/edit?usp=sharing)
 
 ### Feitos
 - [X] Notas MP e vídeos
