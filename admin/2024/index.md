@@ -9,7 +9,7 @@
 
 - [ ] Reunião EEF
 - [ ] Reunião Podcasts
-- [ ] Titular
+- [ ] Tirar um tempo para abrir o processo necessário para o processo de Titular
 - [ ] Episódio Janeiro Elixir em Foco
 - [ ] Episódio Nabson
 - [ ] [Demais?](https://docs.google.com/spreadsheets/d/1fdT5h1ulLvs7aKtrRwji-X_5o38Z_a9-SAUiPj7pSyg/edit?usp=sharing)
