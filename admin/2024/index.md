@@ -68,7 +68,9 @@
 - [SEKE 25](https://ksiresearch.org/seke/seke25.html)
 
 
+## Publicty Chair 2025
 
+- SBQS
 
 ## LLMs
 
