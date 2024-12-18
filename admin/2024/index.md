@@ -7,15 +7,17 @@
 
 ## Prioridades
 
-- [X] Notas MP e vídeos
 - [ ] Form para talks (CAES005 e eventos)
-- [X] Entrevistas CAES005
-- [X] Sucupira Qualitativo 2021-24
 - [ ] Titular
-- [X] Correção de Provas C1
-- [X] Último ep FES 2024
 - [ ] Episódio Janeiro Elixir em Foco
 - [ ] Episódio Nabson
+
+### Feitos
+- [X] Notas MP e vídeos
+- [X] Entrevista CAES005
+- [X] Sucupira Qualitativo 2021-24
+- [X] Correção de Provas C1
+- [X] Último ep FES 2024
 
 ### Cancelados
 
