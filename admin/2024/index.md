@@ -12,7 +12,7 @@
 - [ ] Entrevistas CAES005
 - [ ] Sucupira Qualitativo 2021-24
 - [ ] Titular
-- [ ] Computer on the Beach
+- [F] Computer on the Beach
 - [ ] Correção de Provas C1
 - [ ] Último ep FES 2024
 
@@ -32,6 +32,7 @@
   - [Calendários UTFPR Graduação 2024 e 2025](https://www.utfpr.edu.br/alunos/calendario)
   - [Calendário UTFPR Pós 2024 (Quadrimestral)](https://drippg-utfpr-2024.tiiny.site/)
   - [Calendário UTFPR Pós 2025 (Semestral)](https://utfpr-pos-2025-semestral.tiiny.site/)
+    - Aulas da pós começam em 25/03 no PPGCA   
 
 
 
