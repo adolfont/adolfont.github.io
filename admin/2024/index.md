@@ -14,6 +14,8 @@
 - [ ] Titular
 - [X] Correção de Provas C1
 - [X] Último ep FES 2024
+- [ ] Episódio Janeiro Elixir em Foco
+- [ ] Episódio Nabson
 
 ### Cancelados
 
