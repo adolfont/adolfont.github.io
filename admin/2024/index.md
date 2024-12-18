@@ -66,4 +66,5 @@
 ## LLMs
 
 - [Perplexity](https://www.perplexity.ai/)
-- [HUggingFace chat](https://huggingface.co/chat/)
+- [HuggingFace chat](https://huggingface.co/chat/)
+- [Poe](https://poe.com/)
