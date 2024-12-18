@@ -12,9 +12,12 @@
 - [ ] Entrevistas CAES005
 - [ ] Sucupira Qualitativo 2021-24
 - [ ] Titular
-- [F] Computer on the Beach
 - [X] Correção de Provas C1
 - [X] Último ep FES 2024
+
+### Cancelados
+
+- Computer on the Beach 
 
 
 
