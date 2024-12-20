@@ -77,6 +77,7 @@
 ## Publicty Chair 2025
 
 - SBQS
+- [CBSOFT 2025](https://cbsoft.sbc.org.br/2025/cbsoft/organizacao/?lang=pt)
 
 ## LLMs
 
