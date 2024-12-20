@@ -79,6 +79,15 @@
 - SBQS
 - [CBSOFT 2025](https://cbsoft.sbc.org.br/2025/cbsoft/organizacao/?lang=pt)
 
+## Eventos 2025
+
+- Elixir Days? Maio
+- CBMFC Junho Manaus https://www.sbmfc.org.br/18cbmfc/
+- Congresso CSBC Maceió Julho
+- CBSOFT Recife Setembro
+- Elixir Curitiba? Outubro
+- SBQS São José dos Campos Novembro
+
 ## LLMs
 
 - [Perplexity](https://www.perplexity.ai/)
