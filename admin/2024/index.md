@@ -72,6 +72,7 @@
 
 - [CIbSE 2025](https://conf.researchr.org/committee/cibse-2025/cibse-2025-program-committee)
 - [SEKE 25](https://ksiresearch.org/seke/seke25.html)
+- Technical Program Committee for Workshop sobre Educação em Computação (WEI 2025)
 
 
 ## Publicty Chair 2025
