@@ -2,6 +2,7 @@
 
 ## 2025
 
+- ClbSE 2025 Program Committee
 
 ## 2024 
 
