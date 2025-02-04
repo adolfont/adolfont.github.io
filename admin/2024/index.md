@@ -70,6 +70,9 @@
 
 ## Program Committees 2025
 
+
+- Educomp 2025
+- XX SBSC - Colaboração Extensão 2025 - XX Simpósio Brasileiro de Sistemas Colaborativos - Trilha de Colaboração na Extensão
 - [CIbSE 2025](https://conf.researchr.org/committee/cibse-2025/cibse-2025-program-committee)
 - [SEKE 25](https://ksiresearch.org/seke/seke25.html)
 - Technical Program Committee for Workshop sobre Educação em Computação (WEI 2025)
