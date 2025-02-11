@@ -1,7 +1,7 @@
 
 ![Picture of Adolfo Neto](/images/AdolfoNeto_240x240.jpg "Adolfo Neto")
 
-I am an Associate Professor at the [Federal University of Technology, Paraná](https://bit.ly/49hx0Lg).
+I, Adolfo Neto (full name: Adolfo Gustavo Serra Seca Neto), am an Associate Professor at the [Federal University of Technology, Paraná](https://bit.ly/49hx0Lg).
 My research area is Software Engineering, and my overarching research objective is to assist developers in facilitating the sharing of knowledge and the acquisition of both scientific and practical expertise. 
 
 Research topics:
