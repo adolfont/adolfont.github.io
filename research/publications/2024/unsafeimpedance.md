@@ -11,6 +11,9 @@ Authors: [Lee Barney](https://www.byui.edu/directories/lee-barney) and [Adolfo N
 - [Arxiv](https://arxiv.org/abs/2407.13046)
 - [Lee Barney's presentation at Erlang 2024](https://www.youtube.com/watch?v=sVg0svb8mcI)
 
+{% include youtube.html id="sVg0svb8mcI" %}
+  
+
 - [Elixir Forum post](https://elixirforum.com/t/new-paper-unsafe-impedance-safe-languages-and-safe-by-design-software/65005)
 - [DevTo blog post](https://dev.to/adolfont/unsafe-impedance-safe-languages-and-safe-by-design-software-by-lee-barney-and-adolfo-neto-okh)
 - [Lee Barney's Linkedin post](https://www.linkedin.com/posts/barneylee_unsafe-impedance-safe-languages-and-safe-activity-7251960735784734722-GBzL/)
