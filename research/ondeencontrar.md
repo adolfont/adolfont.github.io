@@ -8,13 +8,16 @@
 
 ## Revistas e Conferências
 
-Dê uma olhada nos sites das principais revistas e conferências listadas aqui: <https://www.cse.chalmers.se/~feldt/advice/se_venues/>. 
+Sabendo ou não que tema você quer pesquisar, é bom saber o que está acontecendo por aí.
+
+Para isso, dê uma olhada nos sites das principais revistas e conferências listadas aqui: <https://www.cse.chalmers.se/~feldt/advice/se_venues/>. 
+
 Eu particularmente gosto de:
-- [Empirical Software Engineering](https://link.springer.com/journal/10664)
-- [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - [IST](https://www.sciencedirect.com/journal/information-and-software-technology)
 - [JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 - [JSERD](https://journals-sol.sbc.org.br/index.php/jserd)
+- [Empirical Software Engineering](https://link.springer.com/journal/10664)
+- [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - [ICSE](https://ieeexplore.ieee.org/xpl/conhome/1000691/all-proceedings)
 - [SBES, parte do CBSOFT](https://sol.sbc.org.br/index.php/cbsoft/issue/archive)
 - [SBQS](https://sol.sbc.org.br/index.php/sbqs/issue/archive)
