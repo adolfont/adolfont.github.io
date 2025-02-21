@@ -11,23 +11,21 @@
 Dê uma olhada nos sites das principais revistas e conferências listadas aqui: <https://www.cse.chalmers.se/~feldt/advice/se_venues/>. 
 Eu particularmente gosto de:
 - [Empirical Software Engineering](https://link.springer.com/journal/10664)
-- TSE
-- IST
-- JSS
-- JSERD
-- ICSE
-- FSE
-- SBES
-- SBQS
+- [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+- [IST](https://www.sciencedirect.com/journal/information-and-software-technology)
+- [JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
+- [JSERD](https://journals-sol.sbc.org.br/index.php/jserd)
+- [ICSE](https://ieeexplore.ieee.org/xpl/conhome/1000691/all-proceedings)
+- [SBES, parte do CBSOFT](https://sol.sbc.org.br/index.php/cbsoft/issue/archive)
+- [SBQS](https://sol.sbc.org.br/index.php/sbqs/issue/archive)
 
   
-Você pode pedir para receber avisos assim que artigos forem publicados. 
+Em alguns sites de revistas, você pode pedir para receber avisos por e-mail assim que artigos forem publicados. 
 
-ler só
-- titulço
-- resumo
-- páginas
-- todo artigo
+No Google Scholar, você pode pedir para ser notificado(a) por e-mail de artigos de pessoas ou temas.
 
-  Scholar
-  seguir pesquisadores
+Ao  ler um artigo, eu sempre procuro (indo para o passo seguinte apenas se satisfeito com o passo anterior):
+1. Ler o título
+2. Ler o resumo
+3. Folhear algumas páginas
+4. Ler o artigo completo
