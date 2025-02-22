@@ -1,6 +1,8 @@
 # Onde encontrar temas e artigos
 
 
+[Como ler artigos científicos](https://www.linkedin.com/posts/cesarfranssa_como-ler-artigos-cient%C3%ADficos-activity-7298715968715780097-OTdL?utm_source=share&utm_medium=member_android&rcm=ACoAAACF6fYB-5xWs4XHKWSuc_SWjeKBg86Qylc)
+
 ## Se você já sabe o tema
 
 - [Google Scholar](https://scholar.google.com/)
