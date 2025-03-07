@@ -11,6 +11,8 @@ Research topics:
 
 I am the co-creator and co-host of the [Fronteiras da Engenharia de Software podcast](https://fronteirases.github.io/), the [Elixir em Foco podcast](https://www.elixiremfoco.com/en) and [Emílias Podcast - Women in Computing](https://anchor.fm/emilias-podcast), all of them in Portuguese. I am also the co-creator and co-host of the [Hello, Erlang!](https://helloerlang.github.io/) podcast and the creator and host of the [Professor Adolfo Neto podcast](https://podcasters.spotify.com/pod/show/adolfont).
 
+I am one of the co-chairs of the [Education, Training, & Adoption Working Group](https://erlef.org/wg/education) of the Erlang Ecosystem Foundation.
+
 I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/49pP4nd), [Erlang](https://bit.ly/3StIlm4), and [Lean](https://bit.ly/3FNxBYo) programming languages.
 
 - ORCID: <https://orcid.org/0000-0002-0260-5922>
