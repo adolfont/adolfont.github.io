@@ -15,5 +15,11 @@ Existem variações do método, claro. Aula após aula, por exemplo, não aceito
 Fonte: [Transcrição da palestra do prof. Silvio Meira na Aula Magna do Programa de Pós-Graduação em Computação Aplicada - 22/04/2010
 ](http://dainf.ct.utfpr.edu.br/wiki/index.php?title=Transcri%C3%A7%C3%A3o_da_palestra_do_prof._Silvio_Meira_na_Aula_Magna_do_Programa_de_P%C3%B3s-Gradua%C3%A7%C3%A3o_em_Computa%C3%A7%C3%A3o_Aplicada_-_22/04/2010&oldid=3558)
 
+Outro trecho da palestra:
+
+{% include youtube.html id="DxAIyo-PN3E" %}
+
+
+
 
 [ChatGPT sobre Terrorismo Pedagógico](https://chatgpt.com/share/67d1e054-6834-8002-a8f4-ae88a895d0ea)
