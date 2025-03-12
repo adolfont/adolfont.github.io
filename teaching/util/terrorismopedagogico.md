@@ -15,10 +15,15 @@ Existem variações do método, claro. Aula após aula, por exemplo, não aceito
 Fonte: [Transcrição da palestra do prof. Silvio Meira na Aula Magna do Programa de Pós-Graduação em Computação Aplicada - 22/04/2010
 ](http://dainf.ct.utfpr.edu.br/wiki/index.php?title=Transcri%C3%A7%C3%A3o_da_palestra_do_prof._Silvio_Meira_na_Aula_Magna_do_Programa_de_P%C3%B3s-Gradua%C3%A7%C3%A3o_em_Computa%C3%A7%C3%A3o_Aplicada_-_22/04/2010&oldid=3558)
 
-[ChatGPT sobre Terrorismo Pedagógico](https://chatgpt.com/share/67d1e054-6834-8002-a8f4-ae88a895d0ea)
+## [ChatGPT sobre Terrorismo Pedagógico](https://chatgpt.com/share/67d1e054-6834-8002-a8f4-ae88a895d0ea)
 
+O texto descreve uma abordagem pedagógica que foi apelidada de "terrorismo pedagógico" pelos próprios alunos, mas que, na prática, não se encaixa na definição tradicional do termo. Em vez de gerar medo e ansiedade por meio de avaliações punitivas, essa metodologia incentiva os alunos a estudarem intensamente e formularem perguntas relevantes para evitar provas.
 
-Outro trecho da palestra:
+O método pode ser classificado como um estímulo ativo à participação e ao pensamento crítico, pois força os alunos a se prepararem com antecedência e engajarem-se nos debates. O professor impõe uma consequência estratégica—a aplicação de uma prova caso não haja perguntas significativas—mas, na prática, isso nunca acontece porque os alunos acabam se esforçando para evitar essa situação.
+
+Apesar do nome informal e provocativo, essa estratégia se aproxima mais de métodos socráticos ou construtivistas, nos quais o aprendizado ocorre por meio da problematização e do debate, do que de um verdadeiro "terrorismo pedagógico" no sentido negativo.
+
+## Outro trecho da palestra:
 
 {% include youtube.html id="DxAIyo-PN3E" %}
 
