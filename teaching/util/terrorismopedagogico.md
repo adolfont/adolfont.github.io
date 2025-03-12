@@ -23,6 +23,12 @@ O método pode ser classificado como um estímulo ativo à participação e ao p
 
 Apesar do nome informal e provocativo, essa estratégia se aproxima mais de métodos socráticos ou construtivistas, nos quais o aprendizado ocorre por meio da problematização e do debate, do que de um verdadeiro "terrorismo pedagógico" no sentido negativo.
 
+##  Teoria de mediação de Vygotsky
+
+[“Silvio Meira, isso é a teoria de mediação de Vygotsky“](https://bsky.app/profile/moreira2512.bsky.social/post/3lk7dradwmc2q)
+
+
+
 ## Outro trecho da palestra:
 
 {% include youtube.html id="DxAIyo-PN3E" %}
