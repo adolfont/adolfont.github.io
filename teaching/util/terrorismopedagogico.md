@@ -1,6 +1,6 @@
 # Terrorismo Pedagógico, por Silvio Meira
 
-“Eu criei anos atrás, principalmente, para as minhas cadeiras de graduação onde os estudantes estão ainda mais atentos e menos sincronizados 
+“Eu criei anos atrás, principalmente, para as minhas cadeiras de graduação, onde os estudantes estão ainda mais atentos e menos sincronizados 
 um método que meus estudantes, talvez, de forma pouco apropriada, batizaram de *terrorismo pedagógico* (risos) 
 que é um método esquizofrênico e inconsistente de dar aulas que é mais ou menos o seguinte: 
 vamos imaginar que isso aqui fosse a aula um, na aula um eu explico como é que o método funciona e digo o que que é que vai acontecer na aula seguinte:
