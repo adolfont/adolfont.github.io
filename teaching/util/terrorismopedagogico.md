@@ -1,12 +1,12 @@
 # Terrorismo Pedagógico, por Silvio Meira
 
-"Eu criei, anos atrás, principalmente para as minhas cadeiras de graduação, onde os estudantes estão ainda mais atentos e menos sincronizados, um método que meus estudantes, talvez de forma pouco apropriada, batizaram de terrorismo pedagógico (risos).
+"Eu criei, anos atrás, principalmente para as minhas cadeiras de graduação, onde os estudantes estão ainda menos atentos e menos sincronizados, um método que meus estudantes, talvez de forma pouco apropriada, batizaram de terrorismo pedagógico.
 
 É um método esquizofrênico e inconsistente de dar aulas, que funciona mais ou menos assim: vamos imaginar que isso aqui fosse a aula um. Na aula um, eu explico como o método funciona e digo o que vai acontecer na aula seguinte:
 
 'Na próxima aula, debateremos os capítulos um, dois e três do livro tal. Se não houver perguntas relevantes feitas pela plateia, tem prova.'
 
-Então, eu não dou aula; eles vão para casa, leem e participam do debate. Curiosamente, nunca tem prova. Os estudantes estudam que nem o cão para não precisar fazer prova (risos), que seria muito mais fácil. Estudam pra cacete, e aí chegam lá pensando: 'Se não fizermos perguntas, ele vai dar uma prova, e a gente vai acertar tudinho.'
+Então, eu não dou aula; eles vão para casa, leem e participam do debate. Curiosamente, nunca tem prova. Os estudantes estudam que nem o cão para não precisar fazer prova, que seria muito mais fácil. Estudam pra cacete, e aí chegam lá pensando: 'Se não fizermos perguntas, ele vai dar uma prova, e a gente vai acertar tudinho.'
 
 Mas não. O que acontece é um mega debate na aula, porque todo mundo enlouqueceu de tanto estudar.
 
