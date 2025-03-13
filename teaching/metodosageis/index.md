@@ -29,16 +29,17 @@ Introdução às metodologias ágeis. Software ágil: Valores e princípios fund
 
 ## Bibliografia Básica (em ordem de importância para a disciplina)
 
-- MILANI, F.; WILLI, R.; PRIKLADNICKI, R. **Métodos ágeis para desenvolvimento de software**. [s. l.]: Bookman, 2014. ISBN 9788582602072. Disponível em: [http://search.ebscohost.com/login.aspx?direct=true&db=cat07269a&AN=utfpr.278919&lang=pt-br&site=eds-live&scope=site](http://search.ebscohost.com/login.aspx?direct=true&db=cat07269a&AN=utfpr.278919&lang=pt-br&site=eds-live&scope=site). Acesso em: 23 fev. 2025. Disponível na [Minha Biblioteca da UTFPR](https://www.youtube.com/watch?v=SHvGr_xtcag) e para [Kindle](https://www.amazon.com.br/M%C3%A9todos-%C3%81geis-para-Desenvolvimento-Software-ebook/dp/B016P88HOG/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Ru3DZdiO7QsVvU32lxD_RE4VTXokf5O1MH8G1Y_kmnuBYohmvsUAX8COcIWuAAeDsqjpjZMhy9qcZHG8gNHlth_5OSAcpyChfIOujTcF4ok5h_YyHCCy-U5duaII65bYwHNPQ6YkegjgEdOs5O8lqpsAk-cFfaa255W-Zjct-jWeIo3Zl0-4egb7PFELtqDiIISuBaSfpHy6NSB36c_K5V9u1GAcUmJr8KjQke1f57U_Mn4YcuOnoNh3dZlN03Y9FevlFL6miZC-H9MjBryxS2Q4-AtQmMRQPIAiznmrsU5jLXipEl-9baP--1eKVPOcXDEe0G2cx5MrZDoqy3p-robbCxLKJE6bzBnmbMiQheCPkNhgSmh6g4867-cWvuOrKqBl_GthguZR7zcL8YAyJdlRI-FUAoCSwoZD80UDpT6OWBeBj0vbWJL40t8tumgz.qbPpqyf5i8FpZcqP0l_MjJgJ0Bew9q2-m7KGZeXPmks&qid=1741872103&sr=8-1). 
+- MILANI, F.; WILLI, R.; PRIKLADNICKI, R. **Métodos ágeis para desenvolvimento de software**. [s. l.]: Bookman, 2014. ISBN 9788582602072. Disponível em: [http://search.ebscohost.com/login.aspx?direct=true&db=cat07269a&AN=utfpr.278919&lang=pt-br&site=eds-live&scope=site](http://search.ebscohost.com/login.aspx?direct=true&db=cat07269a&AN=utfpr.278919&lang=pt-br&site=eds-live&scope=site). Acesso em: 13 mar. 2025. Disponível na [Minha Biblioteca da UTFPR](https://www.youtube.com/watch?v=SHvGr_xtcag) e para [Kindle](https://www.amazon.com.br/M%C3%A9todos-%C3%81geis-para-Desenvolvimento-Software-ebook/dp/B016P88HOG/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Ru3DZdiO7QsVvU32lxD_RE4VTXokf5O1MH8G1Y_kmnuBYohmvsUAX8COcIWuAAeDsqjpjZMhy9qcZHG8gNHlth_5OSAcpyChfIOujTcF4ok5h_YyHCCy-U5duaII65bYwHNPQ6YkegjgEdOs5O8lqpsAk-cFfaa255W-Zjct-jWeIo3Zl0-4egb7PFELtqDiIISuBaSfpHy6NSB36c_K5V9u1GAcUmJr8KjQke1f57U_Mn4YcuOnoNh3dZlN03Y9FevlFL6miZC-H9MjBryxS2Q4-AtQmMRQPIAiznmrsU5jLXipEl-9baP--1eKVPOcXDEe0G2cx5MrZDoqy3p-robbCxLKJE6bzBnmbMiQheCPkNhgSmh6g4867-cWvuOrKqBl_GthguZR7zcL8YAyJdlRI-FUAoCSwoZD80UDpT6OWBeBj0vbWJL40t8tumgz.qbPpqyf5i8FpZcqP0l_MjJgJ0Bew9q2-m7KGZeXPmks&qid=1741872103&sr=8-1). 
 
-- VALENTE, M. T. **Engenharia de Software Moderna**. 2020. ISBN: 978-65-00-01950-6 (impresso) e 978-65-00-00077-1 (e-book). Disponível em: [https://engsoftmoderna.info/](https://engsoftmoderna.info/). Acesso em: 23 fev. 2021.
+- VALENTE, M. T. **Engenharia de Software Moderna**. 2020. ISBN: 978-65-00-01950-6 (impresso) e 978-65-00-00077-1 (e-book). Disponível em: [https://engsoftmoderna.info/](https://engsoftmoderna.info/). Acesso em: 13 mar. 2025.
 
+- BECK, Kent et al. **Manifesto para o desenvolvimento ágil de software**. Disponível em: [http://manifestoagil.com.br/](http://manifestoagil.com.br/). 2001. Acesso em: 13 mar. 2025.
 
+- KNIBERG, H.; SKARIN, M. **Kanban e Scrum: obtendo o melhor de ambos**. InfoQ, 2009. Disponível em: [http://www.infoq.com/br/minibooks/kanban-scrum-minibook](http://www.infoq.com/br/minibooks/kanban-scrum-minibook). Acesso em: 13 mar. 2025.
+- 
 - SHORE, James; WARDEN, Shane. **The art of agile development**. Beijing; Sebastopol [Califórnia, US]: O'Reilly, c2008. xix, 415 p. (Theory in practice). ISBN 9780596527679.
 
-- BECK, Kent et al. **Manifesto para o desenvolvimento ágil de software**. Disponível em: [http://manifestoagil.com.br/](http://manifestoagil.com.br/). 2001.
 
-- KNIBERG, H.; SKARIN, M. **Kanban e Scrum: obtendo o melhor de ambos**. InfoQ, 2009. Disponível em: [http://www.infoq.com/br/minibooks/kanban-scrum-minibook](http://www.infoq.com/br/minibooks/kanban-scrum-minibook). Acesso em: 9 de agosto de 2016.
 
 
 ## Bibliografia Complementar
