@@ -2,7 +2,7 @@
 
 - Professor: Adolfo Neto
 - Na graduação: ICSE42 Metodologias Ágeis Para O Desenvolvimento De Software
-- No mestrado: CAES001 Metodologias Ágeis Para O Desenvolvimento De Software
+- No mestrado: [CAES001 Metodologias Ágeis Para O Desenvolvimento De Software](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-especificas/linha-de-pesquisa-em-engenharia-de-software/caes001-metodologias-ageis-para-o-desenvolvimento-de-software)
 
 ## Objetivo
 
