@@ -1,6 +1,7 @@
 # Metodologias Ágeis para Desenvolvimento de Software
 
 - Professor: Adolfo Neto
+- Aulas às terças-feiras das 14h40 às 17h30, de 25/03/2025 a 10/06/2025.
 - Na graduação: ICSE42 Metodologias Ágeis Para O Desenvolvimento De Software. Disciplina presencial para estudantes da UTFPR Curitiba.
 - No mestrado: [CAES001 Metodologias Ágeis Para O Desenvolvimento De Software](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-especificas/linha-de-pesquisa-em-engenharia-de-software/caes001-metodologias-ageis-para-o-desenvolvimento-de-software). Disciplina remota para estudantes de cursos de pós-graduação em computação ou egressos de graduação. [Inscrição 2025/1 até 18/03](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/disciplinas/2025-1)
   -  [Se quiser apenas ser ouvinte, assistir às aulas online sem ser avaliado(a) e ter direito a certificado, preencha este formulário](https://docs.google.com/forms/d/e/1FAIpQLSdULgZeoxjYtV5Nvak20tYcYNGbmvJy3e8Ou6cBMhEluzmEhA/viewform?usp=dialog)
