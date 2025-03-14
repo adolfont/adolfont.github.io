@@ -20,6 +20,7 @@ Praticamente todos, se não todos, usam o que você pergunta como parte do trein
 - HuggingChat [https://huggingface.co/chat](https://huggingface.co/chat)
 - Meta AI <https://www.meta.ai/>
 - Grok <http://grok.com/>
+- Groq <https://groq.com/>
 
 <!-- 
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
