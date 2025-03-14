@@ -33,7 +33,7 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - MosaicML MPT – [https://www.mosaicml.com/](https://www.mosaicml.com/)
 - Jan AI – [https://www.jan.ai/](https://www.jan.ai/)
 - MyShell – [https://myshell.ai/](https://myshell.ai/)
-- Mina AI – [https://minaai.chat/](https://minaai.chat/)
+
 
 
 ## Repositórios 
