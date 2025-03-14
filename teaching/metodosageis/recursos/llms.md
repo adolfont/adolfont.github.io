@@ -11,6 +11,7 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Copilot <https://copilot.microsoft.com/>
 - Poe <https://poe.com/>
 - Maritaca <https://chat.maritaca.ai/>
+- Google AI Studio <https://aistudio.google.com/>
 - Mistral AI [https://mistral.ai/](https://mistral.ai/)  
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
 - HuggingChat [https://huggingface.co/chat](https://huggingface.co/chat)
