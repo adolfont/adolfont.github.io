@@ -9,6 +9,8 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Claude <https://claude.ai/>
 - Perplexity AI <https://www.perplexity.ai/>
 - Copilot <https://copilot.microsoft.com/>
+- Poe <https://poe.com/>
+  
 - Mistral AI [https://mistral.ai/](https://mistral.ai/)  
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
 - HuggingChat [https://huggingface.co/chat](https://huggingface.co/chat)
