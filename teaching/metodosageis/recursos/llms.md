@@ -8,6 +8,8 @@ Praticamente todos, se não todos, usam o que você pergunta como parte do trein
 
 Todos escrevem parvoíces ("alucinam") de vez em quando. Sempre verifique a resposta.
 
+_Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolvedoras de software: <https://forms.gle/r2PgX6mDXuxo94zUA>._ 
+
 - ChatGPT <https://chatgpt.com/>
 - Qwen <https://chat.qwen.ai/>
 - DeepSeek <https://chat.deepseek.com/>
