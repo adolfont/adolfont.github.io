@@ -22,6 +22,7 @@ Praticamente todos, se não todos, usam o que você pergunta como parte do trein
 - Grok <http://grok.com/>
 - Groq <https://groq.com/>
 - You <https://you.com/>
+- Phind <https://www.phind.com/>
 
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
