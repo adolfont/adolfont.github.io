@@ -6,6 +6,8 @@ Alguns destes têm limitações (de tamanho da entrada, por exemplo).
 
 Praticamente todos, se não todos, usam o que você pergunta como parte do treinamento deles. Portanto, não inclua dados sensíveis.
 
+Todos escrevem parvoíces ("alucinam") de vez em quando. Sempre verifique a resposta.
+
 - ChatGPT <https://chatgpt.com/>
 - Qwen <https://chat.qwen.ai/>
 - DeepSeek <https://chat.deepseek.com/>
