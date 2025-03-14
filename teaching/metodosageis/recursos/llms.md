@@ -10,7 +10,7 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Perplexity AI <https://www.perplexity.ai/>
 - Copilot <https://copilot.microsoft.com/>
 - Poe <https://poe.com/>
-  
+- Maritaca <https://chat.maritaca.ai/>
 - Mistral AI [https://mistral.ai/](https://mistral.ai/)  
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
 - HuggingChat [https://huggingface.co/chat](https://huggingface.co/chat)
@@ -31,3 +31,7 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Jailbreak Chat [https://jailbreak.chat/](https://jailbreak.chat/)
 - Xwin-LM [https://xwinlm.com/](https://xwinlm.com/)
 - StableLM [https://stability.ai/](https://stability.ai/)
+- MosaicML MPT – [https://www.mosaicml.com/](https://www.mosaicml.com/)
+- Jan AI – [https://www.jan.ai/](https://www.jan.ai/)
+- MyShell – [https://myshell.ai/](https://myshell.ai/)
+- Mina AI – [https://minaai.chat/](https://minaai.chat/)
