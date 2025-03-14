@@ -15,9 +15,9 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Mistral AI [https://mistral.ai/](https://mistral.ai/)  
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
 - HuggingChat [https://huggingface.co/chat](https://huggingface.co/chat)
-- Ollama [https://ollama.com/](https://ollama.com/)
 
 <!-- 
+- Ollama [https://ollama.com/](https://ollama.com/)
 - KoboldAI [https://koboldai.org/](https://koboldai.org/)
 - Bard [https://bard.google.com/](https://bard.google.com/)
 - Pi [https://www.inflection.ai/](https://www.inflection.ai/)
