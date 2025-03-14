@@ -1,6 +1,10 @@
 # LLMs de uso gratuito e direto do site
 
-Alguns com limitações. Praticamente todos, se não todos, usam o que você pergunta como parte do treinamento.
+Nestes sites, basta criar uma conta e fazer perguntas (elaborar prompts) para os LLMs.
+
+Alguns destes têm limitações (de tamanho da entrada, por exemplo). 
+
+Praticamente todos, se não todos, usam o que você pergunta como parte do treinamento deles. Portanto, não inclua dados sensíveis.
 
 - ChatGPT <https://chatgpt.com/>
 - Qwen <https://chat.qwen.ai/>
@@ -38,9 +42,10 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Jan AI – [https://www.jan.ai/](https://www.jan.ai/)
 - MyShell – [https://myshell.ai/](https://myshell.ai/)
 
--->
-
 ## Repositórios 
 
 - Alpaca [https://github.com/tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 - WizardLM [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)
+
+-->
+
