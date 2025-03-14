@@ -30,6 +30,10 @@ _Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolved
 
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
+Observações:
+- Mistral Le Chat é ótimo para OCR
+- [Quem é cliente Vivo pós-pago tem direito a um ano grátis de Perplexity Pro](https://www.mobiletime.com.br/noticias/01/11/2024/vivo-perplexity-pro/#:~:text=Com%20exclusividade%20ao%20Mobile%20Time,pago%20e%20da%20Internet%20fixa.).
+
 ## Usos mais avançados
 
 - Comparador de LLMs: LLM Arena <https://lmarena.ai/>
