@@ -26,6 +26,10 @@ Praticamente todos, se não todos, usam o que você pergunta como parte do trein
 
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
+## Usos mais avançados
+
+- Comparador de LLMs: LLM Arena <https://lmarena.ai/>
+
 
 <!-- 
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
