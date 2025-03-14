@@ -21,6 +21,8 @@ Praticamente todos, se não todos, usam o que você pergunta como parte do trein
 - Meta AI <https://www.meta.ai/>
 - Grok <http://grok.com/>
 - Groq <https://groq.com/>
+- You <https://you.com/>
+
 
 <!-- 
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
