@@ -1,4 +1,4 @@
-# LLMs de uso gratuito 
+# LLMs de uso gratuito e direto do site
 
 Alguns com limitações. Praticamente todos, se não todos, usam o que você pergunta como parte do treinamento.
 
@@ -25,8 +25,6 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Dolly [https://www.databricks.com/](https://www.databricks.com/)
 - Cohere Generate [https://cohere.com/](https://cohere.com/)
 - YouChat [https://you.com/chat](https://you.com/chat)
-- Alpaca [https://github.com/tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
-- WizardLM [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)
 - GPT4All [https://gpt4all.io/](https://gpt4all.io/)
 - Jailbreak Chat [https://jailbreak.chat/](https://jailbreak.chat/)
 - Xwin-LM [https://xwinlm.com/](https://xwinlm.com/)
@@ -35,3 +33,9 @@ Alguns com limitações. Praticamente todos, se não todos, usam o que você per
 - Jan AI – [https://www.jan.ai/](https://www.jan.ai/)
 - MyShell – [https://myshell.ai/](https://myshell.ai/)
 - Mina AI – [https://minaai.chat/](https://minaai.chat/)
+
+
+## Repositórios 
+
+- Alpaca [https://github.com/tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+- WizardLM [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)
