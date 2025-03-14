@@ -23,6 +23,8 @@ Praticamente todos, se não todos, usam o que você pergunta como parte do trein
 - Groq <https://groq.com/>
 - You <https://you.com/>
 
+Conhece alguma que não esteja na lista? Faça um _pull request_!
+
 
 <!-- 
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
