@@ -27,6 +27,7 @@ _Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolved
 - Groq <https://groq.com/>
 - You <https://you.com/>
 - Phind <https://www.phind.com/>
+- AkashChat <https://chat.akash.network/>
 
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
