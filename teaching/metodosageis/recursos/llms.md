@@ -28,6 +28,7 @@ _Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolved
 - You <https://you.com/>
 - Phind <https://www.phind.com/>
 - AkashChat <https://chat.akash.network/>
+- Pi <https://pi.ai/talk>
 
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
