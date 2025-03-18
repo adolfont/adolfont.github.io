@@ -96,6 +96,8 @@ Use com moderação!
 - [Claude](https://bit.ly/ClaudeComputacao1)
 - [Copilot](https://bit.ly/CopilotComputacao1)
 
+["se vc é junior em programação e for direto usar IA criar seu código, vc está *****, vai sempre depender dela. Nunca vai aprender de fato. Esse é o risco. No início do aprendizado não dá pra contar com esse tipo de atalho, seja em programação ou qualquer coisa."](https://www.youtube.com/shorts/D5hQgwywsmc)
+
 ## Por que aprender a programar em C é importante para estudantes de cursos de Engenharia?
 
 [Resposta](./porque.md)
