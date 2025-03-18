@@ -39,6 +39,7 @@ Observações:
 ## Usos mais avançados
 
 - Comparador de LLMs: LLM Arena <https://lmarena.ai/>
+- Openrouter - A unified interface for LLMs <https://openrouter.ai/>
 
 
 <!-- 
