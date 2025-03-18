@@ -1,12 +1,25 @@
 # Computação 1
 
-- INF71A-S25 Computação 1
+## Turmas
+
+### INF71A-S25 
 - Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao) e de [Engenharia Elétrica](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-eletrica)
 - Sala: CB-107
 - Turma: B13
 - Quartas-feiras: 7h30-11h10
 - Início das aulas: 26/03/2025
 - Final das aulas: 09/07/2025
+
+### INF71A-S45 
+
+- Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao)
+- Sala:  EK-302
+- Turma: X11
+- Quintas-feiras: 14h40-18h40
+- Início das aulas: 27/03/2025
+- Final das aulas: 10/07/2025
+
+
 
 ## Planejamento de Ensino
 
