@@ -96,6 +96,10 @@ Use com moderação!
 - [Claude](https://bit.ly/ClaudeComputacao1)
 - [Copilot](https://bit.ly/CopilotComputacao1)
 
+## Por que aprender a programar em C é importante para estudantes de cursos de Engenharia?
+
+[Resposta](./porque.md)
+
 
 ## C no Google Colab
 
