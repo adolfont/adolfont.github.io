@@ -26,7 +26,7 @@ My [now](http://adolfont.github.io/now) page.
 
 ## News
 
-🇧🇷 Estou lecionando [Computação 1](./teaching/2024/computacao1/) no primeiro semestre de 2025.
+🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no primeiro semestre de 2025.
 
 🇧🇷 Lecionei [Introduction to Functional Programming](./teaching/2024/caes005/) na terceira fase de 2024.
 
