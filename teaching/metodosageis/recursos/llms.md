@@ -29,6 +29,7 @@ _Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolved
 - Phind <https://www.phind.com/>
 - AkashChat <https://chat.akash.network/>
 - Pi <https://pi.ai/talk>
+- T3 <https://t3.chat/>
 
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
