@@ -27,18 +27,23 @@ Ver no [Portal do Aluno](https://www.utfpr.edu.br/alunos/portal-do-aluno).
 
 Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
 
-## Compilador de C online
+## Software
+
+### O principal
+
+[CodeBloxks](https://www.codeblocks.org/)
+
+### Compilador de C online
 
 <https://www.onlinegdb.com/online_c_compiler>
 
-## Minha área de trabalho no Replit
+### Minha área de trabalho no Replit
 
 <https://replit.com/@AdolfoNeto1/>
 
 Exemplo de criação de conta: <https://www.youtube.com/watch?v=w_gpH5cRibQ> ou <https://inv.nadeko.net/watch?v=w_gpH5cRibQ>
 
-
-## Código no GitHub
+## Código feito nas aulas, disponível no GitHub
 
 <https://github.com/adolfont/INF71A_Computacao1/>
 
