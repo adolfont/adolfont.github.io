@@ -94,12 +94,12 @@ Exemplo de link Invidiuos para o primeiro vídeo da playlist: <https://inv.nadek
 
 ## LLMs que podem auxiliar
 
-[Usando ChatGPT, Copilot , Meta AI e Claude para encontrar erros em programas em C](https://www.youtube.com/watch?v=TtO6qGOqGFs)
+[Usando ChatGPT, Copilot, Meta AI e Claude para encontrar erros em programas em C](https://www.youtube.com/watch?v=TtO6qGOqGFs)
 
 Use com moderação!
 
-- [Claude](https://bit.ly/ClaudeComputacao1)
-- [Copilot](https://bit.ly/CopilotComputacao1)
+- [Claude](https://bit.ly/ClaudeComputacao1) parece ser a melhor para programação
+- Outras LLMs de uso gratuito e direto do site: <https://adolfont.github.io//teaching/metodosageis/recursos/llms>
 
 ["se vc é junior em programação e for direto usar IA criar seu código, vc está *****, vai sempre depender dela. Nunca vai aprender de fato. Esse é o risco. No início do aprendizado não dá pra contar com esse tipo de atalho, seja em programação ou qualquer coisa."](https://www.youtube.com/shorts/D5hQgwywsmc)
 
