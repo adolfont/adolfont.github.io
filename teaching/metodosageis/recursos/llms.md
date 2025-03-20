@@ -1,6 +1,6 @@
 # LLMs de uso gratuito e direto do site
 
-Nestes sites, basta criar uma conta e fazer perguntas (elaborar prompts) para os LLMs.
+Nestes sites, basta criar uma conta (alguns não exigem isso) e fazer perguntas (elaborar prompts) para os LLMs.
 
 Alguns destes têm limitações (de tamanho da entrada, por exemplo). 
 
