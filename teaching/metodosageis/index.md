@@ -6,6 +6,10 @@
 - No mestrado: [CAES001 Metodologias Ágeis Para O Desenvolvimento De Software](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-especificas/linha-de-pesquisa-em-engenharia-de-software/caes001-metodologias-ageis-para-o-desenvolvimento-de-software). Disciplina remota para estudantes de cursos de pós-graduação em computação ou egressos de graduação. [Inscrição 2025/1 até 18/03](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/disciplinas/2025-1)
   -  [Se quiser apenas ser ouvinte, assistir às aulas online sem ser avaliado(a) e ter direito a certificado, preencha este formulário](https://docs.google.com/forms/d/e/1FAIpQLSdULgZeoxjYtV5Nvak20tYcYNGbmvJy3e8Ou6cBMhEluzmEhA/viewform?usp=dialog)
 
+## Recursos
+
+- [Lista de LLMs](https://adolfont.github.io/teaching/metodosageis/recursos/llms)
+
 ## Objetivo
 
 Ao final da disciplina o aluno deverá ser capaz de:
