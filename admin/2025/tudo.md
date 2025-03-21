@@ -4,7 +4,7 @@
 - Ensino de Computação 1: 19 estudantee, 4 horas-aula por semana
 - Ida+volta na terça: 2 horas
 - Ida+volta na quarta: 2 horas
-- Ida+volta na quinta: 1 hora e 20 minutos
+- Ida+volta na quinta: 1 hora e 20 minutos de ônibus ou 54*2 á pé (3,9Km).
 - Emílias Podcast
 - Fronteiras da Engenharia de Software
 - Elixir em Foco
