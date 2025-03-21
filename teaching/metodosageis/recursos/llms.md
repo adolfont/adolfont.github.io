@@ -41,6 +41,7 @@ Observações:
 
 - Comparador de LLMs: LLM Arena <https://lmarena.ai/>
 - Openrouter - A unified interface for LLMs <https://openrouter.ai/>
+- NotebookLM <https://notebooklm.google.com/> - permite criar cadernos a partir de documentos e gera episódios de podcast
 
 
 <!-- 
