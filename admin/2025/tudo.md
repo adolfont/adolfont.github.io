@@ -10,3 +10,4 @@
 - Orientações PPGCA
 - Orientações TCC
 - Aprendizado
+- Planejamento de 2 cursos de extensão pagos
