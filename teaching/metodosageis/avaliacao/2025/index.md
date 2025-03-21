@@ -62,7 +62,136 @@ Segue abaixo uma proposta que integra o uso crítico de LLMs, a leitura crítica
 
 Essas propostas incentivam não só a aplicação prática dos métodos ágeis, mas também o desenvolvimento de uma postura crítica quanto ao uso de tecnologias de apoio, como os LLMs, e à fundamentação teórica baseada em referências clássicas e estudos científicos contemporâneos. Essa abordagem garante uma avaliação rica, que abrange tanto a competência técnica quanto as habilidades de comunicação e análise crítica dos estudantes.
 
-## Qwen
+## [Qwen](https://chat.qwen.ai/c/5c7d137a-182e-4958-9f73-866ef3b2dedd)
+
+
+**Sugestões de Atividades e Avaliações para a Disciplina**  
+_(Alinhadas aos objetivos e conteúdo programático)_
+
+---
+
+### **Atividade 1: Análise Crítica de Caso com LLM e Literatura**
+
+**Objetivo:** Aplicar métodos ágeis a um cenário real, comparando fontes acadêmicas e saídas de LLMs.  
+**Descrição:**
+
+- **Grupo:** 2-3 estudantes.
+- **Passos:**
+    1. **Cenário Fornecido:** Um projeto de software fictício (ex.: desenvolvimento de um app de saúde) com desafios como mudanças frequentes de requisitos e comunicação precária com o cliente.
+    2. **Uso de LLM:** Os grupos devem usar um LLM para sugerir uma metodologia ágil adequada (ex.: Scrum, Kanban, XP) e práticas específicas (ex.: TDD, retrospectivas).
+    3. **Pesquisa Acadêmica:** Consultar **artigos científicos recentes (2014–2024)** e a **bibliografia básica** (ex.: Milani et al., 2014; Valente, 2020) para validar ou refutar as sugestões do LLM.
+    4. **Apresentação Oral (15 min):**
+        - Comparar as recomendações do LLM com a literatura.
+        - Discutir limitações do LLM (ex.: generalizações, falta de contexto específico).
+        - Propor ajustes no projeto baseados em evidências acadêmicas.
+
+**Avaliação:**
+
+- Capacidade de **crítica ao LLM** e integração com literatura
+    
+    3
+    
+    5
+    
+    7
+    
+    .
+- Clareza na aplicação de princípios ágeis (ex.: colaboração, entrega incremental)
+    
+    4
+    
+    8
+    
+    .
+- Domínio da bibliografia básica e artigos recentes.
+
+---
+
+### **Atividade 2: Simulação de Retrospectiva Ágil com Role-Play**
+
+**Objetivo:** Simular uma retrospectiva ágil, avaliando a adequação de práticas em um projeto e propondo melhorias.  
+**Descrição:**
+
+- **Grupo:** 2-3 estudantes (papeis: equipe de desenvolvimento, cliente, facilitador).
+- **Passos:**
+    1. **Contexto:** Um projeto em andamento utilizando Scrum, mas enfrentando atrasos e baixa qualidade de código.
+    2. **Pesquisa:** Grupos devem usar **artigos recentes** (ex.:
+        
+        3
+        
+        5
+        
+        8
+        
+        ) e o livro _The Art of Agile Development_ (Shore & Warden, 2008) para identificar causas-raiz (ex.: falta de TDD, sprints muito longas).
+    3. **Role-Play (20 min):**
+        
+        - Simular uma retrospectiva, com discussão de problemas e sugestões de melhorias.
+        - Incluir debate sobre responsabilidades do cliente vs. equipe
+            
+            5
+            
+            7
+            
+            .
+        
+    4. **Relatório Escrito (10 páginas):**
+        - Análise das práticas ágeis adotadas, problemas identificados e plano de ação baseado em literatura.
+
+**Avaliação:**
+
+- Habilidade em **aplicar práticas ágeis** (ex.: refatoração, coding dojos)
+    
+    1
+    
+    4
+    
+    .
+- Capacidade de **argumentação oral** durante a simulação.
+- Profundidade do relatório, citando fontes como
+    
+    3
+    
+    8
+    
+    9
+    
+    .
+
+---
+
+### **Fontes de Apoio para as Atividades**
+
+- **LLMs:** Usar prompts como _"Compare Scrum e Kanban para projetos com requisitos voláteis"_ e comparar com
+    
+    3
+    
+    4
+    
+    6
+    
+    .
+- **Artigos Recentes:**
+    
+    - 3
+        
+        Para diferenças entre metodologias ágeis.
+    - 5
+        
+        Para avaliação de agilidade em projetos.
+    - 8
+        
+        Para contextualizar a evolução das metodologias ágeis.
+    
+- **Bibliografia Básica:**
+    - **Milani et al. (2014):** Base teórica para práticas ágeis.
+    - **Valente (2020):** Visão moderna de engenharia de software.
+
+Ambas as atividades incentivam o **uso crítico de LLMs** e a **integração de literatura recente** , alinhando-se aos objetivos da disciplina.
+
+Ask
+
+Explain
 
 ## [Perplexity](https://www.perplexity.ai/search/c089d56a-adee-4f19-a74e-66c9da8e018e)
 
