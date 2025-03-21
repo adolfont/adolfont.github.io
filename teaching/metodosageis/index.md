@@ -8,6 +8,7 @@
 
 ## Recursos
 
+- [Bibliotec](https://webapp.utfpr.edu.br/bibservices/minhaBiblioteca)
 - [Lista de LLMs](https://adolfont.github.io/teaching/metodosageis/recursos/llms)
 
 ## Objetivo
