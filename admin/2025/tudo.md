@@ -1,0 +1,12 @@
+# 2025
+- Ensino de Métodos Ágeis
+- Ensino de Computação 1
+- Ensino de Computação 1
+- Emílias Podcast
+- Fronteiras da Engenharia de Software
+- Elixir em Foco
+- Artigo MKMW
+- Artigo FES
+- Orientações PPGCA
+- Orientações TCC
+- Aprendizado
