@@ -1,3 +1,72 @@
+# Avaliação de Metodologias Ágeis para Desenvolvimento de Software em 2025
+
+
+## ChatGPT
+
+Segue abaixo uma proposta que integra o uso crítico de LLMs, a leitura crítica da bibliografia básica e de artigos científicos recentes, e atividades colaborativas com apresentações orais.
+
+---
+
+### Atividade em Sala de Aula: "Jornada Ágil Crítica"
+
+**Objetivo:**  
+- Simular o desenvolvimento de um projeto de software utilizando uma ou mais metodologias ágeis (por exemplo, Scrum, Kanban ou XP).  
+- Incentivar o uso de LLMs para apoiar a tomada de decisão e resolução de problemas, porém avaliando criticamente as respostas e verificando a aderência aos valores e princípios ágeis.  
+- Revisar e comparar os fundamentos teóricos (conforme a bibliografia básica) com estudos científicos recentes (dos últimos 10 anos).
+
+**Dinâmica:**  
+- **Formação dos grupos:** Divida a turma em grupos de 2 a 3 estudantes.  
+- **Etapas da atividade:**  
+  1. **Planejamento:** Cada grupo escolhe um cenário fictício de projeto de software (por exemplo, desenvolvimento de um aplicativo móvel para gestão de tarefas) e define qual metodologia ágil aplicará.  
+  2. **Pesquisa e Fundamentação:** Os estudantes devem buscar, na bibliografia básica (Milani et al., Valente, Beck et al.) e em artigos científicos recentes, evidências que justifiquem a escolha da metodologia e das práticas a serem utilizadas.  
+  3. **Uso Crítico de LLMs:** Durante a preparação, os grupos podem usar LLMs para levantar ideias, estruturar argumentos ou sugerir práticas, mas precisam documentar as respostas obtidas e, em seguida, realizar uma análise crítica comparando com as referências teóricas e empíricas encontradas na literatura.  
+  4. **Simulação do Projeto:** Os grupos executam um “mini-projeto” simulando as fases ágeis (por exemplo, planejamento, sprints, retrospectiva), registrando decisões, problemas identificados e adaptações realizadas.  
+  5. **Documentação e Preparação da Apresentação:** Cada grupo elabora um relatório sucinto e prepara uma apresentação oral que detalhe:
+     - A escolha da metodologia e práticas ágeis;
+     - Como utilizaram os LLMs e quais foram os pontos críticos identificados;
+     - Comparação entre as práticas aplicadas e os fundamentos teóricos e estudos recentes.
+
+**Avaliação Oral:**  
+- Durante a apresentação, o professor pode avaliar a clareza da comunicação, a capacidade crítica na análise do uso dos LLMs, a coerência entre teoria e prática, e a fundamentação com as referências bibliográficas e científicas.
+
+---
+
+### Avaliações Sugeridas
+
+#### 1. **Avaliação: Análise Crítica e Apresentação de Estudo de Caso**  
+**Descrição:**  
+- Cada grupo deverá escolher um caso real ou simulado de aplicação de metodologias ágeis (por exemplo, casos documentados na literatura ou experiências práticas).  
+- Os estudantes deverão:
+  - Levantar as principais características e desafios do caso;
+  - Analisar criticamente como as práticas ágeis foram (ou poderiam ser) aplicadas, utilizando a bibliografia básica e artigos científicos dos últimos 10 anos para sustentar suas análises;
+  - Utilizar um LLM para gerar hipóteses ou simular respostas a problemas apresentados no caso, mas discutindo as limitações e pontos de atenção das sugestões geradas pela ferramenta.
+  
+**Produto Final:**  
+- **Relatório escrito** (com referências claras) e **apresentação oral** de aproximadamente 15 minutos, seguida de uma sessão de perguntas e respostas para explorar a capacidade crítica e a compreensão do conteúdo.
+
+---
+
+### 2. **Avaliação: Projeto Ágil Simulado com Retrospectiva Crítica**  
+**Descrição:**  
+- Cada grupo deverá desenvolver um projeto simulado utilizando uma metodologia ágil, passando pelas etapas: planejamento, execução (dividida em sprints ou ciclos) e retrospectiva.  
+- Durante o projeto, os grupos devem:
+  - Documentar como os LLMs foram utilizados para auxiliar nas decisões (por exemplo, planejamento de sprints, identificação de riscos ou melhoria de processos);
+  - Comparar e contrastar os outputs dos LLMs com os conceitos e práticas descritos na bibliografia básica e nos artigos recentes;
+  - Realizar uma retrospectiva final, identificando pontos fortes e oportunidades de melhoria na aplicação das metodologias ágeis e no uso crítico das ferramentas de IA.
+  
+**Produto Final:**  
+- **Relatório final** detalhando todas as fases do projeto e a análise crítica do uso dos LLMs, com referências bibliográficas e artigos recentes;  
+- **Apresentação oral** em que cada grupo expõe os resultados do projeto, destacando os aprendizados e as implicações práticas para a aplicação das metodologias ágeis em contextos reais.
+
+---
+
+Essas propostas incentivam não só a aplicação prática dos métodos ágeis, mas também o desenvolvimento de uma postura crítica quanto ao uso de tecnologias de apoio, como os LLMs, e à fundamentação teórica baseada em referências clássicas e estudos científicos contemporâneos. Essa abordagem garante uma avaliação rica, que abrange tanto a competência técnica quanto as habilidades de comunicação e análise crítica dos estudantes.
+
+## Qwen
+
+## Perplexity
+
+
 ## Prompt
 
 Sugira formas de avaliação para a disciplina "Metodologias Ágeis para Desenvolvimento de Software" (ver abaixo).
