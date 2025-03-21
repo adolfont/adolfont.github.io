@@ -1,7 +1,10 @@
 # 2025
-- Ensino de Métodos Ágeis
-- Ensino de Computação 1
-- Ensino de Computação 1
+- Ensino de Métodos Ágeis: 47 estudantee, 3 horas-aula por semana
+- Ensino de Computação 1: 45 estudantee, 4 horas-aula por semana
+- Ensino de Computação 1: 19 estudantee, 4 horas-aula por semana
+- Ida+volta na terça: 2 horas
+- Ida+volta na quarta: 2 horas
+- Ida+volta na quinta: 1 hora e 20 minutos
 - Emílias Podcast
 - Fronteiras da Engenharia de Software
 - Elixir em Foco
