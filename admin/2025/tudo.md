@@ -16,3 +16,7 @@
 - Aprendizado: 3 horas por semana
 - Artigo WIT: 1 hora por semana
 - Planejamento de 2 cursos de extensão pagos
+- Revisão de artigos, projetos
+- Preparação de aulas e correção de provas e atividades
+- Elaboração de projetos de pesquisa e de extensão
+- Planejamento de aulas
