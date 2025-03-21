@@ -1,9 +1,9 @@
 # 2025
 
 ## Ensino
-- Ensino de Métodos Ágeis: 47 estudantee, 3 horas-aula por semana
-- Ensino de Computação 1: 45 estudantee, 4 horas-aula por semana
-- Ensino de Computação 1: 19 estudantee, 4 horas-aula por semana
+- Ensino de Métodos Ágeis: 47 estudantes, 3 horas-aula por semana
+- Ensino de Computação 1: 45 estudantes, 4 horas-aula por semana
+- Ensino de Computação 1: 19 estudantes, 4 horas-aula por semana
 
 ## Transporte
 - Ida+volta na terça: 2 horas
