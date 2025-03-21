@@ -12,7 +12,7 @@
 
 ### INF71A-S45 
 
-- Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao)
+- Estudantes de [Engenharia de Produção](https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-de-producao)
 - Sala:  EK-302
 - Turma: X11
 - Quintas-feiras: 14h40-18h40
