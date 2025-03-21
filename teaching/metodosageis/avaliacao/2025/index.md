@@ -64,7 +64,72 @@ Essas propostas incentivam não só a aplicação prática dos métodos ágeis, 
 
 ## Qwen
 
-## Perplexity
+## [Perplexity](https://www.perplexity.ai/search/c089d56a-adee-4f19-a74e-66c9da8e018e)
+
+
+Para estruturar avaliações na disciplina "Metodologias Ágeis para Desenvolvimento de Software", alinhando-se aos objetivos de uso crítico de LLMs, aplicação prática e engajamento com a bibliografia, sugerem-se as seguintes propostas:
+
+### **Atividades em Sala de Aula (Grupos de 2-3 estudantes)**
+
+1. **Simulação de Priorização Ágil com LLMs**
+    
+    - **Descrição**: Cada grupo recebe um cenário fictício de projeto (ex.: desenvolvimento de um app para gestão de tarefas) e usa LLMs como o ChatGPT para gerar uma lista de requisitos.
+        
+    - **Tarefa crítica**: Revisar a lista gerada, comparando com os princípios do Manifesto Ágil[3](https://sertms.com/blog/adaptando-avaliacoes-de-desempenho-para-as-metodologias-ageis/)[9](https://beecrowd.com/pt/blog-posts/metodologias-ageis/) e priorizando funcionalidades usando técnicas como MoSCoW.
+        
+    - **Resultado**: Apresentação de 5 minutos justificando as escolhas, destacando incongruências entre a sugestão da IA e a literatura (ex.: supervalorização de documentação vs. valorização de software funcional[9](https://beecrowd.com/pt/blog-posts/metodologias-ageis/)).
+        
+2. **Role-Play de Retrospectiva com Análise de Dados**
+    
+    - **Descrição**: Grupos simulam uma retrospectiva de sprint, usando dados reais de projetos ágeis (ex.: velocidades de sprint, métricas de qualidade).
+        
+    - **Uso de LLMs**: Ferramentas como Claude 3 ou Gemini para sugerir melhorias com base nos dados.
+        
+    - **Tarefa crítica**: Validar as sugestões da IA contra casos de estudo do livro _Engenharia de Software Moderna_ (Valente, 2020) e artigos como[5](https://www.semanticscholar.org/paper/afd16944c331f14dd7f26d30a65d5f919342546a) ou[8](https://www.semanticscholar.org/paper/1f257ada1a07949dbae64fababade2228ad51c34), identificando viéses ou generalizações.
+        
+
+### **Avaliações Propostas**
+
+### 1\. **Seminário de Análise Comparativa com LLMs**
+
+- **Objetivo**: Avaliar a capacidade de contrastar metodologias ágeis usando fontes científicas e IA.
+    
+- **Dinâmica**:
+    
+    - Cada grupo seleciona duas metodologias (ex.: Scrum vs. Kanban[4](https://lyncas.net/blog/modelos-de-metodologias-ageis/)[10](https://blog.rocketseat.com.br/metodologias-ageis-em-projetos-de-software-um-guia-pratico/)) e usa LLMs para gerar um quadro comparativo.
+        
+    - **Etapa crítica**: Cruzar as informações da IA com a bibliografia básica (ex.: _Métodos Ágeis_ de Milani et al., 2014) e pelo menos dois artigos científicos recentes (ex.:[1](https://www.semanticscholar.org/paper/4f60319f503c0e644c2f40bc9e4fb782716675ad)[5](https://www.semanticscholar.org/paper/afd16944c331f14dd7f26d30a65d5f919342546a)).
+        
+    - **Apresentação**: 15 minutos focando em:
+        
+        - Lacunas nas respostas da IA (ex.: omissão de práticas como _pair programming_ no Kanban[9](https://beecrowd.com/pt/blog-posts/metodologias-ageis/)).
+            
+        - Análise da adequação metodológica para um caso real (ex.: projeto de streaming em[5](https://www.semanticscholar.org/paper/afd16944c331f14dd7f26d30a65d5f919342546a)).
+            
+
+### 2\. **Simulação de Projeto Ágil com Relatório Reflexivo**
+
+- **Objetivo**: Aplicar princípios ágeis em um microprojeto e avaliar a aderência aos valores do manifesto.
+    
+- **Dinâmica**:
+    
+    - **Fase 1**: Desenvolvimento de um protótipo funcional (ex.: CLI para gestão de backlog) usando TDD e sprints de 2 dias[10](https://blog.rocketseat.com.br/metodologias-ageis-em-projetos-de-software-um-guia-pratico/).
+        
+    - **Fase 2**: Uso de LLMs para gerar um relatório de progresso, seguido de revisão crítica com base em métricas de agilidade (ex.: taxa de entrega contínua[6](https://www.semanticscholar.org/paper/b06b8fa0e7ad72bf9b2584fa51b0e5de4b16dc02)).
+        
+    - **Apresentação oral**: Demonstração do produto + defesa das decisões metodológicas, vinculando-as a princípios como "colaboração com o cliente"[9](https://beecrowd.com/pt/blog-posts/metodologias-ageis/) ou "resposta a mudanças"[3](https://sertms.com/blog/adaptando-avaliacoes-de-desempenho-para-as-metodologias-ageis/).
+        
+
+### **Critérios de Avaliação**
+
+- **Uso crítico de LLMs**: Pontuação baseada na identificação de limitações das ferramentas (ex.: tendência a generalizar práticas sem contextualização histórica[3](https://sertms.com/blog/adaptando-avaliacoes-de-desempenho-para-as-metodologias-ageis/)[7](https://multivix.edu.br/blog/metodologias-ageis-educacao/)).
+    
+- **Fundamentação teórica**: Requer citação explícita de pelo menos 3 fontes da bibliografia básica e 1 artigo científico recente (ex.:[2](https://www.semanticscholar.org/paper/5fd71fbb6c7826dcfcfd62591cf59a4c6fd4724e) para discussão sobre transparência em equipes ágeis).
+    
+- **Habilidade oral**: Clareza na correlação entre atividades práticas e valores ágeis (ex.: como a refatoração contínua[10](https://blog.rocketseat.com.br/metodologias-ageis-em-projetos-de-software-um-guia-pratico/) impactou a qualidade do código).
+    
+
+Esta estrutura promove a aplicação prática dos conceitos, o engajamento com fontes acadêmicas e o uso reflexivo de IA, alinhando-se aos objetivos de formar profissionais capazes de avaliar e adaptar metodologias ágeis em contextos reais
 
 
 ## Prompt
