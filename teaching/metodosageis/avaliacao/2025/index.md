@@ -1,7 +1,7 @@
 # Avaliação de Metodologias Ágeis para Desenvolvimento de Software em 2025
 
 
-## ChatGPT
+## [ChatGPT](https://chatgpt.com/c/67dd6982-2c84-8002-8133-e9c43af2f175)
 
 Segue abaixo uma proposta que integra o uso crítico de LLMs, a leitura crítica da bibliografia básica e de artigos científicos recentes, e atividades colaborativas com apresentações orais.
 
