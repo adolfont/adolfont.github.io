@@ -28,6 +28,8 @@ My [now](http://adolfont.github.io/now) page.
 
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no primeiro semestre de 2025.
 
+🇧🇷 Estou lecionando [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
+
 🇧🇷 Lecionei [Introduction to Functional Programming](./teaching/2024/caes005/) na terceira fase de 2024.
 
 🇧🇷 Organizei a [Elixir Curitiba 2024](https://bit.ly/ElixirCuritiba).
