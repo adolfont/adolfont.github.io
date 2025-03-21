@@ -5,12 +5,14 @@
 - Ida+volta na terça: 2 horas
 - Ida+volta na quarta: 2 horas
 - Ida+volta na quinta: 1 hora e 20 minutos de ônibus ou 54*2 á pé (3,9Km).
-- Emílias Podcast
-- Fronteiras da Engenharia de Software
-- Elixir em Foco
-- Artigo MKMW
-- Artigo FES
-- Orientações PPGCA
-- Orientações TCC
-- Aprendizado
+- Emílias Podcast: 2 horas por semana
+- Fronteiras da Engenharia de Software: 1 hora por semana
+- Elixir em Foco: 1 hora por semana
+- Artigo MKMW: 1 hora por seman
+- Artigo FES: 3 horas por semana
+- Orientações PPGCA: 4 horas por semana
+- Orientações TCC: 1 hora por semana
+- Orientações de estágio; 1 hora por semana
+- Aprendizado: 3 horas por semana
+- Artigo WIT: 1 hora por semana
 - Planejamento de 2 cursos de extensão pagos
