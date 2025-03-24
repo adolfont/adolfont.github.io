@@ -4,6 +4,11 @@
 
 - ClbSE 2025 Program Committee
 - SBSI - TIRE 2025 Programme Comittee
+- WEI 2025 - Workshop sobre Educação em Computação
+- WIT 2025 - Women in Information Technology
+- EduComp 2025 - Trilha 2 2025 - EduComp 2025 - Trilha 2 - Relatos de Experiência
+- XX SBSC - Colaboração Extensão 2025 - XX Simpósio Brasileiro de Sistemas Colaborativos - Trilha de Colaboração na Extensão
+
 
 ## 2024 
 
