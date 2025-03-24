@@ -3,6 +3,7 @@
 ## 2025
 
 - ClbSE 2025 Program Committee
+- SBSI - TIRE 2025 Programme Comittee
 
 ## 2024 
 
