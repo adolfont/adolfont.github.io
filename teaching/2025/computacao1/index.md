@@ -31,7 +31,7 @@ Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
 
 ### O principal
 
-[CodeBloxks](https://www.codeblocks.org/)
+[CodeBlocks](https://www.codeblocks.org/)
 
 ### Compilador de C online
 
