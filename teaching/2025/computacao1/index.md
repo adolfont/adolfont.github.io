@@ -3,7 +3,7 @@
 ## Turmas
 
 ### INF71A-S25 
-- Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao) e de [Engenharia Elétrica](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-eletrica)
+- Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao)
 - Sala: CB-107
 - Turma: B13
 - Quartas-feiras: 7h30-11h10
