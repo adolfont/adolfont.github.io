@@ -68,6 +68,10 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - [C Tutorial](https://www.w3schools.com/c/)
 - <https://www.freecodecamp.org/portuguese/news/tag/linguagem-c/>
 
+### Repositórios
+
+- [Curso Básico da Linguagem C](https://bolha.dev/blau_araujo/cblc)
+
 ## Sites para praticar
 
 - Desafios OsProgramadores: <https://osprogramadores.com/desafios/>
