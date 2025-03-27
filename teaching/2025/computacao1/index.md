@@ -70,6 +70,7 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 
 ### Repositórios
 
+- [Aprenda Linguagem C através do estudo do código fonte de diversos programas](https://github.com/everaldo/linguagem_c)
 - [Curso Básico da Linguagem C](https://bolha.dev/blau_araujo/cblc)
 
 ## Sites para praticar
