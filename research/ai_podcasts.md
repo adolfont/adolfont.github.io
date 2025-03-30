@@ -1,5 +1,7 @@
 # Podcasts related to Artificial Intelligence (AI)
 
+I will only include podcasts that I have listened to at least one episode of.
+
 ## In English 
 
 
