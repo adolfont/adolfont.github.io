@@ -42,7 +42,7 @@ Observações:
 - Comparador de LLMs: LLM Arena <https://lmarena.ai/>
 - Openrouter - A unified interface for LLMs <https://openrouter.ai/>
 - NotebookLM <https://notebooklm.google.com/> - permite criar cadernos a partir de documentos e gera episódios de podcast
-- Aya Expanse by Cohere For AI: +1 (431) 302-8498 LLM por WhatsApp
+- [Aya Expanse by Cohere For AI](https://wa.me/14313028498) por WhatsApp
 
 
 <!-- 
