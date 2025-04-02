@@ -1,5 +1,10 @@
 # Computação 1
 
+## Código feito nas aulas, disponível no GitHub
+
+<https://github.com/adolfont/INF71A_Computacao1/>
+
+
 ## Turmas
 
 ### INF71A-S25 
@@ -43,9 +48,6 @@ Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
 
 Exemplo de criação de conta: <https://www.youtube.com/watch?v=w_gpH5cRibQ> ou <https://inv.nadeko.net/watch?v=w_gpH5cRibQ>
 
-## Código feito nas aulas, disponível no GitHub
-
-<https://github.com/adolfont/INF71A_Computacao1/>
 
 
 ## Bibliografia
