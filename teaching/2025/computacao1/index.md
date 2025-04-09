@@ -1,5 +1,13 @@
 # Computação 1
 
+## Slides e Listas de Exercício
+
+
+<https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>
+
+<!-- K... Brian https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628 --> 
+
+
 ## Código feito nas aulas, disponível no GitHub
 
 <https://github.com/adolfont/INF71A_Computacao1/>
@@ -80,12 +88,6 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - Desafios OsProgramadores: <https://osprogramadores.com/desafios/>
 - Exercism: <https://exercism.org/tracks/c>
 
-## Slides e Listas de Exercício
-
-
-<https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>
-
-<!-- K... Brian https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628 --> 
 
 ## Playlist no Youtube
 
