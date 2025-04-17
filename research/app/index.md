@@ -11,19 +11,19 @@ Você pode me ajudar testando o app e me dando um retorno sobre sua experiência
 Sou estudante da UNIFAP e este é um projeto acadêmico, sem fins comerciais.
 
 📲 Quer participar? É simples!
-💬 Teste o aplicativo e me diga o que achou!
-🔗 Formulário de avaliação: em anexo
-📞 Contato: (96) 981226430
-📥 Caso tenha dúvidas na instalação do aplicativo, por favor, entre em contato comigo. Estou à disposição para ajudar!
+
+💬 Teste o aplicativo e me diga o que achou! [Link para download do aplicativo Android](https://adolfont.github.io/research/app/BNCC_ATIVIDADES.apk)
+
+🔗 [Formulário de avaliação](https://forms.gle/YUciBi5q6dp567tx8)
+
+📥 Caso tenha dúvidas na instalação do aplicativo, por favor, entre em contato comigo (emmamira.em@gmail.com). Estou à disposição para ajudar!
 Desde já, agradeço imensamente pela atenção e apoio!
+
 🤍 Professores da Educação Infantil, posso contar com vocês?
 
 
-[Link para download do aplicativo Android](https://adolfont.github.io/research/app/BNCC_ATIVIDADES.apk)
-
 [Manual de Uso](https://adolfont.github.io/research/app/orienta%C3%A7%C3%83O%20BNCC.pdf)
 
-[Formulário de Feedback](https://forms.gle/YUciBi5q6dp567tx8)
 
 ## Explicação em Vídeo
 
