@@ -50,13 +50,14 @@ Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
 
 <https://www.onlinegdb.com/online_c_compiler>
 
+<!--
 ### Minha área de trabalho no Replit
 
 <https://replit.com/@AdolfoNeto1/>
 
 Exemplo de criação de conta: <https://www.youtube.com/watch?v=w_gpH5cRibQ> ou <https://inv.nadeko.net/watch?v=w_gpH5cRibQ>
 
-
+-->
 
 ## Bibliografia
 
