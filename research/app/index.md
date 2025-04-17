@@ -17,3 +17,6 @@ Sou estudante da UNIFAP e este é um projeto acadêmico, sem fins comerciais.
 📥 Caso tenha dúvidas na instalação do aplicativo, por favor, entre em contato comigo. Estou à disposição para ajudar!
 Desde já, agradeço imensamente pela atenção e apoio!
 🤍 Professores da Educação Infantil, posso contar com vocês?
+
+
+[Link para download do aplicativo Android](https://adolfont.github.io/research/app/BNCC_ATIVIDADES.apk)
