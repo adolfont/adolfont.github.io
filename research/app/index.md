@@ -21,6 +21,8 @@ Desde já, agradeço imensamente pela atenção e apoio!
 
 [Link para download do aplicativo Android](https://adolfont.github.io/research/app/BNCC_ATIVIDADES.apk)
 
+[Formulário de Feedback](https://forms.gle/YUciBi5q6dp567tx8)
+
 ## Explicação em Vídeo
 
 {% include youtube.html id="z14BrRD1Zdo" %}
