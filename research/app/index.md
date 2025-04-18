@@ -27,5 +27,13 @@ Desde já, agradeço imensamente pela atenção e apoio!
 
 ## Explicação em Vídeo
 
+
+### Modo de usar
+{% include youtube.html id="cGECJYBr2ig" %}
+
+### Eplicação geral
 {% include youtube.html id="z14BrRD1Zdo" %}
+
+
+
 
