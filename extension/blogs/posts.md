@@ -1,5 +1,8 @@
 # [Latest posts](https://github.com/adolfont/adolfont.github.io/blob/master/extension/blogs/posts.md)
 
+## Inteligência Artificial nas Ondas do Rádio
+
+Marcelo Finger tem uma coluna semanal no podcast Colunistas Eldorado Estadão, publicada às sextas-feiras pela manhã. O nome da coluna é ["Inteligência Artificial nas Ondas do Rádio"](https://open.spotify.com/show/7i87AFADvFacnXIQSvgXtT). 
 
 ## World Logic Day 2025 - Roundtable: Extension Projects
 
