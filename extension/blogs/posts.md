@@ -1,5 +1,9 @@
 # [Latest posts](https://github.com/adolfont/adolfont.github.io/blob/master/extension/blogs/posts.md)
 
+## Minhas Recomendações em Metodologia de Pesquisa
+
+<https://adolfont.github.io/util/metodologiadepesquisa>
+
 ## Pesquisas Qualitativas na Engenharia de Software, com Jorge Melegati
 ### Episódio 55 do Fronteiras da Engenharia de Software
 
