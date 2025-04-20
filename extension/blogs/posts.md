@@ -6,11 +6,7 @@
 Neste episódio, Jorge Melegati (Free University of Bozen-Bolzano) apresenta uma palestra sobre seu artigo Pesquisas Qualitativas na Engenharia de Software: Definição, Revisão Crítica e Diretrizes
 (Qualitative Surveys in Software Engineering Research: Definition, Critical Review, and Guidelines), publicado na IEEE Transactions on Software Engineering em 2024. Kieran Conboy e Daniel Graziotin são coautores do artigo e [Adolfo Neto](⁠⁠⁠⁠⁠⁠⁠https://adolfont.github.io) foi o anfitrião da apresentação.
 
-{% include spotify.html id="1g7aX4ZUQSd7pPr0Gm0jaz" %}
-
 {% include youtube.html id="4NWAcNMmgnI" %}  
-
-
 
 ## Inteligência Artificial nas Ondas do Rádio
 
