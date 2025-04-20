@@ -13,3 +13,5 @@ Eu particularmente recomendo:
 - [Método Lógico para Redação Científica](https://amzn.to/3Rnmmf4)
 - [Guia Prático para Redação Científica](https://amzn.to/4lAoUEx)
 
+Vários bons vídeos, alguns bem antigos, dele estão em <https://www.youtube.com/@GilsonVolpato-IGVEC>.
+
