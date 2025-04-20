@@ -15,3 +15,15 @@ Eu particularmente recomendo:
 
 Vários bons vídeos, alguns bem antigos, dele estão em <https://www.youtube.com/@GilsonVolpato-IGVEC>.
 
+## Raul Sidnei Wazlawick
+
+Não acho que [Metodologia de Pesquisa para Ciência da Computação](https://amzn.to/3Y4tocs) seja tão bom quanto os livros de Gilson Volpato, mas tem a vantagem de ser focado em computação.
+
+## Bruno Cartaxo
+
+O livro [Mestrado e Doutorado em Computação: Um guia para iniciação e sobrevivência, sem academês](https://amzn.to/3YG1Da9) é para quem está pensando se vale ou não a pena fazer mestrado e/ou doutorado.
+
+## Ademir Gabardo
+
+O livro [Quer ser cientista - E agora?](https://amzn.to/3RqVg6Q) também é destinado a quem está em dúvida sobre seguir ou não um mestrado e/ou doutorado.
+
