@@ -37,6 +37,7 @@ Qual é o custo ambiental dos LLMs?
 ## Perguntas que não posso responder (ainda)
 
 - Os LLMs vão acabar com a profissão de desenvolvedor de software?
+  - Serão todas as pessoas desenvolvedoras de software substituídas por vibe coders ou por agentes de IA (como o [Devin](https://devin.ai/))? 
 
 
 ## Organizar depois
