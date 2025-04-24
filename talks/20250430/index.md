@@ -22,3 +22,9 @@ Alucinações <https://bsky.app/profile/janiceascari.bsky.social/post/3lnkub7rbh
 
 ## Custos
 
+As empresas que estão liderando no mercado de LLMs estão gastando muito e não dão lucro ainda. Isto é um problema?
+
+Qual é o custo ambiental dos LLMs?
+
+
+
