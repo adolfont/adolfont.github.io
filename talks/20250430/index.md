@@ -56,4 +56,44 @@ One of the benefits of getting a front row to watching AI intersect with hacking
 <https://www.theboohers.org/lets-get-lean/>
 
 
+## Links
+
+MCP  
+[MCP na Prática: Como criar seu próprio servidor localmente](https://elisaterumi.substack.com/p/mcp-na-pratica-como-criar-seu-proprio?utm_source=post-email-title&publication_id=3065378&post_id=160945085&utm_campaign=email-post-title&isFreemail=true&r=94fit&triedRedirect=true&utm_medium=email)
+
+LLMs \- A Ghost in the Machine  
+[https://zacksiri.dev/posts/llms-a-ghost-in-the-machine/](https://zacksiri.dev/posts/llms-a-ghost-in-the-machine/) 
+
+Chatbots are AI anti-patterns\!  
+[https://hello-jp.net/building-beyond-the-buzz/chatbots-are-ai-antipatterns](https://hello-jp.net/building-beyond-the-buzz/chatbots-are-ai-antipatterns) 
+
+Vibe coding [https://en.wikipedia.org/wiki/Vibe\_coding](https://en.wikipedia.org/wiki/Vibe_coding)  
+[https://github.com/continuedev/what-llm-to-use](https://github.com/continuedev/what-llm-to-use) 
+
+AI pair programming in your terminal  
+Aider lets you pair program with LLMs to start a new project or build on your existing codebase.  
+[https://aider.chat/](https://aider.chat/)
+
+The Latest Source of  
+AI Tools & Prompts  
+[https://aivalley.ai/](https://aivalley.ai/)
+
+Awesome AI Tools  
+[https://github.com/mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
+
+[https://theresanaiforthat.com/](https://theresanaiforthat.com/) 
+
+[https://youtu.be/zjkBMFhNj\_g?si=80rs-PEHDgP3CHqi](https://youtu.be/zjkBMFhNj_g?si=80rs-PEHDgP3CHqi) 
+
+[https://bsky.app/profile/daviddlevine.com/post/3lmnllla4vr2q](https://bsky.app/profile/daviddlevine.com/post/3lmnllla4vr2q)
+
+ [https://dreamflow.com/](https://dreamflow.com/) 
+
+ [https://firebase.studio/](https://firebase.studio/)
+
+Agent Development Kit  
+An open-source AI agent framework integrated with Gemini and Google  
+[https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)   
+
+
 
