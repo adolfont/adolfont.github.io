@@ -35,3 +35,14 @@ Qual é o custo ambiental dos LLMs?
 
 
 
+## Organizar depois
+
+* Shopify, Salesforce e meta
+* Cluely, o aplicativo de trapaça em entrevista de BigTech
+* o3
+* Cline, RooCode, Cursor
+* GPUs, tokens
+* vibe coding, riscos
+
+
+
