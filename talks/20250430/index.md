@@ -33,6 +33,10 @@ As empresas que estão liderando no mercado de LLMs estão gastando muito e não
 
 Qual é o custo ambiental dos LLMs?
 
+## Novidades
+
+- Protocolo MCP
+
 
 ## Perguntas que não posso responder (ainda)
 
