@@ -34,6 +34,10 @@ As empresas que estão liderando no mercado de LLMs estão gastando muito e não
 Qual é o custo ambiental dos LLMs?
 
 
+## Perguntas que não posso responder (ainda)
+
+- Os LLMs vão acabar com a profissão de desenvolvedor de software?
+
 
 ## Organizar depois
 
