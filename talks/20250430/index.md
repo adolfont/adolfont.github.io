@@ -58,6 +58,8 @@ One of the benefits of getting a front row to watching AI intersect with hacking
 
 ## Links
 
+<https://bsky.app/profile/priver.dev/post/3lmg35rakjc23>
+
 MCP  
 [MCP na Prática: Como criar seu próprio servidor localmente](https://elisaterumi.substack.com/p/mcp-na-pratica-como-criar-seu-proprio?utm_source=post-email-title&publication_id=3065378&post_id=160945085&utm_campaign=email-post-title&isFreemail=true&r=94fit&triedRedirect=true&utm_medium=email)
 
