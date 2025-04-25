@@ -7,6 +7,10 @@
 - [.](https://associados.amazon.com.br/home)
 - [..](https://affiliate-program.amazon.com/home)
 
+## Orientandos
+
+- [c]<https://web.telegram.org/k/#@camilotk>
+
 ## Old TODO
 
 - [ ] [Demais?](https://docs.google.com/spreadsheets/d/1fdT5h1ulLvs7aKtrRwji-X_5o38Z_a9-SAUiPj7pSyg/edit?usp=sharing)
