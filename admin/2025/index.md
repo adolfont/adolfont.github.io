@@ -9,7 +9,7 @@
 
 ## Orientandos
 
-- [c]<https://web.telegram.org/k/#@camilotk>
+- [c](https://web.telegram.org/k/#@camilotk)
 
 ## Old TODO
 
