@@ -15,6 +15,10 @@ Começamos as atividades em 2023. Durante a pandemia, aconteceram eventos online
 
 Junte-se à comunidade Elixir Brasil no Telegram: [https://t.me/elixirbr](https://t.me/elixirbr)
 
+## Nova iniciativa com encontro previsto para 03/05/2025
+
+[Clique neste documento para saber mais sobre Elixir Brasil Online Meetups](https://docs.google.com/document/d/e/2PACX-1vSbeNK7Iya36KZyEzuNyLTLdWmSlxDiRbvZKLgmXC4kyOlHO-mJm9VA4H1iGm9zUStseIt2IPMyAawF/pub)
+
 ##  Elixir Carajás Meetup em 29/05/2025
 
 Este meetup não é associado ao Meetup Online Elixir Brasil, mas é uma ótima iniciativa!
