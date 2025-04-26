@@ -2,6 +2,7 @@
 
 ## Mark's Sprinting Workout
 
+{% include bluesky.html url="https://bsky.app/profile/adolfont.github.io/post/3lnq5stdb4c2n" %}
 
 {% include youtube.html id="gXMyl7kw1gY" %}
 
