@@ -5,10 +5,15 @@
 
 {% include youtube.html id="gXMyl7kw1gY" %}
 
+### Gemini Summary 
+
 
 ## This is Why Mark Sisson Doesn't Eat Salad Anymore
 
 {% include youtube.html id="WC3m7ORt75g" %}
+
+
+### Gemini Summary 
 
 Based on the video clip, here's why Mark Sisson doesn't eat salad like he used to (specifically his famous "Big Ass Salad" or BAS) and his views on seed oils:
 
