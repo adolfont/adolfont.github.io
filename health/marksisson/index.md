@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adolfo Neto's page on Mark Sisson
-subtitle: Meu Subtítulo incrível
+subtitle: 
 thumb: /images/marksisson.jpg
 ---
 
