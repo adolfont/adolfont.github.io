@@ -39,6 +39,9 @@ Participação do Hugo Baraúna (@hugobarauna.com)<br><br><a href="https://bsky.
   <img src="img/18102023.png" alt="Poster Elixir Brasil Online 18/10/2023" width="50%" >
 </figure>
 
+{% include youtube.html id="pbSyxZvccLhH955U" %}
+
+
 
 - Dia: 18/10/2023
 - Horário: das 19h00 às 21h00
