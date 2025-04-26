@@ -72,6 +72,14 @@ Based on the video clip, here's why Mark Sisson doesn't eat salad like he used t
 In summary, Mark Sisson stopped prioritizing large salads because his dietary philosophy shifted to focus on animal protein first. His avoidance of typical salads, especially in restaurants, is driven by deep concerns over the widespread use of low-quality, unstable, and potentially rancid/oxidized seed oils in dressings and cooking.
 
 
+## Why Mark Sisson Quit Using Protein Powder (and 4 other things he changed his mind on)
+
+
+{% include youtube.html id="wp_v5B9yaTQ" %}
+
+
+
+
 ## Bluesky posts
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fodyg35g25joa5rpplt4y43g/app.bsky.feed.post/3lmsufl3kds2p" data-bluesky-cid="bafyreih2rjzxh32atcddfpl4l5iztde56vxej2y7n2sdnbv36mo4w5eet4" data-bluesky-embed-color-mode="system"><p lang="en">&quot;the running boom has been popularized by highly adapted mini humans&quot;
