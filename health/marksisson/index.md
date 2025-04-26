@@ -64,5 +64,9 @@ Based on the video clip, here's why Mark Sisson doesn't eat salad like he used t
 In summary, Mark Sisson stopped prioritizing large salads because his dietary philosophy shifted to focus on animal protein first. His avoidance of typical salads, especially in restaurants, is driven by deep concerns over the widespread use of low-quality, unstable, and potentially rancid/oxidized seed oils in dressings and cooking.
 
 
-
+<!--
 {% include bluesky.html url="https://bsky.app/profile/adolfont.github.io/post/3lnq5stdb4c2n" %}
+-->
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fodyg35g25joa5rpplt4y43g/app.bsky.feed.post/3lnq5stdb4c2n" data-bluesky-cid="bafyreifxvmzoqvfqlp6dbyadwgj5zss3wuk36dmbhgsmifmvs3bxgtms44" data-bluesky-embed-color-mode="system"><p lang="en">Mark Sisson&#x27;s Sprinting Workout
+www.youtube.com/watch?v=gXMy...<br><br><a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lnq5stdb4c2n?ref_src=embed">[image or embed]</a></p>&mdash; Adolfo Neto (<a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g?ref_src=embed">@adolfont.github.io</a>) <a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lnq5stdb4c2n?ref_src=embed">April 26, 2025 at 1:28 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
