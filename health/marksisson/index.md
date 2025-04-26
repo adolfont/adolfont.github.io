@@ -1,5 +1,7 @@
 ---
-title: Mark Sisson
+layout: default
+title: Adolfo Neto's page on Mark Sisson
+subtitle: Meu Subtítulo incrível
 thumb: /images/marksisson.jpg
 ---
 
