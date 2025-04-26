@@ -5,15 +5,27 @@ subtitle: 03 de Maio de 2025
 thumb: /images/2025_05_03_MeetupOnlineElixirBrasil.jpg
 ---
 
-<!-- >
+
 
 # Meetup Online Elixir Brasil 
 
 O Meetup Online Elixir Brasil é um grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). 
 
-Estamos começando as atividades em 2023. Durante a pandemia, aconteceram eventos online (Elixir Brasil e  Code BEAM Brasil) e o meetup do [Elug CE](https://elug-ce.github.io/). A ideia deste meetup é ser um evento online regular que permita a participação de pessoas que estão em todas as cidades do Brasil e também no exterior.
+Começamos as atividades em 2023. Durante a pandemia, aconteceram eventos online (Elixir Brasil e  Code BEAM Brasil) e o meetup do [Elug CE](https://elug-ce.github.io/). A ideia deste meetup é ser um evento online regular que permita a participação de pessoas que estão em todas as cidades do Brasil e também no exterior.
 
 Junte-se à comunidade Elixir Brasil no Telegram: [https://t.me/elixirbr](https://t.me/elixirbr)
+
+##  Elixir Carajás Meetup em 29/05/2025
+
+Este meetup não é associado ao Meetup Online Elixir Brasil, mas é uma ótima iniciativa!
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:dfdfynw5ru6behfo3bbyl23o/app.bsky.feed.post/3lnnerwuqps23" data-bluesky-cid="bafyreih3p5g3g2wkgvkudui4oe3ynyxzw3y7v4msewes5qko7pjluggs7m" data-bluesky-embed-color-mode="system"><p lang="en">O nosso próximo encontro já está marcado.
+
+🗓️ 29 de Maio às 7:00 pm BRT
+
+Elixir: idiomas pra construir aplicações concorrentes, distribuídas e com tolerância 
+
+Participação do Hugo Baraúna (@hugobarauna.com)<br><br><a href="https://bsky.app/profile/did:plc:dfdfynw5ru6behfo3bbyl23o/post/3lnnerwuqps23?ref_src=embed">[image or embed]</a></p>&mdash; Elixir Carajás Meetup (<a href="https://bsky.app/profile/did:plc:dfdfynw5ru6behfo3bbyl23o?ref_src=embed">@elixircarajas.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:dfdfynw5ru6behfo3bbyl23o/post/3lnnerwuqps23?ref_src=embed">April 25, 2025 at 10:55 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 
 ## Encontro de 18/10/2023
