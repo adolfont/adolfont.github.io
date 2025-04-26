@@ -2,14 +2,16 @@
 layout: event
 title: Meetup Online Elixir Brasil
 subtitle: 03 de Maio de 2025
-thumb: img/18102023.png
+thumb: /events/elixirbronline/img/18102023.png
+---
 
+<!--
 image:
     path: img/18102023.png
     width: 397
     height: 397
----
 
+-->
 
 # Meetup Online Elixir Brasil 
 
