@@ -9,7 +9,7 @@ Qual é o impacto de LLMs no desenvolvimento de software?
 
 "Even though I’m a much better Python than JavaScript developer, with AI assistance, I’ve been writing a lot of JavaScript code recently. AI-assisted coding is making specific programming languages less important, even though learning one is still helpful to make sure you understand the key concepts."
 
-Não tem como discordar disso
+[Você concorda?](https://bsky.app/profile/adolfont.github.io/post/3lnpttbzcec23)
 
 <https://www.deeplearning.ai/the-batch/issue-298/>
 
