@@ -2,7 +2,6 @@
 
 ## Mark's Sprinting Workout
 
-{% include bluesky.html url="https://bsky.app/profile/adolfont.github.io/post/3lnq5stdb4c2n" %}
 
 {% include youtube.html id="gXMyl7kw1gY" %}
 
@@ -64,3 +63,6 @@ Based on the video clip, here's why Mark Sisson doesn't eat salad like he used t
 
 In summary, Mark Sisson stopped prioritizing large salads because his dietary philosophy shifted to focus on animal protein first. His avoidance of typical salads, especially in restaurants, is driven by deep concerns over the widespread use of low-quality, unstable, and potentially rancid/oxidized seed oils in dressings and cooking.
 
+
+
+{% include bluesky.html url="https://bsky.app/profile/adolfont.github.io/post/3lnq5stdb4c2n" %}
