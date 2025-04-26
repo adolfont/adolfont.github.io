@@ -7,6 +7,29 @@
 
 ### Gemini Summary 
 
+Mark Sisson explains his personal sprinting routine, highlighting sprinting as an incredibly effective exercise for getting lean ("cuts you up") and a fundamental part of his "Primal Blueprint" approach to fitness.
+
+He emphasizes the importance of warming up properly (10-15 minutes) before sprinting to prevent injury. While sprints can be done on various equipment or surfaces, he prefers doing them barefoot on a flat, packed beach at low tide, finding the sand forgiving.
+
+**Mark's Specific Sprint Workout:**
+
+- **Warm-up:** 10-15 minutes, including dynamic movements.
+    
+- **Sprints:** 8 repetitions of approximately 30-second efforts. Each sprint is structured progressively:
+    
+    - 10 "easy strides" (building pace)
+        
+    - 10 "medium strides" (increasing intensity)
+        
+    - 20 "all-out strides" (maximum effort sprint)
+        
+    
+- **Rest:** 30 to 60 seconds of rest between each sprint repetition.
+    
+- **Cool-down:** Light movement and stretching (quad stretches, air squats, hanging stretch are shown/mentioned) to aid recovery.
+    
+
+Sisson notes that this intense workout only needs to be performed about once a week to reap significant benefits, leaving him feeling sufficiently challenged ("thoroughly knackered") for the day.
 
 ## This is Why Mark Sisson Doesn't Eat Salad Anymore
 
