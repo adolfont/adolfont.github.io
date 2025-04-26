@@ -1,10 +1,16 @@
 ---
-title:        Meetup Online Elixir Brasil 
+layout: event
+title: Meetup Online Elixir Brasil
+subtitle: 03 de Maio de 2025
+thumb: img/18102023.png
+
 image:
     path: img/18102023.png
     width: 397
     height: 397
 ---
+
+
 # Meetup Online Elixir Brasil 
 
 O Meetup Online Elixir Brasil é um grupo de pessoas interessadas em Elixir, Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). 
