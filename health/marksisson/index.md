@@ -77,11 +77,10 @@ amzn.to/4arQXkl
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fodyg35g25joa5rpplt4y43g/app.bsky.feed.post/3lggsu6zurs2o" data-bluesky-cid="bafyreihda46bdact25wfqbvdrfrn2ugtqrcbowvxfztpy2frl3fwskq2wm" data-bluesky-embed-color-mode="system"><p lang="en">&quot;This is antithetical to the pursuit of a long, healthy, happy, energetic life.&quot;</p>&mdash; Adolfo Neto (<a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g?ref_src=embed">@adolfont.github.io</a>) <a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lggsu6zurs2o?ref_src=embed">January 23, 2025 at 6:22 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 
-<!--
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fodyg35g25joa5rpplt4y43g/app.bsky.feed.post/3lmp34bpp7s2w" data-bluesky-cid="bafyreigtnwthgsluwbrntncjfdbyj33lwwawyoedwyobi4xiuinb5hvtyi" data-bluesky-embed-color-mode="system"><p lang="en">I started reading Born to Walk, by Mark Sisson
 
 a.co/d/61hzAiv<br><br><a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lmp34bpp7s2w?ref_src=embed">[image or embed]</a></p>&mdash; Adolfo Neto (<a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g?ref_src=embed">@adolfont.github.io</a>) <a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lmp34bpp7s2w?ref_src=embed">April 13, 2025 at 9:42 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
--->
+
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fodyg35g25joa5rpplt4y43g/app.bsky.feed.post/3lmssn22k422p" data-bluesky-cid="bafyreieehz3qxraut33hockbs2gbmr7q6z22swj62t6bkjudvg7obq5zuy" data-bluesky-embed-color-mode="system"><p lang="en">&quot;running a marathon, like swimming the Channel, is an incredibly extreme, arduous, potentially health-destructive, and unnatural endeavor.&quot;
 Mark Sisson<br><br><a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lmssn22k422p?ref_src=embed">[image or embed]</a></p>&mdash; Adolfo Neto (<a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g?ref_src=embed">@adolfont.github.io</a>) <a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lmssn22k422p?ref_src=embed">April 14, 2025 at 9:21 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
