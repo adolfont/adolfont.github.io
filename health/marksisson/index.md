@@ -1,3 +1,9 @@
+---
+title: Mark Sisson
+thumb: /images/marksisson.jpg
+---
+
+
 # Mark Sisson
 
 ## Mark's Sprinting Workout
