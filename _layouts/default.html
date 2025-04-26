@@ -5,70 +5,55 @@
 
 
 <head>
-
-  {% if page.thumb %}
-  <meta property="og:image" content="{{ page.thumb }}" />
-  {% else %}
-  <meta property="og:image" content="/images/AdolfoNeto_240x240.jpg" />
-  {% endif %}
-
-
-<!--   <h1>{{ page.title }}</h1>
-  {% if page.subtitle %}
-  <h2>{{ page.subtitle }}</h2>
-  {% endif %}-->
-
-
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Título da aba -->
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }}</title>
 
--->
+  <!-- Descrição padrão -->
+  <meta name="description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}">
 
-
-  <!-- HTML Meta Tags -->
-  <title>Adolfo Neto</title>
-  <meta name="description"
-    content="Adolfo Neto is an Associate Professor at the Federal University of Technology, Paraná, Brazil.">
-
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://adolfont.github.io/">
+  <!-- Facebook Open Graph -->
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Adolfo Neto">
-  <meta property="og:description" content="Associate Professor at the Federal University of Technology, Paraná.">
-  <meta property="og:image" content="https://adolfont.github.io/images/AdolfoNeto_240x240.jpg">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="adolfont.github.io/">
-  <meta property="twitter:url" content="https://adolfont.github.io/">
-  <meta name="twitter:title" content="Adolfo Neto">
-  <meta name="twitter:description" content="Associate Professor at the Federal University of Technology, Paraná.">
-  <meta name="twitter:image" content="https://adolfont.github.io/images/AdolfoNeto_240x240.jpg">
-
-  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
-
-
-
-  {% if page.title == "Meetup Elixir Brasil Online" %}
-  <meta property=’og:image’ content='https://adolfont.github.io/events/elixirbronline/img/18102023.png’/>
-  <meta property=’og:description’ content=' O meetup Elixir Brasil Online é um grupo de pessoas interessadas em Elixir,
-    Erlang e linguagens da máquina virtual de Erlang (BEAM) do Brasil (mas aberto a pessoas de todo o mundo). '/>
-  <meta property=’og:url’ content=' https://adolfont.github.io/events/elixirbronline/' />
-  <meta property='og:image:width' content='393' />
-  <meta property='og:image:height' content='393' />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
+  <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}">
+  {% if page.thumb %}
+    <meta property="og:image" content="{{ page.thumb | absolute_url }}">
+  {% else %}
+    <meta property="og:image" content="{{ '/images/AdolfoNeto_240x240.jpg' | absolute_url }}">
   {% endif %}
 
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="{{ site.url | replace: 'https://', '' }}">
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}">
+  {% if page.thumb %}
+    <meta name="twitter:image" content="{{ page.thumb | absolute_url }}">
+  {% else %}
+    <meta name="twitter:image" content="{{ '/images/AdolfoNeto_240x240.jpg' | absolute_url }}">
+  {% endif %}
 
-  {% seo %}
-  <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <!-- Estilos -->
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+  <!-- Compatibilidade com IE antigo -->
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+  <![endif]-->
+
+  <!-- SEO extra (opcional, depende do seu projeto) -->
+  {% seo %}
+
+  <!-- Personalizações extras -->
   {% include head-custom.html %}
   {% include analytics.html %}
 </head>
+
 
 <body>
   <div class="wrapper">
