@@ -1,6 +1,17 @@
-# Palestra de 30/04/2025
+# Palestra -> Conversa
 
 Qual é o impacto de LLMs no desenvolvimento de software?
+
+## Como você tem usado LLMs?
+
+
+## Independência de linguagens
+
+"Even though I’m a much better Python than JavaScript developer, with AI assistance, I’ve been writing a lot of JavaScript code recently. AI-assisted coding is making specific programming languages less important, even though learning one is still helpful to make sure you understand the key concepts."
+
+Não tem como discordar disso
+
+<https://www.deeplearning.ai/the-batch/issue-298/>
 
 
 ## Tecnologias recentes no desenvolvimento de software
