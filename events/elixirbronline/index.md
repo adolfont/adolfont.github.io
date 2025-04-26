@@ -2,9 +2,10 @@
 layout: event
 title: Meetup Online Elixir Brasil
 subtitle: 03 de Maio de 2025
-thumb: /events/elixirbronline/img/18102023.png
+thumb: /images/2025_05_03_MeetupOnlineElixirBrasil.jpg
 ---
 
+<!-- >
 
 # Meetup Online Elixir Brasil 
 

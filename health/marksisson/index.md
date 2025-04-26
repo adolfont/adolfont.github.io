@@ -2,6 +2,7 @@
 layout: default
 title: Adolfo Neto's page on Mark Sisson
 subtitle: 
+description: Insights about Mark Sisson's work, health advice, and primal lifestyle philosophy.
 thumb: /images/marksisson.jpg
 ---
 
