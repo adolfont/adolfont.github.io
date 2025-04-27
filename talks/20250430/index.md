@@ -76,6 +76,8 @@ Qual é o custo ambiental dos LLMs?
 * GPUs, tokens
 * vibe coding, riscos
 
+Tudo é alucinação <https://bsky.app/profile/spavel.bsky.social/post/3lnslrp27jk2s>
+
 ### Verification
 
 One of the benefits of getting a front row to watching AI intersect with hacking and software development is I get to see the power shift to new tools and skills. Verification is becoming super important in a world of vibe coding and auto-generated interfaces. With more automation, the low end skill gets wiped out and the top gets superpowers. The next frontier is formal verification and it's not easy, but getting easier. I did some experiments with Lean to show what this looks like -- let's get Lean!
