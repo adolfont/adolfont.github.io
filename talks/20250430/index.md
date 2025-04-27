@@ -34,6 +34,11 @@ Qual o risco delas?
 Alucinações <https://bsky.app/profile/janiceascari.bsky.social/post/3lnkub7rbhs27>
 
 
+## O código gerado é bom?
+
+<https://bsky.app/profile/aserebrenik.bsky.social/post/3lnsfotkqr22j>
+
+
 ## Pesquisa Acadêmica
 
 Muita pesquisa acadêmica (com revisão por pares) tem sido feita, mas geralmente usando LLMs como caixa preta.
