@@ -2,6 +2,10 @@
 
 Testar [Manus](https://manus.im/app)
 
+- Janela de contexto
+- Custo por token
+- Preço
+
 Qual é o impacto de LLMs no desenvolvimento de software?
 
 ## Como você tem usado LLMs?
