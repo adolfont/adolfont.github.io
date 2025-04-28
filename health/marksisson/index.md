@@ -78,7 +78,9 @@ In summary, Mark Sisson stopped prioritizing large salads because his dietary ph
 {% include youtube.html id="wp_v5B9yaTQ" %}
 
 
+## Micro Workouts 
 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@heartandsoil/video/7221253037325552942" data-video-id="7221253037325552942" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@heartandsoil" href="https://www.tiktok.com/@heartandsoil?refer=embed">@heartandsoil</a> Primal tip of the day brought to you by the legend himself, Mark Sisson 🙌💯 <a title="primalkitchen" target="_blank" href="https://www.tiktok.com/tag/primalkitchen?refer=embed">#primalkitchen</a> <a title="marksisson" target="_blank" href="https://www.tiktok.com/tag/marksisson?refer=embed">#marksisson</a> <a title="carnivorediet" target="_blank" href="https://www.tiktok.com/tag/carnivorediet?refer=embed">#carnivorediet</a> <a title="animalbased" target="_blank" href="https://www.tiktok.com/tag/animalbased?refer=embed">#animalbased</a> <a target="_blank" title="♬ original sound - Heart &#38; Soil Supplements" href="https://www.tiktok.com/music/original-sound-7221253011878824747?refer=embed">♬ original sound - Heart &#38; Soil Supplements</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ## Bluesky posts
 
