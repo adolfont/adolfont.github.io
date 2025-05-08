@@ -5,6 +5,7 @@
 - [Overleaf](https://www.overleaf.com/project/64ff6d4ef94a60fed5b01db5)
 - [Planilha](https://docs.google.com/spreadsheets/d/1d6R87L883ZRrQGJoVyQRkumjBzXnyXjJcQQxQZ4L6Bk/edit?usp=sharing) 
 
+## Outros
 
 - [NNN](https://drive.google.com/drive/folders/1F2j9FpRKw3ovK2lgsLDGNVjsCKIp41zZ)
 
