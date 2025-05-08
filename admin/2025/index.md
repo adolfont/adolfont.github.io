@@ -1,5 +1,14 @@
 # 2025
 
+## Paper
+
+- [Overleaf](https://www.overleaf.com/project/64ff6d4ef94a60fed5b01db5)
+- [Planilha](https://docs.google.com/spreadsheets/d/1d6R87L883ZRrQGJoVyQRkumjBzXnyXjJcQQxQZ4L6Bk/edit?usp=sharing) 
+
+
+## Admin links
+
+
 - [Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/admin/2025/index.md)
 - [Visit the published page](https://adolfont.github.io/admin/2025/)
 - [posts](https://adolfont.github.io/extension/blogs/posts)
