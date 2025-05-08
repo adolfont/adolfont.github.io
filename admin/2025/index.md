@@ -4,6 +4,7 @@
 
 - [Overleaf](https://www.overleaf.com/project/64ff6d4ef94a60fed5b01db5)
 - [Planilha](https://docs.google.com/spreadsheets/d/1d6R87L883ZRrQGJoVyQRkumjBzXnyXjJcQQxQZ4L6Bk/edit?usp=sharing) 
+- [WIT - Data de envio para versão final: 16 de maio de 2025.](https://mail.google.com/mail/u/0/#inbox/FMfcgzQbdrWCqPtwWhTBQrGNCHjKmWxL)
 
 ## Outros
 
