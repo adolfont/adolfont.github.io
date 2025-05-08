@@ -8,6 +8,7 @@
 ## Outros
 
 - [NNN](https://drive.google.com/drive/folders/1F2j9FpRKw3ovK2lgsLDGNVjsCKIp41zZ)
+- [Elixir Curitiba 2025](https://www.notion.so/Elixir-Curitiba-2025-1edca1ecd1be804f994fc2474cd569e8)
 
 ## Admin links
 
