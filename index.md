@@ -34,6 +34,8 @@ My [now](http://adolfont.github.io/now) page.
 
 🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
 
+🇧🇷 Faço parte do comitê de programa do [VIII Workshop-Escola de Informática Teórica - WEIT 2025](https://dainf.pg.utfpr.edu.br/weit2025/committee.php)
+
 🇧🇷 Lecionei [Introduction to Functional Programming](./teaching/2024/caes005/) na terceira fase de 2024.
 
 🇧🇷 Organizei a [Elixir Curitiba 2024](https://bit.ly/ElixirCuritiba).
