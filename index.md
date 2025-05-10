@@ -26,6 +26,8 @@ My [now](http://adolfont.github.io/now) page.
 
 ## News
 
+I am serving as Socia Media Co-Chair for ICSE 2026. ICSE is the IEEE/ACM International Conference on Software Engineering, the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro.
+
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no primeiro semestre de 2025.
 
 🇧🇷 Estou lecionando [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
