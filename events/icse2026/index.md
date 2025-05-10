@@ -2,7 +2,7 @@
 layout: default
 title: Adolfo Neto's page on ICSE 2026
 subtitle: ICSE is the IEEE/ACM International Conference on Software Engineering
-thumb: /images/ICSE2026\ Square\ Empty\ Spaces.jpg
+thumb: "/images/ICSE2026 Square Empty Spaces.jpg"
 ---
 
 # ICSE 2026
