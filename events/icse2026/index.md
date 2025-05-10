@@ -11,7 +11,7 @@ ICSE, the IEEE/ACM International Conference on Software Engineering, is the prem
 
 ICSE provides a forum where researchers, practitioners, and educators gather together to present and discuss research results, innovations, trends, experiences and issues in the field of software engineering.
 
-<img src="/images/ICSE2026\ Square\ Empty\ Spaces.jpg" alt="ICSE 2026 logo" width="500" height="500">
+<img src="/images/ICSE2026 Square Empty Spaces.jpg" alt="ICSE 2026 logo" width="500" height="500">
 
 
 [ICSE 2026 Website](https://bit.ly/4kgiJnv)
