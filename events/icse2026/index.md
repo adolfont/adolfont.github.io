@@ -1,5 +1,9 @@
 # ICSE 2026
 
+ICSE, the IEEE/ACM International Conference on Software Engineering, is the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro. Core conference days will be Wednesday April 15 to Friday April 17.
+
+ICSE provides a forum where researchers, practitioners, and educators gather together to present and discuss research results, innovations, trends, experiences and issues in the field of software engineering.
+
 [ICSE 2026 Website](https://bit.ly/4kgiJnv)
 
 ## Social Media
