@@ -18,14 +18,10 @@ I (Adolfo Neto) am serving as Publicity Chair (helped by Ema Miranda) for CBSoft
 
 ## Social Media
 
-<!-- 
 
-- [CBSoft on Instagram](https://bit.ly/4j0zhPx)
-- [CBSoft on Bluesky](https://bit.ly/3RUR8fD)
-- [CBSoft on Linkedin](https://bit.ly/43blsb0)
-- [CBSoft on X](https://bit.ly/4davaz3)
-- [CBSoft on Facebook](https://bit.ly/43nGPXL)
-
-
--->
+- [CBSoft on Instagram](https://bit.ly/4iY69rS)
+- [CBSoft on Bluesky](https://bit.ly/3GPyraV)
+- [CBSoft on Linkedin](https://bit.ly/4ddR1ph)
+- [CBSoft on X](https://bit.ly/4kAhwYz)
+- [CBSoft on Facebook](https://bit.ly/4iY6CKE)
 
