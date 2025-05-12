@@ -24,10 +24,22 @@ markmap:
 
 ### Regulares
 
-- Odwald
-- Wesley (???)
-- Walysson
+- Odwald Schroeder Schreder	(2023)
+- Vinicius Bail Alonso	 (2024)
+- Wesley Alvary Scheifer Pinto	 2024)
+- Camilo Cunha De Azevedo	(2025)
+- Walysson Rodrigues Duarte	(2025)
+
+#### Coorientação
+- Fernando Calheiros Areias	(2025)
 
 ### Especiais
 
-- 
+- Ana Paula Schwaab Goettens	(2025)
+- Douglas Ferreira De Souza	(2025)
+- Thiago Dos Santos	(2025)
+
+#### Coorientação
+- Murilo Henrique Alves	(2025)
+- Natalia Goncalves Padilha Choma	(2025)
+
