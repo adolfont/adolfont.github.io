@@ -13,7 +13,7 @@ ICSE, the IEEE/ACM International Conference on Software Engineering, is the prem
 
 ICSE provides a forum where researchers, practitioners, and educators gather together to present and discuss research results, innovations, trends, experiences and issues in the field of software engineering.
 
-
+I (Adolfo Neto) am serving as Socia Media Co-Chair (with Ronnie de Souza Santos) for ICSE 2026.
 
 [ICSE 2026 Website](https://bit.ly/4kgiJnv)
 
