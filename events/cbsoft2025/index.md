@@ -2,12 +2,12 @@
 layout: default
 title: Adolfo Neto's page on CBSOFT 2025
 subtitle: CBSoft is the Brazilian Conference on Software - Practice and Theory 
-thumb: /images/cbsoft2025.png
+thumb: /images/CBSOFT2025_q.png
 ---
 
 # CBSoft 2025
 
-<img src="/images/cbsoft2025.png" alt="CBSoft 2025 logo" height="100">
+<img src="/images/CBSOFT2025_q.png" alt="CBSoft 2025 logo" height="100">
 
 I (Adolfo Neto) am serving as Publicity Chair (helped by Ema Miranda) for CBSoft 2025.
 
