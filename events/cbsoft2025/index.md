@@ -7,7 +7,7 @@ thumb: /images/cbsoft2025.png
 
 # CBSoft 2025
 
-<img src="/images/cbsoft2025.png" alt="CBSoft 2025 logo" width="100" height="100">
+<img src="/images/cbsoft2025.png" alt="CBSoft 2025 logo" height="100">
 
 I (Adolfo Neto) am serving as Publicity Chair (helped by Ema Miranda) for CBSoft 2025.
 
