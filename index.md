@@ -26,7 +26,10 @@ My [now](http://adolfont.github.io/now) page.
 
 ## News
 
-I am serving as Socia Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE is the IEEE/ACM International Conference on Software Engineering, the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro.
+I am serving as Social Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE is the IEEE/ACM International Conference on Software Engineering, the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro.
+
+I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft is the Brazilian Conference on Software: Practice and Theory . The 16th edition of CBSoft will be held in person, from September 22th to 26th, 2025 in Recife, Pernambuco.
+
 
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no primeiro semestre de 2025.
 
