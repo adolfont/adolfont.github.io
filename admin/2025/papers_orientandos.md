@@ -15,7 +15,7 @@ markmap:
    - Próximos passos?
    - Deadline:
  - [Apps.Edu CBIE](https://cbie.sbc.org.br/2025/apps-edu2/) - 11/06
- - [SBIE TIIERE](https://cbie.sbc.org.br/2025/sbie2/) - 02/06
+ - [SBIE TIIRE](https://cbie.sbc.org.br/2025/sbie2/) - 02/06
  - [Podcasts paper](https://www.overleaf.com/project/66e2c79cdfaca3ecc9c71dbe)
 
 ## Orientandos
