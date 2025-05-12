@@ -2,12 +2,12 @@
 layout: default
 title: Adolfo Neto's page on CBSOFT 2025
 subtitle: CBSoft is the Brazilian Conference on Software: Practice and Theory 
-thumb: "/images/cbsoft2025.jpg"
+thumb: "/images/cbsoft2025.png"
 ---
 
-# ICSE 2026
+# CBSoft 2025
 
-<img src="/images/cbsoft2025.jpg" alt="CBSOft 2025 logo" width="100" height="100">
+<img src="/images/cbsoft2025.ong" alt="CBSOft 2025 logo" width="100" height="100">
 
 The **Brazilian Conference on Software: Practice and Theory (CBSoft)** is an event annually promoted by the Brazilian Computing Society (SBC) aiming at fostering the exchange of experience among researchers and practitioners from industry and academia about the most recent research, tendencies, and theoretical and practical innovations on software. Held since 2010 as an aggregating conference of Brazilian symposia promoted by SBC on software, CBSoft has become one of the main conferences of the Brazilian scientific community on Computing.
 
