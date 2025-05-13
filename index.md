@@ -30,14 +30,13 @@ I am serving as Social Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE i
 
 I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft is the Brazilian Conference on Software: Practice and Theory . The 16th edition of CBSoft will be held in person, from September 22th to 26th, 2025 in Recife, Pernambuco.
 
+🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
+
 
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no primeiro semestre de 2025.
 
 🇧🇷 Estou lecionando [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
 
-🇧🇷 Faço parte da organização do [CBSOFT 2025](https://cbsoft.sbc.org.br/2025/cbsoft/).
-
-🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
 
 🇧🇷 Faço parte do comitê de programa do [VIII Workshop-Escola de Informática Teórica - WEIT 2025](https://dainf.pg.utfpr.edu.br/weit2025/committee.php)
 
