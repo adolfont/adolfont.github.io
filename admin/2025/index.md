@@ -10,6 +10,7 @@
 
 - [Papers e orientandos](./papers_orientandos.md)
 - CTD-ES
+- [Comissão PPGCA](https://docs.google.com/presentation/d/1Ii1VP5XZ5KyPnM7IaKqx_ndefXEgujaRHyleLX3P2Ds/edit?usp=sharing)
 - [NNN](https://drive.google.com/drive/folders/1F2j9FpRKw3ovK2lgsLDGNVjsCKIp41zZ)
 - [Elixir Curitiba 2025](https://www.notion.so/Elixir-Curitiba-2025-1edca1ecd1be804f994fc2474cd569e8)
 - [http://podiversidade.github.io/](http://podiversidade.github.io/)
