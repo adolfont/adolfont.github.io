@@ -8,6 +8,9 @@
 
 ## Outros
 
+- [Edição Genaina](https://docs.google.com/document/d/1BrfxT7XxkivzJJAbUBf8Z0Cbn3nUdxIEhhl_OeDr6go/edit?tab=t.3968rc18xhks)
+- [Avaliação MA](https://docs.google.com/document/d/1BqqDyDgSmEah0zzBweqemdNkq43qhAM4KrdASgk23hQ/edit?tab=t.0)
+
 - [Papers e orientandos](./papers_orientandos.md)
 - CTD-ES
 - [Comissão PPGCA](https://docs.google.com/presentation/d/1Ii1VP5XZ5KyPnM7IaKqx_ndefXEgujaRHyleLX3P2Ds/edit?usp=sharing)
