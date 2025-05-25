@@ -1,5 +1,9 @@
-# Interfaces entre Inteligência Artificial Generativa e Medicina de Família:  
-## Uma Análise Crítica sobre o Uso por Pacientes
+# Interfaces entre Inteligência Artificial Generativa e Medicina de Família: Uma Análise Crítica sobre o Uso por Pacientes
+
+## Autores
+
+- Wiviane Nallin - Médica de Família e Comunidade
+- [Adolfo Neto](https://adolfont.github.io/) - Professor e pesquisador em Computação
 
 ### Introdução
 
