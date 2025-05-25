@@ -67,13 +67,8 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 
 ### Fóruns brasileiros de Saúde Digital
 
-- Fórum Saúde Digital. [https://forumsaudedigital.com.br](https://forumsaudedigital.com.br/)
-    
-- Saúde Digital (SD Conecta). [https://saudedigital.tech](https://saudedigital.tech/)
-    
-- Fórum de Médicos na Saúde Digital (SBIS). [https://sbis.org.br/noticia/sbis-realizara-o-1o-forum-de-medicos-na-saude-digital/](https://sbis.org.br/noticia/sbis-realizara-o-1o-forum-de-medicos-na-saude-digital/)
-    
-- Fórum Saúde Digital 2025 (AbraCloud). [https://abracloud.com.br/evento-e-curso/forum-saude-digital-2025/](https://abracloud.com.br/evento-e-curso/forum-saude-digital-2025/)
+- [r/MedicinaBrasil](https://www.reddit.com/r/MedicinaBrasil/)
+- [r/ChatGPTBrasil](https://www.reddit.com/r/ChatGPTBrasil/)
 
 ## Material Complementar
 
