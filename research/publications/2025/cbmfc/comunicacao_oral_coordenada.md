@@ -83,9 +83,15 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 
 ## Material Complementar
 
+### Recursos
 - [LLMs de uso gratuito e direto do site](https://adolfont.github.io//teaching/metodosageis/recursos/llms)
 
-## Links 
+### Exemplos de problemas em outras áreas
+
+- [AI Hallucination Cases in Law](https://simonwillison.net/2025/May/25/ai-hallucination-cases/)
+
+
+## Links deste trabalho
 
 Esta página: <https://bit.ly/CBMFC2025>
 
