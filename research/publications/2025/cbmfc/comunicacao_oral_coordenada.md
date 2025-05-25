@@ -65,6 +65,16 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 
 - WORLD HEALTH ORGANIZATION. Ethics and governance of artificial intelligence for health: WHO guidance. Geneva: WHO, 2021. Disponível em: [https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf](https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf). Acesso em: 25 maio 2025.
 
+### Fóruns brasileiros de Saúde
+
+- Fórum Saúde Digital. [https://forumsaudedigital.com.br](https://forumsaudedigital.com.br/)
+    
+- Saúde Digital (SD Conecta). [https://saudedigital.tech](https://saudedigital.tech/)
+    
+- Fórum de Médicos na Saúde Digital (SBIS). [https://sbis.org.br/noticia/sbis-realizara-o-1o-forum-de-medicos-na-saude-digital/](https://sbis.org.br/noticia/sbis-realizara-o-1o-forum-de-medicos-na-saude-digital/)
+    
+- Fórum Saúde Digital 2025 (AbraCloud). [https://abracloud.com.br/evento-e-curso/forum-saude-digital-2025/](https://abracloud.com.br/evento-e-curso/forum-saude-digital-2025/)
+
 ## Material Complementar
 
 - [LLMs de uso gratuito e direto do site](https://adolfont.github.io//teaching/metodosageis/recursos/llms)
