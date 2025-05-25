@@ -70,6 +70,15 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 - [r/MedicinaBrasil](https://www.reddit.com/r/MedicinaBrasil/)
 - [r/ChatGPTBrasil](https://www.reddit.com/r/ChatGPTBrasil/)
 
+
+#### Exemplos de postagens em fóruns nacionais e internacionais
+
+- [Consulta médica no ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1ipi8kd/consulta_m%C3%A9dica_no_chatgpt/)
+- [I strongly urge everyone to try using Gemini as a "roleplaying" therapist](https://www.reddit.com/r/GeminiAI/comments/1jy37k2/i_strongly_urge_everyone_to_try_using_gemini_as_a/)
+- [¿Cómo ven el futuro de la IA en la medicina? ¿Creen que reemplace a los médicos?](https://www.reddit.com/r/OpinionesPolemicas/comments/1k34w48/c%C3%B3mo_ven_el_futuro_de_la_ia_en_la_medicina_creen/)
+
+
+
 ## Material Complementar
 
 - [LLMs de uso gratuito e direto do site](https://adolfont.github.io//teaching/metodosageis/recursos/llms)
