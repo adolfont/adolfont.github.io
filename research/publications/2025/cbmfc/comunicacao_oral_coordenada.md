@@ -23,7 +23,7 @@ Investigar as dimensões éticas e operacionais associadas ao uso não supervisi
 A análise foi organizada em três etapas:
 
 - **Revisão bibliográfica** de [diretrizes internacionais (OMS, UNESCO) sobre ética em Inteligência Artificial (IA)](#diretrizes-internacionais-oms-unesco-sobre-ética-em-inteligência-artificial), priorizando recomendações práticas;
-- **Levantamento de discussões** em fóruns brasileiros de saúde digital (2023–2025), destacando debates sobre governança e equidade;
+- **Levantamento de discussões** em [fóruns brasileiros de](#foruns-brasileiros-de-saude-digital) [saúde digital](https://en.wikipedia.org/wiki/Digital_health) (2023–2025), destacando debates sobre governança e equidade;
 - **Reflexão crítica** adaptando os princípios da Declaração de Alma-Ata (1978) para contextos tecnológicos atuais.
 
 Foram utilizados referenciais éticos da UNESCO e casos práticos de viés algorítmico para garantir consistência.
@@ -65,7 +65,7 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 
 - WORLD HEALTH ORGANIZATION. Ethics and governance of artificial intelligence for health: WHO guidance. Geneva: WHO, 2021. Disponível em: [https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf](https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf). Acesso em: 25 maio 2025.
 
-### Fóruns brasileiros de Saúde
+### Fóruns brasileiros de Saúde Digital
 
 - Fórum Saúde Digital. [https://forumsaudedigital.com.br](https://forumsaudedigital.com.br/)
     
