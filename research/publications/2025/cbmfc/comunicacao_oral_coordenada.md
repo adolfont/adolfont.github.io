@@ -1,8 +1,6 @@
 # Interfaces entre Inteligência Artificial Generativa e Medicina de Família: Uma Análise Crítica sobre o Uso por Pacientes
 
-Esta página: <https://bit.ly/CBMFC2025>
 
-![QR para esta página](https://github.com/user-attachments/assets/e819db2e-a3b2-410b-ae8d-5d76793a3681)
 
 
 ## Autores
@@ -70,3 +68,9 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 ## Material Complementar
 
 - [LLMs de uso gratuito e direto do site](https://adolfont.github.io//teaching/metodosageis/recursos/llms)
+
+## Links 
+
+Esta página: <https://bit.ly/CBMFC2025>
+
+![QR para esta página](https://github.com/user-attachments/assets/e819db2e-a3b2-410b-ae8d-5d76793a3681)
