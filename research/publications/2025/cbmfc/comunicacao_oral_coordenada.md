@@ -3,7 +3,7 @@
 
 ### Introdução
 
-A [Inteligência Artificial Generativa](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) registrou avanços significativos nos últimos anos, com especial destaque para os grandes modelos de linguagem (Large Language Models - LLMs), como o [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT). Esses modelos democratizaram o acesso a essa tecnologia, permitindo que pessoas em todo o mundo, desde que conectadas à internet, possam utilizá-la. 
+A [Inteligência Artificial Generativa](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) registrou avanços significativos nos últimos anos, com especial destaque para os grandes modelos de linguagem ([Large Language Models](https://en.wikipedia.org/wiki/Large_language_model) - LLMs), como o [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT). Esses modelos democratizaram o acesso a essa tecnologia, permitindo que pessoas em todo o mundo, desde que conectadas à internet, possam utilizá-la. 
 
 Os LLMs são ferramentas versáteis, projetadas para interagir com os usuários por meio de diálogos, respondendo a perguntas sobre uma ampla gama de temas incluídos em sua base de treinamento, que englobam tópicos relacionados à saúde. No entanto, é importante ressaltar que há sempre o risco de as informações fornecidas serem imprecisas ou equivocadas.
 
