@@ -6,7 +6,7 @@ Alguns destes têm limitações (de tamanho da entrada, por exemplo).
 
 Praticamente todos, se não todos, usam o que você pergunta como parte do treinamento deles. Portanto, não inclua dados sensíveis.
 
-Todos escrevem parvoíces ("alucinam") de vez em quando. Sempre verifique a resposta.
+Todos "alucinam" de vez em quando. Sempre verifique a resposta.
 
 <!--
 _Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolvedoras de software: <https://forms.gle/r2PgX6mDXuxo94zUA>._  -->
