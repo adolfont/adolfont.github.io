@@ -1,5 +1,10 @@
 # Interfaces entre Inteligência Artificial Generativa e Medicina de Família: Uma Análise Crítica sobre o Uso por Pacientes
 
+Esta página: <https://bit.ly/CBMFC2025>
+
+![QR para esta página](https://github.com/user-attachments/assets/e819db2e-a3b2-410b-ae8d-5d76793a3681)
+
+
 ## Autores
 
 - Wiviane Nallin - Médica de Família e Comunidade
