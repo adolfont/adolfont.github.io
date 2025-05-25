@@ -52,6 +52,14 @@ As conclusões apontam a necessidade de regulamentação equilibrada para o uso 
 Essas diretrizes buscam garantir que os LLMs complementem a atuação médica sem comprometer a qualidade do cuidado.
 
 
+## Referências
+
+### Diretrizes internacionais (OMS, UNESCO) sobre ética em Inteligência Artificial
+
+- UNESCO. Recomendação sobre a Ética da Inteligência Artificial. Paris: UNESCO, 2021. Disponível em: [https://unesdoc.unesco.org/ark:/48223/pf0000381137\_por](https://unesdoc.unesco.org/ark:/48223/pf0000381137_por). Acesso em: 25 maio 2025.
+
+- WORLD HEALTH ORGANIZATION. Ethics and governance of artificial intelligence for health: WHO guidance. Geneva: WHO, 2021. Disponível em: [https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf](https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf). Acesso em: 25 maio 2025.
+
 ## Material Complementar
 
 - [LLMs de uso gratuito e direto do site](https://adolfont.github.io//teaching/metodosageis/recursos/llms)
