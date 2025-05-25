@@ -24,6 +24,7 @@ _Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolved
 * Maritaca [https://chat.maritaca.ai/](https://chat.maritaca.ai/)
 * Meta AI [https://www.meta.ai/](https://www.meta.ai/)
 * Mistral AI [https://mistral.ai/](https://mistral.ai/)
+* NotebookLM <https://notebooklm.google.com/> 
 * Perplexity AI [https://www.perplexity.ai/](https://www.perplexity.ai/)
 * Phind [https://www.phind.com/](https://www.phind.com/)
 * Pi [https://pi.ai/talk](https://pi.ai/talk)
@@ -32,20 +33,23 @@ _Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolved
 * T3 [https://t3.chat/](https://t3.chat/)
 * You [https://you.com/](https://you.com/)
 
-
+<!--
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
 Observações:
 - Mistral Le Chat é ótimo para OCR
 - [Quem é cliente Vivo pós-pago tem direito a um ano grátis de Perplexity Pro](https://www.mobiletime.com.br/noticias/01/11/2024/vivo-perplexity-pro/#:~:text=Com%20exclusividade%20ao%20Mobile%20Time,pago%20e%20da%20Internet%20fixa.).
 
+--> 
+
+<!--
 ## Usos mais avançados
 
 - Comparador de LLMs: LLM Arena <https://lmarena.ai/>
 - Openrouter - A unified interface for LLMs <https://openrouter.ai/>
-- NotebookLM <https://notebooklm.google.com/> - permite criar cadernos a partir de documentos e gera episódios de podcast
 - [Aya Expanse by Cohere For AI](https://wa.me/14313028498) por WhatsApp
 
+-->
 
 <!-- 
 - Llama [https://llama.meta.com/](https://llama.meta.com/)
