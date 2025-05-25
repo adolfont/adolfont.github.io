@@ -74,6 +74,7 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 #### Exemplos de postagens em fóruns nacionais e internacionais
 
 - [Is chat gpt's medical advice accurate?](https://www.reddit.com/r/ChatGPT/comments/1iv27a1/is_chat_gpts_medical_advice_accurate/)
+- [Anyone tried making a GPT for medical advice? How was it?](https://www.reddit.com/r/OpenAI/comments/1946am3/anyone_tried_making_a_gpt_for_medical_advice_how/)
 - [Consulta médica no ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1ipi8kd/consulta_m%C3%A9dica_no_chatgpt/)
 - [I strongly urge everyone to try using Gemini as a "roleplaying" therapist](https://www.reddit.com/r/GeminiAI/comments/1jy37k2/i_strongly_urge_everyone_to_try_using_gemini_as_a/)
 - [¿Cómo ven el futuro de la IA en la medicina? ¿Creen que reemplace a los médicos?](https://www.reddit.com/r/OpinionesPolemicas/comments/1k34w48/c%C3%B3mo_ven_el_futuro_de_la_ia_en_la_medicina_creen/)
