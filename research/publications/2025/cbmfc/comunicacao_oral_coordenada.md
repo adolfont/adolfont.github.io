@@ -50,3 +50,8 @@ As conclusões apontam a necessidade de regulamentação equilibrada para o uso 
 3. **Protocolos éticos** para o desenvolvimento de ferramentas adaptadas à realidade cultural da APS brasileira, prevenindo desigualdades no acesso à informação.
 
 Essas diretrizes buscam garantir que os LLMs complementem a atuação médica sem comprometer a qualidade do cuidado.
+
+
+## Material Complementar
+
+- [LLMs de uso gratuito e direto do site](https://adolfont.github.io//teaching/metodosageis/recursos/llms)
