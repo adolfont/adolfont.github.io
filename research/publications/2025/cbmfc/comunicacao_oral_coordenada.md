@@ -19,7 +19,7 @@ Investigar as dimensões éticas e operacionais associadas ao uso não supervisi
 
 A análise foi organizada em três etapas:
 
-- **Revisão bibliográfica** de diretrizes internacionais (OMS, UNESCO) sobre ética em Inteligência Artificial (IA), priorizando recomendações práticas;
+- **Revisão bibliográfica** de [diretrizes internacionais (OMS, UNESCO) sobre ética em Inteligência Artificial (IA)](#diretrizes-internacionais-oms-unesco-sobre-ética-em-inteligência-artificial), priorizando recomendações práticas;
 - **Levantamento de discussões** em fóruns brasileiros de saúde digital (2023–2025), destacando debates sobre governança e equidade;
 - **Reflexão crítica** adaptando os princípios da Declaração de Alma-Ata (1978) para contextos tecnológicos atuais.
 
