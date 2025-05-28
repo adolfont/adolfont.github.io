@@ -67,7 +67,7 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 
 ### Declaração de Alma-Ata
 
-- **CONFERÊNCIA INTERNACIONAL SOBRE CUIDADOS PRIMÁRIOS DE SAÚDE.** Declaração de Alma-Ata. Alma-Ata, URSS, 1978. Disponível em: [https://web.archive.org/web/20090419121612/http://www.opas.org.br/coletiva/uploadArq/Alma-Ata.pdf](https://web.archive.org/web/20090419121612/http://www.opas.org.br/coletiva/uploadArq/Alma-Ata.pdf). Acesso em: 28 maio 2025.
+- **CONFERÊNCIA INTERNACIONAL SOBRE CUIDADOS PRIMÁRIOS DE SAÚDE.** Declaração de Alma-Ata. Alma-Ata, URSS, 1978. Disponível em: <https://opas.org.br/declaracao-de-alma-ata/>. Acesso em: 28 maio 2025.
 
 ### Fóruns brasileiros de Saúde Digital
 
