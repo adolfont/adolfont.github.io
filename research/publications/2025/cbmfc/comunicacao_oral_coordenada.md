@@ -59,11 +59,15 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 
 ### Diretrizes internacionais (OMS, UNESCO) sobre ética em Inteligência Artificial
 
-- WORLD HEALTH ORGANIZATION. Ethics and governance of artificial intelligence for health: guidance on large multi-modal models. Geneva: WHO, 2024. Disponível em: <https://bit.ly/3ZojvHh>. Acesso em: 25 maio 2025.
+- **WORLD HEALTH ORGANIZATION.** Ethics and governance of artificial intelligence for health: guidance on large multi-modal models. Geneva: WHO, 2024. Disponível em: <https://bit.ly/3ZojvHh>. Acesso em: 25 maio 2025.
 
-- UNESCO. Recomendação sobre a Ética da Inteligência Artificial. Paris: UNESCO, 2021. Disponível em: [https://unesdoc.unesco.org/ark:/48223/pf0000381137\_por](https://unesdoc.unesco.org/ark:/48223/pf0000381137_por). Acesso em: 25 maio 2025.
+- **UNESCO.** Recomendação sobre a Ética da Inteligência Artificial. Paris: UNESCO, 2021. Disponível em: [https://unesdoc.unesco.org/ark:/48223/pf0000381137\_por](https://unesdoc.unesco.org/ark:/48223/pf0000381137_por). Acesso em: 25 maio 2025.
 
-- WORLD HEALTH ORGANIZATION. Ethics and governance of artificial intelligence for health: WHO guidance. Geneva: WHO, 2021. Disponível em: [https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf](https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf). Acesso em: 25 maio 2025.
+- **WORLD HEALTH ORGANIZATION.** Ethics and governance of artificial intelligence for health: WHO guidance. Geneva: WHO, 2021. Disponível em: [https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf](https://iris.who.int/bitstream/handle/10665/341996/9789240029200-eng.pdf). Acesso em: 25 maio 2025.
+
+### Declaração de Alma-Ata
+
+- **CONFERÊNCIA INTERNACIONAL SOBRE CUIDADOS PRIMÁRIOS DE SAÚDE.** Declaração de Alma-Ata. Alma-Ata, URSS, 1978. Disponível em: [https://web.archive.org/web/20090419121612/http://www.opas.org.br/coletiva/uploadArq/Alma-Ata.pdf](https://web.archive.org/web/20090419121612/http://www.opas.org.br/coletiva/uploadArq/Alma-Ata.pdf). Acesso em: 28 maio 2025.
 
 ### Fóruns brasileiros de Saúde Digital
 
