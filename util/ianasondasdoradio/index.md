@@ -1,12 +1,17 @@
 # Inteligência Artificial nas Ondas do Rádi com Marcelo Finger
 
 
+- Página do podcast Colunistas Eldorado Estadão: <https://omny.fm/shows/colunistas-eldorado-estad-o>
+- RSS: <https://omny.fm/shows/colunistas-eldorado-estad-o/playlists/podcast.rss>
+- Spotify: <https://open.spotify.com/show/7i87AFADvFacnXIQSvgXtT>
+
+
 <!-- Geração do primeiro script https://www.perplexity.ai/search/como-extrai-de-um-rss-de-um-po-163edq9oQ8a.0.qn8QaYJw -->
 
 <!-- Geração de um dos scripts https://www.perplexity.ai/search/escreva-um-shell-script-que-re-n4pKeumGQfm_CO5d0_qCIA -->
 
 
-
+## Lista de episódios 
 <!-- Lista gerada por script -->
 
 - [Inteligência Artificial nas Ondas do Rádio com Marcelo Finger 04.08.23](https://omny.fm/shows/colunistas-eldorado-estad-o/intelig-ncia-artificial-nas-ondas-do-r-dio-com-mar) - Fri, 04 Aug 2023
