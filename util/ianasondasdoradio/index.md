@@ -1,4 +1,4 @@
-# Inteligência Artificial nas Ondas do Rádi com Marcelo Finger
+# Inteligência Artificial nas Ondas do Rádio, com Marcelo Finger
 
 
 - Página do podcast Colunistas Eldorado Estadão: <https://omny.fm/shows/colunistas-eldorado-estad-o>
