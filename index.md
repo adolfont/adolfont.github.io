@@ -83,6 +83,8 @@ I gave a talk at [Code BEAM Europe 2022](https://www.eventbrite.com/cc/code-beam
 
 ## Social networks and contact
 
+My Bluesky profile is <http://bsky.app/profile/adolfont.github.io>.
+
 I am on Twitter(X) as @adolfont.
 
 I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfoneto@bertha.social (Portuguese)</a> and
