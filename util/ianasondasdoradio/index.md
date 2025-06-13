@@ -1,3 +1,10 @@
+# Inteligência Artificial nas Ondas do Rádi com Marcelo Finger
+
+
+<!-- Geração do primeiro script https://www.perplexity.ai/search/como-extrai-de-um-rss-de-um-po-163edq9oQ8a.0.qn8QaYJw -->
+
+<!-- Geração de um dos scripts https://www.perplexity.ai/search/escreva-um-shell-script-que-re-n4pKeumGQfm_CO5d0_qCIA -->
+
 
 
 <!-- Lista gerada por script -->
