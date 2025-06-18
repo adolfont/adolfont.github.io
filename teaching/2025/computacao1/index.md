@@ -1,16 +1,13 @@
 # Computação 1
 
-## Slides e Listas de Exercício
+## Recursos 
 
-
-<https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>
+[Slides e Listas de Exercício](https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>)
 
 <!-- K... Brian https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628 --> 
 
 
-## Código feito nas aulas, disponível no GitHub
-
-<https://github.com/adolfont/INF71A_Computacao1/>
+- [Código feito nas aulas, disponível no GitHub](https://github.com/adolfont/INF71A_Computacao1/)
 
 
 ## Turmas
