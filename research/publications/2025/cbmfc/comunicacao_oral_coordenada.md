@@ -5,8 +5,8 @@
 
 ## Autores
 
-- Wiviane Nallin - Médica de Família e Comunidade
-- [Adolfo Neto](https://adolfont.github.io/) - Professor e pesquisador em Computação
+- Wiviane Nallin - Médica de Família e Comunidade - FEMPAR
+- [Adolfo Neto](https://adolfont.github.io/) - Professor e pesquisador em Computação - UTFPR
 
 ### Introdução
 
@@ -68,6 +68,17 @@ Essas diretrizes buscam garantir que os LLMs complementem a atuação médica se
 ### Declaração de Alma-Ata
 
 - **CONFERÊNCIA INTERNACIONAL SOBRE CUIDADOS PRIMÁRIOS DE SAÚDE.** Declaração de Alma-Ata. Alma-Ata, URSS, 1978. Disponível em: <https://opas.org.br/declaracao-de-alma-ata/>. Acesso em: 28 maio 2025.
+
+## Artigos e livros
+
+* BENDER, Emily M. et al. On the dangers of stochastic parrots: Can language models be too big?🦜. In: **Proceedings of the 2021 ACM conference on fairness, accountability, and transparency**. 2021. p. 610-623.​  
+* BENDER, Emily M.; HANNA, Alex. **The AI Con:** How to Fight Big Tech's Hype and Create the Future We Want. Harper, 2025.​  
+* VASWANI, Ashish et al. Attention is all you need. **Advances in neural information processing systems**, v. 30, 2017.​  
+* RUSSELL, Stuart; NORVIG, Peter; INTELLIGENCE, Artificial. A modern approach. **Artificial Intelligence.** Prentice-Hall, Egnlewood Cliffs, v. 25, n. 27, p. 79-80, 1995.​  
+* SILVA, Flávio Soares Corrêa da; FINGER, Marcelo; MELO, Ana Cristina Vieira de. **Lógica para computação**. 2006.​  
+* YANG, Rui et al. Large language models in health care: Development, applications, and challenges. **Health Care Science,** v. 2, n. 4, p. 255-263, 2023.​  
+* TRINKENREICH, Bianca et al. **Get on the Train or be Left on the Station:** Using LLMs for Software Engineering Research. 2025.
+
 
 ### Fóruns brasileiros de Saúde Digital
 
