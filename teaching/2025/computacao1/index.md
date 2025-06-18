@@ -2,7 +2,7 @@
 
 ## Recursos 
 
-[Slides e Listas de Exercício](https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>)
+- [Slides e Listas de Exercício (feitos por Leyza e Bogdan, principalmente)](https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>)
 
 <!-- K... Brian https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628 --> 
 
