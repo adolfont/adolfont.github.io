@@ -5,7 +5,7 @@
 
 ## Autores
 
-- Wiviane Nallin - Médica, Docente e Preceptora de Medicina e Família e Comunidade - FEMPAR
+- Wiviane Nallin - Médica, Docente e Preceptora de Medicina de Família e Comunidade - FEMPAR
 - [Adolfo Neto](https://adolfont.github.io/) - Docente e pesquisador em Computação - UTFPR
 
 ### Introdução
