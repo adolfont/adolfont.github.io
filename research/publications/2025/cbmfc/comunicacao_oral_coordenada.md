@@ -5,8 +5,8 @@
 
 ## Autores
 
-- Wiviane Nallin - Médica de Família e Comunidade - FEMPAR
-- [Adolfo Neto](https://adolfont.github.io/) - Professor e pesquisador em Computação - UTFPR
+- Wiviane Nallin - Médica, Docente e Preceptora de Medicina e Família e Comunidade - FEMPAR
+- [Adolfo Neto](https://adolfont.github.io/) - Docente e pesquisador em Computação - UTFPR
 
 ### Introdução
 
