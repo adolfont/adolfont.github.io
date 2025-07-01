@@ -4,6 +4,8 @@
 I, Adolfo Neto (full name: Adolfo Gustavo Serra Seca Neto), am an Associate Professor at the [Federal University of Technology, Paraná](https://bit.ly/49hx0Lg).
 My research area is Software Engineering, and my overarching research objective is to assist developers in facilitating the sharing of knowledge and the acquisition of both scientific and practical expertise. 
 
+_E-mails: adolfo AT utfpr.edu.br and adolfo.neto AT erlef.org_
+
 🆕 Latest paper: [ADoTe: Approach to teaching and learning functional testing technique criteria supported by Testing Dojo](https://bit.ly/3EIX9bE). Vladimir Belinski, Adolfo G. Serra Seca Neto, Maria Claudia Emer. Journal of Software Engineering and Research Development (JSERD), 2025.
 
 Research topics:
