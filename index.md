@@ -96,10 +96,7 @@ I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfone
 <a rel="me" href="https://genserver.social/adolfont">@adolfont@genserver.social (English).</a>
 
 
-
-**My emails are adolfo@utfpr.edu.br and adolfo.utfpr@gmail.com.**
-
-You can also send me a direct message on Twitter, Telegram or Instagram at adolfont.
+You can also send me a direct message on Telegram or Instagram at adolfont.
 
 <p align="center">
 	<a href="https://twitter.com/adolfont">
