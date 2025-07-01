@@ -28,19 +28,22 @@ My [now](http://adolfont.github.io/now) page.
 
 ## News
 
+I will be teaching [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) in the second semester of 2025. 
+
 I am serving as Social Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE is the IEEE/ACM International Conference on Software Engineering, the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro.
 
 I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft is the Brazilian Conference on Software: Practice and Theory . The 16th edition of CBSoft will be held in person, from September 22th to 26th, 2025 in Recife, Pernambuco.
 
-🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
 
+🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
 
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no primeiro semestre de 2025.
 
 🇧🇷 Estou lecionando [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
-
+<!-- 
 
 🇧🇷 Faço parte do comitê de programa do [VIII Workshop-Escola de Informática Teórica - WEIT 2025](https://dainf.pg.utfpr.edu.br/weit2025/committee.php)
+
 
 🇧🇷 Lecionei [Introduction to Functional Programming](./teaching/2024/caes005/) na terceira fase de 2024.
 
@@ -52,7 +55,7 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 
 🇧🇷 Fiz parte da equipe organizadora do Elixir Days 2024. Site do evento: <https://www.elixirdays.com/>. A edição 2025 já tem datas confirmadas no site.
 
-<!-- ![ElixirDays](https://github.com/adolfont/adolfont.github.io/assets/79562/9bcff2fb-b7fd-4d8e-833c-3e6465388b63) -->
+![ElixirDays](https://github.com/adolfont/adolfont.github.io/assets/79562/9bcff2fb-b7fd-4d8e-833c-3e6465388b63) -->
 
 
 
