@@ -9,4 +9,7 @@
 
 [Erlang Ecosystem Foundation](https://erlef.org/)
 
+
+[Feedback form](https://forms.gle/bj1NJmejLaTK3D9D6)
+
 See also: <https://github.com/adolfont/caes005-introduction-to-functional-programming>
