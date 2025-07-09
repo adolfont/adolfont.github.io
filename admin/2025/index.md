@@ -1,5 +1,10 @@
 # 2025
 
+## 2025/2
+
+![Horário 2025/2](https://github.com/user-attachments/assets/f1f9677f-9e06-486c-a1e8-d91ae7ebacff)
+
+
 ## CBSOFT
 
 ![image](https://github.com/user-attachments/assets/6eab22ff-05e8-4282-af47-475e6aba8c38)
