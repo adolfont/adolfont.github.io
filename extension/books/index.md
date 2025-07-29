@@ -11,6 +11,8 @@ A list of books I’m currently reading. Helps me stay focused and reflect as I 
   - [Amazon Brazil](https://amzn.to/3GNsRGr)
   - [Amazon USA](https://amzn.to/40JQIgW)
  
+[AI Con e o Brasil - The AI Con and Brazil - Live stream about this book on September 10th, 2025](https://www.youtube.com/watch?v=qP-hG53qFpU)
+ 
   
 ## ✅ Books I Have Read and Recommend
 
