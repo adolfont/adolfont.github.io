@@ -24,7 +24,9 @@ I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/
 - Google Scholar: <https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=pt-BR&oi=ao>
 - DBLP: <https://dblp.org/pid/84/2417.html> and <https://dblp.org/pid/348/6384.html>
 
-My [now](http://adolfont.github.io/now) page.
+[Books I am reading or I have read](./extension/books/)
+
+<!-- My [now](http://adolfont.github.io/now) page. -->
 
 ## News
 
