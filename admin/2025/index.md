@@ -2,8 +2,7 @@
 
 ## 2025/2
 
-![Horário 2025/2](https://github.com/user-attachments/assets/f1f9677f-9e06-486c-a1e8-d91ae7ebacff)
-
+<img width="1080" height="1080" alt="Horário 2025/2" src="https://github.com/user-attachments/assets/d6be2a4a-0b46-4971-9397-974fcae4b383" />
 
 ## CBSOFT
 
