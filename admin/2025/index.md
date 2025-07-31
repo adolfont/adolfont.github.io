@@ -1,5 +1,7 @@
 # 2025
 
+- <https://stackedit.io/>
+
 ## 2025/2
 
 <img width="1080" height="1080" alt="Horário 2025/2" src="https://github.com/user-attachments/assets/d6be2a4a-0b46-4971-9397-974fcae4b383" />
