@@ -1,5 +1,7 @@
 # Engenharia de Software
 
+[Anotações](xournal_notes/)
+
 
 ## Podcasts
 - Fronteiras da Engenharia de Software
