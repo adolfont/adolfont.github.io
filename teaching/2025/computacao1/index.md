@@ -10,24 +10,14 @@
 - [Código feito nas aulas, disponível no GitHub](https://github.com/adolfont/INF71A_Computacao1/)
 
 
-## Turmas
+## Turma 2025/2
 
-### INF71A-S25 
-- Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao)
-- Sala: CB-107
+### INF71A S43	
+- Estudantes de [Engenharia Mecânica](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-mecanica)
 - Turma: B13
 - Quartas-feiras: 7h30-11h10
-- Início das aulas: 26/03/2025
-- Final das aulas: 09/07/2025
-
-### INF71A-S45 
-
-- Estudantes de [Engenharia de Produção](https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-de-producao)
-- Sala:  EK-302
-- Turma: X11
-- Quintas-feiras: 14h40-18h40
-- Início das aulas: 27/03/2025
-- Final das aulas: 10/07/2025
+- Início das aulas: 13/08/2025
+- Final das aulas: 03/12/2025, com dias 10/12 e 17/12 reservados para ajustes finais ou quebras no planejamento.
 
 
 
