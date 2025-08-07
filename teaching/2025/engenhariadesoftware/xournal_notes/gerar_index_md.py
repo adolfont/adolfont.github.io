@@ -13,7 +13,7 @@ arquivos = sorted([
 ])
 
 with open(ARQUIVO_INDEX, "w", encoding="utf-8") as f:
-    f.write(f"# Índice de arquivos em `{PASTA}`\n\n")
+    f.write(f"# Índice de Anotações à Mão\n\n")
     for nome in arquivos:
         url = f"{URL_BASE}/{nome}"
         f.write(f"- [{nome}]({url})\n")
