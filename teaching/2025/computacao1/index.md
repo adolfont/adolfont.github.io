@@ -81,9 +81,11 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 
 [Computação 1 INF71A](https://www.youtube.com/playlist?list=PLr0nplfR1PLeDraXsWjEQDbbsgKRw4leU)
 
-Use [Invidiuos](https://docs.invidious.io/instances/) (no browser) ou [Newpipe](https://newpipe.net/) (em celulares Android) caso queira assistir sem propagandas.
+<!-- Use [Invidiuos](https://docs.invidious.io/instances/) (no browser) ou [Newpipe](https://newpipe.net/) (em celulares Android) caso queira assistir sem propagandas.
 
 Exemplo de link Invidiuos para o primeiro vídeo da playlist: <https://inv.nadeko.net/watch?v=vMJq4xljgRg>, usando <https://inv.nadeko.net/>
+
+--> 
 
 ### Outras playlists de vídeos que podem ser úteis
 
