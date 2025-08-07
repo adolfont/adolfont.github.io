@@ -39,9 +39,12 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 
 🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
 
-🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no primeiro semestre de 2025.
+🇧🇷 Estou lecionando [Engenharia de Software](./teaching/2025/engenhariadesoftware/) no segundo semestre de 2025.
 
-🇧🇷 Estou lecionando [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
+
+🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no segundo semestre de 2025.
+
+🇧🇷 Lecionei [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
 <!-- 
 
 🇧🇷 Faço parte do comitê de programa do [VIII Workshop-Escola de Informática Teórica - WEIT 2025](https://dainf.pg.utfpr.edu.br/weit2025/committee.php)
