@@ -1,5 +1,9 @@
 # CAES005 - Introduction to Functional Programming
 
+## Books
+
+- [Grokking Simpliicty](https://ericnormand.me/grokking-simplicity)
+
 
 ## Programming Languages
 
