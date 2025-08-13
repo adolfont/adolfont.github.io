@@ -14,8 +14,8 @@
 
 ### INF71A S43	
 - Estudantes de [Engenharia Mecânica](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-mecanica)
-- Turma: B13
-- Quartas-feiras: 7h30-11h10
+- Turma: S43
+- Quartas-feiras: 8h20-12h00
 - Início das aulas: 13/08/2025
 - Final das aulas: 03/12/2025, com dias 10/12 e 17/12 reservados para ajustes finais ou quebras no planejamento.
 
