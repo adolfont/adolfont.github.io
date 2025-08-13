@@ -48,7 +48,7 @@ Exemplo de criação de conta: <https://www.youtube.com/watch?v=w_gpH5cRibQ> ou 
 
 ## Bibliografia
 
-Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
+Disponível em <https://webapp.utfpr.edu.br/minhaBiblioteca/login>
 
 - Algoritmos e programação em linguagem C. Soffner, Renato. São Paulo: Saraiva, 2013.
 - Linguagem C : completa e descomplicada. Backes, André. Rio de Janeiro: GEN LTC, 2018.
