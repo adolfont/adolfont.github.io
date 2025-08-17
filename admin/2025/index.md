@@ -2,18 +2,6 @@
 
 - <https://stackedit.io/>
 
-## 2025/2
-
-<img width="1080" height="1080" alt="Horário 2025/2" src="https://github.com/user-attachments/assets/d6be2a4a-0b46-4971-9397-974fcae4b383" />
-
-## CBSOFT
-
-![image](https://github.com/user-attachments/assets/6eab22ff-05e8-4282-af47-475e6aba8c38)
-
-![image](https://github.com/user-attachments/assets/9d54ebf6-409e-4f6d-aa06-d4dc4b37d658)
-
-
-
 ## Paper
 
 
@@ -22,7 +10,6 @@
 
 ## Outros
 
-- [Avaliação MA](https://docs.google.com/document/d/1BqqDyDgSmEah0zzBweqemdNkq43qhAM4KrdASgk23hQ/edit?tab=t.0)
 
 - [Papers e orientandos](./papers_orientandos.md)
 - CTD-ES
