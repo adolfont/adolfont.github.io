@@ -15,6 +15,8 @@ A princípio, duas provas escritas. Mas iremos conversar sobre outras possibilid
 ## Slides
 
 - [Aula 1 - Introdução à Engenharia de Software, Marco Tulio Valente](http://bit.ly/4fIDozz)
+- [Aula 2 - Processos, Marco Tulio Valente](http://bit.ly/45HPFzO)
+
 
 ## Podcasts
 - [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
