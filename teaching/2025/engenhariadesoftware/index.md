@@ -7,6 +7,7 @@
 
 ## Podcasts
 - [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
+  - [Episódio com Marco Tulio Valente](https://open.spotify.com/episode/0B8uqfrmxygPePafrXIiiD)  
 
 ## Livros
 
