@@ -5,6 +5,10 @@
 <!-- [Anotações](xournal_notes/) https://gosignpdf.com/edit/  save all as image -->
 
 
+## Slides
+
+- [Aula 1 - Introdução à Engenharia de Software, Marco Tulio Valente](http://bit.ly/4fIDozz)
+
 ## Podcasts
 - [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
   - [Episódio com Marco Tulio Valente](https://open.spotify.com/episode/0B8uqfrmxygPePafrXIiiD)  
