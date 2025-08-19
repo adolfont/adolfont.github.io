@@ -1,5 +1,12 @@
 # Engenharia de Software
 
+- Docente: [Adolfo Neto](https://adolfont.github.io/)
+- Cursos: Engenharia de Computação e Sistemas de Informação
+
+## Avaliação
+
+A princípio, duas provas escritas. Mas iremos conversar sobre outras possibilidades nos próximos dias. Aceito sugestões.
+
 
 
 <!-- [Anotações](xournal_notes/) https://gosignpdf.com/edit/  save all as image -->
