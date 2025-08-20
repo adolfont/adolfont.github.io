@@ -33,9 +33,11 @@ Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
 
 [CodeBlocks](https://www.codeblocks.org/)
 
-### Compilador de C online
+### Compiladores de C online
 
 <https://www.onlinegdb.com/online_c_compiler>
+
+<https://www.programiz.com/c-programming/online-compiler/>
 
 <!--
 ### Minha área de trabalho no Replit
