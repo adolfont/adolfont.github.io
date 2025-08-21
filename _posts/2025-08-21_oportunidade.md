@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Oportunidade para pesquisadoras e pesquisadores brasileiros que estejam no exterior"
+date: 2025-08-21
+---
+
 # Oportunidade para pesquisadoras e pesquisadores brasileiros que estejam no exterior
 
 
