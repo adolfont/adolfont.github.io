@@ -14,16 +14,16 @@ Todas as nossas ações são direcionadas ao desenvolvimento e fortalecimento de
  
 No momento, estamos em busca de pesquisadoras e pesquisadores interessados em colaborar em iniciativas relacionadas, entre outras, aos seguintes temas:
  
- • Monitoramento e eficiência na alocação de canais 5G.
- • Desenvolvimento de infraestrutura para processamento de dados na borda da rede.
- • Redes híbridas que combinem Wi-Fi 6 e 5G.
- • Aplicação de Inteligência Artificial para análise e ajuste automático de parâmetros de QoS (Qualidade de Serviço) em redes 5G e Wi-Fi 6.
- • Soluções para otimizar a alocação de canais e reduzir interferências em redes locais.
- • Treinamento de modelos de LLM (Large Language Models).
- • Construção de modelos de SLM (Small Language Models).
- • Desenvolvimento de ontologias e bancos de dados para raciocínio semelhante ao humano.
- • Treinamento de modelos de linguagem em grande escala.
- 
+- Monitoramento e eficiência na alocação de canais 5G.  
+- Desenvolvimento de infraestrutura para processamento de dados na borda da rede.  
+- Redes híbridas que combinem Wi-Fi 6 e 5G.  
+- Aplicação de Inteligência Artificial para análise e ajuste automático de parâmetros de QoS (Qualidade de Serviço) em redes 5G e Wi-Fi 6.  
+- Soluções para otimizar a alocação de canais e reduzir interferências em redes locais.  
+- Treinamento de modelos de LLM (Large Language Models).  
+- Construção de modelos de SLM (Small Language Models).  
+- Desenvolvimento de ontologias e bancos de dados para raciocínio semelhante ao humano.  
+- Treinamento de modelos de linguagem em grande escala.  
+
 
 A lista acima não é exaustiva, e estamos abertos a outras frentes de pesquisa correlatas.
 
