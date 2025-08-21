@@ -32,8 +32,5 @@ Caso haja interesse de profissionais atualmente fora do país, ressaltamos que a
 sendo necessário considerar a possibilidade de repatriação."
 
 
-Caso tenha interesse nesta oportunidade, envie mensagem para mim por e-mail: adolfo AT utfpr.edu.br e eu repasso para a equipe que está selecionamdo.
+Caso você se encaixe no perfil, envie mensagem para mim por e-mail: adolfo AT utfpr.edu.br e eu repasso para a equipe que está selecionamdo.
 
-
-
-Emilena Bianco
