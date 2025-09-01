@@ -1,5 +1,13 @@
 # Literatura científica (ou quase científica) em processos de software
 
+- Equipes de 2 ou 3 integrantes 
+  - Escolher um artigo de 1 a 4
+  - Todos fazem também para o último 
+- Apresentação na segunda metade da aula
+  - Não precisa fazer slides 
+  - Pode usar páginas do artigo na apresentação 
+  - Pode trazer notas (escritas à mão ou no celular), mas devem ser auxílio. Você não deve ler as notas 
+
 
 ## Perguntas norteadoras
 1. **Qual problema o artigo busca resolver e por que ele é relevante para a engenharia de software?**
