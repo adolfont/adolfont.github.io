@@ -31,13 +31,35 @@ Especialmente quando os resultados educacionais são medidos por meio de testes 
 
 ### Todos os tipos de mídia sintética são problemáticos
 
-Tenho me concentrado no texto sintético, mas todos os tipos de mídia sintética são problemáticos e, na verdade, prejudiciais ao contexto educacional. Nenhum desses sistemas é construído com base em conjuntos de dados coletados de forma consentida^1. Modelar ou incentivar seu uso ensina as crianças em idade escolar a desvalorizar o trabalho de artistas de todos os tipos, que foi roubado para criá-los. Também desvaloriza a expressão criativa das próprias crianças, sugerindo que seus desenhos, pinturas, escritos etc. não são bons o suficiente e que elas deveriam substituí-los por resultados mais refinados produzidos pelo sistema.
+Tenho me concentrado no texto sintético, mas todos os tipos de mídia sintética são problemáticos e, na verdade, prejudiciais ao contexto educacional. Nenhum desses sistemas é construído com base em conjuntos de dados coletados de forma consentida (1). Modelar ou incentivar seu uso ensina as crianças em idade escolar a desvalorizar o trabalho de artistas de todos os tipos, que foi roubado para criá-los. Também desvaloriza a expressão criativa das próprias crianças, sugerindo que seus desenhos, pinturas, escritos etc. não são bons o suficiente e que elas deveriam substituí-los por resultados mais refinados produzidos pelo sistema.
+
+Como exemplo final, considere a proposta de Alex Banks, da The Signal (uma organização cujo objetivo declarado é “democratizar a educação em IA para todos”), de tornar os alunos “parte da história” nas aulas de história (Banks, 2025), usando vídeos sintéticos para retratar os eventos históricos que estão sendo estudados. Em contraste com uma tarefa que pede aos alunos que retratem imaginativamente um incidente histórico a partir de vários pontos de vista, ou seja, uma tarefa que fornece uma estrutura para os alunos usarem sua imaginação para orientar como eles utilizam fontes primárias, o uso de mídia sintética dessa forma coloca os alunos em um papel passivo. Além disso, é garantido que isso representará de forma errada as pessoas e os eventos em questão, enganará os alunos ao não demarcar o que é conhecido e o que é imaginado e também os enganará de uma forma mais abstrata, sugerindo que os detalhes do passado são conhecíveis, o que simplesmente não é verdade.
+
+### Desrespeitoso para com os alunos, desrespeitoso para com os professores
+
+Sugerir que máquinas de extrusão de texto sintético são adequadas para uso em sala de aula (para substituir professores ou apenas como um auxílio auxiliar) é reduzir o trabalho de ensino e aprendizagem apenas às palavras que são trocadas entre aluno e professor. Embora seja verdade que as palavras possam ser a parte mais diretamente observável dessa atividade, elas não são o seu cerne nem onde reside o seu valor. Ensinar e aprender são atividades intrinsecamente sociais, construídas em torno das relações na sala de aula. Quando um professor escolhe as palavras para dizer aos seus alunos, essas palavras refletem não apenas o conceito, a técnica e o incentivo ao pensamento crítico ou outro objetivo comunicativo que o professor deseja transmitir, mas também sua compreensão de onde seus alunos específicos se encontram atualmente, toda a sua experiência na prática pedagógica e seu cuidado com os alunos com quem trabalham. E tudo isso é o que torna as palavras do professor eficazes. Dizer que o valor está nas próprias palavras é profundamente desrespeitoso tanto para os professores quanto para os alunos. Por um lado, isso apaga o trabalho e a experiência do ensino e, por outro, retrata os alunos como indignos de mentores atenciosos que os ajudam a desenvolver seu pensamento crítico.
+
+### Quem realmente se beneficia? Quais interesses devemos proteger?
+
+Muitas vezes nos dizem que os alunos devem aprender a usar chatbots ou outros sistemas de “IA” para não ficarem “para trás”. Mas esse argumento pressupõe que o futuro para o qual devemos correr é aquele em que cada vez mais aspectos de nossas vidas são mediados pela tecnologia. Podemos e devemos imaginar futuros em que o desenvolvimento seja voltado para outros objetivos, como mais potencial para a auto-realização, melhores resultados de saúde, mais sustentabilidade ambiental e comunidades mais fortes. A educação tem um papel a desempenhar em todas essas áreas, tanto por meio do aprendizado dos alunos quanto por meio das conexões que são fortalecidas entre colegas de classe, suas famílias e suas comunidades em geral. As tecnologias de isolamento (Gilliard, 2025) que desencorajam as pessoas a recorrerem umas às outras para obter informações ou a trabalharem juntas para compreender informações vão contra esses objetivos.
+
+O mundo da educação está atualmente cercado pelo marketing das chamadas soluções de inteligência artificial. Esse marketing posiciona a tecnologia como benéfica, benevolente, mágica e o caminho do futuro. Mas devemos sempre examinar o marketing com grande ceticismo. Isso significa sempre perguntar: o que eles ganham com isso? Por que as empresas de tecnologia e os filantropos da tecnologia estão tão empenhados em moldar a educação? Além de contratos lucrativos, há também outros incentivos, como o acesso a dados sobre os alunos e uma maior normalização e consolidação do poder das oligarquias tecnológicas (Rhodes, 2025).
+
+Os educadores e líderes dos sistemas educacionais devem colocar os interesses dos alunos acima de tudo. Quaisquer fundos enviados a empresas de tecnologia, sob o pretexto de serem soluções “mais baratas” ou “melhores do que nada”, são fundos que poderiam ter sido usados para salários de professores e outros apoios materiais à educação. Se a tecnologia está sendo adotada porque é “melhor do que nada”, vale sempre a pena ser cético em relação a essa afirmação, pois a tecnologia tem um potencial comprovado de causar danos (Baker-White, 2025; Kosmyna et al., 2025). Além disso, vale sempre a pena perguntar por que a alternativa é “nada”.
+
+Pode ser difícil resistir à narrativa da inevitabilidade e a todo o marketing chamativo e extremamente bem financiado que a acompanha. Acredito que pode ajudar os líderes educacionais a manter uma postura cética, até mesmo desconfiada, se mudarmos a conceituação dos sistemas educacionais como perpetuamente necessitados de quaisquer recursos disponíveis e os entendermos, em vez disso, como repletos de outro tipo de riqueza: o tempo e a atenção dos alunos e seu potencial como indivíduos e como comunidades. Esses recursos são extremamente valiosos e merecem ser protegidos. Quando empresas de tecnologia ou organizações filantrópicas financiadas por tecnologia vêm com “soluções” baseadas no uso de seu software por todos, essas soluções nunca são gratuitas no panorama geral. Se não houver tempo para examinar minuciosamente os custos, a posição padrão pode e deve ser “Não, obrigado”.
+
 
 
 ---
 
 1. Veja <https://www.consentfultech.io/>.
 
+
+## Referências
+
+<img width="659" height="447" alt="image" src="https://github.com/user-attachments/assets/147217cc-1388-4d8f-8119-f68b9c04ed3c" />
+<img width="659" height="447" alt="image" src="https://github.com/user-attachments/assets/9644bdfc-7f66-44c3-8c06-74e2d6ac0d18" />
 
 
 
