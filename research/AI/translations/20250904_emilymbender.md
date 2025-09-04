@@ -31,7 +31,7 @@ Especialmente quando os resultados educacionais são medidos por meio de testes 
 
 ### Todos os tipos de mídia sintética são problemáticos
 
-Tenho me concentrado no texto sintético, mas todos os tipos de mídia sintética são problemáticos e, na verdade, prejudiciais ao contexto educacional. Nenhum desses sistemas é construído com base em conjuntos de dados coletados de forma consentida. Modelar ou incentivar seu uso ensina as crianças em idade escolar a desvalorizar o trabalho de artistas de todos os tipos, que foi roubado para criá-los. Também desvaloriza a expressão criativa das próprias crianças, sugerindo que seus desenhos, pinturas, escritos etc. não são bons o suficiente e que elas deveriam substituí-los por resultados mais refinados produzidos pelo sistema.
+Tenho me concentrado no texto sintético, mas todos os tipos de mídia sintética são problemáticos e, na verdade, prejudiciais ao contexto educacional. Nenhum desses sistemas é construído com base em conjuntos de dados coletados de forma consentida^1. Modelar ou incentivar seu uso ensina as crianças em idade escolar a desvalorizar o trabalho de artistas de todos os tipos, que foi roubado para criá-los. Também desvaloriza a expressão criativa das próprias crianças, sugerindo que seus desenhos, pinturas, escritos etc. não são bons o suficiente e que elas deveriam substituí-los por resultados mais refinados produzidos pelo sistema.
 
 
 ---
