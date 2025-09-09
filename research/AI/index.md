@@ -1,10 +1,7 @@
 # Artificial Intelligence
 
 
-
-
-
-Some links related to Artificial Intelligence.
+Some links related to AI and Its Impact on Software Development and Society
 
 ## Papers
 
@@ -19,7 +16,12 @@ Some links related to Artificial Intelligence.
 - [Why We Fear AI: On the Interpretation of Nightmares](https://amzn.to/4mNCa8N)
 - [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://amzn.to/4p9yOhV)
 
+## Videos
+
+- [Elixir's AI Future - Chris McCord at ElixirConf 2025](https://www.youtube.com/watch?v=6fj2u6Vm42E)
+
 ## More
 
 - [AI-related podcasts](./research/ai_podcasts)
+
 
