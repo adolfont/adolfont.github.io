@@ -13,3 +13,9 @@
 
 {% include youtube.html id="74Ig_QKndvE" %}
 
+
+## Python
+
+{% include youtube.html id="GfH4QL4VqJ0" %}
+
+
