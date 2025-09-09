@@ -16,7 +16,7 @@ Some links related to AI and Its Impact on Software Development and Society
 - [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI, by Karen Hao](https://amzn.to/46dXIEw)
 - [Why We Fear AI: On the Interpretation of Nightmares](https://amzn.to/4mNCa8N)
 - [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://amzn.to/4p9yOhV)
-- [AI and the future of education: disruptions, dilemmas and directions](https://unesdoc.unesco.org/ark:/48223/pf0000395236)
+- [AI and the future of education: disruptions, dilemmas and directions](https://unesdoc.unesco.org/ark:/48223/pf0000395236.locale=en)
 
 ## Videos
 
