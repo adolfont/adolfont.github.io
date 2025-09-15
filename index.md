@@ -32,7 +32,7 @@ I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/
 
 ## News
 
-I will be teaching [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) in the second semester of 2025. 
+I am teaching [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) in the second semester of 2025. 
 
 I am serving as Social Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE is the IEEE/ACM International Conference on Software Engineering, the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro.
 
@@ -43,11 +43,11 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 
 🇧🇷 Estou lecionando [Engenharia de Software](./teaching/2025/engenhariadesoftware/) no segundo semestre de 2025.
 
-
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no segundo semestre de 2025.
+<!-- 
+
 
 🇧🇷 Lecionei [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
-<!-- 
 
 🇧🇷 Faço parte do comitê de programa do [VIII Workshop-Escola de Informática Teórica - WEIT 2025](https://dainf.pg.utfpr.edu.br/weit2025/committee.php)
 
@@ -64,6 +64,8 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 
 ![ElixirDays](https://github.com/adolfont/adolfont.github.io/assets/79562/9bcff2fb-b7fd-4d8e-833c-3e6465388b63) -->
 
+-->
+
 
 
 ## Service
@@ -74,6 +76,7 @@ I have organized [Elixir Fortaleza Conf 2023](https://elixiremfoco.github.io/eli
 
 I am a member of the "Emílias - Armação em Bits" program, coordinated by Maria Claudia Emer, whose goal is to attract and retain women in the field of computer science. There, I coordinate the [Emílias Podcast - Women in Computing](https://adolfont.github.io/extension/podcasts/emilias).
 
+<!--
 ## Talks
 
 I gave a talk at [Code BEAM America 2022](https://codebeamamerica.com/): [Comparing Elixir and Python when working with Simple Neural Networks - A. Neto & L. C. Tavano](https://www.youtube.com/watch?v=zvS1Uj3_UTE&list=PLvL2NEhYV4ZueYk1VvTJUpwniZ7sWn_hm&index=23&t=6s)
@@ -82,8 +85,11 @@ I gave a talk at [Code BEAM Lite A Coruña 2022](https://www.codebeamcorunha.es/
 
 I gave a talk at [Code BEAM Europe 2022](https://www.eventbrite.com/cc/code-beam-europe-2022-90289?gclid=Cj0KCQiA37KbBhDgARIsAIzce17KNEGnfed-c8h8JiV8xiBVH4kiOtgPSHc8jyHTUAtDqwwzFTMGzj8aApWFEALw_wcB): [Learning Erlang and Elixir through Exercism and Advent of Code](https://www.youtube.com/watch?v=VGn2lmS1wbw).
 
+-->
+
 ## Blogs and pages
 
+<!--
 - [My blog at DevTo](https://dev.to/adolfont/)
 
 - [Projetos de Adolfo Neto: his Substack blog in Portuguese](https://adolfon.substack.com/)
@@ -91,17 +97,18 @@ I gave a talk at [Code BEAM Europe 2022](https://www.eventbrite.com/cc/code-beam
 - [Ensino de Elixir e Erlang - page in Portuguese about my teaching initiatives on Elixir and Erlang](https://bit.ly/3YWTXQ0)
 
 - [My Amazon Brazil author page](https://www.amazon.com.br/stores/Adolfo%20Gustavo%20Serra%20Seca%20Neto/author/B0CCLNZG77) 
-
+-->
 
 ## Social networks and contact
 
 My Bluesky profile is <http://bsky.app/profile/adolfont.github.io>.
 
-I am on Twitter(X) as @adolfont.
+<!-- I am on Twitter(X) as @adolfont. -->
 
 I am at Mastodon: <a rel="me" href="https://bertha.social/@adolfoneto">@adolfoneto@bertha.social (Portuguese)</a> and
 <a rel="me" href="https://genserver.social/adolfont">@adolfont@genserver.social (English).</a>
 
+<!-- 
 
 You can also send me a direct message on Telegram or Instagram at adolfont.
 
@@ -114,9 +121,13 @@ You can also send me a direct message on Telegram or Instagram at adolfont.
   </a>
 </p>
 
+--> 
+
 ## Publications 
 
 My latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao) or at [Recent Publications](https://adolfont.github.io/research/publications/)
+
+<!--
 
 ***
 ## Past Events
@@ -147,9 +158,13 @@ My latest publications can be found on his [Google Scholar profile](https://scho
 
 - [Service](service.md)
 
+--> 
+
 Mailing address: Av. Sete de Setembro, 3165 - Rebouças, Curitiba - PR, 80230-901, Brazil. (DAINF, Bloco B, sala CB101bi)
 
+<!-- 
 ## Twitter/X 
 
 <a class="twitter-timeline" href="https://twitter.com/adolfont?ref_src=twsrc%5Etfw">Tweets by adolfont</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+--> 
