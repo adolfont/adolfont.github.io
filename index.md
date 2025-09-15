@@ -44,6 +44,7 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 🇧🇷 Estou lecionando [Engenharia de Software](./teaching/2025/engenhariadesoftware/) no segundo semestre de 2025.
 
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no segundo semestre de 2025.
+
 <!-- 
 
 
@@ -62,7 +63,7 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 
 🇧🇷 Fiz parte da equipe organizadora do Elixir Days 2024. Site do evento: <https://www.elixirdays.com/>. A edição 2025 já tem datas confirmadas no site.
 
-![ElixirDays](https://github.com/adolfont/adolfont.github.io/assets/79562/9bcff2fb-b7fd-4d8e-833c-3e6465388b63) -->
+![ElixirDays](https://github.com/adolfont/adolfont.github.io/assets/79562/9bcff2fb-b7fd-4d8e-833c-3e6465388b63) 
 
 -->
 
