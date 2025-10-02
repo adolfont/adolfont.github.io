@@ -18,3 +18,8 @@ Sempre que possível, na segunda e na quarta quinta-feira do mês.
 
 - Nina da Hora
 - Rayane
+
+## Nos intervalos:
+
+- André Vignatti
+- Leonel Sanches
