@@ -12,7 +12,7 @@ Sempre que possível, na segunda e na quarta quinta-feira do mês.
 ## Gravados
 
 - Laura Castro
-- Maria Cristina - Tia da Fernanda
+- Maria Cristina - Tia da Fernanda (não ficou boa a gravação)
 
 ## Agendados 
 
