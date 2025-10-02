@@ -6,3 +6,9 @@ Sempre que possível, na segunda e na quarta quinta-feira do mês.
 - 23/10/2025
 - 13/11/2025
 - 27/11/2025
+- 11/12/2025
+
+- Laura Castro
+- ??? Tia Cyber
+- Nina da Hora
+- Rayane
