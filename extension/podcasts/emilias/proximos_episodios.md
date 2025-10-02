@@ -12,7 +12,7 @@ Sempre que possível, na segunda e na quarta quinta-feira do mês.
 ## Gravados
 
 - Laura Castro
-- ??? Tia Cyber
+- Maria Cristina - Tia da Fernanda
 
 ## Agendados 
 
