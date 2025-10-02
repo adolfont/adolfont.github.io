@@ -8,7 +8,13 @@ Sempre que possível, na segunda e na quarta quinta-feira do mês.
 - 27/11/2025
 - 11/12/2025
 
+
+## Gravados
+
 - Laura Castro
 - ??? Tia Cyber
+
+## Agendados 
+
 - Nina da Hora
 - Rayane
