@@ -1,4 +1,8 @@
-module bank {
+
+# banco.qnt
+
+```quint
+module banco {
   /// Uma variável de estado para armazenaro saldo de cada conta
   var saldos: str -> int
  
@@ -39,12 +43,4 @@ module bank {
 
   val sem_ricaco = CLIENTES.forall(cliente => saldos.get(cliente) <= 500)
 }
-
-
-
-
-
-
-
-
-
+```
