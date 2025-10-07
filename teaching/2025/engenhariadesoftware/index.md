@@ -8,6 +8,11 @@
 A princípio, duas provas escritas. Mas iremos conversar sobre outras possibilidades nos próximos dias. Aceito sugestões.
 
 
+## Destaques
+
+- [Especificação de bm banco contra a desigualdade extrema em Quint](https://adolfont.github.io/teaching/2025/engenhariadesoftware/quint/banco)
+- [Prova 1](https://adolfont.github.io/teaching/2025/engenhariadesoftware/provas/prova1/)
+
 
 <!-- [Anotações](xournal_notes/) https://gosignpdf.com/edit/  save all as image -->
 
