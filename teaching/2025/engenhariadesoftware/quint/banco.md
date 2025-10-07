@@ -1,7 +1,11 @@
-# banco.qnt
+# banco.qnt: Um banco contra a desigualdade extrema
 
+
+## Palestra de Gabriela Moreira sobre Quint
 {% include youtube.html id="IL0ayQDTuIk" %}
 
+
+## Especificação
 
 
 [Quint é uma linguagem de especificação moderna e executável.](https://quint-lang.org/) O exemplo abaixo é uma tradução e adaptação do exemplo no [Getting Started](https://quint-lang.org/docs/getting-started) de Quint.
@@ -22,7 +26,7 @@ E, claro, para você ver o Quint funcionar e encontrar problemas, você precisa 
 //   saldos.get(conta) >= quantidade,
 ```
 
-Rode os comandos acima com a sem as linhas comentadas.
+Rode os comandos acima com e sem as linhas comentadas.
 
 
 ```quint
