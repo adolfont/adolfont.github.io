@@ -1,9 +1,21 @@
 
 # banco.qnt
 
+[Quint é uma linguagem de especificação moderna e executável.](https://quint-lang.org/) O exemplo abaixo é uma tradução e adaptação do exemplo no [Getting Started](https://quint-lang.org/docs/getting-started) de Quint.
+
+Para testar, basta instalar o Quint e executar:
+
+```
+quint run banco.qnt --invariant=sem_saldos_negativos
+quint run banco.qnt --invariant=sem_ricaco
+quint run banco.qnt --invariant=sem_saldos_negativos --mbt
+quint run banco.qnt --invariant=sem_ricaco --mbt
+```
+
+
 ```quint
 module banco {
-  /// Uma variável de estado para armazenaro saldo de cada conta
+  // Uma variável de estado para armazenaro saldo de cada conta
   var saldos: str -> int
  
   pure val CLIENTES = Set("joao", "maria", "marta", "pedro")
