@@ -12,6 +12,15 @@ quint run banco.qnt --invariant=sem_saldos_negativos --mbt
 quint run banco.qnt --invariant=sem_ricaco --mbt
 ```
 
+E, claro, para você ver o Quint funcionar e encontrar problemas, você precisa comentar as seguintes linhas:
+
+```quint
+//   saldos.get(conta) + quantidade <= 500,
+//   saldos.get(conta) >= quantidade,
+```
+
+Rode os comandos acima com a sem as linhas comentadas.
+
 
 ```quint
 module banco {
