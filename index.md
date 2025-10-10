@@ -8,6 +8,9 @@ _E-mails: adolfo AT utfpr.edu.br and adolfo.neto AT erlef.org_
 
 🆕 Latest paper: [ADoTe: Approach to teaching and learning functional testing technique criteria supported by Testing Dojo](https://bit.ly/3EIX9bE). Vladimir Belinski, Adolfo G. Serra Seca Neto, Maria Claudia Emer. Journal of Software Engineering and Research Development (JSERD), 2025.
 
+🆕 I am organizing [Elixir Curitiba](http://curitiba.elixiremfoco.con), which will happen on November 8th, 2025.
+
+
 Research topics:
 - Software development communities
 - Knowledge exchange in software engineering
