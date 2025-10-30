@@ -8,4 +8,5 @@
 
 ## UTFPR (21)
 
-- [ICSE 2026 Know Your OC](https://www.canva.com/design/DAGwzvH3_08/Qe5CS3B_PpjWKnTXHKzI7g/edit)
+- [ICSE](https://www.canva.com/design/DAGwzvH3_08/Qe5CS3B_PpjWKnTXHKzI7g/edit)
+- [Fórum](https://www.canva.com/design/DAF-k3Tfwjk/bEwUOQQw6O5gU9oQYGS_-Q/edit)
