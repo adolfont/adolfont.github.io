@@ -8,5 +8,6 @@
 
 ## UTFPR (21)
 
-- [ICSE](https://www.canva.com/design/DAGwzvH3_08/Qe5CS3B_PpjWKnTXHKzI7g/edit)
+- [ICSE 4:5](https://www.canva.com/design/DAGzcV2AZbc/s8fHRf28g_ThbyQ7mmAaCg/edit)
+- [ICSE OC](https://www.canva.com/design/DAGwzvH3_08/Qe5CS3B_PpjWKnTXHKzI7g/edit)
 - [Fórum](https://www.canva.com/design/DAF-k3Tfwjk/bEwUOQQw6O5gU9oQYGS_-Q/edit)
