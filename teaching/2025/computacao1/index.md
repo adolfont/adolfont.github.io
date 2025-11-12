@@ -9,6 +9,7 @@
 
 - [Código feito nas aulas, disponível no GitHub](https://github.com/adolfont/INF71A_Computacao1/)
 
+- [O manual do iniciante em C: aprenda o básico sobre a linguagem de programação C em apenas algumas horas (freeCodeCamp)](https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-o-basico-sobre-a-linguagem-de-programacao-c-em-apenas-algumas-horas/)
 
 ## Turma 2025/2
 
