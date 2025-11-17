@@ -16,7 +16,7 @@
 1. Gilton José Ferreira da Silva - UFS <https://www.linkedin.com/in/giltonmal/>  Mestrado em Informática UFAL, Bacharelado em Sistemas de Informação e Técnico em Informática IFAL
 1. João Guilherme Maia de Menezes - UFMG <http://lattes.cnpq.br/8338908425321389>  <https://www.linkedin.com/in/guilherme-maia-0111a079/> Egresso Ciência da Computação UFAL
 1. Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> Egresso Mestrado em Modelagem Computacional UFAL
-2. HElder OLiveira - IME USP <http://lattes.cnpq.br/1468872219964148> [Linkedin](https://www.linkedin.com/in/heldermayoliveira/) Egresso Ciência da Computação UFAL Arapiraca (primeira turma)
+2. Helder OLiveira - IME USP <http://lattes.cnpq.br/1468872219964148> [Linkedin](https://www.linkedin.com/in/heldermayoliveira/) Egresso Ciência da Computação UFAL Arapiraca (primeira turma)
 1. Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
 1. Maria Aparecida Sibaldo - UFAPE <http://lattes.cnpq.br/6462709058060681> Egressa Ciência da Computação e Mestre em Modelagem Computacional do Conhecimento UFAL
 1. Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
