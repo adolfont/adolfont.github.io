@@ -1,6 +1,7 @@
-# [Controle de Versões](https://engsoftmoderna.info/cap10.html#controle-de-vers%C3%B5es) e [Git](https://engsoftmoderna.info/capAp.html)
+# Aula de 17/11/2025
 
 - [Slides sobre Controle de Versões e Git](./Controle_Versoes_Git_2025-11-17-Note-13-36_annotated.pdf)
+  - [Controle de Versões](https://engsoftmoderna.info/cap10.html#controle-de-vers%C3%B5es) e [Git](https://engsoftmoderna.info/capAp.html)
 - [Reliable Software in the LLM Era, Gabriela Moreira](https://quint-lang.org/posts/llm_era)
 - [data centers already accounted for 22% of Ireland's total electricity consumption in 2024](https://bsky.app/profile/olivia.science/post/3m5tghoqnjk2t)
 - ["Powered by OpenAI’s GPT-4o model by default...tests repeatedly showed that the AI toy dropped its guardrails the longer a conversation went on, until hitting rock bottom on incredibly disturbing topics."](https://bsky.app/profile/charleswlogan.bsky.social/post/3m5sdo2o7q22j)
