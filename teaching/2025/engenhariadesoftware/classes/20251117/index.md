@@ -1,5 +1,6 @@
 # Aula de 17/11/2025
 
+- [Robôs Aéreos: Aplicações no Mundo Real e Desafios, Marco Aurélio Wehrmeister](https://www.youtube.com/watch?v=BgPF0BH84Yg)
 - [Slides sobre Controle de Versões e Git](./Controle_Versoes_Git_2025-11-17-Note-13-36_annotated.pdf)
   - [Controle de Versões](https://engsoftmoderna.info/cap10.html#controle-de-vers%C3%B5es) e [Git](https://engsoftmoderna.info/capAp.html)
 - [Reliable Software in the LLM Era, Gabriela Moreira](https://quint-lang.org/posts/llm_era)
