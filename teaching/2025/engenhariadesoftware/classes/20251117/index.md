@@ -6,3 +6,6 @@
 - ["Powered by OpenAI’s GPT-4o model by default...tests repeatedly showed that the AI toy dropped its guardrails the longer a conversation went on, until hitting rock bottom on incredibly disturbing topics."](https://bsky.app/profile/charleswlogan.bsky.social/post/3m5sdo2o7q22j)
 - ["Critical washing" is "encouraging AI use while being 'aware of the risks'".](https://bsky.app/profile/adolfont.github.io/post/3m5r46ozpgk2g)
 - [Qual é a próxima fronteira?](https://bolha.tube/w/dKi2eGaWsFRTxuqeocLuep)
+- [As alucinações e os perigos da IA](https://bolha.tube/w/kVvL32KBEeGrgQ6EUonquv)
+  - [Alucinações e Confiança Cega: A Responsabilidade de Usuários e Desenvolvedores ao Lidar com LLMs](https://buttondown.com/neto/archive/alucinacoes-e-confianca-cega-a-responsabilidade/) 
+- [Impactos de IA em Engenharia de Software: Um Exercício de Síntese, Marco Tulio Valente](https://www.youtube.com/watch?v=CLUHM8yuBUk) 
