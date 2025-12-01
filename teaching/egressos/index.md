@@ -4,7 +4,7 @@
 
 - Engenharia de Computação
 - Sistemas de Informação
-- Mestrado Profissional em Computação Aplicada
+- [Mestrado Profissional em Computação Aplicada (PPGCA)](https://ppgca.ct.utfpr.edu.br/)
 
 ## Vinícius Silva Mazzola
 
