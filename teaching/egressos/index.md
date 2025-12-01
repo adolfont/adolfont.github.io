@@ -1,5 +1,11 @@
 # Egressos dos Cursos do DAINF UTFPR Curitiba
 
+## Nossos cursos
+
+- Engenharia de Computação
+- Sistemas de Informação
+- Mestrado Profissional em Computação Aplicada
+
 ## Vinícius Silva Mazzola
 
 - [Engenheiro de Software em Stuttgart, Alemanha - Carreira Sem Fronteiras #219](https://open.spotify.com/episode/4YQbHUxm9CVXcCzAobWHbw)
