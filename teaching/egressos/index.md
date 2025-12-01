@@ -19,3 +19,6 @@
 - [Edward Petkovicz - Program Manager na Amazon (Egressos do DAINF)](https://open.spotify.com/episode/0shgHEbkCZHHwiQN5fpQZU)
 - Egresso de Sistemas de Informação (2016)
 - [Linkedin](https://www.linkedin.com/in/edwardpetkovicz/)
+
+<img width="200" height="188" alt="Edward Petkovicz" src="https://github.com/user-attachments/assets/cdef296f-0758-4508-ac60-9a6b900afb54" />
+
