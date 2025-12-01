@@ -1,7 +1,8 @@
 # Egressos dos Cursos do DAINF UTFPR Curitiba
 
-## Nossos cursos
+## Nossas páginas
 
+- [Departamento Acadêmico de Informática (DAINF)](https://utfpr.curitiba.br/dainf/)
 - Engenharia de Computação
 - Sistemas de Informação
 - [Mestrado Profissional em Computação Aplicada (PPGCA)](https://ppgca.ct.utfpr.edu.br/)
