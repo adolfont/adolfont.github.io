@@ -36,7 +36,8 @@
 - Egresso do Mestrado Profissional em Computação Aplicada (2015)
 - [Linkedin](https://www.linkedin.com/in/diogocl/)
 
-  <img width="200"  alt="Diogo Carbonera Luvizon" src="https://github.com/user-attachments/assets/1af58938-a82b-4425-b728-da23f3dcce09" />
+
+<img width="200"  alt="Diogo Carbonera Luvizon" src="https://github.com/user-attachments/assets/1af58938-a82b-4425-b728-da23f3dcce09" />
 
 
 
