@@ -3,8 +3,8 @@
 ## Nossas páginas
 
 - [Departamento Acadêmico de Informática (DAINF)](https://utfpr.curitiba.br/dainf/)
-- Engenharia de Computação
-- Sistemas de Informação
+- [Engenharia de Computação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-computacao)
+- [Sistemas de Informação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-sistemas-de-informacao)
 - [Mestrado Profissional em Computação Aplicada (PPGCA)](https://ppgca.ct.utfpr.edu.br/)
 
 ## Vinícius Silva Mazzola
