@@ -22,6 +22,15 @@
 
 <img width="200" height="188" alt="Edward Petkovicz" src="https://github.com/user-attachments/assets/cdef296f-0758-4508-ac60-9a6b900afb54" />
 
+## Diogo Carbonera Luvizon
+
+- [Engenheiro de Visão Computacional na Meta em Zurique, Suíça - Dev Sem Fronteiras #189](https://open.spotify.com/episode/2Ky72MolyMkpnkddsfusgC)
+- Egresso do Mestrado Profissional em Computação Aplicada (2015)
+- [Linkedin](https://www.linkedin.com/in/diogocl/)
+
+  <img width="200"  alt="Diogo Carbonera Luvizon" src="https://github.com/user-attachments/assets/1af58938-a82b-4425-b728-da23f3dcce09" />
+
+
 
 ## Aline Macohin
 
