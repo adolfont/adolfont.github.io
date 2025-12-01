@@ -6,7 +6,7 @@
 - Egresso de Engenharia de Computação (2016)
 - [Linkedin](https://www.linkedin.com/in/vinimaz/)
 
-<img width="300" alt="Vinícius Silva Mazzola" src="https://github.com/user-attachments/assets/4e458ed0-4a2b-4748-9614-25834cb79ee7" />
+<img width="200" alt="Vinícius Silva Mazzola" src="https://github.com/user-attachments/assets/4e458ed0-4a2b-4748-9614-25834cb79ee7" />
 
 
 <!-- foto do sistema acadêmico
