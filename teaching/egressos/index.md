@@ -6,6 +6,7 @@
 - [Engenharia de Computação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-computacao)
 - [Sistemas de Informação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-sistemas-de-informacao)
 - [Mestrado Profissional em Computação Aplicada (PPGCA)](https://ppgca.ct.utfpr.edu.br/)
+- [Tecnologia em Sistemas para Internet](https://repositorio.utfpr.edu.br/jspui/handle/1/5375)
 
 ## Vinícius Silva Mazzola
 
