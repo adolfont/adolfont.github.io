@@ -13,5 +13,6 @@
 - Usar exposição oral de vez em quando. Quanto mais tempo de disciplina, menos tempo de palestra, proporcionalmente
 - Implementar ciclos de reflexão ativa
 - Estimular a construção de conexões
+- _Less listening and more learning._
 
 Ensinar não é controlar o que acontece na sala, mas facilitar o que acontece na cabeça do aluno;.
