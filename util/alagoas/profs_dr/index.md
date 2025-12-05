@@ -22,6 +22,8 @@
 1. Nelson Souto Rosa - UFPE <https://sites.google.com/a/cin.ufpe.br/gfads/people?authuser=0>
 1. Rafael Ferreira Leite de Mello - UFRPE <https://www.linkedin.com/in/rafael-ferreira-mello-989b3b37/> Egresso Ciência da Computação UFAL
 
+
+<!-- https://kleinnerfarias.github.io/ --> 
 ## Pesquisadores
 
 1. Talita Perciano - Research Scientist at Lawrence Berkeley National Laboratory <https://www.linkedin.com/in/talita-perciano-7a58181b/> Egressa da graduação em Ciência da Computação UFAL, Técnico em Informática IFAL
