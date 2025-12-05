@@ -15,6 +15,7 @@
 1. Frederico Moreira Bublitz - Universidade Estadual da Paraíba (UEPB) <http://lattes.cnpq.br/3910966211279217> Egresso Ciência da Computação UFAL
 1. Gilton José Ferreira da Silva - UFS <https://www.linkedin.com/in/giltonmal/>  Mestrado em Informática UFAL, Bacharelado em Sistemas de Informação e Técnico em Informática IFAL
 1. João Guilherme Maia de Menezes - UFMG <http://lattes.cnpq.br/8338908425321389>  <https://www.linkedin.com/in/guilherme-maia-0111a079/> Egresso Ciência da Computação UFAL
+2. Kleinner Farias - UNISINOS <https://kleinnerfarias.github.io/> 
 1. Heitor Ramos - UFMG <https://www.linkedin.com/in/heitorsramos/> Egresso Mestrado em Modelagem Computacional UFAL
 2. Helder Oliveira - IME USP <http://lattes.cnpq.br/1468872219964148> [Linkedin](https://www.linkedin.com/in/heldermayoliveira/) Egresso Ciência da Computação UFAL Arapiraca (primeira turma)
 1. Hyggo Oliveira de Almeida - UFCG <https://www.linkedin.com/in/hyggoalmeida/> Egresso Ciência da Computação UFAL
@@ -23,7 +24,6 @@
 1. Rafael Ferreira Leite de Mello - UFRPE <https://www.linkedin.com/in/rafael-ferreira-mello-989b3b37/> Egresso Ciência da Computação UFAL
 
 
-<!-- https://kleinnerfarias.github.io/ --> 
 ## Pesquisadores
 
 1. Talita Perciano - Research Scientist at Lawrence Berkeley National Laboratory <https://www.linkedin.com/in/talita-perciano-7a58181b/> Egressa da graduação em Ciência da Computação UFAL, Técnico em Informática IFAL
