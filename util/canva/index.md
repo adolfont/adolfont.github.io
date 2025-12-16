@@ -5,6 +5,7 @@
 - [Fronteiras YT](https://www.canva.com/design/DAGkpGa4Bes/lZnko_hriMTWqGfQUpcIBg/edit)
 - [Elixir Curitiba](https://www.canva.com/design/DAGPDHfyNPQ/slBz8Hg-2LmzXk8e3aytvQ/edit)
 - Professor Adolfo Neto [logo](https://www.canva.com/design/DAF3Wj7sFTY/Z2BdZZW4jX4JH-a6NwIkrQ/edit) -- [artes](https://www.canva.com/design/DAEwkgpqtlQ/ZwrszWzNk9EZvUFQjnQ21w/edit)
+- [CBSOft 2026](https://www.canva.com/design/DAG4rSxW5ow/DCg3t4tnPZ3xIhDncWWBUQ/edit)
 
 ## UTFPR
 
