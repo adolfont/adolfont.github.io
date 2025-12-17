@@ -17,7 +17,9 @@ _Em construção_
 - [Custos financeiros são escondidos](https://www.wheresyoured.at/)
 - Dados roubados
 
-## Imagem
+## Imagem do site [Better Images of AI](https://betterimagesofai.org/)
+
+Ilustração de uma cena surreal de escritório com pássaros de néon interagindo com elementos digitais ao redor de três pessoas perto de servidores e armários de arquivos; um pássaro escreve em uma malha digital, outro carrega um papel
 
 <img src="/images/stochastic_parrots_at_work-ice-ming_digit_2560x1440.png" alt="Ilustração de uma cena surreal de escritório com pássaros de néon interagindo com elementos digitais ao redor de três pessoas perto de servidores e armários de arquivos; um pássaro escreve em uma malha digital, outro carrega um papel." width="500" >
 
