@@ -19,7 +19,12 @@ _Em construção_
 
 ## Imagem
 
-Ilustração de uma cena surreal de escritório com pássaros de néon interagindo com elementos digitais ao redor de três pessoas perto de servidores e armários de arquivos; um pássaro escreve em uma malha digital, outro carrega um papel.
+<img src="/images/stochastic_parrots_at_work-ice-ming_digit_2560x1440.png" alt="Ilustração de uma cena surreal de escritório com pássaros de néon interagindo com elementos digitais ao redor de três pessoas perto de servidores e armários de arquivos; um pássaro escreve em uma malha digital, outro carrega um papel." width="500" >
+
+
+
+
+
 
 
 <a href="https://betterimagesofai.org/images">IceMing</a> &amp; <a href="https://digital-dialogues.co.uk/">Digit</a> / <a href="https://betterimagesofai.org/images?artist=IceMing&title=StochasticParrotsatWork">Stochastic Parrots at Work</a> / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a>
