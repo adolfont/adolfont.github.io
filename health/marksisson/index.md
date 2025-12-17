@@ -13,11 +13,13 @@ thumb: /images/marksisson.jpg
 
 {% include youtube.html id="gXMyl7kw1gY" %}
 
+<!--
 ### Gemini Summary 
 
 Mark Sisson explains his personal sprinting routine, highlighting sprinting as an incredibly effective exercise for getting lean ("cuts you up") and a fundamental part of his "Primal Blueprint" approach to fitness.
 
 He emphasizes the importance of warming up properly (10-15 minutes) before sprinting to prevent injury. While sprints can be done on various equipment or surfaces, he prefers doing them barefoot on a flat, packed beach at low tide, finding the sand forgiving.
+
 
 **Mark's Specific Sprint Workout:**
 
@@ -39,10 +41,15 @@ He emphasizes the importance of warming up properly (10-15 minutes) before sprin
 
 Sisson notes that this intense workout only needs to be performed about once a week to reap significant benefits, leaving him feeling sufficiently challenged ("thoroughly knackered") for the day.
 
+-->
+
+
 ## This is Why Mark Sisson Doesn't Eat Salad Anymore
 
 {% include youtube.html id="WC3m7ORt75g" %}
 
+
+<!--
 
 ### Gemini Summary 
 
@@ -71,6 +78,7 @@ Based on the video clip, here's why Mark Sisson doesn't eat salad like he used t
 
 In summary, Mark Sisson stopped prioritizing large salads because his dietary philosophy shifted to focus on animal protein first. His avoidance of typical salads, especially in restaurants, is driven by deep concerns over the widespread use of low-quality, unstable, and potentially rancid/oxidized seed oils in dressings and cooking.
 
+-->
 
 ## Why Mark Sisson Quit Using Protein Powder (and 4 other things he changed his mind on)
 
