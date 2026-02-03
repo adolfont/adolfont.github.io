@@ -25,6 +25,12 @@
     <input type="submit" value="Elixir em Foco" />
 </form>
 
+<form action="https://discord.com/channels/987782561252143205/1047189448137379961">
+    <input type="submit" value="Delégua" />
+</form>
+
+
+
 
 
 ---
