@@ -9,3 +9,8 @@
     <input type="submit" value="Calendar" />
 </form>
 
+<form action="https://web.telegram.org">
+    <input type="submit" value="Telegram" />
+</form>
+
+
