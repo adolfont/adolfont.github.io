@@ -13,4 +13,11 @@
     <input type="submit" value="Telegram" />
 </form>
 
+<form action="https://web.whatsapp.com">
+    <input type="submit" value="WhatsApp" />
+</form>
+
+
+- Discord
+- Slack
 
