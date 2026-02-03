@@ -1,3 +1,11 @@
-<form action="https://google.com">
-    <input type="submit" value="Go to Google" />
+# 2026
+
+<form action="https://fastmail.com">
+    <input type="submit" value="E-mail" />
 </form>
+
+
+<form action="https://calendar.zoho.com/zc/">
+    <input type="submit" value="Calendar" />
+</form>
+
