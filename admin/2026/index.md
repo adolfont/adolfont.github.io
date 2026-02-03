@@ -25,9 +25,18 @@
     <input type="submit" value="Elixir em Foco" />
 </form>
 
-<form action="https://discord.com/channels/987782561252143205/1047189448137379961">
-    <input type="submit" value="Delégua" />
+---
+
+<form action="https://gitlab.utfpr.edu.br/adolfo/introducao-a-delegua">
+    <input type="submit" value="Introdução a Delégua" />
 </form>
+
+<form action="https://discord.com/channels/987782561252143205/1047189448137379961">
+    <input type="submit" value="Delégua (Discord Design Líquido)" />
+</form>
+
+
+
 
 
 
