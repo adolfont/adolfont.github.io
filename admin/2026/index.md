@@ -17,6 +17,12 @@
     <input type="submit" value="WhatsApp" />
 </form>
 
+<form action="https://docs.google.com/document/d/1ni7ccRnV83sd39h7fFzQzJXywmwCli3IQXe6t98RtZ4/edit?tab=t.0">
+    <input type="submit" value="Copia e Cola" />
+</form>
+
+
+
 
 - Discord
 - Slack
