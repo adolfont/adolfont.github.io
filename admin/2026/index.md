@@ -21,6 +21,17 @@
     <input type="submit" value="Copia e Cola" />
 </form>
 
+<form action="https://github.com/adolfont/adolfont.github.io/blob/master/admin/2026/index.md">
+    <input type="submit" value="This Page" />
+</form>
+
+<form action="https://github.com/adolfont/adolfont.github.io/actions">
+    <input type="submit" value="Actions" />
+</form>
+
+
+
+
 
 
 
