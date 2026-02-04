@@ -55,6 +55,11 @@
 
 
 
+## Temporário
+
+
+- [Ideias para podcasts](https://gitlab.utfpr.edu.br/-/snippets/10)
+- [Links práticos](https://gitlab.utfpr.edu.br/-/snippets/5)
 
 <!--
 
