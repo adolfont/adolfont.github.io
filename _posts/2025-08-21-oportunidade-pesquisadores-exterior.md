@@ -1,7 +1,11 @@
 ---
-layout: default
 title: "Oportunidade para pesquisadoras e pesquisadores brasileiros que estejam no exterior"
 date: 2025-08-21
+draft: false
+tags: ["blog", "pessoal"]
+categories: ["geral"]
+author: ["Adolfo Neto"]
+description: "Recebi esta mensagem hoje, 21/08/2025..."
 ---
 
 
