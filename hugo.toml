@@ -1,0 +1,78 @@
+baseURL = 'https://adolfont.gitlab.io/blog/'
+languageCode = 'pt-br'
+title = 'Blog de Adolfo Neto'
+theme = 'PaperMod'
+
+[params]
+description = "Blog pessoal de Adolfo Neto"
+author = "Adolfo Neto"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = true
+tocopen = false
+
+[params.homeInfoParams]
+Title = "Bem-vindo ao meu blog!"
+Content = "Aqui compartilho minhas ideias e experiências."
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/seu_usuario"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/adolfont"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/seu_perfil"
+
+[menu]
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "categories"
+name = "Categorias"
+url = "/categories/"
+weight = 30
+
+[[menu.main]]
+identifier = "archives"
+name = "Arquivo"
+url = "/archives/"
+weight = 40
+
+[[menu.main]]
+identifier = "search"
+name = "Buscar"
+url = "/search/"
+weight = 50
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[module]
+[[module.imports]]
+path = "github.com/adityatelange/hugo-PaperMod"
