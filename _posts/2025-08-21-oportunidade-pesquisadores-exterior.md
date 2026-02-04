@@ -5,6 +5,12 @@ draft: false
 tags: ["oportunidades", "pesquisa"]
 categories: ["academia"]
 author: ["Adolfo Neto"]
+hideMeta: false
+hidetitle: false
+disableShare: false
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: true
 ---
 
 

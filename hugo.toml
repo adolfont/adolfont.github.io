@@ -5,6 +5,7 @@ title = 'Blog de Adolfo Neto'
 
 [params]
 description = "Blog pessoal de Adolfo Neto"
+disableSpecial1stPost = true
 author = "Adolfo Neto"
 defaultTheme = "auto"
 ShowReadingTime = true
