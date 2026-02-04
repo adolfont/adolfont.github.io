@@ -1,7 +1,7 @@
-baseURL = 'https://adolfont.gitlab.io/blog/'
+baseURL = 'https://adolfont.github.io/'
 languageCode = 'pt-br'
 title = 'Blog de Adolfo Neto'
-theme = 'PaperMod'
+# REMOVA ESTA LINHA: theme = 'PaperMod'
 
 [params]
 description = "Blog pessoal de Adolfo Neto"
@@ -28,16 +28,8 @@ Title = "Bem-vindo ao meu blog!"
 Content = "Aqui compartilho minhas ideias e experiências."
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/seu_usuario"
-
-[[params.socialIcons]]
 name = "github"
 url = "https://github.com/adolfont"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://linkedin.com/in/seu_perfil"
 
 [menu]
 [[menu.main]]
@@ -57,18 +49,6 @@ identifier = "categories"
 name = "Categorias"
 url = "/categories/"
 weight = 30
-
-[[menu.main]]
-identifier = "archives"
-name = "Arquivo"
-url = "/archives/"
-weight = 40
-
-[[menu.main]]
-identifier = "search"
-name = "Buscar"
-url = "/search/"
-weight = 50
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
