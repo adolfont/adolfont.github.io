@@ -46,7 +46,6 @@
     <input type="submit" value="Blog" />
 </form>
 
-https://adolfoneto.elixiremfoco.com/blog/
 
 
 ---
