@@ -61,6 +61,7 @@
 - [Ideias para podcasts](https://gitlab.utfpr.edu.br/-/snippets/10)
 - [Links práticos](https://gitlab.utfpr.edu.br/-/snippets/5)
 - [TO READ](https://github.com/adolfont/adolfont.github.io/blob/master/admin/2026/index.md)
+- [TO DO](https://gitlab.utfpr.edu.br/-/snippets/9)
 
 <!--
 
