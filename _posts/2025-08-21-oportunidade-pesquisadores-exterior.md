@@ -4,8 +4,6 @@ title: "Oportunidade para pesquisadoras e pesquisadores brasileiros que estejam 
 date: 2025-08-21
 ---
 
-# Oportunidade para pesquisadoras e pesquisadores brasileiros que estejam no exterior
-
 
 Recebi esta mensagem hoje, 21/08/2025, com algumas partes omitidas:
 
