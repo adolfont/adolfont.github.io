@@ -1,7 +1,6 @@
 baseURL = 'https://adolfont.github.io/'
 languageCode = 'pt-br'
 title = 'Blog de Adolfo Neto'
-# REMOVA ESTA LINHA: theme = 'PaperMod'
 
 [params]
 description = "Blog pessoal de Adolfo Neto"
