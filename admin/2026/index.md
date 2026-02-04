@@ -42,8 +42,11 @@
     <input type="submit" value="Blog (add post)" />
 </form>
 
+<form action="https://adolfoneto.elixiremfoco.com/blog/">
+    <input type="submit" value="Blog" />
+</form>
 
-
+https://adolfoneto.elixiremfoco.com/blog/
 
 
 ---
