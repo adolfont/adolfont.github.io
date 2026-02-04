@@ -36,7 +36,11 @@
 </form>
 
 
+---
 
+<form action="https://github.com/adolfont/blog/tree/main/content/posts">
+    <input type="submit" value="Blog (add post)" />
+</form>
 
 
 
