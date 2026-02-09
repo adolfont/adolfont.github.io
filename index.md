@@ -36,12 +36,13 @@ I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/
 
 ## News
 
-I am teaching [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) in the second semester of 2025. 
-
 I am serving as Social Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE is the IEEE/ACM International Conference on Software Engineering, the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro.
 
-I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft is the Brazilian Conference on Software: Practice and Theory . The 16th edition of CBSoft will be held in person, from September 22th to 26th, 2025 in Recife, Pernambuco.
+I am serving as Publicity Chair for [CBSoft 2026](./events/cbsoft2026). CBSoft is the Brazilian Conference on Software: Practice and Theory.
 
+
+
+<!-- 
 
 🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
 
@@ -49,7 +50,9 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no segundo semestre de 2025.
 
-<!-- 
+
+I am teaching [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) in the second semester of 2025. 
+
 
 
 🇧🇷 Lecionei [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
