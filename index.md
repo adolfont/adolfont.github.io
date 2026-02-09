@@ -51,6 +51,10 @@ I am serving as Social Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE i
 I am serving as Publicity Chair for [CBSoft 2026](./events/cbsoft2026). CBSoft is the Brazilian Conference on Software: Practice and Theory.
 
 
+- [Member in Program Committee within the CIbSE 2026 (Main Track)](https://conf.researchr.org/committee/cibse-2026/cibse-2026-cibse-2026--main-track--program-committee)
+
+
+
 
 <!-- 
 
