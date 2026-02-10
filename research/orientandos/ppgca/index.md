@@ -13,11 +13,11 @@
 
 ### Orientador principal
 
-5. Ana Paula Schwaab Goettens (especial em 2025, Maria Claudia Emer)
-4. Camilo Cunha De Azevedo (regular, Lee Barney)
-3. Douglas Ferreira De Souza (especial em 2025, Michel Albonico)
-2. Thiago Dos Santos (especial em 2025, Maria Claudia Emer)
-1. Walysson Rodrigues Duarte (regular, Michel Albonico)
+P5. Ana Paula Schwaab Goettens (especial em 2025, Maria Claudia Emer)
+P4. Camilo Cunha De Azevedo (regular, Lee Barney)
+P3. Douglas Ferreira De Souza (especial em 2025, Michel Albonico)
+P2. Thiago Dos Santos (especial em 2025, Maria Claudia Emer)
+P1. Walysson Rodrigues Duarte (regular, Michel Albonico)
 
 ### Coorientador 
 
