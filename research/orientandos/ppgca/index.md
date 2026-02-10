@@ -21,8 +21,11 @@
 
 ## Ingressantes em 2024
 
+### Orientador principal
+
 - Michel Peter Silvano Jorge (desligado)
 
 ## Ingressantes em 2023
 
+### Orientador principal
 - Odwald Schroeder Schreder	(desligao para reingresso e defesa)
