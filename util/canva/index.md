@@ -7,6 +7,9 @@
 - Professor Adolfo Neto [artes YT](https://www.canva.com/design/DAF3WY6Ip4I/axcHBdfqTvOmnJ3Hnhk2aw/edit) -- [logo](https://www.canva.com/design/DAF3Wj7sFTY/Z2BdZZW4jX4JH-a6NwIkrQ/edit) -- [artes](https://www.canva.com/design/DAEwkgpqtlQ/ZwrszWzNk9EZvUFQjnQ21w/edit)
 - [CBSOft 2026](https://www.canva.com/design/DAG4rSxW5ow/DCg3t4tnPZ3xIhDncWWBUQ/edit)
 
+- [Fronteiras YT Ema](https://www.canva.com/design/DAG1HBFQCCs/9lNLeZ8rB1CLjG_gLV5L6A/edit)
+- [Fronteiras Story Ema](https://www.canva.com/design/DAG2C91_rLk/Qns_XvYI2_9E5zR6iGwEKQ/edit?utm_source=shareButton&utm_medium=email&utm_campaign=designshare)
+
 ## UTFPR
 
 - [ICSE 4:5](https://www.canva.com/design/DAGzcV2AZbc/s8fHRf28g_ThbyQ7mmAaCg/edit)
