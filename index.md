@@ -4,11 +4,21 @@
 I, Adolfo Neto (full name: Adolfo Gustavo Serra Seca Neto), am an Associate Professor at the [Federal University of Technology, Paraná](https://bit.ly/49hx0Lg).
 My research area is Software Engineering, and my overarching research objective is to assist developers in facilitating the sharing of knowledge and the acquisition of both scientific and practical expertise. 
 
+---
+
+🇧🇷 Não precisamos aceitar a IA como inevitável na educação
+
+- 26/02 10h-12h [Oficina online (gratuita e usando Jitsi)](https://luma.com/nbtlk1cd)
+- 02/03 20h00 Palestra online pro [grupo de pesquisa Gele.ia](https://grupogeleia.com.br) 
+- 05/03 10h-12h Oficina presencial na UTFPR Curitiba
+
+---
+
 _E-mails: adolfo AT utfpr.edu.br and adolfo.neto AT erlef.org_
 
 🆕 Latest paper: [ADoTe: Approach to teaching and learning functional testing technique criteria supported by Testing Dojo](https://bit.ly/3EIX9bE). Vladimir Belinski, Adolfo G. Serra Seca Neto, Maria Claudia Emer. Journal of Software Engineering and Research Development (JSERD), 2025.
 
-🆕 I am organizing [Elixir Curitiba](http://curitiba.elixiremfoco.com), which will happen on November 8th, 2025.
+🆕 I have organized [Elixir Curitiba](http://curitiba.elixiremfoco.com), which happened on November 8th, 2025.
 
 
 Research topics:
@@ -27,6 +37,7 @@ I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/
 - Arxiv: <https://arxiv.org/search/cs?query=Neto%2C+Adolfo&searchtype=author&abstracts=show&order=-announced_date_first&size=50>
 - Google Scholar: <https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=pt-BR&oi=ao>
 - DBLP: <https://dblp.org/pid/84/2417.html> and <https://dblp.org/pid/348/6384.html>
+- Lattes: <http://lattes.cnpq.br/0071119715272492>
 - [Amazon Author Page](https://amzn.to/465stvA)
 
 [Books I am reading or I have read](./extension/books/)
@@ -35,12 +46,17 @@ I'm an enthusiast and act as an informal DevRel for the [Elixir](https://bit.ly/
 
 ## News
 
-I am teaching [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) in the second semester of 2025. 
-
 I am serving as Social Media Co-Chair for [ICSE 2026](./events/icse2026). ICSE is the IEEE/ACM International Conference on Software Engineering, the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro.
 
-I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft is the Brazilian Conference on Software: Practice and Theory . The 16th edition of CBSoft will be held in person, from September 22th to 26th, 2025 in Recife, Pernambuco.
+I am serving as Publicity Chair for [CBSoft 2026](./events/cbsoft2026). CBSoft is the Brazilian Conference on Software: Practice and Theory.
 
+
+- [Member in Program Committee within the CIbSE 2026 (Main Track)](https://conf.researchr.org/committee/cibse-2026/cibse-2026-cibse-2026--main-track--program-committee)
+
+
+
+
+<!-- 
 
 🇧🇷 Faço parte da organização do [SE4FP 2025](https://se4fp.github.io/2025/).
 
@@ -48,7 +64,9 @@ I am serving as Publicity Chair for [CBSoft 2025](./events/cbsoft2025). CBSoft i
 
 🇧🇷 Estou lecionando [Computação 1](./teaching/2025/computacao1/) no segundo semestre de 2025.
 
-<!-- 
+
+I am teaching [Introduction to Functional Programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) in the second semester of 2025. 
+
 
 
 🇧🇷 Lecionei [Metodologias Ágeis para Desenvolvimento de Software](./teaching/metodosageis/) no primeiro semestre de 2025.
@@ -131,6 +149,11 @@ You can also send me a direct message on Telegram or Instagram at adolfont.
 ## Publications 
 
 My latest publications can be found on his [Google Scholar profile](https://scholar.google.com/citations?user=R7hC3-wAAAAJ&hl=en&oi=ao) or at [Recent Publications](https://adolfont.github.io/research/publications/)
+
+
+## Pages I maintain
+
+- [Egressos do DAINF UTFPR Curitiba](teaching/egressos/index.md)
 
 <!--
 

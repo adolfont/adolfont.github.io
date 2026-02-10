@@ -1,11 +1,14 @@
 # Links Diretos Canva
 
-## Adolfo Neto Turma (1)
+## Adolfo Neto Turma
 
 - [Fronteiras YT](https://www.canva.com/design/DAGkpGa4Bes/lZnko_hriMTWqGfQUpcIBg/edit)
 - [Elixir Curitiba](https://www.canva.com/design/DAGPDHfyNPQ/slBz8Hg-2LmzXk8e3aytvQ/edit)
-- Professor Adolfo Neto [logo](https://www.canva.com/design/DAF3Wj7sFTY/Z2BdZZW4jX4JH-a6NwIkrQ/edit) -- [artes](https://www.canva.com/design/DAEwkgpqtlQ/ZwrszWzNk9EZvUFQjnQ21w/edit)
+- Professor Adolfo Neto [artes YT](https://www.canva.com/design/DAF3WY6Ip4I/axcHBdfqTvOmnJ3Hnhk2aw/edit) -- [logo](https://www.canva.com/design/DAF3Wj7sFTY/Z2BdZZW4jX4JH-a6NwIkrQ/edit) -- [artes](https://www.canva.com/design/DAEwkgpqtlQ/ZwrszWzNk9EZvUFQjnQ21w/edit)
+- [CBSOft 2026](https://www.canva.com/design/DAG4rSxW5ow/DCg3t4tnPZ3xIhDncWWBUQ/edit)
 
-## UTFPR (21)
+## UTFPR
 
-- [ICSE 2026 Know Your OC](https://www.canva.com/design/DAGwzvH3_08/Qe5CS3B_PpjWKnTXHKzI7g/edit)
+- [ICSE 4:5](https://www.canva.com/design/DAGzcV2AZbc/s8fHRf28g_ThbyQ7mmAaCg/edit)
+- [ICSE OC](https://www.canva.com/design/DAGwzvH3_08/Qe5CS3B_PpjWKnTXHKzI7g/edit)
+- [Fórum](https://www.canva.com/design/DAF-k3Tfwjk/bEwUOQQw6O5gU9oQYGS_-Q/edit)
