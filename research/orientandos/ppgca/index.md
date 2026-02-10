@@ -6,9 +6,9 @@
 ### Orientador principal
 
 ### Regular
-- Felipe Pimentel Augusto - Adolfo Gustavo Serra Seca Neto - Michel Albonico
-- Breno Ulisses Vergopolan - Adolfo Gustavo Serra Seca Neto - Laudelino Bastos
-- Nilton Cesar Barbosa Aleixo - Adolfo Gustavo Serra Seca Neto - Maria Claudia Emer
+- PR6. Felipe Pimentel Augusto - Adolfo Gustavo Serra Seca Neto - Michel Albonico
+- PR7? Breno Ulisses Vergopolan - Adolfo Gustavo Serra Seca Neto - Laudelino Bastos
+- PR8? Nilton Cesar Barbosa Aleixo - Adolfo Gustavo Serra Seca Neto - Maria Claudia Emer
 
 #### Especial
 
