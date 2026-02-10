@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:yt="http://www.youtube.com/xml/schemas/2015"
+      xmlns:media="http://search.yahoo.com/mrss/">
+
+  <id>yt:playlist:PLF5ttO8F-IsQx4WuZZp_vrjkUHNLZCaY5</id>
+  <title>Adolfo Neto UTFPR</title>
+  <updated>2025-08-07T21:09:13+00:00</updated>
+
+  <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLF5ttO8F-IsQx4WuZZp_vrjkUHNLZCaY5"/>
+  <link rel="alternate" href="https://www.youtube.com/channel/UCn5ML-6aeHAXGjD4n891LlA"/>
+
+  <author>
+    <name>Adolfo Neto</name>
+    <uri>https://www.youtube.com/channel/UCn5ML-6aeHAXGjD4n891LlA</uri>
+  </author>
+
+  <yt:playlistId>PLF5ttO8F-IsQx4WuZZp_vrjkUHNLZCaY5</yt:playlistId>
+  <yt:channelId>UCn5ML-6aeHAXGjD4n891LlA</yt:channelId>
+  <published>2025-08-07T21:09:00+00:00</published>
+
+  <entry>
+    <id>yt:video:Q-5Lg72kNr8</id>
+    <yt:videoId>Q-5Lg72kNr8</yt:videoId>
+    <yt:channelId>UCn5ML-6aeHAXGjD4n891LlA</yt:channelId>
+
+    <title>Participe do CBSoft 2025</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Q-5Lg72kNr8"/>
+    <published>2025-08-07T17:37:52+00:00</published>
+    <updated>2025-08-07T21:09:13+00:00</updated>
+
+    <author>
+      <name>Adolfo Neto</name>
+      <uri>https://www.youtube.com/channel/UCn5ML-6aeHAXGjD4n891LlA</uri>
+    </author>
+
+    <media:group>
+      <media:title>Participe do CBSoft 2025</media:title>
+      <media:content url="https://www.youtube.com/v/Q-5Lg72kNr8?version=3"
+                     type="application/x-shockwave-flash"
+                     width="640" height="390"/>
+      <media:thumbnail url="https://i2.ytimg.com/vi/Q-5Lg72kNr8/hqdefault.jpg"
+                       width="480" height="360"/>
+      <media:description>Link: http://cbsoft.sbc.org.br/2025/cbsoft Aconteceu algum problema e o StreamYard perdeu minha imagem.</media:description>
+      <media:community>
+        <media:starRating count="0" average="0.00" min="1" max="5"/>
+        <media:statistics views="4"/>
+      </media:community>
+    </media:group>
+  </entry>
+</feed>

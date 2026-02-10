@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Título da aba -->
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }}</title>
+
+  <!-- Descrição -->
+  <meta name="description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}">
+
+  <!-- Facebook Open Graph -->
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
+  <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}">
+  {% if page.thumb %}
+    <meta property="og:image" content="{{ page.thumb | absolute_url }}">
+  {% else %}
+    <meta property="og:image" content="{{ '/images/AdolfoNeto_240x240.jpg' | absolute_url }}">
+  {% endif %}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="{{ site.url | replace: 'https://', '' }}">
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title | default: site.github.repository_name }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description | default: site.github.project_tagline }}{% endif %}">
+  {% if page.thumb %}
+    <meta name="twitter:image" content="{{ page.thumb | absolute_url }}">
+  {% else %}
+    <meta name="twitter:image" content="{{ '/images/AdolfoNeto_240x240.jpg' | absolute_url }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/event.css" | relative_url }}">
+
+  {% seo %}
+  {% include head-custom.html %}
+  {% include analytics.html %}
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+      {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="Logo" />
+      {% endif %}
+
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </header>
+
+    <section class="event">
+      <article>
+        <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}
+          <h2>{{ page.subtitle }}</h2>
+        {% endif %}
+        
+        {% if page.thumb %}
+          <img src="{{ page.thumb | relative_url }}" alt="{{ page.title }}" style="max-width: 100%; height: auto;">
+        {% endif %}
+
+        {{ content }}
+      </article>
+    </section>
+
+    <footer>
+      {% if site.github.is_project_page %}
+        <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+    </footer>
+  </div>
+
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+</body>
+</html>

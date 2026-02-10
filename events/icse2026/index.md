@@ -1,22 +1,30 @@
+---
+layout: default
+title: Adolfo Neto's page on ICSE 2026
+subtitle: ICSE is the IEEE/ACM International Conference on Software Engineering
+thumb: "/images/ICSE2026 Square Empty Spaces.jpg"
+---
+
 # ICSE 2026
 
-[If you can, attend ICSE 2025!](https://conf.researchr.org/home/icse-2025)
+<img src="/images/ICSE2026 Square Empty Spaces.jpg" alt="ICSE 2026 logo" width="100" height="100">
 
-![ICSE 2026](https://github.com/user-attachments/assets/debac1ba-2425-4f2b-9b23-a450eadcec8a)
+ICSE, the IEEE/ACM International Conference on Software Engineering, is the premier software engineering conference. It will be held April 12-18 2026 in Rio de Janeiro. Core conference days will be Wednesday April 15 to Friday April 17.
+
+ICSE provides a forum where researchers, practitioners, and educators gather together to present and discuss research results, innovations, trends, experiences and issues in the field of software engineering.
+
+I (Adolfo Neto) am serving as Socia Media Co-Chair (with Ronnie de Souza Santos) for ICSE 2026.
+
+[ICSE 2026 Website](https://bit.ly/4kgiJnv)
+
+## Social Media
+
+- [ICSE on Instagram](https://bit.ly/4j0zhPx)
+- [ICSE on Bluesky](https://bit.ly/3RUR8fD)
+- [ICSE on Linkedin](https://bit.ly/43blsb0)
+- [ICSE on X](https://bit.ly/4davaz3)
+- [ICSE on Mastodon](https://bit.ly/3GMV27U)
+- [ICSE on Facebook](https://bit.ly/43nGPXL)
 
 
-"ICSE, the International Conference on Software Engineering,® is the premier software engineering conference, providing a forum for researchers, practitioners and educators to present and discuss the most recent innovations, trends, experiences and concerns in the field of software engineering. Note that ICSE: International Conference on Software Engineering® is a registered trademark."
 
-Rio de Janeiro
-
-Apr. 10 - 19, 2026
-
-
-<http://www.icse-conferences.org/>
-
-<https://conf.researchr.org/home/icse-2026> Soon
-
-
-## 
-
-[ICSE 26 - Rio de Janeiro. The 48th premier ICSE Conference will be held for the first time in Brazil in 2026, under the leadership of PUC-RS and Puc-Rio universities and the entire Brazilian software engineering community.](https://archive.is/4bfsw)

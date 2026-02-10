@@ -1,5 +1,20 @@
 # [Latest posts](https://github.com/adolfont/adolfont.github.io/blob/master/extension/blogs/posts.md)
 
+## Minhas Recomendações em Metodologia de Pesquisa
+
+<https://adolfont.github.io/util/metodologiadepesquisa>
+
+## Pesquisas Qualitativas na Engenharia de Software, com Jorge Melegati
+### Episódio 55 do Fronteiras da Engenharia de Software
+
+Neste episódio, Jorge Melegati (Free University of Bozen-Bolzano) apresenta uma palestra sobre seu artigo Pesquisas Qualitativas na Engenharia de Software: Definição, Revisão Crítica e Diretrizes
+(Qualitative Surveys in Software Engineering Research: Definition, Critical Review, and Guidelines), publicado na IEEE Transactions on Software Engineering em 2024. Kieran Conboy e Daniel Graziotin são coautores do artigo e [Adolfo Neto](⁠⁠⁠⁠⁠⁠⁠https://adolfont.github.io) foi o anfitrião da apresentação.
+
+{% include youtube.html id="4NWAcNMmgnI" %}  
+
+## Inteligência Artificial nas Ondas do Rádio
+
+Marcelo Finger tem uma coluna semanal no podcast Colunistas Eldorado Estadão, publicada às sextas-feiras pela manhã. O nome da coluna é ["Inteligência Artificial nas Ondas do Rádio"](https://open.spotify.com/show/7i87AFADvFacnXIQSvgXtT). 
 
 ## World Logic Day 2025 - Roundtable: Extension Projects
 

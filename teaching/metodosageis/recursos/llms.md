@@ -6,43 +6,50 @@ Alguns destes têm limitações (de tamanho da entrada, por exemplo).
 
 Praticamente todos, se não todos, usam o que você pergunta como parte do treinamento deles. Portanto, não inclua dados sensíveis.
 
-Todos escrevem parvoíces ("alucinam") de vez em quando. Sempre verifique a resposta.
+Todos "alucinam" de vez em quando. Sempre verifique a resposta.
 
-_Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolvedoras de software: <https://forms.gle/r2PgX6mDXuxo94zUA>._ 
+<!--
+_Pesquisa sobre o interesse em curso sobre o uso de LLMs por pessoas desenvolvedoras de software: <https://forms.gle/r2PgX6mDXuxo94zUA>._  -->
 
-- ChatGPT <https://chatgpt.com/>
-- Qwen <https://chat.qwen.ai/>
-- DeepSeek <https://chat.deepseek.com/>
-- Gemini <https://gemini.google.com/>
-- Claude <https://claude.ai/>
-- Perplexity AI <https://www.perplexity.ai/>
-- Copilot <https://copilot.microsoft.com/>
-- Poe <https://poe.com/>
-- Maritaca <https://chat.maritaca.ai/>
-- Google AI Studio <https://aistudio.google.com/>
-- Mistral AI [https://mistral.ai/](https://mistral.ai/)  
-- HuggingChat [https://huggingface.co/chat](https://huggingface.co/chat)
-- Meta AI <https://www.meta.ai/>
-- Grok <http://grok.com/>
-- Groq <https://groq.com/>
-- You <https://you.com/>
-- Phind <https://www.phind.com/>
-- AkashChat <https://chat.akash.network/>
-- Pi <https://pi.ai/talk>
-- T3 <https://t3.chat/>
+* AkashChat [https://chat.akash.network/](https://chat.akash.network/)
+* ChatGPT [https://chatgpt.com/](https://chatgpt.com/)
+* Claude [https://claude.ai/](https://claude.ai/)
+* Copilot [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
+* DeepSeek [https://chat.deepseek.com/](https://chat.deepseek.com/)
+* Gemini [https://gemini.google.com/](https://gemini.google.com/)
+* Google AI Studio [https://aistudio.google.com/](https://aistudio.google.com/)
+* Grok [http://grok.com/](http://grok.com/)
+* Groq [https://groq.com/](https://groq.com/)
+* HuggingChat [https://huggingface.co/chat](https://huggingface.co/chat)
+* Maritaca [https://chat.maritaca.ai/](https://chat.maritaca.ai/)
+* Meta AI [https://www.meta.ai/](https://www.meta.ai/)
+* Mistral AI [https://mistral.ai/](https://mistral.ai/)
+* NotebookLM <https://notebooklm.google.com/> 
+* Perplexity AI [https://www.perplexity.ai/](https://www.perplexity.ai/)
+* Phind [https://www.phind.com/](https://www.phind.com/)
+* Pi [https://pi.ai/talk](https://pi.ai/talk)
+* Poe [https://poe.com/](https://poe.com/)
+* Qwen [https://chat.qwen.ai/](https://chat.qwen.ai/)
+* T3 [https://t3.chat/](https://t3.chat/)
+* You [https://you.com/](https://you.com/)
 
+<!--
 Conhece alguma que não esteja na lista? Faça um _pull request_!
 
 Observações:
 - Mistral Le Chat é ótimo para OCR
 - [Quem é cliente Vivo pós-pago tem direito a um ano grátis de Perplexity Pro](https://www.mobiletime.com.br/noticias/01/11/2024/vivo-perplexity-pro/#:~:text=Com%20exclusividade%20ao%20Mobile%20Time,pago%20e%20da%20Internet%20fixa.).
 
+--> 
+
+<!--
 ## Usos mais avançados
 
 - Comparador de LLMs: LLM Arena <https://lmarena.ai/>
 - Openrouter - A unified interface for LLMs <https://openrouter.ai/>
-- NotebookLM <https://notebooklm.google.com/> - permite criar cadernos a partir de documentos e gera episódios de podcast
+- [Aya Expanse by Cohere For AI](https://wa.me/14313028498) por WhatsApp
 
+-->
 
 <!-- 
 - Llama [https://llama.meta.com/](https://llama.meta.com/)

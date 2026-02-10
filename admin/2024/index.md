@@ -1,49 +1,28 @@
-# 2024 + 2025
+# 2024 + [2025](https://adolfont.github.io/admin/2025/)
 
 - [Edit this page](https://github.com/adolfont/adolfont.github.io/blob/master/admin/2024/index.md)
 - [Visit the published page](https://adolfont.github.io/admin/2024/)
 - [posts](https://adolfont.github.io/extension/blogs/posts)
 
+- [.](https://associados.amazon.com.br/home)
+- [..](https://affiliate-program.amazon.com/home)
 
-## Prioridades
+## Old TODO
 
-- [ ] Reunião EEF
-- [ ] Reunião Podcasts
-- [ ] Tirar um tempo para abrir o processo necessário para o processo de Titular
-- [ ] Episódio Janeiro Elixir em Foco
-- [ ] Episódio Nabson
 - [ ] [Demais?](https://docs.google.com/spreadsheets/d/1fdT5h1ulLvs7aKtrRwji-X_5o38Z_a9-SAUiPj7pSyg/edit?usp=sharing)
-- [ ] SEXTA PHIL WADLER
-- [ ] SEXTA GILMAR
 
 [2025](https://www.notion.so/2025-15eca1ecd1be8012a0c2e1cd30efb8e3?pvs=9)
-
-### Feitos
-- [X] Notas MP e vídeos
-- [X] Entrevista CAES005
-- [X] Sucupira Qualitativo 2021-24
-- [X] Correção de Provas C1
-- [X] Último ep FES 2024
-
-### Cancelados
-
-- Computer on the Beach 
-
-
 
 ## [Notion](https://www.notion.so/)
 
 ## [Calendar](https://calendar.google.com/calendar/u/0/r)
 
-## [Computação 1](/teaching/2024/computacao1/)
-
-## [Introduction to Functional Programming](/teaching/2024/caes005/)
+## [Computação 1](/teaching/2025/computacao1/)
 
 ## [Weather Curitiba](https://vanillaweather.com/forecast/36833078-3e66-4b4a-9736-900a9f857689)
 
 ### Calendários UTFPR
-  - [Calendários UTFPR Graduação 2024 e 2025](https://www.utfpr.edu.br/alunos/calendario)
-  - [Calendário UTFPR Pós 2024 (Quadrimestral)](https://drippg-utfpr-2024.tiiny.site/)
+  - [Calendário UTFPR Graduação 2025](https://www.utfpr.edu.br/alunos/calendario)
   - [Calendário UTFPR Pós 2025 (Semestral)](https://utfpr-pos-2025-semestral.tiiny.site/)
     - Aulas da pós começam em 25/03 no PPGCA   
 

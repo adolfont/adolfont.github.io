@@ -9,4 +9,8 @@ Muitas seleções de mestrado esperam que você escreva um projeto de pesquisa. 
 
 1. **Livros de Gilson Volpato**. Ultimamente, o professor Gilson tem se dedicado mais ou seu instituto.
 2. Livro do Bruno Cartaxo
+<<<<<<< HEAD
 3. Livro do Raul 
+=======
+3. Livro do Raul 
+>>>>>>> c0c1dc038695e8c27e2f7ddef41fe68448441cee

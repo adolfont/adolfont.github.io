@@ -1,23 +1,23 @@
-# Computação 1
+# Computação 1 
 
-## Turmas
+## Recursos 
 
-### INF71A-S25 
-- Estudantes de [Engenharia de Controle e Automação](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-de-controle-e-automacao)
-- Sala: CB-107
-- Turma: B13
-- Quartas-feiras: 7h30-11h10
-- Início das aulas: 26/03/2025
-- Final das aulas: 09/07/2025
+- [Slides e Listas de Exercício (feitos por Leyza e Bogdan, principalmente)](https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR)
 
-### INF71A-S45 
+<!-- K... Brian https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628 --> 
 
-- Estudantes de [Engenharia de Produção](https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-de-producao)
-- Sala:  EK-302
-- Turma: X11
-- Quintas-feiras: 14h40-18h40
-- Início das aulas: 27/03/2025
-- Final das aulas: 10/07/2025
+
+- [Código feito nas aulas, disponível no GitHub](https://github.com/adolfont/INF71A_Computacao1/)
+
+
+## Turma 2025/2
+
+### INF71A S43	
+- Estudantes de [Engenharia Mecânica](https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-mecanica)
+- Turma: S43
+- Quartas-feiras: 8h20-12h00
+- Início das aulas: 13/08/2025
+- Final das aulas: 03/12/2025, com dias 10/12 e 17/12 reservados para ajustes finais ou quebras no planejamento.
 
 
 
@@ -33,24 +33,24 @@ Link para o professor: <https://sistemas2.utfpr.edu.br/url/1890>
 
 [CodeBlocks](https://www.codeblocks.org/)
 
-### Compilador de C online
+### Compiladores de C online
 
 <https://www.onlinegdb.com/online_c_compiler>
 
+<https://www.programiz.com/c-programming/online-compiler/>
+
+<!--
 ### Minha área de trabalho no Replit
 
 <https://replit.com/@AdolfoNeto1/>
 
 Exemplo de criação de conta: <https://www.youtube.com/watch?v=w_gpH5cRibQ> ou <https://inv.nadeko.net/watch?v=w_gpH5cRibQ>
 
-## Código feito nas aulas, disponível no GitHub
-
-<https://github.com/adolfont/INF71A_Computacao1/>
-
+-->
 
 ## Bibliografia
 
-Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
+Disponível em <https://webapp.utfpr.edu.br/minhaBiblioteca/login>
 
 - Algoritmos e programação em linguagem C. Soffner, Renato. São Paulo: Saraiva, 2013.
 - Linguagem C : completa e descomplicada. Backes, André. Rio de Janeiro: GEN LTC, 2018.
@@ -78,20 +78,16 @@ Disponível em <https://portal.utfpr.edu.br/biblioteca/bibliotec>
 - Desafios OsProgramadores: <https://osprogramadores.com/desafios/>
 - Exercism: <https://exercism.org/tracks/c>
 
-## Slides e Listas de Exercício
-
-
-<https://nuvem.utfpr.edu.br/index.php/s/EYEKmlMowDwxMVR>
-
-<!-- K... Brian https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628 --> 
 
 ## Playlist no Youtube
 
 [Computação 1 INF71A](https://www.youtube.com/playlist?list=PLr0nplfR1PLeDraXsWjEQDbbsgKRw4leU)
 
-Use [Invidiuos](https://docs.invidious.io/instances/) (no browser) ou [Newpipe](https://newpipe.net/) (em celulares Android) caso queira assistir sem propagandas.
+<!-- Use [Invidiuos](https://docs.invidious.io/instances/) (no browser) ou [Newpipe](https://newpipe.net/) (em celulares Android) caso queira assistir sem propagandas.
 
 Exemplo de link Invidiuos para o primeiro vídeo da playlist: <https://inv.nadeko.net/watch?v=vMJq4xljgRg>, usando <https://inv.nadeko.net/>
+
+--> 
 
 ### Outras playlists de vídeos que podem ser úteis
 
