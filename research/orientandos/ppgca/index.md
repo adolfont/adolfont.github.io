@@ -3,15 +3,21 @@
 
 ## Ingressantes em 2026
 
-## Ingerssantes em 2025
+### Orientador principal
+
+
+### Coorientador 
+
+
+## Ingressantes em 2025
 
 ### Orientador principal
 
-- Ana Paula Schwaab Goettens (especial em 2025, Maria Claudia Emer)
-- Camilo Cunha De Azevedo (regular, Lee Barney)
-- Douglas Ferreira De Souza (especial em 2025, Michel Albonico)
-- Thiago Dos Santos (especial em 2025, Maria Claudia Emer)
-- Walysson Rodrigues Duarte (regular, Michel Albonico)
+5. Ana Paula Schwaab Goettens (especial em 2025, Maria Claudia Emer)
+4. Camilo Cunha De Azevedo (regular, Lee Barney)
+3. Douglas Ferreira De Souza (especial em 2025, Michel Albonico)
+2. Thiago Dos Santos (especial em 2025, Maria Claudia Emer)
+1. Walysson Rodrigues Duarte (regular, Michel Albonico)
 
 ### Coorientador 
 
