@@ -6,18 +6,26 @@
 ### Orientador principal
 
 
+- Felipe Pimentel Augusto - Adolfo Gustavo Serra Seca Neto - Michel Albonico
+
+
+- Breno Ulisses Vergopolan - Adolfo Gustavo Serra Seca Neto - Laudelino Bastos
+
+
 ### Coorientador 
+
+- Angemydelson Saint Bert - Michel Albonico - Adolfo Gustavo Serra Seca Neto
 
 
 ## Ingressantes em 2025
 
 ### Orientador principal
 
-P5. Ana Paula Schwaab Goettens (especial em 2025, Maria Claudia Emer)
-P4. Camilo Cunha De Azevedo (regular, Lee Barney)
-P3. Douglas Ferreira De Souza (especial em 2025, Michel Albonico)
-P2. Thiago Dos Santos (especial em 2025, Maria Claudia Emer)
-P1. Walysson Rodrigues Duarte (regular, Michel Albonico)
+- PR5. Ana Paula Schwaab Goettens (especial em 2025, Maria Claudia Emer)
+- PR4. Camilo Cunha De Azevedo (regular, Lee Barney)
+- PR3. Douglas Ferreira De Souza (especial em 2025, Michel Albonico)
+- PR2. Thiago Dos Santos (especial em 2025, Maria Claudia Emer)
+- PR1. Walysson Rodrigues Duarte (regular, Michel Albonico)
 
 ### Coorientador 
 
