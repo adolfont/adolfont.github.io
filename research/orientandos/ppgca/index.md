@@ -20,3 +20,9 @@
 - Natalia Goncalves Padilha Choma (especial em 2025, Maria Claudia Emer)
 
 ## Ingressantes em 2024
+
+- Michel Peter Silvano Jorge (desligado)
+
+## Ingressantes em 2023
+
+- Odwald Schroeder Schreder	(desligao para reingresso e defesa)
