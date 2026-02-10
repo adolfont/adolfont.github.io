@@ -7,16 +7,16 @@
 
 ### Orientador principal
 
-- Ana Paula Schwaab Goettens (especial)
+- Ana Paula Schwaab Goettens (especial em 2025, Maria Claudia Emer)
 - Camilo Cunha De Azevedo (regular, Lee Barney)
-- Douglas Ferreira De Souza (especial)
-- Thiago Dos Santos (especial)
+- Douglas Ferreira De Souza (especial em 2025, Michel Albonico)
+- Thiago Dos Santos (especial em 2025, Maria Claudia Emer)
 - Walysson Rodrigues Duarte (regular, Michel Albonico)
 
 ### Coorientador 
 
-- Fernando Calheiros Areias (regular)
-- Murilo Henrique Alves (especial em 2025)
-- Natalia Goncalves Padilha Choma (especial em 2025)
+- Fernando Calheiros Areias (regular, Ana Cristina)
+- Murilo Henrique Alves (especial em 2025, Laudelino Bastos)
+- Natalia Goncalves Padilha Choma (especial em 2025, Maria Claudia Emer)
 
 ## Ingressantes em 2024
