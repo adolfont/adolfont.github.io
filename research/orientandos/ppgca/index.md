@@ -12,7 +12,7 @@
 
 #### Especial
 
-- ? Daniel Lenharo De Souza - Adolfo Gustavo Serra Seca Neto - Maria Claudia Emer
+- Daniel Lenharo De Souza - Adolfo Gustavo Serra Seca Neto - Maria Claudia Emer
 - ? Pedro Victor Lacerda Da Silva - Adolfo Gustavo Serra Seca Neto - Maria Claudia Emer
 
 ### Coorientador 
