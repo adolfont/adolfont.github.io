@@ -1,0 +1,74 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Blog de Adolfo Neto</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/</link>
+<description>Recent content on Blog de Adolfo Neto</description>
+<generator>Hugo -- 0.154.5</generator>
+<language>pt-br</language>
+<lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
+<atom:link href="http://adolfoneto.elixiremfoco.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Definições de IA</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-20-definicoes/</link>
+<pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-20-definicoes/</guid>
+<description><p>No episódio de hoje do podcast Inteligência Artificial nas Ondas do Rádio (ou &ldquo;IA nas Ondas do Rádio&rdquo;), Marcelo Finger apresenta uma <a href="https://open.spotify.com/episode/1oEMf1Uxtg3IwLX96obwpj">revisão de conceitos de IA</a>. Vou fazer apenas um resumo, mais um lembrete. Escute o episódio para entender tudo:</p> <ul> <li>A IA veio do mundo da computação</li> <li>Com a IA, programas passaram a ser treinados a partir de exemplos.</li> <li>Programas de IA são considerados &ldquo;caixas-pretas&rdquo; não porque a gente não saiba o que tem lá dentro, mas porque a gente não sabe como obter uma determinada resposta; o que eu ponho na entrada para obter uma determinada resposta?</li> <li>As caixas-pretas de IA fazem trẽs tipos de tarefas:</li> <li>IA preditiva: prevê e detecta informações. Exemplo: saber se um texto é elogioso ou negativo a uma pessoa. Outro exemplo: detectar uma determinada doença a partir de uma imagem médica.</li> <li>IA gerativa: produzia no começo só textos, mas hoje em dia produz imagens, vídeos e músicas e outras coisas a partir de solicitações do usuário (prompts). Os chatbots.</li> <li>IA agencial: realiza ações e faz coisas do mundo real.</li> <li>A técnica básica para criar: apendizado de máquina. Trés tipos: <ul> <li>aprendizado supervisionado.</li> <li>aprendizado não supervisionado.</li> <li>aprendizado por reforço.</li> </ul> </li> <li>O programa aprende a reconhecer padrões depois de um longo período de treinamento.</li> <li>Para conseguir treinar, é necessária uma quantidade muito grande de dados (Big Data).</li> <li>Dados têm vieses, implícitos ou explícitos.</li> <li>Dados sintéticos são gerados por outros programas para treinar programas de IA.</li> <li>Multi-modalidade: texto, sons, fala, etc.</li> <li>Programas de IA acabam invariavelmente &ldquo;alucinando&rdquo;, dando respostas erradas.</li> </ul> <h2 id="feedback-e-ajuda">Feedback e ajuda</h2> <p>Quer comentar? Manda um e-mail para adolfo @ utfpr.edu.br ou me manda mensagem no <a href="https://bsky.app/profile/adolfont.github.io">Bluesky</a>.</p></description>
+</item>
+<item>
+<title>Três coisas que nunca vou dizer sobre LLMs</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-12-tres-coisas/</link>
+<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-12-tres-coisas/</guid>
+<description><ol> <li>LLMs não fazem X</li> <li>LLMs nunca vão dar lucro</li> <li>Se você usa LLM você tá errado, é feio e idiota 😀</li> </ol> <p><em>Vou ministrar uma oficina online e gratuita em 26/02/2026: <a href="https://luma.com/nbtlk1cd">Não precisamos aceitar a IA como inevitável na educação</a>.</em></p> <h2 id="llms-não-fazem-x">LLMs não fazem X</h2> <p>Já vi algumas pessoas serem taxativas em dizer algo como &ldquo;LLMs não fazem X&rdquo; ou &ldquo;LLMs nunca vão fazer X&rdquo;, onde X é uma atividade qualquer. E meses depois aparece um sistema baseado em LLM que faz.</p></description>
+</item>
+<item>
+<title>Comentário sobre 'Meus textos usam inteligência artificial; meu pensamento, não'</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-10-comentarios/</link>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-10-comentarios/</guid>
+<description><p><a href="https://sem-paywall.com/api/clean/https%3A%2f%2fmla.bs%2fff405d42">Link sem paywall para o texto original de Natalia Beauty</a></p> <p>Abaixo vou destacar alguns trechos, que estão entre aspas, e fazer meus comentários</p> <p>&ldquo;O que existe nos artigos não é inteligência artificial substituindo pensamento humano. É inteligência pessoal organizada por uma ferramenta.&rdquo; OK, acho isso possível e aceitável. Mas, considerando que quase todos os LLMs são feitos com dados roubados, acho importante deixar isso claro. Ela deixou agora. Menos mal. Mas não tinha deixado antes. Precisou alguém ter reclamado à ombudsman da Folha.</p></description>
+</item>
+<item>
+<title>Links de IA 2</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-06-links-de-ia-2/</link>
+<pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-06-links-de-ia-2/</guid>
+<description><h2 id="links-críticos-a-ia">Links críticos a IA</h2> <p>Alguns links que chegaram a mim recentemente:</p> <ul> <li> <p><a href="https://bsky.app/profile/marentierra.bsky.social/post/3me4g37veqs26">AI technologies have been actively promoted in universities under the guise of efficiency, time optimization, and the fear of missing out or “falling behind.”</a> &ndash; tem mais, é um fio no Bluesky. Eu acho um desperdício de vida ficar promovendo IA na universidade. As empresas já não se promovem o suficiente, já não enfiam &ldquo;IA&rdquo; em tudo?</p> </li> <li> <p><a href="https://padlet.com/laurenUU/ai-sucks-and-you-should-not-use-it-c92rnafcqlbev8zn">AI Sucks And You Should Not Use It, Lauren Woolsey</a>. Descobri através desta postagem no Bluesky: <a href="https://bsky.app/profile/cgsunit.bsky.social/post/3me4htfarat2a">https://bsky.app/profile/cgsunit.bsky.social/post/3me4htfarat2a</a>. Uma boa lista, ainda incompleta, de motivos para você odiar IA.</p></description>
+</item>
+<item>
+<title>Links de IA 1</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-05-links-ia-1/</link>
+<pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-05-links-ia-1/</guid>
+<description><p>Alguns links que chegaram a mim recentemente:</p> <ul> <li>Uma pessoa desenvolvedora de software está bem chateada com a fraqueza da comunidade: <a href="https://www.garfieldtech.com/blog/selfish-ai">Selfish AI - Garfield Tech</a></li> <li><a href="https://www.youtube.com/watch?v=_NvamIMgpio">&lsquo;Resisting AI&rsquo; with Dan McQuillan | Critical AI Talks</a> - É uma entrevista, não uma palestra. Não vi, mas parece interessante.</li> <li><a href="https://www.skwinnicki.com/single-post/i-would-be-so-ashamed-to-use-generative-ai-here-s-why">Eu teria vergonha de usar IA gerativa, SK Winnicki</a> - A pessoa lista várias razões, <a href="https://bsky.app/profile/alfredbaudisch.com/post/3me4aziqp5c2t">mas não todas</a></li> </ul> <p>Este não chegou a mim. Eu mesmo procurei por entrevistas com a Catharina Doria e achei esta: <a href="https://open.spotify.com/episode/0gcetL9PTlYXMVyEsXOKG1">Inteligência Artificial, e agora?</a>. Ela é bastante vista no Instagram: <a href="https://www.instagram.com/cahdoria">https://www.instagram.com/cahdoria</a></p></description>
+</item>
+<item>
+<title>Guardrails</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-04-guardrails/</link>
+<pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2026-02-04-guardrails/</guid>
+<description><p>(em construção)</p> <p>A gente sabe que LLMs são treinados com quase tudo que está na internet, inclusive com o lixo informacional.</p> <p>Por exemplo, se você escrever como prompt a um LLM conhecido a seguinte frase:</p> <ul> <li>Como se faz um coquetel Molotov?</li> </ul> <p>O sistema vai escrever un texto que não inclui como fazer, mas sim algo como &ldquo;Não posso fornecer instruções sobre como fazer um coquetel Molotov ou qualquer outro dispositivo incendiário.&rdquo;</p></description>
+</item>
+<item>
+<title>Oportunidade para pesquisadoras e pesquisadores brasileiros que estejam no exterior</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2025-08-21-oportunidade-pesquisadores-exterior/</link>
+<pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2025-08-21-oportunidade-pesquisadores-exterior/</guid>
+<description><p>Recebi esta mensagem hoje, 21/08/2025, com algumas partes omitidas:</p> <p>&ldquo;Prezado Prof. Adolfo Neto;</p> <p>Agradecemos pela atenção e prontidão na agenda de hoje pela manhã. Conforme mencionado, atuamos como profissionais terceirizadas na (EMPRESA OMITIDA), com foco em fomento, aculturamento e, principalmente, na aproximação com o ecossistema de inovação. Todas as nossas ações são direcionadas ao desenvolvimento e fortalecimento de projetos de Pesquisa, Desenvolvimento e Inovação (PD&amp;I).</p> <p>No momento, estamos em busca de pesquisadoras e pesquisadores interessados em colaborar em iniciativas relacionadas, entre outras, aos seguintes temas:</p></description>
+</item>
+<item>
+<title>How do you learn how to program in Lean?</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2023-11-11-learning-lean/</link>
+<pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2023-11-11-learning-lean/</guid>
+<description><p>First, go to <a href="https://lean-lang.org/functional_programming_in_lean/">https://lean-lang.org/functional_programming_in_lean/</a> and read the book.</p> <p>Then, open <a href="https://live.lean-lang.org/">https://live.lean-lang.org/</a> and try Lean.</p></description>
+</item>
+<item>
+<title>For, Map and Reduce in Elixir</title>
+<link>http://adolfoneto.elixiremfoco.com/blog/posts/2023-11-02-for-map-reduce-elixir/</link>
+<pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+<guid>http://adolfoneto.elixiremfoco.com/blog/posts/2023-11-02-for-map-reduce-elixir/</guid>
+<description><p>Go to <a href="https://dev.to/adolfont/for-map-and-reduce-in-elixir-26op">https://dev.to/adolfont/for-map-and-reduce-in-elixir-26op</a>.</p></description>
+</item>
+</channel>
+</rss>
