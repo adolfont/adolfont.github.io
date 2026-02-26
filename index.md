@@ -8,7 +8,7 @@ My research area is Software Engineering, and my overarching research objective 
 
 🇧🇷 Não precisamos aceitar a IA como inevitável na educação
 
-- 26/02 10h-12h [Oficina online (gratuita e usando Jitsi)](https://luma.com/nbtlk1cd)
+- ✔️ 26/02 10h-12h [Oficina online (gratuita e usando Jitsi)](https://luma.com/nbtlk1cd)
 - 02/03 20h00 Palestra online pro [grupo de pesquisa Gele.ia](https://grupogeleia.com.br) 
 - 05/03 10h-12h Oficina presencial na UTFPR Curitiba
 
@@ -52,6 +52,7 @@ I am serving as Publicity Chair for [CBSoft 2026](./events/cbsoft2026). CBSoft i
 
 
 - [Member in Program Committee within the CIbSE 2026 (Main Track)](https://conf.researchr.org/committee/cibse-2026/cibse-2026-cibse-2026--main-track--program-committee)
+- [TPC Member on XXI Simpósio Brasileiro de Sistemas Colaborativos -  Trilha Colaboração na Extensão](https://jems3.sbc.org.br/xxisbsc-colabnaextensão2026/)
 
 
 
