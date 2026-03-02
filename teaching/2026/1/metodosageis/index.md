@@ -1,6 +1,6 @@
 # Métodos Ágeis = Metodologias Ágeis para o Desenvolvimento de Software
 
-- Sem cầmera aberta, sem presença.
+- Sem câmera aberta, sem presença.
 
 
 ## Artigos
