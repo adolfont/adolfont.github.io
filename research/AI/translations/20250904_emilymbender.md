@@ -3,7 +3,7 @@
 
 _Texto original em <https://unesdoc.unesco.org/ark:/48223/pf0000395236>,  pp.41-45._ [Cópia](./../docs/EmilyBenderUNESCO.pdf) 
 
-_Palestra em <https://www.youtube.com/live/l-OWi6VoMng?t=4250s>. A palestra de Emily começa neste ponto: 1h15m48s <https://www.youtube.com/live/l-OWi6VoMng?si=NT47QvSJgSrBYcxa&t=4548>_
+_Palestra em <https://www.youtube.com/live/l-OWi6VoMng?t=4250s>. A palestra de Emily começa neste ponto: 1h15m48s <https://www.youtube.com/live/l-OWi6VoMng?si=NT47QvSJgSrBYcxa&t=4548>._ Fiz um [corte só com a palestra](https://youtu.be/Dvudsd50wc8?si=eUjCFVxO4ADxZfoB); espero que a UNESCO não se incomode.
 
 _Se você se interessa por este tema, talvez se interesse por ["AI Con e o Brasil - The AI Con and Brazil",](https://www.youtube.com/watch?v=qP-hG53qFpU) com Emily M. Bender e Alex Hanna ou ["Império da Inteligência Artificial (Empire of AI, Karen Hao): Um bate-papo com Renata Gomes (UFRB)"](https://www.youtube.com/watch?v=2jUT6K0jTAA)._
 
