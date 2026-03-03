@@ -53,6 +53,7 @@ I am serving as Publicity Chair for [CBSoft 2026](./events/cbsoft2026). CBSoft i
 
 - [Member in Program Committee within the CIbSE 2026 (Main Track)](https://conf.researchr.org/committee/cibse-2026/cibse-2026-cibse-2026--main-track--program-committee)
 - [TPC Member on XXI Simpósio Brasileiro de Sistemas Colaborativos -  Trilha Colaboração na Extensão](https://jems3.sbc.org.br/xxisbsc-colabnaextensão2026/)
+- [Program Committer Member of WIT 2026 - Women in Information Technology](https://csbc.sbc.org.br/2026/wit/)
 
 
 
