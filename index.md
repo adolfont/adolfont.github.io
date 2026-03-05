@@ -9,7 +9,7 @@ My research area is Software Engineering, and my overarching research objective 
 🇧🇷 Não precisamos aceitar a "IA" como inevitável na educação
 
 - ✔️ 26/02 10h-12h [Oficina online (gratuita e usando Jitsi)](https://luma.com/nbtlk1cd)
-- ✔️ 02/03 20h00 Palestra online pro [grupo de pesquisa Gele.ia](https://grupogeleia.com.br). A palestra foi gravada e em breve estará em <https://www.youtube.com/@gele-ia> 
+- ✔️ 02/03 20h00 Palestra online pro [grupo de pesquisa Gele.ia](https://grupogeleia.com.br). [A palestra foi gravada e há um PDF aqui](https://adolfoneto.elixiremfoco.com/extension/courses/2026/oficina_ia/) 
 - 05/03 10h-12h Oficina presencial na UTFPR Curitiba
 
 ---
